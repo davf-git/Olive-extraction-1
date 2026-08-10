@@ -4,6 +4,7 @@ title: '‘We Have More Agency Than We Realize’: Serpentine Curator Lucia Piet
 date: 2019-07-31
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24951
 original_slug: we-have-more-agency-than-we-realize-serpentine-curator-lucia-pietroiusti-on-how-the-art-world-can-tackle-climate-change
 original_url: https://olivenetwork.org/Issue/we-have-more-agency-than-we-realize-serpentine-curator-lucia-pietroiusti-on-how-the-art-world-can-tackle-climate-change/24951

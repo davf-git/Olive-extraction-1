@@ -3,6 +3,7 @@ title: First online university for refugees - Kiron Open Higher Education
 date: 2023-11-23
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25553
 original_slug: first-online-university-for-refugees-kiron-open-higher-education
 original_url: https://olivenetwork.org/Issue/first-online-university-for-refugees-kiron-open-higher-education/25553

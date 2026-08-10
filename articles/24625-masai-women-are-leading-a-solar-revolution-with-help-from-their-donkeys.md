@@ -3,6 +3,7 @@ title: Masai Women Are Leading a Solar Revolution With Help From Their Donkeys
 date: 2018-12-30
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24625
 original_slug: masai-women-are-leading-a-solar-revolution-with-help-from-their-donkeys
 original_url: https://olivenetwork.org/Issue/masai-women-are-leading-a-solar-revolution-with-help-from-their-donkeys/24625

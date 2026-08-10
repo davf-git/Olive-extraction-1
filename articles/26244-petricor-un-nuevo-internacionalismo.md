@@ -3,6 +3,7 @@ title: Petricor - Un Nuevo Internacionalismo
 date: 2025-11-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26244
 original_slug: petricor-un-nuevo-internacionalismo
 original_url: https://olivenetwork.org/Issue/petricor-un-nuevo-internacionalismo/26244

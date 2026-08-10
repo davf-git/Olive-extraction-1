@@ -3,6 +3,7 @@ title: Skate for Democracy
 date: 2020-09-30
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25509
 original_slug: skate-for-democracy
 original_url: https://olivenetwork.org/Issue/skate-for-democracy/25509

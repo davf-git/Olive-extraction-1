@@ -3,6 +3,7 @@ title: 'Freedom Flotilla Coalition: Israel Abducts Madleen'
 date: 2025-06-09
 category: Education
 source: PALESTINE CHRONICLE
+source_url: https://www.palestinechronicle.com/freedom-flotillas-madleen-nears-gaza-amid-israeli-threats-of-interception/
 original_id: 26225
 original_slug: freedom-flotilla-coalition-israel-abducts-madleen
 original_url: https://olivenetwork.org/Issue/freedom-flotilla-coalition-israel-abducts-madleen/26225

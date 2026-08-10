@@ -4,6 +4,7 @@ title: 'Reuters: Pull investments from companies not committed to environment, p
 date: 2020-10-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25521
 original_slug: reuters-pull-investments-from-companies-not-committed-to-environment-pope-says
 original_url: https://olivenetwork.org/Issue/reuters-pull-investments-from-companies-not-committed-to-environment-pope-says/25521

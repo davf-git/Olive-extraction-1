@@ -3,6 +3,7 @@ title: 'Beyond Planting Trees: Let Communities Lead Restoration'
 date: 2025-05-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25734
 original_slug: beyond-planting-trees-let-communities-lead-restoration
 original_url: https://olivenetwork.org/Issue/beyond-planting-trees-let-communities-lead-restoration/25734

@@ -3,6 +3,7 @@ title: ShelterBox in the Philippines
 date: 2020-02-27
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25083
 original_slug: shelterbox-in-the-philippines
 original_url: https://olivenetwork.org/Issue/shelterbox-in-the-philippines/25083

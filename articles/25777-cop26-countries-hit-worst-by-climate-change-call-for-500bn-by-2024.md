@@ -3,6 +3,7 @@ title: 'Cop26: Countries hit worst by climate change call for $500bn by 2024'
 date: 2021-11-03
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25777
 original_slug: cop26-countries-hit-worst-by-climate-change-call-for-500bn-by-2024
 original_url: https://olivenetwork.org/Issue/cop26-countries-hit-worst-by-climate-change-call-for-500bn-by-2024/25777

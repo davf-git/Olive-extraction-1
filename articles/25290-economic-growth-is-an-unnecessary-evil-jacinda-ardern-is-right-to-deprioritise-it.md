@@ -4,6 +4,7 @@ title: Economic growth is an unnecessary evil, Jacinda Ardern is right to deprio
 date: 2020-05-05
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25290
 original_slug: economic-growth-is-an-unnecessary-evil-jacinda-ardern-is-right-to-deprioritise-it
 original_url: https://olivenetwork.org/Issue/economic-growth-is-an-unnecessary-evil-jacinda-ardern-is-right-to-deprioritise-it/25290

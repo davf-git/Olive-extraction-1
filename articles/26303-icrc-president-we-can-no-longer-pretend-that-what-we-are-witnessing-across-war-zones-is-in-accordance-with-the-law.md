@@ -4,6 +4,7 @@ title: '"We can no longer pretend that what we are witnessing across war zones i
 date: 2026-05-21
 category: Charities
 source: INTERNATIONAL COMMITTEE OF THE RED CROSS
+source_url: https://www.icrc.org/en/statement/icrc-president-un-security-council-open-debate-protection-civilians-armed-conflict
 original_id: 26303
 original_slug: icrc-president-we-can-no-longer-pretend-that-what-we-are-witnessing-across-war-zones-is-in-accordance-with-the-law
 original_url: https://olivenetwork.org/Issue/icrc-president-we-can-no-longer-pretend-that-what-we-are-witnessing-across-war-zones-is-in-accordance-with-the-law/26303

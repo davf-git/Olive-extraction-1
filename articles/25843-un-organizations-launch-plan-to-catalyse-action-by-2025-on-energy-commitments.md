@@ -3,6 +3,7 @@ title: UN organizations launch plan to catalyse action by 2025 on energy commitm
 date: 2022-05-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25843
 original_slug: un-organizations-launch-plan-to-catalyse-action-by-2025-on-energy-commitments
 original_url: https://olivenetwork.org/Issue/un-organizations-launch-plan-to-catalyse-action-by-2025-on-energy-commitments/25843

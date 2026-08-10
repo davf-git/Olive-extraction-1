@@ -3,6 +3,7 @@ title: The next generation of tech leaders offer to bring the future to the tabl
 date: 2020-09-10
 category: Health
 source: Joe Thorp
+source_url: null
 original_id: 25473
 original_slug: the-next-generation-of-tech-leaders-offer-to-bring-the-future-to-the-table
 original_url: https://olivenetwork.org/Issue/the-next-generation-of-tech-leaders-offer-to-bring-the-future-to-the-table/25473

@@ -4,6 +4,7 @@ title: Over 150 Non-State Actors sign Call to Action calling for transformation 
 date: 2023-12-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25992
 original_slug: over-150-non-state-actors-sign-call-to-action-calling-for-transformation-of-food-systems
 original_url: https://olivenetwork.org/Issue/over-150-non-state-actors-sign-call-to-action-calling-for-transformation-of-food-systems/25992

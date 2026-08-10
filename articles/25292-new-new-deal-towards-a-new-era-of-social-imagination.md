@@ -3,6 +3,7 @@ title: 'New New Deal: Towards a New Era of Social Imagination'
 date: 2024-02-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25292
 original_slug: new-new-deal-towards-a-new-era-of-social-imagination
 original_url: https://olivenetwork.org/Issue/new-new-deal-towards-a-new-era-of-social-imagination/25292

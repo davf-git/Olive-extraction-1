@@ -3,6 +3,7 @@ title: Climate advocates demand stronger COP28 language on fossil fuels
 date: 2023-12-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25996
 original_slug: climate-advocates-demand-stronger-cop28-language-on-fossil-fuels
 original_url: https://olivenetwork.org/Issue/climate-advocates-demand-stronger-cop28-language-on-fossil-fuels/25996

@@ -3,6 +3,7 @@ title: 'UN General Assembly enters high-level week: what to expect'
 date: 2022-09-19
 category: UN
 source: ON Network
+source_url: null
 original_id: 25880
 original_slug: un-general-assembly-enters-high-level-week-what-to-expect
 original_url: https://olivenetwork.org/Issue/un-general-assembly-enters-high-level-week-what-to-expect/25880

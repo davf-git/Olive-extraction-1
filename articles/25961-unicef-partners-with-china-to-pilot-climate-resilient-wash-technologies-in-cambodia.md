@@ -4,6 +4,7 @@ title: UNICEF partners with China to pilot climate-resilient WASH technologies i
 date: 2023-09-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25961
 original_slug: unicef-partners-with-china-to-pilot-climate-resilient-wash-technologies-in-cambodia
 original_url: https://olivenetwork.org/Issue/unicef-partners-with-china-to-pilot-climate-resilient-wash-technologies-in-cambodia/25961

@@ -4,6 +4,7 @@ title: 'Kofi Annan Foundation: Democracy must not become the silent victim of th
 date: 2020-05-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25328
 original_slug: kofi-annan-foundation-democracy-must-not-become-the-silent-victim-of-the-coronavirus-pandemic
 original_url: https://olivenetwork.org/Issue/kofi-annan-foundation-democracy-must-not-become-the-silent-victim-of-the-coronavirus-pandemic/25328

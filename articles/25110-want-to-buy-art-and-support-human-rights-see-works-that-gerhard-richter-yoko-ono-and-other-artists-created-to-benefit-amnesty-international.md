@@ -4,6 +4,7 @@ title: Want to Buy Art and Support Human Rights? See Works That Gerhard Richter,
 date: 2019-11-25
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25110
 original_slug: want-to-buy-art-and-support-human-rights-see-works-that-gerhard-richter-yoko-ono-and-other-artists-created-to-benefit-amnesty-international
 original_url: https://olivenetwork.org/Issue/want-to-buy-art-and-support-human-rights-see-works-that-gerhard-richter-yoko-ono-and-other-artists-created-to-benefit-amnesty-international/25110

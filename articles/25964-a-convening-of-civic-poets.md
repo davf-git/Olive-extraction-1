@@ -3,6 +3,7 @@ title: A Convening of Civic Poets
 date: 2023-11-03
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25964
 original_slug: a-convening-of-civic-poets
 original_url: https://olivenetwork.org/Issue/a-convening-of-civic-poets/25964

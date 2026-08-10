@@ -3,6 +3,7 @@ title: Bringing dry land in the Sahel back to life
 date: 2022-01-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25818
 original_slug: bringing-dry-land-in-the-sahel-back-to-life
 original_url: https://olivenetwork.org/Issue/bringing-dry-land-in-the-sahel-back-to-life/25818

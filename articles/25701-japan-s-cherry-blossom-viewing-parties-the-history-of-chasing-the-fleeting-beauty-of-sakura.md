@@ -4,6 +4,7 @@ title: Japan’s cherry blossom viewing parties – the history of chasing the f
 date: 2021-03-31
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25701
 original_slug: japan-s-cherry-blossom-viewing-parties-the-history-of-chasing-the-fleeting-beauty-of-sakura
 original_url: https://olivenetwork.org/Issue/japan-s-cherry-blossom-viewing-parties-the-history-of-chasing-the-fleeting-beauty-of-sakura/25701

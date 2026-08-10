@@ -3,6 +3,7 @@ title: Nature Within Cities and Cities Within Nature
 date: 2021-06-24
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25736
 original_slug: nature-within-cities-and-cities-within-nature
 original_url: https://olivenetwork.org/Issue/nature-within-cities-and-cities-within-nature/25736

@@ -3,6 +3,7 @@ title: Climate intelligence, an opportunity to boost climate resilience
 date: 2021-12-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25806
 original_slug: climate-intelligence-an-opportunity-to-boost-climate-resilience
 original_url: https://olivenetwork.org/Issue/climate-intelligence-an-opportunity-to-boost-climate-resilience/25806

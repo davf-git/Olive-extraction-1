@@ -3,6 +3,7 @@ title: UN uses virtual reality to inspire humanitarian empathy
 date: 2019-09-24
 category: UN
 source: ON Network
+source_url: null
 original_id: 24638
 original_slug: un-uses-virtual-reality-to-inspire-humanitarian-empathy
 original_url: https://olivenetwork.org/Issue/un-uses-virtual-reality-to-inspire-humanitarian-empathy/24638

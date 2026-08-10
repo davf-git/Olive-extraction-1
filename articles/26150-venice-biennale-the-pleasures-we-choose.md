@@ -3,6 +3,7 @@ title: Venice Biennale - The Pleasures We Choose
 date: 2024-08-20
 category: Arts & Culture
 source: LA BIENALLE DI VENEZIA
+source_url: https://www.labiennale.org/en/art/2024/finland
 original_id: 26150
 original_slug: venice-biennale-the-pleasures-we-choose
 original_url: https://olivenetwork.org/Issue/venice-biennale-the-pleasures-we-choose/26150

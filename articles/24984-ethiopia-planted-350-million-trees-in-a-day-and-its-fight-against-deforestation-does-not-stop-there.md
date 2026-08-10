@@ -4,6 +4,7 @@ title: Ethiopia planted 350 million trees in a day. And its fight against defore
 date: 2019-07-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24984
 original_slug: ethiopia-planted-350-million-trees-in-a-day-and-its-fight-against-deforestation-does-not-stop-there
 original_url: https://olivenetwork.org/Issue/ethiopia-planted-350-million-trees-in-a-day-and-its-fight-against-deforestation-does-not-stop-there/24984

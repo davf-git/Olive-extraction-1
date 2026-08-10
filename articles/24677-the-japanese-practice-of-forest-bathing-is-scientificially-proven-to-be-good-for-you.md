@@ -4,6 +4,7 @@ title: The Japanese practice of 'forest bathing' is scientificially proven to be
 date: 2019-09-24
 category: Science & Tech
 source: ON Network
+source_url: null
 original_id: 24677
 original_slug: the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you
 original_url: https://olivenetwork.org/Issue/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you/24677

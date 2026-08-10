@@ -3,6 +3,7 @@ title: The Good Web
 date: 2022-07-22
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25866
 original_slug: the-good-web
 original_url: https://olivenetwork.org/Issue/the-good-web/25866

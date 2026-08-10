@@ -4,6 +4,7 @@ title: '‘Art Can Impact Society’: Watch How Artist Minerva Cuevas Uses Her C
 date: 2023-03-13
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25936
 original_slug: art-can-impact-society-watch-how-artist-minerva-cuevas-uses-her-creative-practice-to-trigger-real-world-change
 original_url: https://olivenetwork.org/Issue/art-can-impact-society-watch-how-artist-minerva-cuevas-uses-her-creative-practice-to-trigger-real-world-change/25936

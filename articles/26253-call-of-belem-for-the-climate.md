@@ -3,6 +3,7 @@ title: Call of Belem for the Climate
 date: 2025-11-10
 category: Climate
 source: COP30 CALL OF BELEM
+source_url: https://cop30.br/en/news-about-cop30/call-of-belem-for-the-climate-urges-countries-to-respond-urgently-to-the-global-crisis
 original_id: 26253
 original_slug: call-of-belem-for-the-climate
 original_url: https://olivenetwork.org/Issue/call-of-belem-for-the-climate/26253

@@ -4,6 +4,7 @@ title: If global finance can step up to the net-zero challenge, governments sure
 date: 2021-11-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25789
 original_slug: if-global-finance-can-step-up-to-the-net-zero-challenge-governments-surely-can
 original_url: https://olivenetwork.org/Issue/if-global-finance-can-step-up-to-the-net-zero-challenge-governments-surely-can/25789

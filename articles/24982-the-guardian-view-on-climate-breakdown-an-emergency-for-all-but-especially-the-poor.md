@@ -4,6 +4,7 @@ title: 'The Guardian view on climate breakdown: an emergency for all, but especi
 date: 2019-07-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24982
 original_slug: the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-especially-the-poor
 original_url: https://olivenetwork.org/Issue/the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-especially-the-poor/24982

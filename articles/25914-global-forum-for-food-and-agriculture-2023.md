@@ -3,6 +3,7 @@ title: Global Forum for Food and Agriculture 2023
 date: 2023-01-04
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25914
 original_slug: global-forum-for-food-and-agriculture-2023
 original_url: https://olivenetwork.org/Issue/global-forum-for-food-and-agriculture-2023/25914

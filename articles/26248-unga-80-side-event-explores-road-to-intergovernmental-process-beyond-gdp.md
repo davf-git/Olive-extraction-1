@@ -3,6 +3,7 @@ title: UNGA 80 Side Event Explores Road to Intergovernmental Process Beyond GDP
 date: 2025-09-25
 category: Dwelling
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/unga-80-side-event-explores-road-to-intergovernmental-process-beyond-gdp/?utm_medium=email&utm_campaign=SDG%20Update%20-%2025%20September%202025&utm_content=SDG%20Update%20-%2025%20September%202025+CID_b280ef7018b1e006ab091662c82e0c63&utm_source=cm
 original_id: 26248
 original_slug: unga-80-side-event-explores-road-to-intergovernmental-process-beyond-gdp
 original_url: https://olivenetwork.org/Issue/unga-80-side-event-explores-road-to-intergovernmental-process-beyond-gdp/26248

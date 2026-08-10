@@ -3,6 +3,7 @@ title: Aloe vera plants turned into energy-storing supercapacitors
 date: 2024-01-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26003
 original_slug: aloe-vera-plants-turned-into-energy-storing-supercapacitors
 original_url: https://olivenetwork.org/Issue/aloe-vera-plants-turned-into-energy-storing-supercapacitors/26003

@@ -3,6 +3,7 @@ title: Hundreds of People Protest in Valencia for Migrants Rights
 date: 2020-12-21
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25594
 original_slug: hundreds-of-people-protest-in-valencia-for-migrants-rights
 original_url: https://olivenetwork.org/Issue/hundreds-of-people-protest-in-valencia-for-migrants-rights/25594

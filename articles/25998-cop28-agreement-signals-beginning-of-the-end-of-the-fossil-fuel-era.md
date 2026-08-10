@@ -3,6 +3,7 @@ title: COP28 Agreement Signals “Beginning of the End” of the Fossil Fuel Era
 date: 2023-12-13
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25998
 original_slug: cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era
 original_url: https://olivenetwork.org/Issue/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era/25998

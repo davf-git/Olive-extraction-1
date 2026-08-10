@@ -3,6 +3,7 @@ title: 'UNEP: International Mother Earth Day 2025'
 date: 2025-04-22
 category: Climate
 source: UNITED NATIONS ENVIRONMENT PROGRAMME
+source_url: https://www.unep.org/events/un-day/international-mother-earth-day-2025
 original_id: 26212
 original_slug: unep-international-mother-earth-day-2025
 original_url: https://olivenetwork.org/Issue/unep-international-mother-earth-day-2025/26212

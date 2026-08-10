@@ -3,6 +3,7 @@ title: UN COP28 Climate Change Conference
 date: 2023-11-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25987
 original_slug: un-cop28-climate-change-conference
 original_url: https://olivenetwork.org/Issue/un-cop28-climate-change-conference/25987

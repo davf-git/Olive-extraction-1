@@ -3,6 +3,7 @@ title: 'Featured Story: Birdsong returns to the hills of Bemolanga'
 date: 2026-03-16
 category: Charities
 source: UNEP
+source_url: https://www.unenvironment.org/news-and-stories/story/birdsong-returns-hills-bemolanga
 original_id: 25016
 original_slug: birdsong-returns-to-the-hills-of-bemolanga
 original_url: https://olivenetwork.org/Issue/birdsong-returns-to-the-hills-of-bemolanga/25016

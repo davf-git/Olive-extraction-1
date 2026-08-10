@@ -3,6 +3,7 @@ title: '5x15 at COP26: Arts and the Imagination'
 date: 2022-01-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25792
 original_slug: 5x15-at-cop26-arts-and-the-imagination
 original_url: https://olivenetwork.org/Issue/5x15-at-cop26-arts-and-the-imagination/25792

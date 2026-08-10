@@ -4,6 +4,7 @@ title: White Arkitekter + ReGen Villages Create First Circular, Self-Sufficient 
 date: 2020-04-15
 category: Dwelling
 source: Joe Thorp
+source_url: null
 original_id: 25273
 original_slug: white-arkitekter-regen-villages-create-first-circular-self-sufficient-communities-for-sweden
 original_url: https://olivenetwork.org/Issue/white-arkitekter-regen-villages-create-first-circular-self-sufficient-communities-for-sweden/25273

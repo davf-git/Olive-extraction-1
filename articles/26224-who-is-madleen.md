@@ -3,6 +3,7 @@ title: Who is “Madleen”
 date: 2025-06-09
 category: Arts & Culture
 source: ALJAZEERA
+source_url: https://www.aljazeera.com/video/newsfeed/2025/6/8/who-is-madleen-the-woman-for-whom-the-aid-ship-approaching-gaza-is-named
 original_id: 26224
 original_slug: who-is-madleen
 original_url: https://olivenetwork.org/Issue/who-is-madleen/26224

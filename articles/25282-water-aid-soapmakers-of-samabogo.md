@@ -3,6 +3,7 @@ title: 'Water Aid: Soapmakers of Samabogo'
 date: 2022-02-13
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25282
 original_slug: water-aid-soapmakers-of-samabogo
 original_url: https://olivenetwork.org/Issue/water-aid-soapmakers-of-samabogo/25282

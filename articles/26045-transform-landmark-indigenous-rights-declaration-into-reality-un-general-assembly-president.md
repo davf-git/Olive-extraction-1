@@ -4,6 +4,7 @@ title: 'Transform landmark Indigenous rights declaration into reality: UN Genera
 date: 2024-04-19
 category: Environment
 source: ON Network
+source_url: null
 original_id: 26045
 original_slug: transform-landmark-indigenous-rights-declaration-into-reality-un-general-assembly-president
 original_url: https://olivenetwork.org/Issue/transform-landmark-indigenous-rights-declaration-into-reality-un-general-assembly-president/26045

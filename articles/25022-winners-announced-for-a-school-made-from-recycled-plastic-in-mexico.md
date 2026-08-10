@@ -3,6 +3,7 @@ title: Winners Announced for a School Made from Recycled Plastic in Mexico
 date: 2019-09-14
 category: Education
 source: ON Network
+source_url: null
 original_id: 25022
 original_slug: winners-announced-for-a-school-made-from-recycled-plastic-in-mexico
 original_url: https://olivenetwork.org/Issue/winners-announced-for-a-school-made-from-recycled-plastic-in-mexico/25022

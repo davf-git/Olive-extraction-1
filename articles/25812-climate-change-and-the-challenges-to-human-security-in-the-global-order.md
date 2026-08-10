@@ -3,6 +3,7 @@ title: Climate Change and the Challenges to Human Security in the Global Order
 date: 2022-01-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25812
 original_slug: climate-change-and-the-challenges-to-human-security-in-the-global-order
 original_url: https://olivenetwork.org/Issue/climate-change-and-the-challenges-to-human-security-in-the-global-order/25812

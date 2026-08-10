@@ -3,6 +3,7 @@ title: Emergency Architects & Human Rights
 date: 2019-09-18
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 24671
 original_slug: emergency-architects-human-rights
 original_url: https://olivenetwork.org/Issue/emergency-architects-human-rights/24671

@@ -4,6 +4,7 @@ title: ‘Brazen’ political influence of rich laid bare as wealth of billionai
 date: 2026-01-19
 category: Climate
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam
 original_id: 26271
 original_slug: brazen-political-influence-of-rich-laid-bare-as-wealth-of-billionaires-reaches-18-3tn-says-oxfam
 original_url: https://olivenetwork.org/Issue/brazen-political-influence-of-rich-laid-bare-as-wealth-of-billionaires-reaches-18-3tn-says-oxfam/26271

@@ -3,6 +3,7 @@ title: 'Water Aid: Decent toilets, bright futures: To Be A Girl in Nepal and Pak
 date: 2020-05-21
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25318
 original_slug: water-aid-decent-toilets-bright-futures-to-be-a-girl-in-nepal-and-pakistan
 original_url: https://olivenetwork.org/Issue/water-aid-decent-toilets-bright-futures-to-be-a-girl-in-nepal-and-pakistan/25318

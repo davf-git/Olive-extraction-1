@@ -3,6 +3,7 @@ title: 'SDGs: a global plan for investment in a post-Covid world'
 date: 2021-03-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25679
 original_slug: sdgs-a-global-plan-for-investment-in-a-post-covid-world
 original_url: https://olivenetwork.org/Issue/sdgs-a-global-plan-for-investment-in-a-post-covid-world/25679

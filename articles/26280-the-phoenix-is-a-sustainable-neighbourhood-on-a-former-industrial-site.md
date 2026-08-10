@@ -3,6 +3,7 @@ title: The Phoenix is a sustainable neighbourhood on a former industrial site
 date: 2026-02-15
 category: Arts & Culture
 source: PLEASE VISIT HERE TO READ THE FULL STORY ON THE PHOENIX INTERACTIVE WEBSITE
+source_url: https://www.phoenixlewes.com/
 original_id: 26280
 original_slug: the-phoenix-is-a-sustainable-neighbourhood-on-a-former-industrial-site
 original_url: https://olivenetwork.org/Issue/the-phoenix-is-a-sustainable-neighbourhood-on-a-former-industrial-site/26280

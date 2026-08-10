@@ -3,6 +3,7 @@ title: NGOs face uphill battle to gain access to the UN
 date: 2023-03-01
 category: UN
 source: ON Network
+source_url: null
 original_id: 25935
 original_slug: ngos-face-uphill-battle-to-gain-access-to-the-un
 original_url: https://olivenetwork.org/Issue/ngos-face-uphill-battle-to-gain-access-to-the-un/25935

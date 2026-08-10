@@ -3,6 +3,7 @@ title: 'Beyond GDP: Measuring Wealth to Address Global and In-country Challenges
 date: 2025-05-09
 category: Economics
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/beyond-gdp-measuring-wealth-to-address-global-and-in-country-challenges/?utm_medium=email&utm_campaign=SDG%20Update%20-%208%20May%202025&utm_content=SDG%20Update%20-%208%20May%202025+CID_daeeef250a8a2b763afec9b7a62c87da&utm_source=cm
 original_id: 26215
 original_slug: beyond-gdp-measuring-wealth-to-address-global-and-in-country-challenges
 original_url: https://olivenetwork.org/Issue/beyond-gdp-measuring-wealth-to-address-global-and-in-country-challenges/26215

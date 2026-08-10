@@ -3,6 +3,7 @@ title: 'Landmark ruling: Switzerland’s climate policy violates human rights'
 date: 2024-04-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26041
 original_slug: landmark-ruling-switzerland-s-climate-policy-violates-human-rights
 original_url: https://olivenetwork.org/Issue/landmark-ruling-switzerland-s-climate-policy-violates-human-rights/26041

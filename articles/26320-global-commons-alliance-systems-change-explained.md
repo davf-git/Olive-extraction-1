@@ -3,6 +3,7 @@ title: 'Global Commons Alliance: Systems Change Explained'
 date: 2026-07-30
 category: Climate
 source: GLOBAL COMMONS ALLIANCE
+source_url: https://globalcommonsalliance.org/news/systems-change-explained-what-it-is-and-how-it-works/
 original_id: 26320
 original_slug: global-commons-alliance-systems-change-explained
 original_url: https://olivenetwork.org/Issue/global-commons-alliance-systems-change-explained/26320

@@ -3,6 +3,7 @@ title: 'What to expect at COP29: Connecting the dots in Baku'
 date: 2024-11-12
 category: Climate
 source: WORLD WILDLIFE FUND
+source_url: https://www.worldwildlife.org/stories/what-to-expect-at-cop29-connecting-the-dots-in-baku
 original_id: 26177
 original_slug: what-to-expect-at-cop29-connecting-the-dots-in-baku
 original_url: https://olivenetwork.org/Issue/what-to-expect-at-cop29-connecting-the-dots-in-baku/26177

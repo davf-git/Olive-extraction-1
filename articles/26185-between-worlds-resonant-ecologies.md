@@ -3,6 +3,7 @@ title: 'Between/Worlds: Resonant Ecologies'
 date: 2024-12-12
 category: Arts & Culture
 source: E-FLUX
+source_url: https://www.e-flux.com/directory/338251/momentum/
 original_id: 26185
 original_slug: between-worlds-resonant-ecologies
 original_url: https://olivenetwork.org/Issue/between-worlds-resonant-ecologies/26185

@@ -3,6 +3,7 @@ title: Just 10% of fossil fuel subsidy cash 'could pay for green transition'
 date: 2019-07-31
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24983
 original_slug: just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transition
 original_url: https://olivenetwork.org/Issue/just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transition/24983

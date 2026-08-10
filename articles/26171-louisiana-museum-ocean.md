@@ -3,6 +3,7 @@ title: 'Louisiana Museum: Ocean'
 date: 2024-10-15
 category: Arts & Culture
 source: LOUISIANA MUSEUM
+source_url: https://louisiana.dk/en/exhibition/ocean/
 original_id: 26171
 original_slug: louisiana-museum-ocean
 original_url: https://olivenetwork.org/Issue/louisiana-museum-ocean/26171

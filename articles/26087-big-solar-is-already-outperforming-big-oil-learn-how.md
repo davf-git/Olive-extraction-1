@@ -3,6 +3,7 @@ title: Big Solar is already outperforming Big Oil – learn how
 date: 2024-08-20
 category: Climate
 source: WE DON'T HAVE TIME
+source_url: https://app.wedonthavetime.org/posts/8acdd9c1-24a4-4231-bd73-bdf93676afc9
 original_id: 26087
 original_slug: big-solar-is-already-outperforming-big-oil-learn-how
 original_url: https://olivenetwork.org/Issue/big-solar-is-already-outperforming-big-oil-learn-how/26087

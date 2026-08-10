@@ -4,6 +4,7 @@ title: 'COP26: Mark Carney declares a ''watershed'' moment as $130tn committed t
 date: 2021-11-04
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 25778
 original_slug: cop26-mark-carney-declares-a-watershed-moment-as-130tn-committed-to-hitting-net-zero
 original_url: https://olivenetwork.org/Issue/cop26-mark-carney-declares-a-watershed-moment-as-130tn-committed-to-hitting-net-zero/25778

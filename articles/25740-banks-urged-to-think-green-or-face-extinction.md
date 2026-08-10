@@ -3,6 +3,7 @@ title: Banks urged to think green or face extinction
 date: 2021-07-05
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25740
 original_slug: banks-urged-to-think-green-or-face-extinction
 original_url: https://olivenetwork.org/Issue/banks-urged-to-think-green-or-face-extinction/25740

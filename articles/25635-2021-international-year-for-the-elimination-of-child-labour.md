@@ -3,6 +3,7 @@ title: '2021: International Year for the Elimination of Child Labour'
 date: 2021-01-24
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25635
 original_slug: 2021-international-year-for-the-elimination-of-child-labour
 original_url: https://olivenetwork.org/Issue/2021-international-year-for-the-elimination-of-child-labour/25635

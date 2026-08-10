@@ -3,6 +3,7 @@ title: 'Gaming for good: How Playmob connects gamers to the SDGs'
 date: 2021-02-03
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25651
 original_slug: gaming-for-good-how-playmob-connects-gamers-to-the-sdgs
 original_url: https://olivenetwork.org/Issue/gaming-for-good-how-playmob-connects-gamers-to-the-sdgs/25651

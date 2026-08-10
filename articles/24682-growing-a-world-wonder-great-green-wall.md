@@ -3,6 +3,7 @@ title: Growing a World Wonder - Great Green Wall
 date: 2019-01-08
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24682
 original_slug: growing-a-world-wonder-great-green-wall
 original_url: https://olivenetwork.org/Issue/growing-a-world-wonder-great-green-wall/24682

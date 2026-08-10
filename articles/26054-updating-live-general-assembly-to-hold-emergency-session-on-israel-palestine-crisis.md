@@ -4,6 +4,7 @@ title: 'UPDATING LIVE: General Assembly to hold emergency session on Israel-Pale
 date: 2024-05-09
 category: Humanitarian
 source: UN NEWS
+source_url: https://news.un.org/en/story/2024/05/1149596
 original_id: 26054
 original_slug: updating-live-general-assembly-to-hold-emergency-session-on-israel-palestine-crisis
 original_url: https://olivenetwork.org/Issue/updating-live-general-assembly-to-hold-emergency-session-on-israel-palestine-crisis/26054

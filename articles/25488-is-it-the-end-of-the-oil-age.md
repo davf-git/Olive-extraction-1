@@ -3,6 +3,7 @@ title: Is it the end of the oil age?
 date: 2020-09-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25488
 original_slug: is-it-the-end-of-the-oil-age
 original_url: https://olivenetwork.org/Issue/is-it-the-end-of-the-oil-age/25488

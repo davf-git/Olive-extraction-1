@@ -4,6 +4,7 @@ title: Letter from 45 million medical workers warns urgent climate action needed
 date: 2021-10-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25769
 original_slug: letter-from-45-million-medical-workers-warns-urgent-climate-action-needed-to-stop-impending-catastrophe
 original_url: https://olivenetwork.org/Issue/letter-from-45-million-medical-workers-warns-urgent-climate-action-needed-to-stop-impending-catastrophe/25769

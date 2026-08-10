@@ -3,6 +3,7 @@ title: Reset, reform, or repeat? Humanitarianism’s reboot searches for the rig
 date: 2025-06-23
 category: Humanitarian
 source: THE NEW HUMANITARIAN
+source_url: https://www.thenewhumanitarian.org/analysis/2025/06/16/reset-reform-or-repeat-humanitarianisms-reboot-searches-right-script?utm_source=The+New+Humanitarian&utm_campaign=1b596e537b-EMAIL_CAMPAIGN_2025_6_20&utm_medium=email&utm_term=0_d842d98289-1b596e537b-75664822
 original_id: 26230
 original_slug: reset-reform-or-repeat-humanitarianism-s-reboot-searches-for-the-right-script
 original_url: https://olivenetwork.org/Issue/reset-reform-or-repeat-humanitarianism-s-reboot-searches-for-the-right-script/26230

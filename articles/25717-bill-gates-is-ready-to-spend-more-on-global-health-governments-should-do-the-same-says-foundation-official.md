@@ -4,6 +4,7 @@ title: Bill Gates is ready to spend more on global health - governments should d
 date: 2021-04-22
 category: Health
 source: ON Network
+source_url: null
 original_id: 25717
 original_slug: bill-gates-is-ready-to-spend-more-on-global-health-governments-should-do-the-same-says-foundation-official
 original_url: https://olivenetwork.org/Issue/bill-gates-is-ready-to-spend-more-on-global-health-governments-should-do-the-same-says-foundation-official/25717

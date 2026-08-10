@@ -3,6 +3,7 @@ title: 'Venice Biennale - Bouchra Khalili: All Tomorrow’s Revolutions'
 date: 2024-07-29
 category: Arts & Culture
 source: ART REVIEW
+source_url: https://artreview.com/bouchra-khalili-emst-athens-what-if-women-ruled-the-world-the-mapping-journey-project-stephanie-bailey/
 original_id: 26125
 original_slug: bouchra-khalili-all-tomorrow-s-revolutions
 original_url: https://olivenetwork.org/Issue/bouchra-khalili-all-tomorrow-s-revolutions/26125

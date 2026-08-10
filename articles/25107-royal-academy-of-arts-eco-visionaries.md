@@ -3,6 +3,7 @@ title: 'Royal Academy of Arts : Eco-Visionaries'
 date: 2019-11-23
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25107
 original_slug: royal-academy-of-arts-eco-visionaries
 original_url: https://olivenetwork.org/Issue/royal-academy-of-arts-eco-visionaries/25107

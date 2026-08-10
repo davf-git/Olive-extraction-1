@@ -3,6 +3,7 @@ title: Cop26 targets too weak to stop disaster, say Paris agreement architects
 date: 2021-11-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25787
 original_slug: cop26-targets-too-weak-to-stop-disaster-say-paris-agreement-architects
 original_url: https://olivenetwork.org/Issue/cop26-targets-too-weak-to-stop-disaster-say-paris-agreement-architects/25787

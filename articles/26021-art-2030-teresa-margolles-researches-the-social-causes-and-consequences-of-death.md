@@ -4,6 +4,7 @@ title: 'ART 2030: On this International Women''s Day we celebrate Teresa Margoll
 date: 2024-03-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 26021
 original_slug: art-2030-teresa-margolles-researches-the-social-causes-and-consequences-of-death
 original_url: https://olivenetwork.org/Issue/art-2030-teresa-margolles-researches-the-social-causes-and-consequences-of-death/26021

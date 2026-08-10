@@ -3,6 +3,7 @@ title: 'Structural Fabric Weaves Tent Shelters into Communities: Abeer Seikaly'
 date: 2025-09-22
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24678
 original_slug: structural-fabric-weaves-tent-shelters-into-communities-abeer-seikaly
 original_url: https://olivenetwork.org/Issue/structural-fabric-weaves-tent-shelters-into-communities-abeer-seikaly/24678

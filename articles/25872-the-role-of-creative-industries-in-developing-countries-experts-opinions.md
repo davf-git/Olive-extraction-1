@@ -3,6 +3,7 @@ title: The role of creative industries in developing countries | Experts’ Opin
 date: 2022-08-18
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25872
 original_slug: the-role-of-creative-industries-in-developing-countries-experts-opinions
 original_url: https://olivenetwork.org/Issue/the-role-of-creative-industries-in-developing-countries-experts-opinions/25872

@@ -3,6 +3,7 @@ title: The power of collaboration may be one silver lining of the Covid-19 crisi
 date: 2020-10-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25510
 original_slug: the-power-of-collaboration-may-be-one-silver-lining-of-the-covid-19-crisis
 original_url: https://olivenetwork.org/Issue/the-power-of-collaboration-may-be-one-silver-lining-of-the-covid-19-crisis/25510

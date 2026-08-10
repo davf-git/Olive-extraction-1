@@ -3,6 +3,7 @@ title: TUC boss calls for new council to build fairer economy after Covid-19
 date: 2020-05-20
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25316
 original_slug: tuc-boss-calls-for-new-council-to-build-fairer-economy-after-covid-19
 original_url: https://olivenetwork.org/Issue/tuc-boss-calls-for-new-council-to-build-fairer-economy-after-covid-19/25316

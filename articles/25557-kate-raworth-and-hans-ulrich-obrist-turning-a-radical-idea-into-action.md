@@ -3,6 +3,7 @@ title: 'Kate Raworth and Hans Ulrich Obrist: Turning a Radical Idea Into Action'
 date: 2024-02-14
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25557
 original_slug: kate-raworth-and-hans-ulrich-obrist-turning-a-radical-idea-into-action
 original_url: https://olivenetwork.org/Issue/kate-raworth-and-hans-ulrich-obrist-turning-a-radical-idea-into-action/25557

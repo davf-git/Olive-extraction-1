@@ -3,6 +3,7 @@ title: Sir Ian McKellan recites Shakespeare on immigration
 date: 2026-02-11
 category: Arts & Culture
 source: AMOL RAJAN INSTAGRAM
+source_url: https://www.instagram.com/amolrajan/
 original_id: 26278
 original_slug: sir-ian-mckellan-recites-shakespeare-on-immigration
 original_url: https://olivenetwork.org/Issue/sir-ian-mckellan-recites-shakespeare-on-immigration/26278

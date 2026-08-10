@@ -3,6 +3,7 @@ title: Assembly President Highlights Priorities for UNGA’s Resumed 77th Sessio
 date: 2023-01-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25930
 original_slug: assembly-president-highlights-priorities-for-unga-s-resumed-77th-session
 original_url: https://olivenetwork.org/Issue/assembly-president-highlights-priorities-for-unga-s-resumed-77th-session/25930

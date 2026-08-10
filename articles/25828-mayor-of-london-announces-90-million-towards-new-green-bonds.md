@@ -3,6 +3,7 @@ title: Mayor of London announces £90 million towards new green bonds
 date: 2022-02-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25828
 original_slug: mayor-of-london-announces-90-million-towards-new-green-bonds
 original_url: https://olivenetwork.org/Issue/mayor-of-london-announces-90-million-towards-new-green-bonds/25828

@@ -3,6 +3,7 @@ title: Libraries with buckets of love - Atlas of the Future
 date: 2021-11-21
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25676
 original_slug: libraries-with-buckets-of-love-atlas-of-the-future
 original_url: https://olivenetwork.org/Issue/libraries-with-buckets-of-love-atlas-of-the-future/25676

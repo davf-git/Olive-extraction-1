@@ -3,6 +3,7 @@ title: 'Riba Stirling Prize: Norwich council estate wins architecture award'
 date: 2019-10-09
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25072
 original_slug: riba-stirling-prize-norwich-council-estate-wins-architecture-award
 original_url: https://olivenetwork.org/Issue/riba-stirling-prize-norwich-council-estate-wins-architecture-award/25072

@@ -3,6 +3,7 @@ title: None of 17 UN SDGs on Track to Be Achieved By 2030, Report Finds
 date: 2026-06-26
 category: Climate
 source: EARTH.ORG
+source_url: https://earth.org/none-of-17-un-sdgs-on-track-to-be-achieved-by-2030-report-finds-2/
 original_id: 26313
 original_slug: none-of-17-un-sdgs-on-track-to-be-achieved-by-2030-report-finds
 original_url: https://olivenetwork.org/Issue/none-of-17-un-sdgs-on-track-to-be-achieved-by-2030-report-finds/26313

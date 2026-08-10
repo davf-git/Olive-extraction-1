@@ -3,6 +3,7 @@ title: 'Nesta: Four Coronavirus Futures'
 date: 2020-08-08
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25412
 original_slug: nesta-four-coronavirus-futures
 original_url: https://olivenetwork.org/Issue/nesta-four-coronavirus-futures/25412

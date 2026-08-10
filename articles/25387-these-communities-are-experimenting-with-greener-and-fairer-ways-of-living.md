@@ -3,6 +3,7 @@ title: These communities are experimenting with greener and fairer ways of livin
 date: 2025-10-06
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25387
 original_slug: these-communities-are-experimenting-with-greener-and-fairer-ways-of-living
 original_url: https://olivenetwork.org/Issue/these-communities-are-experimenting-with-greener-and-fairer-ways-of-living/25387

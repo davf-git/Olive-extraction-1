@@ -3,6 +3,7 @@ title: Investors urge companies to advance no-deforestation efforts
 date: 2020-11-09
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25559
 original_slug: investors-urge-companies-to-advance-no-deforestation-efforts
 original_url: https://olivenetwork.org/Issue/investors-urge-companies-to-advance-no-deforestation-efforts/25559

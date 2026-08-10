@@ -3,6 +3,7 @@ title: UK arts' leading figures join call for green recovery from coronavirus cr
 date: 2020-06-22
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25366
 original_slug: uk-arts-leading-figures-join-call-for-green-recovery-from-coronavirus-crisis
 original_url: https://olivenetwork.org/Issue/uk-arts-leading-figures-join-call-for-green-recovery-from-coronavirus-crisis/25366

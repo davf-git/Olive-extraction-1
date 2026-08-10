@@ -3,6 +3,7 @@ title: 'Climate change: Pope Francis warns world ''may be nearing breaking point
 date: 2023-10-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25965
 original_slug: climate-change-pope-francis-warns-world-may-be-nearing-breaking-point
 original_url: https://olivenetwork.org/Issue/climate-change-pope-francis-warns-world-may-be-nearing-breaking-point/25965

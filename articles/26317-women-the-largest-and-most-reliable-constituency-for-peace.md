@@ -3,6 +3,7 @@ title: Women, the largest and most reliable constituency for peace
 date: 2026-07-21
 category: Dwelling
 source: UN WOMEN - FOR ALL WOMEN AND GIRLS
+source_url: https://www.unwomen.org/en/news-stories/speech/2026/06/speech-women-the-largest-and-most-reliable-constituency-for-peace-ready-to-participate
 original_id: 26317
 original_slug: women-the-largest-and-most-reliable-constituency-for-peace
 original_url: https://olivenetwork.org/Issue/women-the-largest-and-most-reliable-constituency-for-peace/26317

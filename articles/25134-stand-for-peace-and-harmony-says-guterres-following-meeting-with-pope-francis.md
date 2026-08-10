@@ -3,6 +3,7 @@ title: Stand for peace and harmony says Guterres, following meeting with Pope Fr
 date: 2019-12-21
 category: UN
 source: ON Network
+source_url: null
 original_id: 25134
 original_slug: stand-for-peace-and-harmony-says-guterres-following-meeting-with-pope-francis
 original_url: https://olivenetwork.org/Issue/stand-for-peace-and-harmony-says-guterres-following-meeting-with-pope-francis/25134

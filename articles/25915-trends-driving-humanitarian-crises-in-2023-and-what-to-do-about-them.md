@@ -3,6 +3,7 @@ title: Trends driving humanitarian crises in 2023 (and what to do about them)
 date: 2023-01-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25915
 original_slug: trends-driving-humanitarian-crises-in-2023-and-what-to-do-about-them
 original_url: https://olivenetwork.org/Issue/trends-driving-humanitarian-crises-in-2023-and-what-to-do-about-them/25915

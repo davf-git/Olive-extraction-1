@@ -3,6 +3,7 @@ title: '‘Hard Truths to Face’: Tate Declares ‘Climate Emergency’'
 date: 2019-07-19
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24955
 original_slug: hard-truths-to-face-tate-declares-climate-emergency
 original_url: https://olivenetwork.org/Issue/hard-truths-to-face-tate-declares-climate-emergency/24955

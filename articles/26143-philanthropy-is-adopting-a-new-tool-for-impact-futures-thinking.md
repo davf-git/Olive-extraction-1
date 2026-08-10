@@ -3,6 +3,7 @@ title: 'Featured Story: Philanthropy is adopting a new tool for impact: Futures 
 date: 2025-11-16
 category: Charities
 source: ON Network
+source_url: null
 original_id: 26143
 original_slug: philanthropy-is-adopting-a-new-tool-for-impact-futures-thinking
 original_url: https://olivenetwork.org/Issue/philanthropy-is-adopting-a-new-tool-for-impact-futures-thinking/26143

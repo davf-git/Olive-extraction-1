@@ -3,6 +3,7 @@ title: 'The New Humanitarian: My hope for 2021 is...'
 date: 2021-01-05
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25602
 original_slug: the-new-humanitarian-my-hope-for-2021-is
 original_url: https://olivenetwork.org/Issue/the-new-humanitarian-my-hope-for-2021-is/25602

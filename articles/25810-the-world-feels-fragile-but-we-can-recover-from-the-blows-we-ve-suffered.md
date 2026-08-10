@@ -3,6 +3,7 @@ title: The world feels fragile, but we can recover from the blows we’ve suffer
 date: 2022-01-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25810
 original_slug: the-world-feels-fragile-but-we-can-recover-from-the-blows-we-ve-suffered
 original_url: https://olivenetwork.org/Issue/the-world-feels-fragile-but-we-can-recover-from-the-blows-we-ve-suffered/25810

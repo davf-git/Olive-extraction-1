@@ -3,6 +3,7 @@ title: Ambitious roadmap aims to eradicate neglected tropical diseases by 2030
 date: 2021-02-03
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25652
 original_slug: ambitious-roadmap-aims-to-eradicate-neglected-tropical-diseases-by-2030
 original_url: https://olivenetwork.org/Issue/ambitious-roadmap-aims-to-eradicate-neglected-tropical-diseases-by-2030/25652

@@ -4,6 +4,7 @@ title: As UN prepares for Cop27, we look at which art initiatives are working al
 date: 2022-11-07
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25894
 original_slug: as-un-prepares-for-cop27-we-look-at-which-art-initiatives-are-working-alongside-governments-to-create-real-environmental-change
 original_url: https://olivenetwork.org/Issue/as-un-prepares-for-cop27-we-look-at-which-art-initiatives-are-working-alongside-governments-to-create-real-environmental-change/25894

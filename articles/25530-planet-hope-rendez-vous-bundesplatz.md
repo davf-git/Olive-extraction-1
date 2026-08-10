@@ -3,6 +3,7 @@ title: Planet Hope - Rendez-vous Bundesplatz
 date: 2020-10-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25530
 original_slug: planet-hope-rendez-vous-bundesplatz
 original_url: https://olivenetwork.org/Issue/planet-hope-rendez-vous-bundesplatz/25530

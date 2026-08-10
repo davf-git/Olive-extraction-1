@@ -4,6 +4,7 @@ title: How a Beach Opera at the 58th Venice Biennale Quietly Contends with Clima
 date: 2019-05-17
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24863
 original_slug: how-a-beach-opera-at-the-58th-venice-biennale-quietly-contends-with-climate-change-catastrophe
 original_url: https://olivenetwork.org/Issue/how-a-beach-opera-at-the-58th-venice-biennale-quietly-contends-with-climate-change-catastrophe/24863

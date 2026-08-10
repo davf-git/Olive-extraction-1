@@ -3,6 +3,7 @@ title: People continue to stand by refugees, Gen Z shows most empathy
 date: 2026-07-28
 category: Charities
 source: UN News
+source_url: https://news.un.org/en/
 original_id: 26316
 original_slug: people-continue-to-stand-by-refugees-gen-z-shows-most-empathy
 original_url: https://olivenetwork.org/Issue/people-continue-to-stand-by-refugees-gen-z-shows-most-empathy/26316

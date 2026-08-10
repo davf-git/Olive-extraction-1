@@ -3,6 +3,7 @@ title: An Unfinished Cinema Abbas Kiarostami
 date: 2026-01-15
 category: Arts & Culture
 source: E-FLUX
+source_url: https://www.e-flux.com/notes/6783441/an-unfinished-cinema
 original_id: 26270
 original_slug: an-unfinished-cinema-abbas-kiarostami
 original_url: https://olivenetwork.org/Issue/an-unfinished-cinema-abbas-kiarostami/26270

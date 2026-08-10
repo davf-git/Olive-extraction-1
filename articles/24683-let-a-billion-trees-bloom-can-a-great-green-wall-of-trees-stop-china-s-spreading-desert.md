@@ -4,6 +4,7 @@ title: 'Let a billion trees bloom: Can a great green wall of trees stop China’
 date: 2019-01-08
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24683
 original_slug: let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-china-s-spreading-desert
 original_url: https://olivenetwork.org/Issue/let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-china-s-spreading-desert/24683

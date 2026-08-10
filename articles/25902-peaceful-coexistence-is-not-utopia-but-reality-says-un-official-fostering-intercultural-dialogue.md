@@ -4,6 +4,7 @@ title: Peaceful coexistence is not ‘utopia’ but reality, says UN official fo
 date: 2022-11-22
 category: Education
 source: ON Network
+source_url: null
 original_id: 25902
 original_slug: peaceful-coexistence-is-not-utopia-but-reality-says-un-official-fostering-intercultural-dialogue
 original_url: https://olivenetwork.org/Issue/peaceful-coexistence-is-not-utopia-but-reality-says-un-official-fostering-intercultural-dialogue/25902

@@ -3,6 +3,7 @@ title: Reorganizing Production to Serve Life, Not Profit
 date: 2025-07-18
 category: Economics
 source: ROSA LUXEMBURG STIFTUNG
+source_url: https://www.rosalux.de/en/news/id/53515/
 original_id: 26229
 original_slug: reorganizing-production-to-serve-life-not-profit
 original_url: https://olivenetwork.org/Issue/reorganizing-production-to-serve-life-not-profit/26229

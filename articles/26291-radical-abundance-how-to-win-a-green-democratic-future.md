@@ -3,6 +3,7 @@ title: 'Radical Abundance: How to Win a Green Democratic Future'
 date: 2026-03-16
 category: Arts & Culture
 source: ABUNDANCE
+source_url: https://www.in-abundance.org/latest/latest-round-of-radical-abundance-discussions
 original_id: 26291
 original_slug: radical-abundance-how-to-win-a-green-democratic-future
 original_url: https://olivenetwork.org/Issue/radical-abundance-how-to-win-a-green-democratic-future/26291

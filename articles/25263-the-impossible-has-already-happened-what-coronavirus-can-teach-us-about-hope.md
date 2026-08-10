@@ -4,6 +4,7 @@ title: '''The impossible has already happened'': what coronavirus can teach us a
 date: 2020-04-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25263
 original_slug: the-impossible-has-already-happened-what-coronavirus-can-teach-us-about-hope
 original_url: https://olivenetwork.org/Issue/the-impossible-has-already-happened-what-coronavirus-can-teach-us-about-hope/25263

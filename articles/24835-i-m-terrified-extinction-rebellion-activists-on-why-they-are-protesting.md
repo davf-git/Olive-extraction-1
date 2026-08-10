@@ -3,6 +3,7 @@ title: '''I''m terrified'': Extinction Rebellion activists on why they are prote
 date: 2019-04-16
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24835
 original_slug: i-m-terrified-extinction-rebellion-activists-on-why-they-are-protesting
 original_url: https://olivenetwork.org/Issue/i-m-terrified-extinction-rebellion-activists-on-why-they-are-protesting/24835

@@ -3,6 +3,7 @@ title: Geneva-born initiative to help organisations halve their carbon footprint
 date: 2021-09-07
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25753
 original_slug: geneva-born-initiative-to-help-organisations-halve-their-carbon-footprint
 original_url: https://olivenetwork.org/Issue/geneva-born-initiative-to-help-organisations-halve-their-carbon-footprint/25753

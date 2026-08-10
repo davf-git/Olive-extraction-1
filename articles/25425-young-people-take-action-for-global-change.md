@@ -3,6 +3,7 @@ title: Young people take action for global change
 date: 2023-10-11
 category: UN
 source: ON Network
+source_url: null
 original_id: 25425
 original_slug: young-people-take-action-for-global-change
 original_url: https://olivenetwork.org/Issue/young-people-take-action-for-global-change/25425

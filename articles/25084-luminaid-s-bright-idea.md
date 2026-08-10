@@ -3,6 +3,7 @@ title: Luminaid's Bright Idea
 date: 2019-11-10
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25084
 original_slug: luminaid-s-bright-idea
 original_url: https://olivenetwork.org/Issue/luminaid-s-bright-idea/25084

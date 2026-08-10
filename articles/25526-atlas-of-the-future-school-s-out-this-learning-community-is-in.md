@@ -3,6 +3,7 @@ title: 'Atlas of the Future: School''s out! This learning community is in'
 date: 2020-10-15
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25526
 original_slug: atlas-of-the-future-school-s-out-this-learning-community-is-in
 original_url: https://olivenetwork.org/Issue/atlas-of-the-future-school-s-out-this-learning-community-is-in/25526

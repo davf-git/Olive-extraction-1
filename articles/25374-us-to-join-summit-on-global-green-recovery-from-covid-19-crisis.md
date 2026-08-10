@@ -3,6 +3,7 @@ title: US to join summit on global green recovery from Covid-19 crisis
 date: 2020-06-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25374
 original_slug: us-to-join-summit-on-global-green-recovery-from-covid-19-crisis
 original_url: https://olivenetwork.org/Issue/us-to-join-summit-on-global-green-recovery-from-covid-19-crisis/25374

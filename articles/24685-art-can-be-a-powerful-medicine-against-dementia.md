@@ -3,6 +3,7 @@ title: Art can be a powerful medicine against dementia
 date: 2019-01-08
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24685
 original_slug: art-can-be-a-powerful-medicine-against-dementia
 original_url: https://olivenetwork.org/Issue/art-can-be-a-powerful-medicine-against-dementia/24685

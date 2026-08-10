@@ -3,6 +3,7 @@ title: Discover the vibrant textile works of Romani artist Małgorzata Mirga-Tas
 date: 2024-12-31
 category: Arts & Culture
 source: TATE ST IVES
+source_url: https://www.tate.org.uk/whats-on/tate-st-ives/magorzata-mirga-tas
 original_id: 26189
 original_slug: discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mirga-tas
 original_url: https://olivenetwork.org/Issue/discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mirga-tas/26189

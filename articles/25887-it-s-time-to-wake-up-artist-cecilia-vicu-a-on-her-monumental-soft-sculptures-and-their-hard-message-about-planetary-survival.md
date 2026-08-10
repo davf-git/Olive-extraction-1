@@ -4,6 +4,7 @@ title: '‘It’s Time to Wake Up’: Artist Cecilia Vicuña on Her Monumental S
 date: 2022-10-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25887
 original_slug: it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft-sculptures-and-their-hard-message-about-planetary-survival
 original_url: https://olivenetwork.org/Issue/it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft-sculptures-and-their-hard-message-about-planetary-survival/25887

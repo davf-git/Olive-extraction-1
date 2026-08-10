@@ -3,6 +3,7 @@ title: 'Featured Voice: The Late Pope Francis - The Power of Solidarity'
 date: 2026-06-05
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 26285
 original_slug: pope-francis-the-power-of-solidarity
 original_url: https://olivenetwork.org/Issue/pope-francis-the-power-of-solidarity/26285

@@ -3,6 +3,7 @@ title: Why a pilgrimage was good practice for lockdown
 date: 2020-03-25
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25247
 original_slug: why-a-pilgrimage-was-good-practice-for-lockdown
 original_url: https://olivenetwork.org/Issue/why-a-pilgrimage-was-good-practice-for-lockdown/25247

@@ -3,6 +3,7 @@ title: Voltaire and technology’s liberating power
 date: 2024-08-25
 category: Arts & Culture
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/explorations/how-geneva-s-past-thinkers-can-help-us-brace-for-the-ai-upheaval/voltaire-and-technology-s-liberating-power?utm_source=newsletter&utm_medium=email
 original_id: 26153
 original_slug: voltaire-and-technology-s-liberating-power
 original_url: https://olivenetwork.org/Issue/voltaire-and-technology-s-liberating-power/26153

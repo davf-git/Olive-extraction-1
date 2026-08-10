@@ -3,6 +3,7 @@ title: How to begin fixing the ‘nonsensical’ humanitarian financing system
 date: 2022-10-18
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25888
 original_slug: how-to-begin-fixing-the-nonsensical-humanitarian-financing-system
 original_url: https://olivenetwork.org/Issue/how-to-begin-fixing-the-nonsensical-humanitarian-financing-system/25888

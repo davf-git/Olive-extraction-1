@@ -3,6 +3,7 @@ title: 'A Year in a Field : Earth Day Featured Story'
 date: 2026-04-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26295
 original_slug: p-class-p1-strong-personal-statement
 original_url: https://olivenetwork.org/Issue/p-class-p1-strong-personal-statement/26295

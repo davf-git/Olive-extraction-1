@@ -3,6 +3,7 @@ title: The children behind South Korea’s landmark climate win
 date: 2024-09-03
 category: Climate
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/world/article/2024/sep/04/typhoons-have-prevented-me-going-to-school-the-children-behind-south-koreas-landmark-climate-win
 original_id: 26161
 original_slug: the-children-behind-south-korea-s-landmark-climate-win
 original_url: https://olivenetwork.org/Issue/the-children-behind-south-korea-s-landmark-climate-win/26161

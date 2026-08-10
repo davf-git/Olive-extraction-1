@@ -3,6 +3,7 @@ title: French climate activist Camille Étienne and the power of fear
 date: 2024-02-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26010
 original_slug: french-climate-activist-camille-tienne-and-the-power-of-fear
 original_url: https://olivenetwork.org/Issue/french-climate-activist-camille-tienne-and-the-power-of-fear/26010

@@ -4,6 +4,7 @@ title: 'International Committee of the Red Cross: Partnering with local organiza
 date: 2020-09-06
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25464
 original_slug: international-committee-of-the-red-cross-partnering-with-local-organizations-makes-us-stronger
 original_url: https://olivenetwork.org/Issue/international-committee-of-the-red-cross-partnering-with-local-organizations-makes-us-stronger/25464

@@ -3,6 +3,7 @@ title: 'Featured Story: Friendship Bench - opening the mind to finding solutions
 date: 2025-06-28
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25054
 original_slug: friendship-bench-opening-the-mind-to-finding-solutions
 original_url: https://olivenetwork.org/Issue/friendship-bench-opening-the-mind-to-finding-solutions/25054

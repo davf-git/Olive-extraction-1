@@ -4,6 +4,7 @@ title: In the Vast Beauty of the Coachella Valley, Desert X Artists Emphasize th
 date: 2019-02-13
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24734
 original_slug: in-the-vast-beauty-of-the-coachella-valley-desert-x-artists-emphasize-the-perils-of-climate-change
 original_url: https://olivenetwork.org/Issue/in-the-vast-beauty-of-the-coachella-valley-desert-x-artists-emphasize-the-perils-of-climate-change/24734

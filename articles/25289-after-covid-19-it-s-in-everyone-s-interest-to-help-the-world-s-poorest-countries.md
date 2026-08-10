@@ -3,6 +3,7 @@ title: After Covid-19, it's in everyone's interest to help the world's poorest c
 date: 2020-05-04
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25289
 original_slug: after-covid-19-it-s-in-everyone-s-interest-to-help-the-world-s-poorest-countries
 original_url: https://olivenetwork.org/Issue/after-covid-19-it-s-in-everyone-s-interest-to-help-the-world-s-poorest-countries/25289

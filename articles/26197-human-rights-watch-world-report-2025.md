@@ -3,6 +3,7 @@ title: Human Rights Watch - World Report 2025
 date: 2025-01-19
 category: Charities
 source: HUMAN RIGHTS WATCH
+source_url: https://www.hrw.org/world-report/2025
 original_id: 26197
 original_slug: human-rights-watch-world-report-2025
 original_url: https://olivenetwork.org/Issue/human-rights-watch-world-report-2025/26197

@@ -3,6 +3,7 @@ title: Denmark opens world's first food waste supermarket
 date: 2019-06-12
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24909
 original_slug: denmark-opens-world-s-first-food-waste-supermarket
 original_url: https://olivenetwork.org/Issue/denmark-opens-world-s-first-food-waste-supermarket/24909

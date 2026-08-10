@@ -3,6 +3,7 @@ title: 'Rescue plan for nature: How to fix the biodiversity crisis - New Scienti
 date: 2021-02-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25668
 original_slug: rescue-plan-for-nature-how-to-fix-the-biodiversity-crisis-new-scientist
 original_url: https://olivenetwork.org/Issue/rescue-plan-for-nature-how-to-fix-the-biodiversity-crisis-new-scientist/25668

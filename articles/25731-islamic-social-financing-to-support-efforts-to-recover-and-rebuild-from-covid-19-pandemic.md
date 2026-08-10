@@ -4,6 +4,7 @@ title: Islamic social financing to support efforts to recover and rebuild from C
 date: 2021-05-16
 category: Health
 source: ON Network
+source_url: null
 original_id: 25731
 original_slug: islamic-social-financing-to-support-efforts-to-recover-and-rebuild-from-covid-19-pandemic
 original_url: https://olivenetwork.org/Issue/islamic-social-financing-to-support-efforts-to-recover-and-rebuild-from-covid-19-pandemic/25731

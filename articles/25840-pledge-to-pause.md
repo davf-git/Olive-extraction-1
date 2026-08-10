@@ -3,6 +3,7 @@ title: Pledge to Pause
 date: 2022-04-19
 category: Health
 source: ON Network
+source_url: null
 original_id: 25840
 original_slug: pledge-to-pause
 original_url: https://olivenetwork.org/Issue/pledge-to-pause/25840

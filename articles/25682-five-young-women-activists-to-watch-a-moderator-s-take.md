@@ -3,6 +3,7 @@ title: Five young women activists to watch - a moderator's take
 date: 2025-12-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25682
 original_slug: five-young-women-activists-to-watch-a-moderator-s-take
 original_url: https://olivenetwork.org/Issue/five-young-women-activists-to-watch-a-moderator-s-take/25682

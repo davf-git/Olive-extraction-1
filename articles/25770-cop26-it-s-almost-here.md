@@ -3,6 +3,7 @@ title: 'COP26: It’s (almost) here'
 date: 2021-10-17
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25770
 original_slug: cop26-it-s-almost-here
 original_url: https://olivenetwork.org/Issue/cop26-it-s-almost-here/25770

@@ -3,6 +3,7 @@ title: The Other Tree of Guernica - e-flux Education
 date: 2026-06-12
 category: Arts & Culture
 source: e-flux Education
+source_url: https://www.e-flux.com/education/features/6732761/polyphony-and-polycrisis
 original_id: 26309
 original_slug: the-other-tree-of-guernica-e-flux-education
 original_url: https://olivenetwork.org/Issue/the-other-tree-of-guernica-e-flux-education/26309

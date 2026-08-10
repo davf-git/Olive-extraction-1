@@ -3,6 +3,7 @@ title: 'Green World: The role of citizens’ assemblies'
 date: 2020-01-26
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 25163
 original_slug: green-world-the-role-of-citizens-assemblies
 original_url: https://olivenetwork.org/Issue/green-world-the-role-of-citizens-assemblies/25163

@@ -3,6 +3,7 @@ title: World Social Summit Commits to Follow-up Process to Ensure Implementation
 date: 2025-11-29
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/world-social-summit-commits-to-follow-up-process-to-ensure-implementation/?utm_medium=email&utm_campaign=ICYMI%20-%2029%20November%202025&utm_content=ICYMI%20-%2029%20November%202025+CID_a4cee76df129debfa356354c8959d9d4&utm_source=cm&utm_term=Second%20World%20Summit%20for%20Social%20Development
 original_id: 26257
 original_slug: world-social-summit-commits-to-follow-up-process-to-ensure-implementation
 original_url: https://olivenetwork.org/Issue/world-social-summit-commits-to-follow-up-process-to-ensure-implementation/26257

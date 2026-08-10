@@ -3,6 +3,7 @@ title: COP 27 Establishes Funding Arrangements for Loss and Damage
 date: 2022-11-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25904
 original_slug: cop-27-establishes-funding-arrangements-for-loss-and-damage
 original_url: https://olivenetwork.org/Issue/cop-27-establishes-funding-arrangements-for-loss-and-damage/25904

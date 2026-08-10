@@ -3,6 +3,7 @@ title: World Press Freedom Day 2024 - IPS Video
 date: 2024-05-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26050
 original_slug: world-press-freedom-day-2024-ips-video
 original_url: https://olivenetwork.org/Issue/world-press-freedom-day-2024-ips-video/26050

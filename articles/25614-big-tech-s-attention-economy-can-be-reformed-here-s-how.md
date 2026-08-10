@@ -3,6 +3,7 @@ title: Big Tech’s attention economy can be reformed. Here’s how.
 date: 2021-01-13
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25614
 original_slug: big-tech-s-attention-economy-can-be-reformed-here-s-how
 original_url: https://olivenetwork.org/Issue/big-tech-s-attention-economy-can-be-reformed-here-s-how/25614

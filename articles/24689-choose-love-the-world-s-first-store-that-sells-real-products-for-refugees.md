@@ -3,6 +3,7 @@ title: 'Choose Love: The world''s first store that sells real products for refug
 date: 2019-01-09
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24689
 original_slug: choose-love-the-world-s-first-store-that-sells-real-products-for-refugees
 original_url: https://olivenetwork.org/Issue/choose-love-the-world-s-first-store-that-sells-real-products-for-refugees/24689

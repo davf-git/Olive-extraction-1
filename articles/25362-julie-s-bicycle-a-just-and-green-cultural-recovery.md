@@ -3,6 +3,7 @@ title: 'Julie''s Bicycle: A Just and Green Cultural Recovery'
 date: 2020-06-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25362
 original_slug: julie-s-bicycle-a-just-and-green-cultural-recovery
 original_url: https://olivenetwork.org/Issue/julie-s-bicycle-a-just-and-green-cultural-recovery/25362

@@ -3,6 +3,7 @@ title: A new multilateral treaty takes root at WIPO to recognise traditional kno
 date: 2024-05-12
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 26055
 original_slug: a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditional-knowledge
 original_url: https://olivenetwork.org/Issue/a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditional-knowledge/26055

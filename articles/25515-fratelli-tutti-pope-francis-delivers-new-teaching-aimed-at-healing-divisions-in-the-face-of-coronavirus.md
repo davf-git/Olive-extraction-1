@@ -4,6 +4,7 @@ title: 'Fratelli Tutti: Pope Francis delivers new teaching aimed at healing divi
 date: 2020-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25515
 original_slug: fratelli-tutti-pope-francis-delivers-new-teaching-aimed-at-healing-divisions-in-the-face-of-coronavirus
 original_url: https://olivenetwork.org/Issue/fratelli-tutti-pope-francis-delivers-new-teaching-aimed-at-healing-divisions-in-the-face-of-coronavirus/25515

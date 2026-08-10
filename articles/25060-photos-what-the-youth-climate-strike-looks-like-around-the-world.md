@@ -3,6 +3,7 @@ title: 'Photos: What the youth climate strike looks like around the world'
 date: 2019-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25060
 original_slug: photos-what-the-youth-climate-strike-looks-like-around-the-world
 original_url: https://olivenetwork.org/Issue/photos-what-the-youth-climate-strike-looks-like-around-the-world/25060

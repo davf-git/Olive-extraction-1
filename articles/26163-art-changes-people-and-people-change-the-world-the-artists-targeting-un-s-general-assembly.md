@@ -4,6 +4,7 @@ title: '‘Art changes people and people change the world’: the artists target
 date: 2024-10-19
 category: Arts & Culture
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/artanddesign/2024/sep/19/un-general-assembly-posters-art-exhibition?utm_source=ART+2030&utm_campaign=8afada2555-EMAIL_CAMPAIGN_2024_09_20_03_59&utm_medium=email&utm_term=0_821d252afd-8afada2555-114133783&ct=t(June_Art_for_a_Healthy_Planet_20246_11_2024_12_9_C)
 original_id: 26163
 original_slug: art-changes-people-and-people-change-the-world-the-artists-targeting-un-s-general-assembly
 original_url: https://olivenetwork.org/Issue/art-changes-people-and-people-change-the-world-the-artists-targeting-un-s-general-assembly/26163

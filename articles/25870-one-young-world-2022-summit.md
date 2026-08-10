@@ -3,6 +3,7 @@ title: One Young World 2022 Summit
 date: 2022-07-31
 category: Education
 source: ON Network
+source_url: null
 original_id: 25870
 original_slug: one-young-world-2022-summit
 original_url: https://olivenetwork.org/Issue/one-young-world-2022-summit/25870

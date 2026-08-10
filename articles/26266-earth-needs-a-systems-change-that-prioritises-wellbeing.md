@@ -3,6 +3,7 @@ title: Earth needs a systems change that prioritises wellbeing
 date: 2026-01-07
 category: Climate
 source: GREENPEACE
+source_url: https://www.greenpeace.org/international/story/64251/the-earth-needs-a-systems-change-that-prioritises-wellbeing/
 original_id: 26266
 original_slug: earth-needs-a-systems-change-that-prioritises-wellbeing
 original_url: https://olivenetwork.org/Issue/earth-needs-a-systems-change-that-prioritises-wellbeing/26266

@@ -3,6 +3,7 @@ title: 'Featured Story: ClientEarth - the Power of Law'
 date: 2025-06-09
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26023
 original_slug: clientearth-the-power-of-law
 original_url: https://olivenetwork.org/Issue/clientearth-the-power-of-law/26023

@@ -4,6 +4,7 @@ title: 'UN rights expert David Boyd: ‘Businesses are treating the environment 
 date: 2024-03-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26020
 original_slug: un-rights-expert-david-boyd-businesses-are-treating-the-environment-like-a-free-dumping-ground
 original_url: https://olivenetwork.org/Issue/un-rights-expert-david-boyd-businesses-are-treating-the-environment-like-a-free-dumping-ground/26020

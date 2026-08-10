@@ -4,6 +4,7 @@ title: 'It’s not just Greta Thunberg: why are we ignoring the developing world
 date: 2019-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25059
 original_slug: it-s-not-just-greta-thunberg-why-are-we-ignoring-the-developing-world-s-inspiring-activists
 original_url: https://olivenetwork.org/Issue/it-s-not-just-greta-thunberg-why-are-we-ignoring-the-developing-world-s-inspiring-activists/25059

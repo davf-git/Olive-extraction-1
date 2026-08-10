@@ -4,6 +4,7 @@ title: Montana kids win historic climate lawsuit – here’s why it could set a
 date: 2023-08-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25956
 original_slug: montana-kids-win-historic-climate-lawsuit-here-s-why-it-could-set-a-powerful-precedent
 original_url: https://olivenetwork.org/Issue/montana-kids-win-historic-climate-lawsuit-here-s-why-it-could-set-a-powerful-precedent/25956

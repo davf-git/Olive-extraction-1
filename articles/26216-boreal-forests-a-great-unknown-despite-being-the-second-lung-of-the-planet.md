@@ -3,6 +3,7 @@ title: 'Boreal forests: A great unknown despite being the second lung of the pla
 date: 2025-05-10
 category: Climate
 source: NACIONES UNIDAS
+source_url: https://news.un.org/es/story/2025/05/1538506
 original_id: 26216
 original_slug: boreal-forests-a-great-unknown-despite-being-the-second-lung-of-the-planet
 original_url: https://olivenetwork.org/Issue/boreal-forests-a-great-unknown-despite-being-the-second-lung-of-the-planet/26216

@@ -3,6 +3,7 @@ title: 7 ways to trigger world peace
 date: 2020-06-22
 category: Arts & Culture
 source: Peter Kirby
+source_url: null
 original_id: 25368
 original_slug: 7-ways-to-trigger-world-peace
 original_url: https://olivenetwork.org/Issue/7-ways-to-trigger-world-peace/25368

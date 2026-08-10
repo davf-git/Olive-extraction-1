@@ -4,6 +4,7 @@ title: 'Environmental Justice Foundation: Taxpayers are funding planetary breakd
 date: 2021-10-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25772
 original_slug: environmental-justice-foundation-taxpayers-are-funding-planetary-breakdown-harmful-subsidies-must-end
 original_url: https://olivenetwork.org/Issue/environmental-justice-foundation-taxpayers-are-funding-planetary-breakdown-harmful-subsidies-must-end/25772

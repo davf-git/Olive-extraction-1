@@ -4,6 +4,7 @@ title: UNHCR offers practical recommendations in support of European countries t
 date: 2020-04-28
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25281
 original_slug: unhcr-offers-practical-recommendations-in-support-of-european-countries-to-ensure-access-to-asylum-and-safe-reception
 original_url: https://olivenetwork.org/Issue/unhcr-offers-practical-recommendations-in-support-of-european-countries-to-ensure-access-to-asylum-and-safe-reception/25281

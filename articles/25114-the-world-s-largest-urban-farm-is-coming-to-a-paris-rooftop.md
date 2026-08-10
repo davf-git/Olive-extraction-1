@@ -3,6 +3,7 @@ title: The world's largest urban farm is coming to a Paris rooftop
 date: 2019-11-27
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25114
 original_slug: the-world-s-largest-urban-farm-is-coming-to-a-paris-rooftop
 original_url: https://olivenetwork.org/Issue/the-world-s-largest-urban-farm-is-coming-to-a-paris-rooftop/25114

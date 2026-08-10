@@ -3,6 +3,7 @@ title: The Global Muslim Philanthropy Fund for Children
 date: 2021-02-05
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25654
 original_slug: the-global-muslim-philanthropy-fund-for-children
 original_url: https://olivenetwork.org/Issue/the-global-muslim-philanthropy-fund-for-children/25654

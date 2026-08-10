@@ -3,6 +3,7 @@ title: World Congress Urges Shared Responsibility Over Forests for Multiple SDGs
 date: 2022-05-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25848
 original_slug: world-congress-urges-shared-responsibility-over-forests-for-multiple-sdgs
 original_url: https://olivenetwork.org/Issue/world-congress-urges-shared-responsibility-over-forests-for-multiple-sdgs/25848

@@ -3,6 +3,7 @@ title: 'Tents, toilets, transport: eco-friendly festivals tackle the unholy trin
 date: 2019-08-04
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24986
 original_slug: tents-toilets-transport-eco-friendly-festivals-tackle-the-unholy-trinity
 original_url: https://olivenetwork.org/Issue/tents-toilets-transport-eco-friendly-festivals-tackle-the-unholy-trinity/24986

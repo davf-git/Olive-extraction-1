@@ -4,6 +4,7 @@ title: 'From freecycling to Fairphones: 24 ways to lead an anti-capitalist life 
 date: 2018-12-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24616
 original_slug: from-freecycling-to-fairphones-24-ways-to-lead-an-anti-capitalist-life-in-a-capitalist-world
 original_url: https://olivenetwork.org/Issue/from-freecycling-to-fairphones-24-ways-to-lead-an-anti-capitalist-life-in-a-capitalist-world/24616

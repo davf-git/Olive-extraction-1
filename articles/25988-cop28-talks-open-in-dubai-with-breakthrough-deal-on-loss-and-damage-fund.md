@@ -3,6 +3,7 @@ title: COP28 talks open in Dubai with breakthrough deal on loss and damage fund
 date: 2023-11-30
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25988
 original_slug: cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-damage-fund
 original_url: https://olivenetwork.org/Issue/cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-damage-fund/25988

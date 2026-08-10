@@ -4,6 +4,7 @@ title: 'Coronavirus: Only 9% of Britons want life to return to ''normal'' once l
 date: 2020-04-17
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25275
 original_slug: coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over
 original_url: https://olivenetwork.org/Issue/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over/25275

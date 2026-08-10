@@ -3,6 +3,7 @@ title: Little Sun - Olafur Eliasson and Frederik Ottesen
 date: 2018-05-24
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24363
 original_slug: little-sun-olafur-eliasson-and-frederik-ottesen
 original_url: https://olivenetwork.org/Issue/little-sun-olafur-eliasson-and-frederik-ottesen/24363

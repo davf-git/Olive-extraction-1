@@ -3,6 +3,7 @@ title: Bolster fragile world to emerge stronger, UN chief urges, marking Peace D
 date: 2020-09-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25490
 original_slug: bolster-fragile-world-to-emerge-stronger-un-chief-urges-marking-peace-day
 original_url: https://olivenetwork.org/Issue/bolster-fragile-world-to-emerge-stronger-un-chief-urges-marking-peace-day/25490

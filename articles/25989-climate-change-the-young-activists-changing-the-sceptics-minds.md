@@ -3,6 +3,7 @@ title: 'Climate change: The young activists changing the sceptics'' minds'
 date: 2025-07-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25989
 original_slug: climate-change-the-young-activists-changing-the-sceptics-minds
 original_url: https://olivenetwork.org/Issue/climate-change-the-young-activists-changing-the-sceptics-minds/25989

@@ -3,6 +3,7 @@ title: '2023: Five Areas to Target Through Resolve, Determination, and Hope'
 date: 2023-01-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25921
 original_slug: 2023-five-areas-to-target-through-resolve-determination-and-hope
 original_url: https://olivenetwork.org/Issue/2023-five-areas-to-target-through-resolve-determination-and-hope/25921

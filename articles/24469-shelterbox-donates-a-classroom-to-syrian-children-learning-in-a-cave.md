@@ -3,6 +3,7 @@ title: ShelterBox donates a classroom to Syrian children learning in a cave
 date: 2018-12-27
 category: Education
 source: ON Network
+source_url: null
 original_id: 24469
 original_slug: shelterbox-donates-a-classroom-to-syrian-children-learning-in-a-cave
 original_url: https://olivenetwork.org/Issue/shelterbox-donates-a-classroom-to-syrian-children-learning-in-a-cave/24469

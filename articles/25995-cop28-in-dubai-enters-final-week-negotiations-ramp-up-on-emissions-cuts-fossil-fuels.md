@@ -4,6 +4,7 @@ title: COP28 in Dubai enters final week, negotiations ramp up on emissions cuts,
 date: 2023-12-08
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25995
 original_slug: cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emissions-cuts-fossil-fuels
 original_url: https://olivenetwork.org/Issue/cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emissions-cuts-fossil-fuels/25995

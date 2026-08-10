@@ -3,6 +3,7 @@ title: Mexican shelter welcomes LGBTI refugees
 date: 2019-01-08
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24681
 original_slug: mexican-shelter-welcomes-lgbti-refugees
 original_url: https://olivenetwork.org/Issue/mexican-shelter-welcomes-lgbti-refugees/24681

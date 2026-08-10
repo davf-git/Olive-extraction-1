@@ -3,6 +3,7 @@ title: The Karma of AD Negi
 date: 2018-12-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24612
 original_slug: the-karma-of-ad-negi
 original_url: https://olivenetwork.org/Issue/the-karma-of-ad-negi/24612

@@ -3,6 +3,7 @@ title: UN Report Assesses How Far National Institutions Have Gone for SDGs
 date: 2021-09-02
 category: Sustainability
 source: ON Network
+source_url: null
 original_id: 25752
 original_slug: un-report-assesses-how-far-national-institutions-have-gone-for-sdgs
 original_url: https://olivenetwork.org/Issue/un-report-assesses-how-far-national-institutions-have-gone-for-sdgs/25752

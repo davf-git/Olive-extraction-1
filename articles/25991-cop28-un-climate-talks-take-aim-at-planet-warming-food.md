@@ -3,6 +3,7 @@ title: 'COP28: UN climate talks take aim at planet-warming food'
 date: 2023-12-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25991
 original_slug: cop28-un-climate-talks-take-aim-at-planet-warming-food
 original_url: https://olivenetwork.org/Issue/cop28-un-climate-talks-take-aim-at-planet-warming-food/25991

@@ -3,6 +3,7 @@ title: Launch of new COVID19 humanitarian platform
 date: 2020-04-22
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25280
 original_slug: launch-of-new-covid19-humanitarian-platform
 original_url: https://olivenetwork.org/Issue/launch-of-new-covid19-humanitarian-platform/25280

@@ -3,6 +3,7 @@ title: 'Featured Story: The Mission of the Global Assembly'
 date: 2025-11-23
 category: Climate
 source: GLOBAL ASSEMBLY
+source_url: https://globalassembly.org/about-2.html#:~:text=The%20mission%20of%20the%202021,at%20the%20global%20governance%20table.
 original_id: 26137
 original_slug: the-mission-of-the-2021-global-assembly
 original_url: https://olivenetwork.org/Issue/the-mission-of-the-2021-global-assembly/26137

@@ -3,6 +3,7 @@ title: 'MSF director on climate: ''We are at a crucial moment in the history of 
 date: 2021-02-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25669
 original_slug: msf-director-on-climate-we-are-at-a-crucial-moment-in-the-history-of-mankind
 original_url: https://olivenetwork.org/Issue/msf-director-on-climate-we-are-at-a-crucial-moment-in-the-history-of-mankind/25669

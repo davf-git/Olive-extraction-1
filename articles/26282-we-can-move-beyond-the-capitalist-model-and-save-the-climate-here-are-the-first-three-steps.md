@@ -4,6 +4,7 @@ title: We can move beyond the capitalist model and save the climate - here are t
 date: 2026-02-17
 category: Climate
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/environment/commentisfree/2026/feb/12/capitalist-model-climate-growth-capitalism-species-humanity?CMP=Share_iOSApp_Other
 original_id: 26282
 original_slug: we-can-move-beyond-the-capitalist-model-and-save-the-climate-here-are-the-first-three-steps
 original_url: https://olivenetwork.org/Issue/we-can-move-beyond-the-capitalist-model-and-save-the-climate-here-are-the-first-three-steps/26282

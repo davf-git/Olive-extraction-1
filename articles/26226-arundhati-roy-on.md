@@ -3,6 +3,7 @@ title: Arundhati Roy on Writing in the Information Age
 date: 2025-06-11
 category: Arts & Culture
 source: SLU LIBRARIES YOUTUBE
+source_url: https://www.youtube.com/watch?v=v-SVAFgEd5g
 original_id: 26226
 original_slug: arundhati-roy-on
 original_url: https://olivenetwork.org/Issue/arundhati-roy-on/26226

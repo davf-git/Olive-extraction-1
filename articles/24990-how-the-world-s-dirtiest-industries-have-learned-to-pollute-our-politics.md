@@ -3,6 +3,7 @@ title: How the world’s dirtiest industries have learned to pollute our politic
 date: 2019-08-07
 category: Economics
 source: ON Network
+source_url: null
 original_id: 24990
 original_slug: how-the-world-s-dirtiest-industries-have-learned-to-pollute-our-politics
 original_url: https://olivenetwork.org/Issue/how-the-world-s-dirtiest-industries-have-learned-to-pollute-our-politics/24990

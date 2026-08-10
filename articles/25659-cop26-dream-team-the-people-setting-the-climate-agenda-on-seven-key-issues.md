@@ -3,6 +3,7 @@ title: 'Cop26 dream team: The people setting the climate agenda on seven key iss
 date: 2021-02-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25659
 original_slug: cop26-dream-team-the-people-setting-the-climate-agenda-on-seven-key-issues
 original_url: https://olivenetwork.org/Issue/cop26-dream-team-the-people-setting-the-climate-agenda-on-seven-key-issues/25659

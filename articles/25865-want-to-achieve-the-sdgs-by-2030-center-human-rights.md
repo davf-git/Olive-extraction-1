@@ -3,6 +3,7 @@ title: Want to Achieve the SDGs by 2030? Center Human Rights
 date: 2022-07-13
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25865
 original_slug: want-to-achieve-the-sdgs-by-2030-center-human-rights
 original_url: https://olivenetwork.org/Issue/want-to-achieve-the-sdgs-by-2030-center-human-rights/25865

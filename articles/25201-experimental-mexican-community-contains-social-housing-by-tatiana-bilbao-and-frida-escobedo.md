@@ -4,6 +4,7 @@ title: Experimental Mexican community contains social housing by Tatiana Bilbao 
 date: 2020-02-14
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25201
 original_slug: experimental-mexican-community-contains-social-housing-by-tatiana-bilbao-and-frida-escobedo
 original_url: https://olivenetwork.org/Issue/experimental-mexican-community-contains-social-housing-by-tatiana-bilbao-and-frida-escobedo/25201

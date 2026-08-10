@@ -3,6 +3,7 @@ title: The Observer view on the world needing the United Nations more than ever
 date: 2020-05-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25311
 original_slug: the-observer-view-on-the-world-needing-the-united-nations-more-than-ever
 original_url: https://olivenetwork.org/Issue/the-observer-view-on-the-world-needing-the-united-nations-more-than-ever/25311

@@ -3,6 +3,7 @@ title: Call for Reset of Global Water Agenda Seeks to Reverse “Water Bankruptc
 date: 2026-01-29
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/call-for-reset-of-global-water-agenda-seeks-to-reverse-water-bankruptcy/?utm_medium=email&utm_campaign=SDG%20Update%20-%2029%20January%202026&utm_content=SDG%20Update%20-%2029%20January%202026+CID_1a6064d393203672b59d9848859d6331&utm_source=cm
 original_id: 26276
 original_slug: call-for-reset-of-global-water-agenda-seeks-to-reverse-water-bankruptcy
 original_url: https://olivenetwork.org/Issue/call-for-reset-of-global-water-agenda-seeks-to-reverse-water-bankruptcy/26276

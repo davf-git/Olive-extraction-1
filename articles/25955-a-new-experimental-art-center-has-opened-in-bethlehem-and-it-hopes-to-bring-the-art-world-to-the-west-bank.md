@@ -4,6 +4,7 @@ title: A New Experimental Art Center Has Opened in Bethlehem - and It Hopes to B
 date: 2023-08-16
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25955
 original_slug: a-new-experimental-art-center-has-opened-in-bethlehem-and-it-hopes-to-bring-the-art-world-to-the-west-bank
 original_url: https://olivenetwork.org/Issue/a-new-experimental-art-center-has-opened-in-bethlehem-and-it-hopes-to-bring-the-art-world-to-the-west-bank/25955

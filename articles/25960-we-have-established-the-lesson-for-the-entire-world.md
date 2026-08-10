@@ -3,6 +3,7 @@ title: 'Featured Story: We have established the lesson for the entire world.'
 date: 2025-06-09
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25960
 original_slug: we-have-established-the-lesson-for-the-entire-world
 original_url: https://olivenetwork.org/Issue/we-have-established-the-lesson-for-the-entire-world/25960

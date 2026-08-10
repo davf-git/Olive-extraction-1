@@ -3,6 +3,7 @@ title: 'Bee inspired: why Oslo has put ecological riches at the heart of the cit
 date: 2019-01-08
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24680
 original_slug: bee-inspired-why-oslo-has-put-ecological-riches-at-the-heart-of-the-city
 original_url: https://olivenetwork.org/Issue/bee-inspired-why-oslo-has-put-ecological-riches-at-the-heart-of-the-city/24680

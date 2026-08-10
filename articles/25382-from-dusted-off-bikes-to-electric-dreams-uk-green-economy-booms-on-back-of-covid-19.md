@@ -4,6 +4,7 @@ title: 'From dusted-off bikes to electric dreams: UK green economy booms on back
 date: 2020-07-06
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25382
 original_slug: from-dusted-off-bikes-to-electric-dreams-uk-green-economy-booms-on-back-of-covid-19
 original_url: https://olivenetwork.org/Issue/from-dusted-off-bikes-to-electric-dreams-uk-green-economy-booms-on-back-of-covid-19/25382

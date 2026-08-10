@@ -3,6 +3,7 @@ title: Britain’s first car-free school planned for Leeds
 date: 2019-08-30
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25013
 original_slug: britain-s-first-car-free-school-planned-for-leeds
 original_url: https://olivenetwork.org/Issue/britain-s-first-car-free-school-planned-for-leeds/25013

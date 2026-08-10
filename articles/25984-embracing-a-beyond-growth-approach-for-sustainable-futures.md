@@ -3,6 +3,7 @@ title: Embracing a Beyond Growth Approach for Sustainable Futures
 date: 2023-11-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25984
 original_slug: embracing-a-beyond-growth-approach-for-sustainable-futures
 original_url: https://olivenetwork.org/Issue/embracing-a-beyond-growth-approach-for-sustainable-futures/25984

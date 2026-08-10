@@ -4,6 +4,7 @@ title: UN offers science-based blueprint to tackle climate crisis, biodiversity 
 date: 2021-11-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25664
 original_slug: un-offers-science-based-blueprint-to-tackle-climate-crisis-biodiversity-loss-and-pollution
 original_url: https://olivenetwork.org/Issue/un-offers-science-based-blueprint-to-tackle-climate-crisis-biodiversity-loss-and-pollution/25664

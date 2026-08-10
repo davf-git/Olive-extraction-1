@@ -3,6 +3,7 @@ title: International Day of Clean Air for Blue Skies
 date: 2024-09-07
 category: Climate
 source: UNITED NATIONS
+source_url: https://www.un.org/en/observances/clean-air-day?_gl=1*h12cri*_ga*MzkwMDI0OTE0LjE3MTY4NzYxMDQ.*_ga_TK9BQL5X7Z*MTcyNTc4MjE2MC4xNS4xLjE3MjU3ODIxNjYuMC4wLjA.*_ga_S5EKZKSB78*MTcyNTc4MjE2MC4xMi4xLjE3MjU3ODIyMjguNjAuMC4w
 original_id: 26162
 original_slug: international-day-of-clean-air-for-blue-skies
 original_url: https://olivenetwork.org/Issue/international-day-of-clean-air-for-blue-skies/26162

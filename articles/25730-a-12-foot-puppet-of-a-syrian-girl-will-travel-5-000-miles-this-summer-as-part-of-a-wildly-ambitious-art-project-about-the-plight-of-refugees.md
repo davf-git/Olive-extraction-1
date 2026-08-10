@@ -4,6 +4,7 @@ title: A 12-Foot Puppet of a Syrian Girl Will Travel 5,000 Miles This Summer as 
 date: 2021-11-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25730
 original_slug: a-12-foot-puppet-of-a-syrian-girl-will-travel-5-000-miles-this-summer-as-part-of-a-wildly-ambitious-art-project-about-the-plight-of-refugees
 original_url: https://olivenetwork.org/Issue/a-12-foot-puppet-of-a-syrian-girl-will-travel-5-000-miles-this-summer-as-part-of-a-wildly-ambitious-art-project-about-the-plight-of-refugees/25730

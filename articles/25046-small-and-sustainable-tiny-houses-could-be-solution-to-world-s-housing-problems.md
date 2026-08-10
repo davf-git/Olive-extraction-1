@@ -4,6 +4,7 @@ title: 'Small and sustainable: ''Tiny Houses'' could be solution to world’s ho
 date: 2019-09-27
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25046
 original_slug: small-and-sustainable-tiny-houses-could-be-solution-to-world-s-housing-problems
 original_url: https://olivenetwork.org/Issue/small-and-sustainable-tiny-houses-could-be-solution-to-world-s-housing-problems/25046

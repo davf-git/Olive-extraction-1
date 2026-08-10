@@ -4,6 +4,7 @@ title: Trading in the currency of hope as we work to create a just and regenerat
 date: 2022-07-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25862
 original_slug: trading-in-the-currency-of-hope-as-we-work-to-create-a-just-and-regenerative-future
 original_url: https://olivenetwork.org/Issue/trading-in-the-currency-of-hope-as-we-work-to-create-a-just-and-regenerative-future/25862

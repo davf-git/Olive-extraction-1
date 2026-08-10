@@ -3,6 +3,7 @@ title: Young reporters take on climate action from their classrooms
 date: 2021-05-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25725
 original_slug: young-reporters-take-on-climate-action-from-their-classrooms
 original_url: https://olivenetwork.org/Issue/young-reporters-take-on-climate-action-from-their-classrooms/25725

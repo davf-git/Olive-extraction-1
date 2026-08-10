@@ -3,6 +3,7 @@ title: Human Rights Day 2024
 date: 2024-12-10
 category: Humanitarian
 source: UNITED NATIONS HUMAN RIGHTS
+source_url: https://www.ohchr.org/en/get-involved/campaign/hrd2024
 original_id: 26184
 original_slug: human-rights-day-2024
 original_url: https://olivenetwork.org/Issue/human-rights-day-2024/26184

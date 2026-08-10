@@ -3,6 +3,7 @@ title: 'Enduring Game: Expanding New Models of Museum Making'
 date: 2025-06-28
 category: Arts & Culture
 source: CIMAM
+source_url: https://cimam.org/cimam-annual-conference/annual-conference-2025-torino/conference-abstract/
 original_id: 26231
 original_slug: enduring-game-expanding-new-models-of-museum-making
 original_url: https://olivenetwork.org/Issue/enduring-game-expanding-new-models-of-museum-making/26231

@@ -3,6 +3,7 @@ title: UN Launches Global Principles for Information Integrity
 date: 2024-07-14
 category: Education
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/un-launches-global-principles-for-information-integrity/?utm_medium=email&utm_campaign=SDG%20Update%2011%20July%202024&utm_content=SDG%20Update%2011%20July%202024+CID_b6ae16dedfefab81e67b42913f0bf033&utm_source=cm
 original_id: 26113
 original_slug: un-launches-global-principles-for-information-integrity
 original_url: https://olivenetwork.org/Issue/un-launches-global-principles-for-information-integrity/26113

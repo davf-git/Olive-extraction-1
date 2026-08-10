@@ -3,6 +3,7 @@ title: 'Future Perfect: Integrating Long-term Thinking into Public Policy'
 date: 2022-03-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25834
 original_slug: future-perfect-integrating-long-term-thinking-into-public-policy
 original_url: https://olivenetwork.org/Issue/future-perfect-integrating-long-term-thinking-into-public-policy/25834

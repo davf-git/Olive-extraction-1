@@ -3,6 +3,7 @@ title: 'Lunana: A Yak in the Classroom'
 date: 2025-01-06
 category: Arts & Culture
 source: BFI SIGHT AND SOUND
+source_url: https://www.bfi.org.uk/sight-and-sound/reviews/lunana-yak-classroom-gentle-bhutanese-drama
 original_id: 26191
 original_slug: lunana-a-yak-in-the-classroom
 original_url: https://olivenetwork.org/Issue/lunana-a-yak-in-the-classroom/26191

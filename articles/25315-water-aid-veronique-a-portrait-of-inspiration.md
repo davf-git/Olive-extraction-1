@@ -3,6 +3,7 @@ title: 'Water Aid: Veronique, a portrait of inspiration'
 date: 2020-05-17
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25315
 original_slug: water-aid-veronique-a-portrait-of-inspiration
 original_url: https://olivenetwork.org/Issue/water-aid-veronique-a-portrait-of-inspiration/25315

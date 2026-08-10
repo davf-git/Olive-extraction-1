@@ -3,6 +3,7 @@ title: The Climate Coalition
 date: 2020-06-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25375
 original_slug: the-climate-coalition
 original_url: https://olivenetwork.org/Issue/the-climate-coalition/25375

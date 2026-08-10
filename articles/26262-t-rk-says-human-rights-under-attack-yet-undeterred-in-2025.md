@@ -3,6 +3,7 @@ title: International Human Rights Day 2025
 date: 2025-12-27
 category: Climate
 source: UNITED NATIONS HUMAN RIGHTS
+source_url: https://www.ohchr.org/en/statements-and-speeches/2025/12/turk-says-human-rights-under-attack-yet-undeterred-2025
 original_id: 26262
 original_slug: t-rk-says-human-rights-under-attack-yet-undeterred-in-2025
 original_url: https://olivenetwork.org/Issue/t-rk-says-human-rights-under-attack-yet-undeterred-in-2025/26262

@@ -4,6 +4,7 @@ title: How a pre-Incan civilisation thrived in the Atacama Desert thanks to seab
 date: 2021-01-31
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25648
 original_slug: how-a-pre-incan-civilisation-thrived-in-the-atacama-desert-thanks-to-seabird-poo-fertiliser
 original_url: https://olivenetwork.org/Issue/how-a-pre-incan-civilisation-thrived-in-the-atacama-desert-thanks-to-seabird-poo-fertiliser/25648

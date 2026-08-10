@@ -4,6 +4,7 @@ title: EU allocates additional €3.5 million to support vulnerable refugees and
 date: 2021-01-06
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25605
 original_slug: eu-allocates-additional-3-5-million-to-support-vulnerable-refugees-and-migrants-in-bosnia-and-herzegovina
 original_url: https://olivenetwork.org/Issue/eu-allocates-additional-3-5-million-to-support-vulnerable-refugees-and-migrants-in-bosnia-and-herzegovina/25605

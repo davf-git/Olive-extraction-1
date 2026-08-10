@@ -4,6 +4,7 @@ title: 'Conservation International: Notes from the field: Sun-powered water, COV
 date: 2020-10-29
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25550
 original_slug: conservation-international-notes-from-the-field-sun-powered-water-covid-and-fishing-and-more
 original_url: https://olivenetwork.org/Issue/conservation-international-notes-from-the-field-sun-powered-water-covid-and-fishing-and-more/25550

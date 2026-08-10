@@ -4,6 +4,7 @@ title: David Kordansky Gallery Is Launching an Online Viewing Room With an All-S
 date: 2019-10-20
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25077
 original_slug: david-kordansky-gallery-is-launching-an-online-viewing-room-with-an-all-star-sale-that-benefits-climate-activism
 original_url: https://olivenetwork.org/Issue/david-kordansky-gallery-is-launching-an-online-viewing-room-with-an-all-star-sale-that-benefits-climate-activism/25077

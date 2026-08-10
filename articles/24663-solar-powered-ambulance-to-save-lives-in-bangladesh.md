@@ -3,6 +3,7 @@ title: Solar-powered ambulance to save lives in Bangladesh
 date: 2019-01-03
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24663
 original_slug: solar-powered-ambulance-to-save-lives-in-bangladesh
 original_url: https://olivenetwork.org/Issue/solar-powered-ambulance-to-save-lives-in-bangladesh/24663

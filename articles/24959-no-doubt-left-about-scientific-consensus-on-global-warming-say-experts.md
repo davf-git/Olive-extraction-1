@@ -3,6 +3,7 @@ title: '''No doubt left'' about scientific consensus on global warming, say expe
 date: 2019-07-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24959
 original_slug: no-doubt-left-about-scientific-consensus-on-global-warming-say-experts
 original_url: https://olivenetwork.org/Issue/no-doubt-left-about-scientific-consensus-on-global-warming-say-experts/24959

@@ -4,6 +4,7 @@ title: ‘CONNECTED BY A THREAD’. Arts Territory Exchange. Residency in Sustai
 date: 2020-01-12
 category: Environment
 source: Giovanni Morassutti
+source_url: null
 original_id: 25153
 original_slug: connected-by-a-thread-arts-territory-exchange-residency-in-sustainable-practice
 original_url: https://olivenetwork.org/Issue/connected-by-a-thread-arts-territory-exchange-residency-in-sustainable-practice/25153

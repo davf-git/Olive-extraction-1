@@ -4,6 +4,7 @@ title: Three Enchantingly Painted Houses in the Lost City of Pompeii Are Finally
 date: 2020-02-22
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25212
 original_slug: three-enchantingly-painted-houses-in-the-lost-city-of-pompeii-are-finally-open-to-the-public-after-a-40-year-restoration-project
 original_url: https://olivenetwork.org/Issue/three-enchantingly-painted-houses-in-the-lost-city-of-pompeii-are-finally-open-to-the-public-after-a-40-year-restoration-project/25212

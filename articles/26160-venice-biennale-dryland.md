@@ -3,6 +3,7 @@ title: 'Venice Biennale: Ξηρόμερο / Dryland'
 date: 2024-08-31
 category: Arts & Culture
 source: LA BIENNALE DI VENEZIA
+source_url: https://www.labiennale.org/en/art/2024/greece
 original_id: 26160
 original_slug: venice-biennale-dryland
 original_url: https://olivenetwork.org/Issue/venice-biennale-dryland/26160

@@ -3,6 +3,7 @@ title: Reforming Financial Architecture to Achieve New Forms of Cooperation
 date: 2023-06-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25949
 original_slug: reforming-financial-architecture-to-achieve-new-forms-of-cooperation
 original_url: https://olivenetwork.org/Issue/reforming-financial-architecture-to-achieve-new-forms-of-cooperation/25949

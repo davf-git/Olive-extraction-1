@@ -3,6 +3,7 @@ title: With powerful poem, Amanda Gorman sets the tone for Biden’s presidency
 date: 2021-01-24
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25636
 original_slug: with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presidency
 original_url: https://olivenetwork.org/Issue/with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presidency/25636

@@ -3,6 +3,7 @@ title: A personal and professional perspective on the school â€˜climate strikeâ€
 date: 2019-02-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24738
 original_slug: a-personal-and-professional-perspective-on-the-school-climate-strike
 original_url: https://olivenetwork.org/Issue/a-personal-and-professional-perspective-on-the-school-climate-strike/24738

@@ -4,6 +4,7 @@ title: 'Climate Action - COVID-19 & Climate Change: What does this mean for the 
 date: 2020-05-02
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 25285
 original_slug: climate-action-covid-19-climate-change-what-does-this-mean-for-the-fight-against-the-climate-crisis
 original_url: https://olivenetwork.org/Issue/climate-action-covid-19-climate-change-what-does-this-mean-for-the-fight-against-the-climate-crisis/25285

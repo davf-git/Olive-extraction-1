@@ -3,6 +3,7 @@ title: The Court Has Spoken. So Has the Assembly. What’s Next?
 date: 2026-07-28
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/commentary/guest-articles/the-court-has-spoken-so-has-the-assembly-whats-next/?utm_medium=email&utm_campaign=SDG%20Update%20-%2023%20July%202026&utm_content=SDG%20Update%20-%2023%20July%202026+CID_4416b9948e80db51326f992211a2e9d1&utm_source=cm
 original_id: 26318
 original_slug: the-court-has-spoken-so-has-the-assembly-what-s-next
 original_url: https://olivenetwork.org/Issue/the-court-has-spoken-so-has-the-assembly-what-s-next/26318

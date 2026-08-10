@@ -3,6 +3,7 @@ title: Syrian refugees help to rebuild Beirut when nobody else is prepared to do
 date: 2020-11-17
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25575
 original_slug: syrian-refugees-help-to-rebuild-beirut-when-nobody-else-is-prepared-to-do-so
 original_url: https://olivenetwork.org/Issue/syrian-refugees-help-to-rebuild-beirut-when-nobody-else-is-prepared-to-do-so/25575

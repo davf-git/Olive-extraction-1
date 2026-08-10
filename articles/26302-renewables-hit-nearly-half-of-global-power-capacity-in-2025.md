@@ -3,6 +3,7 @@ title: Renewables Hit Nearly Half of Global Power Capacity in 2025
 date: 2026-05-01
 category: Climate
 source: EARTH . ORG
+source_url: https://earth.org/renewables-hit-nearly-half-of-global-power-capacity-in-2025/?mc_cid=aef4597d25&mc_eid=90ca4a86f9
 original_id: 26302
 original_slug: renewables-hit-nearly-half-of-global-power-capacity-in-2025
 original_url: https://olivenetwork.org/Issue/renewables-hit-nearly-half-of-global-power-capacity-in-2025/26302

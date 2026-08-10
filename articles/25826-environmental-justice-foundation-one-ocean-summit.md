@@ -3,6 +3,7 @@ title: 'ENVIRONMENTAL JUSTICE FOUNDATION: ONE OCEAN SUMMIT'
 date: 2022-02-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25826
 original_slug: environmental-justice-foundation-one-ocean-summit
 original_url: https://olivenetwork.org/Issue/environmental-justice-foundation-one-ocean-summit/25826

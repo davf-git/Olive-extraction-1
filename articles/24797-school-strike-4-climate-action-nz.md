@@ -3,6 +3,7 @@ title: School Strike 4 Climate Action NZ
 date: 2019-08-27
 category: Education
 source: Infoon
+source_url: null
 original_id: 24797
 original_slug: school-strike-4-climate-action-nz
 original_url: https://olivenetwork.org/Issue/school-strike-4-climate-action-nz/24797

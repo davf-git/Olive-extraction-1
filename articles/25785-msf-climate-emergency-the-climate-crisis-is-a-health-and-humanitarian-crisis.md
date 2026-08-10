@@ -3,6 +3,7 @@ title: 'MSF: Climate emergency: The climate crisis is a health and humanitarian 
 date: 2021-11-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25785
 original_slug: msf-climate-emergency-the-climate-crisis-is-a-health-and-humanitarian-crisis
 original_url: https://olivenetwork.org/Issue/msf-climate-emergency-the-climate-crisis-is-a-health-and-humanitarian-crisis/25785

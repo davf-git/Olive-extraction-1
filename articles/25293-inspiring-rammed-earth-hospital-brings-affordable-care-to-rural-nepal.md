@@ -3,6 +3,7 @@ title: Inspiring rammed earth hospital brings affordable care to rural Nepal
 date: 2023-11-03
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25293
 original_slug: inspiring-rammed-earth-hospital-brings-affordable-care-to-rural-nepal
 original_url: https://olivenetwork.org/Issue/inspiring-rammed-earth-hospital-brings-affordable-care-to-rural-nepal/25293

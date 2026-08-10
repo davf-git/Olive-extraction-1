@@ -3,6 +3,7 @@ title: How the UN is connecting the world’s classrooms
 date: 2024-07-11
 category: Education
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/science-tech/how-the-un-is-connecting-the-world-s-classrooms
 original_id: 26112
 original_slug: how-the-un-is-connecting-the-world-s-classrooms
 original_url: https://olivenetwork.org/Issue/how-the-un-is-connecting-the-world-s-classrooms/26112

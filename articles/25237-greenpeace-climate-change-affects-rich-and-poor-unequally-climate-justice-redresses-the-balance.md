@@ -4,6 +4,7 @@ title: 'Greenpeace: Climate change affects rich and poor unequally. Climate just
 date: 2020-03-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25237
 original_slug: greenpeace-climate-change-affects-rich-and-poor-unequally-climate-justice-redresses-the-balance
 original_url: https://olivenetwork.org/Issue/greenpeace-climate-change-affects-rich-and-poor-unequally-climate-justice-redresses-the-balance/25237

@@ -4,6 +4,7 @@ title: 'Sophie Swaton: ''Let''s humbly return back to earth and protect it while
 date: 2020-09-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25476
 original_slug: sophie-swaton-let-s-humbly-return-back-to-earth-and-protect-it-while-there-is-still-time
 original_url: https://olivenetwork.org/Issue/sophie-swaton-let-s-humbly-return-back-to-earth-and-protect-it-while-there-is-still-time/25476

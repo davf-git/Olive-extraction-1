@@ -4,6 +4,7 @@ title: Hauser & Wirth Has Pledged to Donate 10 Percent of All Sales From Its Onl
 date: 2020-04-05
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25262
 original_slug: hauser-wirth-has-pledged-to-donate-10-percent-of-all-sales-from-its-online-shows-to-the-world-health-organization
 original_url: https://olivenetwork.org/Issue/hauser-wirth-has-pledged-to-donate-10-percent-of-all-sales-from-its-online-shows-to-the-world-health-organization/25262

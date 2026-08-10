@@ -3,6 +3,7 @@ title: 'IFRC - Water: A key element for stability and health'
 date: 2024-08-27
 category: Charities
 source: International Federation of the Red Cross and Red Crescent
+source_url: https://www.ifrc.org/article/water-key-element-stability-and-health-communities-facing-insecure-and-changing-world
 original_id: 26158
 original_slug: ifrc-water-a-key-element-for-stability-and-health
 original_url: https://olivenetwork.org/Issue/ifrc-water-a-key-element-for-stability-and-health/26158

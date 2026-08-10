@@ -3,6 +3,7 @@ title: 'We Don''t Have Time at Davos: WEF Alternative Speech ''26'
 date: 2026-01-21
 category: Climate
 source: WE DON'T HAVE TIME
+source_url: https://www.wedonthavetime.org/events/wef-alternativespeech-26
 original_id: 26273
 original_slug: we-don-t-have-time-at-davos-wef-alternative-speech-26
 original_url: https://olivenetwork.org/Issue/we-don-t-have-time-at-davos-wef-alternative-speech-26/26273

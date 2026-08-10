@@ -4,6 +4,7 @@ title: If we’re serious about changing the world, we need a better kind of eco
 date: 2023-07-22
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25090
 original_slug: if-we-re-serious-about-changing-the-world-we-need-a-better-kind-of-economics-to-do-it
 original_url: https://olivenetwork.org/Issue/if-we-re-serious-about-changing-the-world-we-need-a-better-kind-of-economics-to-do-it/25090

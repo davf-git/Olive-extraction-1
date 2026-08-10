@@ -4,6 +4,7 @@ title: '''It gave me hope in democracy'': how French citizens are embracing peop
 date: 2021-04-14
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25711
 original_slug: it-gave-me-hope-in-democracy-how-french-citizens-are-embracing-people-power
 original_url: https://olivenetwork.org/Issue/it-gave-me-hope-in-democracy-how-french-citizens-are-embracing-people-power/25711

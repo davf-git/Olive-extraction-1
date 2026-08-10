@@ -4,6 +4,7 @@ title: German Artist Julian Rosefeldt’s New Film Weaves 2,000 Years’ Worth o
 date: 2023-01-03
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25912
 original_slug: german-artist-julian-rosefeldt-s-new-film-weaves-2-000-years-worth-of-cultural-history-into-a-commentary-on-capitalist-greed
 original_url: https://olivenetwork.org/Issue/german-artist-julian-rosefeldt-s-new-film-weaves-2-000-years-worth-of-cultural-history-into-a-commentary-on-capitalist-greed/25912

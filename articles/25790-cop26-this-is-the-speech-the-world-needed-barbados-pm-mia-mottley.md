@@ -3,6 +3,7 @@ title: 'Featured Voice: This is the Speech the World Needed - Barbados PM Mia Mo
 date: 2026-04-14
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25790
 original_slug: cop26-this-is-the-speech-the-world-needed-barbados-pm-mia-mottley
 original_url: https://olivenetwork.org/Issue/cop26-this-is-the-speech-the-world-needed-barbados-pm-mia-mottley/25790

@@ -4,6 +4,7 @@ title: 'Data for good: connecting organizations with data experts to solve human
 date: 2022-01-19
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25816
 original_slug: data-for-good-connecting-organizations-with-data-experts-to-solve-humanitarian-issues
 original_url: https://olivenetwork.org/Issue/data-for-good-connecting-organizations-with-data-experts-to-solve-humanitarian-issues/25816

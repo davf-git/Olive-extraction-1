@@ -4,6 +4,7 @@ title: 'OXFAM: Richest 1% bag nearly twice as much wealth as the rest of the wor
 date: 2023-01-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25927
 original_slug: oxfam-richest-1-bag-nearly-twice-as-much-wealth-as-the-rest-of-the-world-put-together
 original_url: https://olivenetwork.org/Issue/oxfam-richest-1-bag-nearly-twice-as-much-wealth-as-the-rest-of-the-world-put-together/25927

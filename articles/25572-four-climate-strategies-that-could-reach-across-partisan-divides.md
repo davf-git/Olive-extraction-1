@@ -3,6 +3,7 @@ title: Four climate strategies that could reach across partisan divides
 date: 2020-11-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25572
 original_slug: four-climate-strategies-that-could-reach-across-partisan-divides
 original_url: https://olivenetwork.org/Issue/four-climate-strategies-that-could-reach-across-partisan-divides/25572

@@ -3,6 +3,7 @@ title: The end of the UN? Not if the Charter gets a reboot
 date: 2025-03-17
 category: Climate
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/global-news/the-end-of-the-un-not-if-the-charter-gets-a-reboot
 original_id: 26205
 original_slug: the-end-of-the-un-not-if-the-charter-gets-a-reboot
 original_url: https://olivenetwork.org/Issue/the-end-of-the-un-not-if-the-charter-gets-a-reboot/26205

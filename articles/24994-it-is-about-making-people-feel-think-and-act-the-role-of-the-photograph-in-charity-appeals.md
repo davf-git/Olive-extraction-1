@@ -4,6 +4,7 @@ title: “It is about making people feel, think and act.” The role of the phot
 date: 2019-08-16
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24994
 original_slug: it-is-about-making-people-feel-think-and-act-the-role-of-the-photograph-in-charity-appeals
 original_url: https://olivenetwork.org/Issue/it-is-about-making-people-feel-think-and-act-the-role-of-the-photograph-in-charity-appeals/24994

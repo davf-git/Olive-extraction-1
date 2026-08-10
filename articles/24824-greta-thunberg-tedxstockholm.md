@@ -3,6 +3,7 @@ title: Greta Thunberg TEDxStockholm
 date: 2019-04-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24824
 original_slug: greta-thunberg-tedxstockholm
 original_url: https://olivenetwork.org/Issue/greta-thunberg-tedxstockholm/24824

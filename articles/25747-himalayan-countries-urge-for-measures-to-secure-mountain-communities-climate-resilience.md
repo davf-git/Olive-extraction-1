@@ -4,6 +4,7 @@ title: Himalayan countries urge for measures to secure mountain communities’ c
 date: 2021-08-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25747
 original_slug: himalayan-countries-urge-for-measures-to-secure-mountain-communities-climate-resilience
 original_url: https://olivenetwork.org/Issue/himalayan-countries-urge-for-measures-to-secure-mountain-communities-climate-resilience/25747

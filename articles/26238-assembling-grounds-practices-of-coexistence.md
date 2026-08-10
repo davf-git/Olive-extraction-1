@@ -3,6 +3,7 @@ title: Assembling Grounds. Practices of Coexistence
 date: 2025-07-21
 category: Climate
 source: ZKM KARLSRUHE
+source_url: https://zkm.de/en/2025/07/assembling-grounds-practices-of-coexistence
 original_id: 26238
 original_slug: assembling-grounds-practices-of-coexistence
 original_url: https://olivenetwork.org/Issue/assembling-grounds-practices-of-coexistence/26238

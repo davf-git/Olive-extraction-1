@@ -3,6 +3,7 @@ title: 'UN NEWS: Freedom of the press under attack worldwide'
 date: 2023-05-14
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25941
 original_slug: un-news-freedom-of-the-press-under-attack-worldwide
 original_url: https://olivenetwork.org/Issue/un-news-freedom-of-the-press-under-attack-worldwide/25941

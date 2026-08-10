@@ -4,6 +4,7 @@ title: Global Leaders and Climate Activists Gather in Snowless Davos Ahead of Wo
 date: 2023-01-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25926
 original_slug: global-leaders-and-climate-activists-gather-in-snowless-davos-ahead-of-world-economic-forum-2023
 original_url: https://olivenetwork.org/Issue/global-leaders-and-climate-activists-gather-in-snowless-davos-ahead-of-world-economic-forum-2023/25926

@@ -4,6 +4,7 @@ title: UN’s Albanese hails 30-nation meeting aimed at ending Israeli occupatio
 date: 2025-07-16
 category: Humanitarian
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/world/2025/jul/15/united-nations-francesca-albanese-colombia-conference-israel-palestine
 original_id: 26236
 original_slug: un-s-albanese-hails-30-nation-meeting-aimed-at-ending-israeli-occupation-of-palestine
 original_url: https://olivenetwork.org/Issue/un-s-albanese-hails-30-nation-meeting-aimed-at-ending-israeli-occupation-of-palestine/26236

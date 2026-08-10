@@ -3,6 +3,7 @@ title: The Global Partnership for Education
 date: 2019-06-25
 category: Education
 source: ON Network
+source_url: null
 original_id: 24927
 original_slug: the-global-partnership-for-education
 original_url: https://olivenetwork.org/Issue/the-global-partnership-for-education/24927

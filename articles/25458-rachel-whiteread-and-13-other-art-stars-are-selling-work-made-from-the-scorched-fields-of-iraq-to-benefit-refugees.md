@@ -4,6 +4,7 @@ title: Rachel Whiteread and 13 Other Art Stars Are Selling Work Made From the Sc
 date: 2020-09-04
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25458
 original_slug: rachel-whiteread-and-13-other-art-stars-are-selling-work-made-from-the-scorched-fields-of-iraq-to-benefit-refugees
 original_url: https://olivenetwork.org/Issue/rachel-whiteread-and-13-other-art-stars-are-selling-work-made-from-the-scorched-fields-of-iraq-to-benefit-refugees/25458

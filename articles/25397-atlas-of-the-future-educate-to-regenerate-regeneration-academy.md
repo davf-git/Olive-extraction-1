@@ -3,6 +3,7 @@ title: 'Atlas of the Future: Educate to regenerate - Regeneration Academy'
 date: 2020-07-31
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25397
 original_slug: atlas-of-the-future-educate-to-regenerate-regeneration-academy
 original_url: https://olivenetwork.org/Issue/atlas-of-the-future-educate-to-regenerate-regeneration-academy/25397

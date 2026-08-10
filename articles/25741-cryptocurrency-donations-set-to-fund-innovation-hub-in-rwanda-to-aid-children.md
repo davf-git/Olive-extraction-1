@@ -3,6 +3,7 @@ title: Cryptocurrency donations set to fund innovation hub in Rwanda to aid chil
 date: 2021-07-16
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25741
 original_slug: cryptocurrency-donations-set-to-fund-innovation-hub-in-rwanda-to-aid-children
 original_url: https://olivenetwork.org/Issue/cryptocurrency-donations-set-to-fund-innovation-hub-in-rwanda-to-aid-children/25741

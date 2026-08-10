@@ -3,6 +3,7 @@ title: Pope Leo urges release of imprisoned journalists in first news conference
 date: 2025-05-12
 category: Uncategorized
 source: BBC
+source_url: https://www.bbc.co.uk/news/live/c5y8rpz45y9t
 original_id: 26218
 original_slug: pope-leo-urges-release-of-imprisoned-journalists-in-first-news-conference
 original_url: https://olivenetwork.org/Issue/pope-leo-urges-release-of-imprisoned-journalists-in-first-news-conference/26218

@@ -3,6 +3,7 @@ title: Educating for the Future We Want
 date: 2026-02-17
 category: Arts & Culture
 source: THE GREAT TRANSITION INITIATIVE
+source_url: https://greattransition.org/gti-forum/pedagogy-transition-sterling
 original_id: 26279
 original_slug: educating-for-the-future-we-want
 original_url: https://olivenetwork.org/Issue/educating-for-the-future-we-want/26279

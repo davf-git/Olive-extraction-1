@@ -3,6 +3,7 @@ title: Crises have changed. Can the aid industry?
 date: 2020-11-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25565
 original_slug: crises-have-changed-can-the-aid-industry
 original_url: https://olivenetwork.org/Issue/crises-have-changed-can-the-aid-industry/25565

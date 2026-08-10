@@ -3,6 +3,7 @@ title: ‘The Fastest Way to Make a Populist Into a Humanist Is to Listen’
 date: 2021-03-20
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25691
 original_slug: the-fastest-way-to-make-a-populist-into-a-humanist-is-to-listen
 original_url: https://olivenetwork.org/Issue/the-fastest-way-to-make-a-populist-into-a-humanist-is-to-listen/25691

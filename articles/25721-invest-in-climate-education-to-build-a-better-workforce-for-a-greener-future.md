@@ -3,6 +3,7 @@ title: Invest in climate education to build a better workforce for a greener fut
 date: 2021-04-27
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25721
 original_slug: invest-in-climate-education-to-build-a-better-workforce-for-a-greener-future
 original_url: https://olivenetwork.org/Issue/invest-in-climate-education-to-build-a-better-workforce-for-a-greener-future/25721

@@ -3,6 +3,7 @@ title: EU eyes scheme to share surplus COVID-19 vaccines with poorer nations
 date: 2021-01-20
 category: Health
 source: ON Network
+source_url: null
 original_id: 25624
 original_slug: eu-eyes-scheme-to-share-surplus-covid-19-vaccines-with-poorer-nations
 original_url: https://olivenetwork.org/Issue/eu-eyes-scheme-to-share-surplus-covid-19-vaccines-with-poorer-nations/25624

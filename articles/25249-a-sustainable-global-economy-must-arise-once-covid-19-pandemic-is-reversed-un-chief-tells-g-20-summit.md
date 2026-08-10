@@ -4,6 +4,7 @@ title: A sustainable global economy must arise once COVID-19 pandemic is reverse
 date: 2020-03-26
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25249
 original_slug: a-sustainable-global-economy-must-arise-once-covid-19-pandemic-is-reversed-un-chief-tells-g-20-summit
 original_url: https://olivenetwork.org/Issue/a-sustainable-global-economy-must-arise-once-covid-19-pandemic-is-reversed-un-chief-tells-g-20-summit/25249

@@ -4,6 +4,7 @@ title: Restoring oceans could create 100,000 jobs and give £50bn boost to econo
 date: 2021-06-30
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25738
 original_slug: restoring-oceans-could-create-100-000-jobs-and-give-50bn-boost-to-economy-in-uk
 original_url: https://olivenetwork.org/Issue/restoring-oceans-could-create-100-000-jobs-and-give-50bn-boost-to-economy-in-uk/25738

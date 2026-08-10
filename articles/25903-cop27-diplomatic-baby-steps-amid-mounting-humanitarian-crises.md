@@ -3,6 +3,7 @@ title: 'COP27: Diplomatic baby steps amid mounting humanitarian crises'
 date: 2022-11-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25903
 original_slug: cop27-diplomatic-baby-steps-amid-mounting-humanitarian-crises
 original_url: https://olivenetwork.org/Issue/cop27-diplomatic-baby-steps-amid-mounting-humanitarian-crises/25903

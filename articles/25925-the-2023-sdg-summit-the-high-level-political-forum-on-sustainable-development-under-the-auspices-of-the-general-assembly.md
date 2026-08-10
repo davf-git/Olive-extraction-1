@@ -4,6 +4,7 @@ title: The 2023 SDG Summit – the High-level Political Forum on Sustainable Dev
 date: 2023-01-14
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25925
 original_slug: the-2023-sdg-summit-the-high-level-political-forum-on-sustainable-development-under-the-auspices-of-the-general-assembly
 original_url: https://olivenetwork.org/Issue/the-2023-sdg-summit-the-high-level-political-forum-on-sustainable-development-under-the-auspices-of-the-general-assembly/25925

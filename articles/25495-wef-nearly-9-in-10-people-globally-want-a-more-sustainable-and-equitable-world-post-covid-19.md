@@ -4,6 +4,7 @@ title: 'WEF: Nearly 9 in 10 People Globally Want a More Sustainable and Equitabl
 date: 2020-09-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25495
 original_slug: wef-nearly-9-in-10-people-globally-want-a-more-sustainable-and-equitable-world-post-covid-19
 original_url: https://olivenetwork.org/Issue/wef-nearly-9-in-10-people-globally-want-a-more-sustainable-and-equitable-world-post-covid-19/25495

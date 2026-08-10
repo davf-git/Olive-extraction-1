@@ -3,6 +3,7 @@ title: 'COP27: The world cannot afford another set of vague promises, warns IFRC
 date: 2022-11-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25892
 original_slug: cop27-the-world-cannot-afford-another-set-of-vague-promises-warns-ifrc
 original_url: https://olivenetwork.org/Issue/cop27-the-world-cannot-afford-another-set-of-vague-promises-warns-ifrc/25892

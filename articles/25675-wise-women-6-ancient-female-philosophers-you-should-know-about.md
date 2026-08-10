@@ -3,6 +3,7 @@ title: 'Wise women: 6 ancient female philosophers you should know about'
 date: 2021-03-08
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25675
 original_slug: wise-women-6-ancient-female-philosophers-you-should-know-about
 original_url: https://olivenetwork.org/Issue/wise-women-6-ancient-female-philosophers-you-should-know-about/25675

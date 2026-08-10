@@ -3,6 +3,7 @@ title: '2021 Year in Review: Climate action, or blah, blah, blah?'
 date: 2022-01-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25809
 original_slug: 2021-year-in-review-climate-action-or-blah-blah-blah
 original_url: https://olivenetwork.org/Issue/2021-year-in-review-climate-action-or-blah-blah-blah/25809

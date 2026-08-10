@@ -3,6 +3,7 @@ title: COP26 PLATFORM
 date: 2021-12-09
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25761
 original_slug: cop26-platform
 original_url: https://olivenetwork.org/Issue/cop26-platform/25761

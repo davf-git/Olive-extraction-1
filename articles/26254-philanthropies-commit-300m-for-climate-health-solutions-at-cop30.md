@@ -3,6 +3,7 @@ title: Philanthropies commit $300M for climate-health solutions at COP30
 date: 2025-11-14
 category: Climate
 source: DEVEX
+source_url: https://www.devex.com/news/philanthropies-commit-300m-for-climate-health-solutions-at-cop30-111329
 original_id: 26254
 original_slug: philanthropies-commit-300m-for-climate-health-solutions-at-cop30
 original_url: https://olivenetwork.org/Issue/philanthropies-commit-300m-for-climate-health-solutions-at-cop30/26254

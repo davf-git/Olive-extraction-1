@@ -3,6 +3,7 @@ title: Russians in exile express their anger and shame
 date: 2022-06-06
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25856
 original_slug: russians-in-exile-express-their-anger-and-shame
 original_url: https://olivenetwork.org/Issue/russians-in-exile-express-their-anger-and-shame/25856

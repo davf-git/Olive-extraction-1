@@ -4,6 +4,7 @@ title: 'Conservation International: These ecosystems could determine our climate
 date: 2021-11-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25797
 original_slug: conservation-international-these-ecosystems-could-determine-our-climate-future-study
 original_url: https://olivenetwork.org/Issue/conservation-international-these-ecosystems-could-determine-our-climate-future-study/25797

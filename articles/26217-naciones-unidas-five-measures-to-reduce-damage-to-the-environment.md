@@ -3,6 +3,7 @@ title: 'Naciones Unidas: Five measures to reduce damage to the environment'
 date: 2025-05-12
 category: Climate
 source: NACIONES UNIDAS
+source_url: https://news.un.org/es/story/2025/04/1537926
 original_id: 26217
 original_slug: naciones-unidas-five-measures-to-reduce-damage-to-the-environment
 original_url: https://olivenetwork.org/Issue/naciones-unidas-five-measures-to-reduce-damage-to-the-environment/26217

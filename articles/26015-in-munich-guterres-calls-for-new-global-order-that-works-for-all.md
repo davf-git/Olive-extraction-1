@@ -3,6 +3,7 @@ title: In Munich, Guterres calls for new global order that works for all
 date: 2024-02-15
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 26015
 original_slug: in-munich-guterres-calls-for-new-global-order-that-works-for-all
 original_url: https://olivenetwork.org/Issue/in-munich-guterres-calls-for-new-global-order-that-works-for-all/26015

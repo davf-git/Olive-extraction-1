@@ -4,6 +4,7 @@ title: '‘Fine Art Is Good Medicine’: How Hospitals Around the World Are Expe
 date: 2019-07-28
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24973
 original_slug: fine-art-is-good-medicine-how-hospitals-around-the-world-are-experimenting-with-the-healing-power-of-art
 original_url: https://olivenetwork.org/Issue/fine-art-is-good-medicine-how-hospitals-around-the-world-are-experimenting-with-the-healing-power-of-art/24973

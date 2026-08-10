@@ -3,6 +3,7 @@ title: World Urban Forum Tackles Global Housing Crisis
 date: 2026-05-28
 category: Dwelling
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/world-urban-forum-tackles-global-housing-crisis/?utm_medium=email&utm_campaign=SDG%20Update%20-%2028%20May%202026&utm_content=SDG%20Update%20-%2028%20May%202026+CID_a96f0e91b5f6e771dc96c600440fea23&utm_source=cm
 original_id: 26306
 original_slug: world-urban-forum-tackles-global-housing-crisis
 original_url: https://olivenetwork.org/Issue/world-urban-forum-tackles-global-housing-crisis/26306

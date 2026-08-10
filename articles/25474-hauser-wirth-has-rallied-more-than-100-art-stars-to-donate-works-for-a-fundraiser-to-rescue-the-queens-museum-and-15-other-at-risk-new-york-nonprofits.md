@@ -4,6 +4,7 @@ title: Hauser & Wirth Has Rallied More Than 100 Art Stars to Donate Works for a 
 date: 2020-09-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25474
 original_slug: hauser-wirth-has-rallied-more-than-100-art-stars-to-donate-works-for-a-fundraiser-to-rescue-the-queens-museum-and-15-other-at-risk-new-york-nonprofits
 original_url: https://olivenetwork.org/Issue/hauser-wirth-has-rallied-more-than-100-art-stars-to-donate-works-for-a-fundraiser-to-rescue-the-queens-museum-and-15-other-at-risk-new-york-nonprofits/25474

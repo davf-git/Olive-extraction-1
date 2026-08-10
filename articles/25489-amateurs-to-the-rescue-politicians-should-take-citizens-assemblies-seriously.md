@@ -3,6 +3,7 @@ title: 'Amateurs to the rescue: Politicians should take citizens’ assemblies s
 date: 2020-09-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25489
 original_slug: amateurs-to-the-rescue-politicians-should-take-citizens-assemblies-seriously
 original_url: https://olivenetwork.org/Issue/amateurs-to-the-rescue-politicians-should-take-citizens-assemblies-seriously/25489

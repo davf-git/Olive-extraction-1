@@ -4,6 +4,7 @@ title: The world is burning. Who can convince the comfortable classes of the rad
 date: 2023-08-27
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25958
 original_slug: the-world-is-burning-who-can-convince-the-comfortable-classes-of-the-radical-sacrifices-needed
 original_url: https://olivenetwork.org/Issue/the-world-is-burning-who-can-convince-the-comfortable-classes-of-the-radical-sacrifices-needed/25958

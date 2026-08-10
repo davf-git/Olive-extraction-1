@@ -3,6 +3,7 @@ title: 'The Future of Sustainability 2024/25: Reimagining the Way the World Work
 date: 2025-02-17
 category: Climate
 source: FORUM FOR THE FUTURE
+source_url: https://www.forumforthefuture.org/the-future-of-sustainability-2024-25?mc_cid=dfa195d588&mc_eid=7786132b83
 original_id: 26180
 original_slug: the-future-of-sustainability-2024-25-reimagining-the-way-the-world-works
 original_url: https://olivenetwork.org/Issue/the-future-of-sustainability-2024-25-reimagining-the-way-the-world-works/26180

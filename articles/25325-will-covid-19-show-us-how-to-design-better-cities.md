@@ -3,6 +3,7 @@ title: Will Covid-19 show us how to design better cities?
 date: 2020-05-26
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25325
 original_slug: will-covid-19-show-us-how-to-design-better-cities
 original_url: https://olivenetwork.org/Issue/will-covid-19-show-us-how-to-design-better-cities/25325

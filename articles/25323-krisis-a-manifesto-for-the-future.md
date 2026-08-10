@@ -3,6 +3,7 @@ title: 'Krisis: a manifesto for the future'
 date: 2025-12-08
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25323
 original_slug: krisis-a-manifesto-for-the-future
 original_url: https://olivenetwork.org/Issue/krisis-a-manifesto-for-the-future/25323

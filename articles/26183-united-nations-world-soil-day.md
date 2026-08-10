@@ -3,6 +3,7 @@ title: 'Featured Story: World Soil Day'
 date: 2026-02-07
 category: Education
 source: FOOD AND AGRICULTURE ORGANISATION OF THE UNITED NATIONS
+source_url: https://www.fao.org/world-soil-day/en/
 original_id: 26183
 original_slug: united-nations-world-soil-day
 original_url: https://olivenetwork.org/Issue/united-nations-world-soil-day/26183

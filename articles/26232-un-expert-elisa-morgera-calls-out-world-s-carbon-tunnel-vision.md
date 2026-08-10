@@ -3,6 +3,7 @@ title: UN expert Elisa Morgera calls out world’s ‘carbon tunnel vision'
 date: 2025-06-30
 category: Climate
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/climate-environment/un-expert-elisa-morgera-calls-out-world-s-carbon-tunnel-vision
 original_id: 26232
 original_slug: un-expert-elisa-morgera-calls-out-world-s-carbon-tunnel-vision
 original_url: https://olivenetwork.org/Issue/un-expert-elisa-morgera-calls-out-world-s-carbon-tunnel-vision/26232

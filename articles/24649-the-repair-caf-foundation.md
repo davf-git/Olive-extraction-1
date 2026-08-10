@@ -3,6 +3,7 @@ title: The Repair Café Foundation
 date: 2019-01-02
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24649
 original_slug: the-repair-caf-foundation
 original_url: https://olivenetwork.org/Issue/the-repair-caf-foundation/24649

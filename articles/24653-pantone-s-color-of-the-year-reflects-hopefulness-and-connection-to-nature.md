@@ -3,6 +3,7 @@ title: Pantone’s Color of the Year Reflects Hopefulness and Connection to Natu
 date: 2019-01-02
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24653
 original_slug: pantone-s-color-of-the-year-reflects-hopefulness-and-connection-to-nature
 original_url: https://olivenetwork.org/Issue/pantone-s-color-of-the-year-reflects-hopefulness-and-connection-to-nature/24653

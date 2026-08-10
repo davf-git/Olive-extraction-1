@@ -4,6 +4,7 @@ title: 'WWF: Details, not just promises: What corporate ambition should look lik
 date: 2021-11-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25784
 original_slug: wwf-details-not-just-promises-what-corporate-ambition-should-look-like-at-cop26
 original_url: https://olivenetwork.org/Issue/wwf-details-not-just-promises-what-corporate-ambition-should-look-like-at-cop26/25784

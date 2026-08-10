@@ -3,6 +3,7 @@ title: 'Forum for the Future: How will you reboot the future?'
 date: 2021-04-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25723
 original_slug: forum-for-the-future-how-will-you-reboot-the-future
 original_url: https://olivenetwork.org/Issue/forum-for-the-future-how-will-you-reboot-the-future/25723

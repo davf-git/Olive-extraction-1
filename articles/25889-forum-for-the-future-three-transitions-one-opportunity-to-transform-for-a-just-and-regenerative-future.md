@@ -4,6 +4,7 @@ title: 'Featured Story: Forum for the Future: Three transitions, one opportunity
 date: 2024-11-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25889
 original_slug: forum-for-the-future-three-transitions-one-opportunity-to-transform-for-a-just-and-regenerative-future
 original_url: https://olivenetwork.org/Issue/forum-for-the-future-three-transitions-one-opportunity-to-transform-for-a-just-and-regenerative-future/25889

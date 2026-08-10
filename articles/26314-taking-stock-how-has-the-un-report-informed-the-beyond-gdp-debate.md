@@ -3,6 +3,7 @@ title: 'Taking Stock: How Has the UN Report Informed the Beyond GDP Debate?'
 date: 2026-07-06
 category: Economics
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/commentary/policy-briefs/taking-stock-how-has-hlegs-report-informed-the-beyond-gdp-debate/?utm_medium=email&utm_campaign=ICYMI%20-%2027%20June%202026&utm_content=ICYMI%20-%2027%20June%202026+CID_3b2e1f0d64332c3d74ef1b463f0ae278&utm_source=cm&utm_term=took%20stock%20of%20how%20it%20has%20influenced%20the%20debate
 original_id: 26314
 original_slug: taking-stock-how-has-the-un-report-informed-the-beyond-gdp-debate
 original_url: https://olivenetwork.org/Issue/taking-stock-how-has-the-un-report-informed-the-beyond-gdp-debate/26314

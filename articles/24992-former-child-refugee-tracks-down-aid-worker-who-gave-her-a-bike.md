@@ -3,6 +3,7 @@ title: Former child refugee tracks down aid worker who gave her a bike
 date: 2019-08-13
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24992
 original_slug: former-child-refugee-tracks-down-aid-worker-who-gave-her-a-bike
 original_url: https://olivenetwork.org/Issue/former-child-refugee-tracks-down-aid-worker-who-gave-her-a-bike/24992

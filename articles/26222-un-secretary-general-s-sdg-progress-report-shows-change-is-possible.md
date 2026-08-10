@@ -3,6 +3,7 @@ title: UN Secretary-General’s SDG Progress Report Shows Change is Possible
 date: 2025-07-14
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/un-secretary-generals-sdg-progress-report-shows-change-is-possible/?utm_medium=email&utm_campaign=SDG%20Update%20-%2029%20May%202025&utm_content=SDG%20Update%20-%2029%20May%202025+CID_7556e3ab5809e7ff06ca39fd9e93ddf7&utm_source=cm
 original_id: 26222
 original_slug: un-secretary-general-s-sdg-progress-report-shows-change-is-possible
 original_url: https://olivenetwork.org/Issue/un-secretary-general-s-sdg-progress-report-shows-change-is-possible/26222

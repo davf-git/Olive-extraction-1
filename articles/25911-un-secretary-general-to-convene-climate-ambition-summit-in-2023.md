@@ -3,6 +3,7 @@ title: UN Secretary-General to Convene “Climate Ambition Summit” in 2023
 date: 2022-12-22
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25911
 original_slug: un-secretary-general-to-convene-climate-ambition-summit-in-2023
 original_url: https://olivenetwork.org/Issue/un-secretary-general-to-convene-climate-ambition-summit-in-2023/25911

@@ -4,6 +4,7 @@ title: Rembrandt and Velázquez Lived in Warring Nations and Never Met. And Yet 
 date: 2019-11-22
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25095
 original_slug: rembrandt-and-vel-zquez-lived-in-warring-nations-and-never-met-and-yet-they-painted-like-brothers
 original_url: https://olivenetwork.org/Issue/rembrandt-and-vel-zquez-lived-in-warring-nations-and-never-met-and-yet-they-painted-like-brothers/25095

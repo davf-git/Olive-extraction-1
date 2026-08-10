@@ -3,6 +3,7 @@ title: 'By invitation: Mark Carney on how the economy must yield to human values
 date: 2020-04-20
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25274
 original_slug: by-invitation-mark-carney-on-how-the-economy-must-yield-to-human-values
 original_url: https://olivenetwork.org/Issue/by-invitation-mark-carney-on-how-the-economy-must-yield-to-human-values/25274

@@ -3,6 +3,7 @@ title: Sweden Opens World’s First Mall for Repaired and Recycled Goods
 date: 2019-09-24
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 24480
 original_slug: sweden-opens-world-s-first-mall-for-repaired-and-recycled-goods
 original_url: https://olivenetwork.org/Issue/sweden-opens-world-s-first-mall-for-repaired-and-recycled-goods/24480

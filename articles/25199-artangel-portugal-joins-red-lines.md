@@ -3,6 +3,7 @@ title: 'Artangel: Portugal joins Red Lines'
 date: 2020-02-13
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25199
 original_slug: artangel-portugal-joins-red-lines
 original_url: https://olivenetwork.org/Issue/artangel-portugal-joins-red-lines/25199

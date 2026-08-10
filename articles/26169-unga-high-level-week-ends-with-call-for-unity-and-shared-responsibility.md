@@ -3,6 +3,7 @@ title: UNGA High-level Week Ends with Call for Unity and Shared Responsibility
 date: 2024-10-09
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/unga-high-level-week-ends-with-call-for-unity-and-shared-responsibility/?utm_medium=email&utm_campaign=SDG%20Update%2010%20October%202024&utm_content=SDG%20Update%2010%20October%202024+CID_8432e18aee5435d06e00354819c2b123&utm_source=cm
 original_id: 26169
 original_slug: unga-high-level-week-ends-with-call-for-unity-and-shared-responsibility
 original_url: https://olivenetwork.org/Issue/unga-high-level-week-ends-with-call-for-unity-and-shared-responsibility/26169

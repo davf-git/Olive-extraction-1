@@ -3,6 +3,7 @@ title: 'Voices for Today Feature: Palestine Advocate Vanessa Redgrave'
 date: 2026-06-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26265
 original_slug: palestine-advocate-vanessa-redgrave
 original_url: https://olivenetwork.org/Issue/palestine-advocate-vanessa-redgrave/26265

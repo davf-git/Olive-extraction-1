@@ -4,6 +4,7 @@ title: Preserving Amazon rainforest turns into thriving business in Brazil – a
 date: 2022-10-05
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25886
 original_slug: preserving-amazon-rainforest-turns-into-thriving-business-in-brazil-a-success-story
 original_url: https://olivenetwork.org/Issue/preserving-amazon-rainforest-turns-into-thriving-business-in-brazil-a-success-story/25886

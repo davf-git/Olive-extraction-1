@@ -3,6 +3,7 @@ title: 'David Spero: Settlements at Kestle Barton'
 date: 2019-07-04
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24936
 original_slug: david-spero-settlements-at-kestle-barton
 original_url: https://olivenetwork.org/Issue/david-spero-settlements-at-kestle-barton/24936

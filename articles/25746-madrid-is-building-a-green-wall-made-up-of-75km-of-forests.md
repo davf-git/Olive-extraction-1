@@ -3,6 +3,7 @@ title: Madrid is building a 'green wall' made up of 75km of forests
 date: 2021-08-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25746
 original_slug: madrid-is-building-a-green-wall-made-up-of-75km-of-forests
 original_url: https://olivenetwork.org/Issue/madrid-is-building-a-green-wall-made-up-of-75km-of-forests/25746

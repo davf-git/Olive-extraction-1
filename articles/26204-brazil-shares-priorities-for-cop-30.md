@@ -3,6 +3,7 @@ title: Brazil Shares Priorities for COP 30
 date: 2025-03-14
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/brazil-shares-priorities-for-cop-30/?utm_medium=email&utm_campaign=SDG%20Update%2013%20March%202025&utm_content=SDG%20Update%2013%20March%202025+CID_d66e781f32f0ab62917fd0eb2dee72b2&utm_source=cm&utm_term=Read
 original_id: 26204
 original_slug: brazil-shares-priorities-for-cop-30
 original_url: https://olivenetwork.org/Issue/brazil-shares-priorities-for-cop-30/26204

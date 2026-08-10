@@ -3,6 +3,7 @@ title: The Hope Forum 2026
 date: 2026-06-05
 category: Arts & Culture
 source: ART 2030
+source_url: https://www.art2030.org/projects/the-hope-forum-2026?utm_source=ART+2030&utm_campaign=ed8d924460-EMAIL_CAMPAIGN_2026_06_04_09_04&utm_medium=email&utm_term=0_821d252afd-ed8d924460-114133783
 original_id: 26307
 original_slug: the-hope-forum-2026
 original_url: https://olivenetwork.org/Issue/the-hope-forum-2026/26307

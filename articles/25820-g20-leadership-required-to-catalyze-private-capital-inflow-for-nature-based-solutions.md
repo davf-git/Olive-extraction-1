@@ -4,6 +4,7 @@ title: G20 leadership required to catalyze private capital inflow for nature-bas
 date: 2022-01-30
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25820
 original_slug: g20-leadership-required-to-catalyze-private-capital-inflow-for-nature-based-solutions
 original_url: https://olivenetwork.org/Issue/g20-leadership-required-to-catalyze-private-capital-inflow-for-nature-based-solutions/25820

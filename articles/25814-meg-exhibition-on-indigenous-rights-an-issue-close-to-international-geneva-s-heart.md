@@ -4,6 +4,7 @@ title: MEG exhibition on indigenous rights, an issue close to International Gene
 date: 2022-01-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25814
 original_slug: meg-exhibition-on-indigenous-rights-an-issue-close-to-international-geneva-s-heart
 original_url: https://olivenetwork.org/Issue/meg-exhibition-on-indigenous-rights-an-issue-close-to-international-geneva-s-heart/25814

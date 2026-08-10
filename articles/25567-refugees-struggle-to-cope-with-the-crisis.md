@@ -3,6 +3,7 @@ title: Refugees struggle to cope with the crisis.
 date: 2020-11-11
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25567
 original_slug: refugees-struggle-to-cope-with-the-crisis
 original_url: https://olivenetwork.org/Issue/refugees-struggle-to-cope-with-the-crisis/25567

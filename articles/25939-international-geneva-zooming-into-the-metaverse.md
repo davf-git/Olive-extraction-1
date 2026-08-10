@@ -3,6 +3,7 @@ title: International Geneva zooming into the metaverse
 date: 2023-03-27
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25939
 original_slug: international-geneva-zooming-into-the-metaverse
 original_url: https://olivenetwork.org/Issue/international-geneva-zooming-into-the-metaverse/25939

@@ -3,6 +3,7 @@ title: 2022 Effective Development Co-operation Summit
 date: 2022-12-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25906
 original_slug: 2022-effective-development-co-operation-summit
 original_url: https://olivenetwork.org/Issue/2022-effective-development-co-operation-summit/25906

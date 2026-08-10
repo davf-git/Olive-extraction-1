@@ -3,6 +3,7 @@ title: Term is starting – and English schools must tackle their arts emergency
 date: 2019-09-01
 category: Education
 source: ON Network
+source_url: null
 original_id: 25015
 original_slug: term-is-starting-and-english-schools-must-tackle-their-arts-emergency
 original_url: https://olivenetwork.org/Issue/term-is-starting-and-english-schools-must-tackle-their-arts-emergency/25015

@@ -3,6 +3,7 @@ title: WHO Proposes High-Level Global Council to Guide Future Health Emergencies
 date: 2023-01-09
 category: Health
 source: ON Network
+source_url: null
 original_id: 25919
 original_slug: who-proposes-high-level-global-council-to-guide-future-health-emergencies
 original_url: https://olivenetwork.org/Issue/who-proposes-high-level-global-council-to-guide-future-health-emergencies/25919

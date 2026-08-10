@@ -3,6 +3,7 @@ title: EIF and UNDP to strengthen cooperation for sustainable finance
 date: 2020-10-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25544
 original_slug: eif-and-undp-to-strengthen-cooperation-for-sustainable-finance
 original_url: https://olivenetwork.org/Issue/eif-and-undp-to-strengthen-cooperation-for-sustainable-finance/25544

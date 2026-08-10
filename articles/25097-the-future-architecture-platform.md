@@ -3,6 +3,7 @@ title: The Future Architecture Platform
 date: 2019-11-20
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25097
 original_slug: the-future-architecture-platform
 original_url: https://olivenetwork.org/Issue/the-future-architecture-platform/25097

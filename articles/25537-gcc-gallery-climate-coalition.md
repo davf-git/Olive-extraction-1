@@ -3,6 +3,7 @@ title: GCC - Gallery Climate Coalition
 date: 2023-11-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25537
 original_slug: gcc-gallery-climate-coalition
 original_url: https://olivenetwork.org/Issue/gcc-gallery-climate-coalition/25537

@@ -3,6 +3,7 @@ title: 'WATER AID: What has climate change got to do with water?'
 date: 2021-11-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25786
 original_slug: water-aid-what-has-climate-change-got-to-do-with-water
 original_url: https://olivenetwork.org/Issue/water-aid-what-has-climate-change-got-to-do-with-water/25786

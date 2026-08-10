@@ -4,6 +4,7 @@ title: The Internet is broken. But we can fix it with an alternative collection 
 date: 2021-02-04
 category: Science & Tech
 source: ON Network
+source_url: null
 original_id: 25653
 original_slug: the-internet-is-broken-but-we-can-fix-it-with-an-alternative-collection-of-open-fair-and-safe-alternatives
 original_url: https://olivenetwork.org/Issue/the-internet-is-broken-but-we-can-fix-it-with-an-alternative-collection-of-open-fair-and-safe-alternatives/25653

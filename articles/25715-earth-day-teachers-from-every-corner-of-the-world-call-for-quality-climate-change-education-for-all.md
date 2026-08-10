@@ -4,6 +4,7 @@ title: 'Earth Day: Teachers from every corner of the world call for quality clim
 date: 2024-11-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25715
 original_slug: earth-day-teachers-from-every-corner-of-the-world-call-for-quality-climate-change-education-for-all
 original_url: https://olivenetwork.org/Issue/earth-day-teachers-from-every-corner-of-the-world-call-for-quality-climate-change-education-for-all/25715

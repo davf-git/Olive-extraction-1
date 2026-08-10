@@ -3,6 +3,7 @@ title: SDG Moment Will Provide Reality Check with Nine Years to Go
 date: 2021-09-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25754
 original_slug: sdg-moment-will-provide-reality-check-with-nine-years-to-go
 original_url: https://olivenetwork.org/Issue/sdg-moment-will-provide-reality-check-with-nine-years-to-go/25754

@@ -3,6 +3,7 @@ title: Transforming Garbage into a Sustainable Solar Future
 date: 2019-01-07
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24670
 original_slug: transforming-garbage-into-a-sustainable-solar-future
 original_url: https://olivenetwork.org/Issue/transforming-garbage-into-a-sustainable-solar-future/24670

@@ -3,6 +3,7 @@ title: 'Greta Thunberg: ‘We are ignoring natural climate solutions’'
 date: 2019-09-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25027
 original_slug: greta-thunberg-we-are-ignoring-natural-climate-solutions
 original_url: https://olivenetwork.org/Issue/greta-thunberg-we-are-ignoring-natural-climate-solutions/25027

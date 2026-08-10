@@ -3,6 +3,7 @@ title: In a Message of Hope, UN Secretary-General Outlines Priorities for 2025
 date: 2025-01-23
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/in-a-message-of-hope-un-secretary-general-outlines-priorities-for-2025/?utm_medium=email&utm_campaign=SDG%20Update%2023%20January%202025&utm_content=SDG%20Update%2023%20January%202025+CID_f5d5e792def0d911f45a9d96fdece9eb&utm_source=cm&utm_term=Read
 original_id: 26198
 original_slug: in-a-message-of-hope-un-secretary-general-outlines-priorities-for-2025
 original_url: https://olivenetwork.org/Issue/in-a-message-of-hope-un-secretary-general-outlines-priorities-for-2025/26198

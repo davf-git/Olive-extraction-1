@@ -3,6 +3,7 @@ title: It’s no surprise Trump has met his match in Pope Leo - Jonathan Freedla
 date: 2026-06-05
 category: Dwelling
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/commentisfree/2026/apr/24/donald-trump-pope-leo-xiv-catholics-christianity
 original_id: 26300
 original_slug: it-s-no-surprise-trump-has-met-his-match-in-pope-leo-jonathan-freedland
 original_url: https://olivenetwork.org/Issue/it-s-no-surprise-trump-has-met-his-match-in-pope-leo-jonathan-freedland/26300

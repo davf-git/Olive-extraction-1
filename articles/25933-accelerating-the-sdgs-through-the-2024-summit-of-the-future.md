@@ -3,6 +3,7 @@ title: Accelerating the SDGs Through the 2024 Summit of the Future
 date: 2023-02-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25933
 original_slug: accelerating-the-sdgs-through-the-2024-summit-of-the-future
 original_url: https://olivenetwork.org/Issue/accelerating-the-sdgs-through-the-2024-summit-of-the-future/25933

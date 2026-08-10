@@ -3,6 +3,7 @@ title: Global Sumud Flotilla - A Letter
 date: 2025-09-17
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 26245
 original_slug: global-sumud-flotilla-a-letter
 original_url: https://olivenetwork.org/Issue/global-sumud-flotilla-a-letter/26245

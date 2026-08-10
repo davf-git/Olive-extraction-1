@@ -3,6 +3,7 @@ title: 'The joy initiative: people who inspire others to live happier lives'
 date: 2025-11-13
 category: Uncategorized
 source: David Seedhouse
+source_url: null
 original_id: 24282
 original_slug: the-joy-initiative-people-who-inspire-others-to-live-happier-lives
 original_url: https://olivenetwork.org/Issue/the-joy-initiative-people-who-inspire-others-to-live-happier-lives/24282

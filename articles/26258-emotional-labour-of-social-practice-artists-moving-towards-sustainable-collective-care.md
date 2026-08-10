@@ -4,6 +4,7 @@ title: 'Emotional labour of social practice artists: moving towards sustainable 
 date: 2025-12-01
 category: Arts & Culture
 source: BURLINGTON CONTEMPORARY
+source_url: https://contemporary.burlington.org.uk/journal/journal/emotional-labour-of-social-practice-artists-moving-towards-sustainable-collective-care
 original_id: 26258
 original_slug: emotional-labour-of-social-practice-artists-moving-towards-sustainable-collective-care
 original_url: https://olivenetwork.org/Issue/emotional-labour-of-social-practice-artists-moving-towards-sustainable-collective-care/26258

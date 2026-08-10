@@ -3,6 +3,7 @@ title: 'COP27: What you need to know about this year’s big UN Climate Conferen
 date: 2022-10-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25890
 original_slug: cop27-what-you-need-to-know-about-this-year-s-big-un-climate-conference
 original_url: https://olivenetwork.org/Issue/cop27-what-you-need-to-know-about-this-year-s-big-un-climate-conference/25890

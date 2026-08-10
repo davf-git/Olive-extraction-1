@@ -3,6 +3,7 @@ title: 'Featured Voice: Francesca Albanese: We have a plan!'
 date: 2026-05-29
 category: Education
 source: INSTAGRAM
+source_url: https://www.instagram.com/francesca.albanese.unsr.opt/
 original_id: 26292
 original_slug: francesca-albanese-we-have-a-plan
 original_url: https://olivenetwork.org/Issue/francesca-albanese-we-have-a-plan/26292

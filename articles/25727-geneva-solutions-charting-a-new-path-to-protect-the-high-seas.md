@@ -3,6 +3,7 @@ title: 'Geneva Solutions: Charting a new path to protect the high seas'
 date: 2021-05-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25727
 original_slug: geneva-solutions-charting-a-new-path-to-protect-the-high-seas
 original_url: https://olivenetwork.org/Issue/geneva-solutions-charting-a-new-path-to-protect-the-high-seas/25727

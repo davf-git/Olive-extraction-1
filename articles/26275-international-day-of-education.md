@@ -3,6 +3,7 @@ title: International Day of Education
 date: 2026-01-24
 category: Dwelling
 source: UNITED NATIONS INTERNATIONAL DAY OF EDUCATION
+source_url: https://www.un.org/en/observances/education-day
 original_id: 26275
 original_slug: international-day-of-education
 original_url: https://olivenetwork.org/Issue/international-day-of-education/26275

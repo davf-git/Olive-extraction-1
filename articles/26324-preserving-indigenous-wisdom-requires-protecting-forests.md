@@ -3,6 +3,7 @@ title: Preserving Indigenous Wisdom Requires Protecting Forests
 date: 2026-08-07
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/commentary/guest-articles/preserving-indigenous-wisdom-requires-protecting-forests/?utm_medium=email&utm_campaign=SDG%20Update%20-%206%20August%202026&utm_content=SDG%20Update%20-%206%20August%202026+CID_6db165415c5758f14e9b544734e5024c&utm_source=cm&utm_term=Read
 original_id: 26324
 original_slug: preserving-indigenous-wisdom-requires-protecting-forests
 original_url: https://olivenetwork.org/Issue/preserving-indigenous-wisdom-requires-protecting-forests/26324

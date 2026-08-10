@@ -3,6 +3,7 @@ title: I am tired of watching powerful men destroy the rules-based international
 date: 2026-06-23
 category: Economics
 source: ON Network
+source_url: null
 original_id: 26310
 original_slug: i-am-tired-of-watching-powerful-men-destroy-the-rules-based-international-order
 original_url: https://olivenetwork.org/Issue/i-am-tired-of-watching-powerful-men-destroy-the-rules-based-international-order/26310

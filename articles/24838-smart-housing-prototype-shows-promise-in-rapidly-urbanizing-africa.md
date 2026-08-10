@@ -3,6 +3,7 @@ title: Smart housing prototype shows promise in rapidly urbanizing Africa
 date: 2019-09-24
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 24838
 original_slug: smart-housing-prototype-shows-promise-in-rapidly-urbanizing-africa
 original_url: https://olivenetwork.org/Issue/smart-housing-prototype-shows-promise-in-rapidly-urbanizing-africa/24838

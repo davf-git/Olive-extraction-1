@@ -3,6 +3,7 @@ title: Freedom Flotilla - Madleen Tracker
 date: 2025-06-09
 category: Arts & Culture
 source: FREEDOM FLOTILLA - FORENSIC ARCHITECTURE
+source_url: https://freedomflotilla.org/ffc-tracker/
 original_id: 26223
 original_slug: freedom-flotilla-madleen-tracker
 original_url: https://olivenetwork.org/Issue/freedom-flotilla-madleen-tracker/26223

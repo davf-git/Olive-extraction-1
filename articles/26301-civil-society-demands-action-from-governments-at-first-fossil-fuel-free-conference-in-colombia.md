@@ -4,6 +4,7 @@ title: Civil society demands action from governments at first fossil fuel-free c
 date: 2026-04-29
 category: Climate
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/climate-environment/civil-society-demands-action-from-governments-at-first-fossil-fuel-free-conference-in-colombia
 original_id: 26301
 original_slug: civil-society-demands-action-from-governments-at-first-fossil-fuel-free-conference-in-colombia
 original_url: https://olivenetwork.org/Issue/civil-society-demands-action-from-governments-at-first-fossil-fuel-free-conference-in-colombia/26301

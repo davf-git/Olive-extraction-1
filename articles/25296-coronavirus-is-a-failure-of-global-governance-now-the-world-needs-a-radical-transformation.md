@@ -4,6 +4,7 @@ title: Coronavirus is a failure of global governance – now the world needs a r
 date: 2020-05-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25296
 original_slug: coronavirus-is-a-failure-of-global-governance-now-the-world-needs-a-radical-transformation
 original_url: https://olivenetwork.org/Issue/coronavirus-is-a-failure-of-global-governance-now-the-world-needs-a-radical-transformation/25296

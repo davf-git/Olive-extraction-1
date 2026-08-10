@@ -4,6 +4,7 @@ title: Museums Are Experts at Thinking Long-Term. That’s Why They Must Lead th
 date: 2025-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25417
 original_slug: museums-are-experts-at-thinking-long-term-that-s-why-they-must-lead-the-fight-for-a-greener-future-before-it-s-too-late
 original_url: https://olivenetwork.org/Issue/museums-are-experts-at-thinking-long-term-that-s-why-they-must-lead-the-fight-for-a-greener-future-before-it-s-too-late/25417

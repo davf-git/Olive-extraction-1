@@ -3,6 +3,7 @@ title: 'Elephant bike: ‘Buy one – and change someone’s life’'
 date: 2019-06-30
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24932
 original_slug: elephant-bike-buy-one-and-change-someone-s-life
 original_url: https://olivenetwork.org/Issue/elephant-bike-buy-one-and-change-someone-s-life/24932

@@ -3,6 +3,7 @@ title: COP27 in Sharm el-Sheikh to Focus on Delivering on the Promises of Paris
 date: 2022-11-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25893
 original_slug: cop27-in-sharm-el-sheikh-to-focus-on-delivering-on-the-promises-of-paris
 original_url: https://olivenetwork.org/Issue/cop27-in-sharm-el-sheikh-to-focus-on-delivering-on-the-promises-of-paris/25893

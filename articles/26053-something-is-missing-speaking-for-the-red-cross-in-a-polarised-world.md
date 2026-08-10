@@ -3,6 +3,7 @@ title: '‘Something is missing’: Speaking for the Red Cross in a polarised wo
 date: 2024-05-07
 category: Charities
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/peace-humanitarian/something-is-missing-speaking-for-the-red-cross-in-a-polarised-world
 original_id: 26053
 original_slug: something-is-missing-speaking-for-the-red-cross-in-a-polarised-world
 original_url: https://olivenetwork.org/Issue/something-is-missing-speaking-for-the-red-cross-in-a-polarised-world/26053

@@ -3,6 +3,7 @@ title: Democracy Depends on Women’s Empowerment, Kamala Harris Says in Her UN 
 date: 2021-03-17
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25684
 original_slug: democracy-depends-on-women-s-empowerment-kamala-harris-says-in-her-un-debut
 original_url: https://olivenetwork.org/Issue/democracy-depends-on-women-s-empowerment-kamala-harris-says-in-her-un-debut/25684

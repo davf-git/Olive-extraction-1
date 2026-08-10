@@ -3,6 +3,7 @@ title: 'Climate change: Five dealmakers who will influence the outcome at COP26'
 date: 2021-11-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25776
 original_slug: climate-change-five-dealmakers-who-will-influence-the-outcome-at-cop26
 original_url: https://olivenetwork.org/Issue/climate-change-five-dealmakers-who-will-influence-the-outcome-at-cop26/25776

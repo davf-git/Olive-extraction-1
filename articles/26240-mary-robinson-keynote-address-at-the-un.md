@@ -3,6 +3,7 @@ title: Mary Robinson - keynote address at the UN
 date: 2025-08-02
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 26240
 original_slug: mary-robinson-keynote-address-at-the-un
 original_url: https://olivenetwork.org/Issue/mary-robinson-keynote-address-at-the-un/26240

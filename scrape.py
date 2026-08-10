@@ -72,13 +72,15 @@ def parse_date(soup: BeautifulSoup):
         return None
 
 
-def parse_source(soup: BeautifulSoup, desc) -> tuple[str, str]:
-    """Returns (author, source). author = the ON Network account; source =
-    original outlet named in an 'ON SOURCE:' line if present, else author."""
+def parse_source(soup: BeautifulSoup, desc) -> tuple[str, str, str | None]:
+    """Returns (author, source, source_url). author = the ON Network account;
+    source = original outlet named in an 'ON SOURCE:' line if present, else
+    author; source_url = that outlet's own URL, if the line links to one."""
     author_link = soup.select_one("#issueauthor a.i-blk")
     author = author_link.get_text(strip=True) if author_link else "ON Network"
 
     source = author
+    source_url = None
     if desc:
         for p in desc.find_all("p"):
             p_text = p.get_text(" ", strip=True)
@@ -86,8 +88,11 @@ def parse_source(soup: BeautifulSoup, desc) -> tuple[str, str]:
                 candidate = p_text[len("ON SOURCE:"):].strip()
                 if candidate:
                     source = candidate
+                link = p.find("a", href=True)
+                if link:
+                    source_url = link["href"].strip()
                 break
-    return author, source
+    return author, source, source_url
 
 
 def download_image(session, url: str, dest_dir: str, index: int) -> str | None:
@@ -141,7 +146,7 @@ def scrape_item(session, row: dict) -> dict:
     if desc is None:
         raise ValueError("could not find article body (div.desc)")
 
-    author, source = parse_source(soup, desc)
+    author, source, source_url = parse_source(soup, desc)
 
     # Download body images, in document order, and rewrite src to local paths.
     images_rel = []
@@ -166,6 +171,7 @@ def scrape_item(session, row: dict) -> dict:
         "date": date,
         "category": row["category"],
         "source": source,
+        "source_url": source_url,
         "original_id": int(item_id),
         "original_slug": slug,
         "original_url": url,

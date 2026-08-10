@@ -3,6 +3,7 @@ title: 'Featured Story: Forum for the Future - Purpose of Business'
 date: 2024-02-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25986
 original_slug: forum-for-the-future-purpose-of-business
 original_url: https://olivenetwork.org/Issue/forum-for-the-future-purpose-of-business/25986

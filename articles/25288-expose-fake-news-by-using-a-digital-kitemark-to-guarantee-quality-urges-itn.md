@@ -3,6 +3,7 @@ title: Expose fake news by using a digital kitemark to guarantee quality, urges 
 date: 2020-05-04
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25288
 original_slug: expose-fake-news-by-using-a-digital-kitemark-to-guarantee-quality-urges-itn
 original_url: https://olivenetwork.org/Issue/expose-fake-news-by-using-a-digital-kitemark-to-guarantee-quality-urges-itn/25288

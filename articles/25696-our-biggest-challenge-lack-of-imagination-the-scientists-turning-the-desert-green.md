@@ -4,6 +4,7 @@ title: '‘Our biggest challenge? Lack of imagination’: the scientists turning
 date: 2021-03-25
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25696
 original_slug: our-biggest-challenge-lack-of-imagination-the-scientists-turning-the-desert-green
 original_url: https://olivenetwork.org/Issue/our-biggest-challenge-lack-of-imagination-the-scientists-turning-the-desert-green/25696

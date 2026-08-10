@@ -3,6 +3,7 @@ title: 'COP15: Nations reach ''historic'' deal to protect nature'
 date: 2022-12-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25910
 original_slug: cop15-nations-reach-historic-deal-to-protect-nature
 original_url: https://olivenetwork.org/Issue/cop15-nations-reach-historic-deal-to-protect-nature/25910

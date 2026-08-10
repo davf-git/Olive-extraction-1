@@ -3,6 +3,7 @@ title: 'Socially-Organized Housing: Biophilia, Connectivity, and Spirituality'
 date: 2019-08-22
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25002
 original_slug: socially-organized-housing-biophilia-connectivity-and-spirituality
 original_url: https://olivenetwork.org/Issue/socially-organized-housing-biophilia-connectivity-and-spirituality/25002

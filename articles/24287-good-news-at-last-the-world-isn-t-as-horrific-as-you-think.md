@@ -3,6 +3,7 @@ title: 'Good news at last: the world isn’t as horrific as you think'
 date: 2018-12-27
 category: Uncategorized
 source: David Seedhouse
+source_url: null
 original_id: 24287
 original_slug: good-news-at-last-the-world-isn-t-as-horrific-as-you-think
 original_url: https://olivenetwork.org/Issue/good-news-at-last-the-world-isn-t-as-horrific-as-you-think/24287

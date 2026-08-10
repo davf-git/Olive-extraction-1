@@ -3,6 +3,7 @@ title: UN Secretary-General Launches Advisory Board to Support AI Governance
 date: 2023-11-03
 category: Science & Tech
 source: ON Network
+source_url: null
 original_id: 25976
 original_slug: un-secretary-general-launches-advisory-board-to-support-ai-governance
 original_url: https://olivenetwork.org/Issue/un-secretary-general-launches-advisory-board-to-support-ai-governance/25976

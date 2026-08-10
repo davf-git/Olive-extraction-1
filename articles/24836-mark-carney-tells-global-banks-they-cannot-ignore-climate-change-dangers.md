@@ -3,6 +3,7 @@ title: Mark Carney tells global banks they cannot ignore climate change dangers
 date: 2019-04-16
 category: Economics
 source: ON Network
+source_url: null
 original_id: 24836
 original_slug: mark-carney-tells-global-banks-they-cannot-ignore-climate-change-dangers
 original_url: https://olivenetwork.org/Issue/mark-carney-tells-global-banks-they-cannot-ignore-climate-change-dangers/24836

@@ -3,6 +3,7 @@ title: '‘Listen to the cry of the Earth’: Pope Leo takes aim at climate chan
 date: 2025-10-09
 category: Climate
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/world/2025/oct/01/pope-leo-climate-change-sceptics-cry-of-the-earth
 original_id: 26250
 original_slug: listen-to-the-cry-of-the-earth-pope-leo-takes-aim-at-climate-change-sceptics
 original_url: https://olivenetwork.org/Issue/listen-to-the-cry-of-the-earth-pope-leo-takes-aim-at-climate-change-sceptics/26250

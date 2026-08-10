@@ -3,6 +3,7 @@ title: This Remote Pakistani Village Is Nothing Like You’d Expect
 date: 2025-09-23
 category: Education
 source: ON Network
+source_url: null
 original_id: 24643
 original_slug: this-remote-pakistani-village-is-nothing-like-you-d-expect
 original_url: https://olivenetwork.org/Issue/this-remote-pakistani-village-is-nothing-like-you-d-expect/24643

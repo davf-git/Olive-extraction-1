@@ -3,6 +3,7 @@ title: Forest Bathing Is the New Global Phenomenon in Nature Therapy
 date: 2019-01-08
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24684
 original_slug: forest-bathing-is-the-new-global-phenomenon-in-nature-therapy
 original_url: https://olivenetwork.org/Issue/forest-bathing-is-the-new-global-phenomenon-in-nature-therapy/24684

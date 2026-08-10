@@ -3,6 +3,7 @@ title: 'The Elders: Finding Humanity Podcast'
 date: 2020-06-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25371
 original_slug: the-elders-finding-humanity-podcast
 original_url: https://olivenetwork.org/Issue/the-elders-finding-humanity-podcast/25371

@@ -3,6 +3,7 @@ title: Whispers, self-censorship and crackdowns on free speech prevailed at Cop2
 date: 2024-11-28
 category: Climate
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/human-rights/whispers-self-censorship-and-crackdowns-on-free-speech-prevailed-at-cop29
 original_id: 26181
 original_slug: whispers-self-censorship-and-crackdowns-on-free-speech-prevailed-at-cop29
 original_url: https://olivenetwork.org/Issue/whispers-self-censorship-and-crackdowns-on-free-speech-prevailed-at-cop29/26181

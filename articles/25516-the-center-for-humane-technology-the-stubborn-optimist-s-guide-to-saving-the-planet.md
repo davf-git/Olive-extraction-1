@@ -4,6 +4,7 @@ title: 'The Center for Humane Technology: The Stubborn Optimist’s Guide to Sav
 date: 2020-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25516
 original_slug: the-center-for-humane-technology-the-stubborn-optimist-s-guide-to-saving-the-planet
 original_url: https://olivenetwork.org/Issue/the-center-for-humane-technology-the-stubborn-optimist-s-guide-to-saving-the-planet/25516

@@ -3,6 +3,7 @@ title: 'Tech fascism is not inevitable: community is the alternative'
 date: 2025-02-17
 category: Arts & Culture
 source: THE CITIZENS ON SUBSTACK
+source_url: https://dispatch.the-citizens.com/tech-fascism-is-not-inevitable-community-is-the-alternative/?ref=the-citizens-dispatch-newsletter
 original_id: 26200
 original_slug: tech-fascism-is-not-inevitable-community-is-the-alternative
 original_url: https://olivenetwork.org/Issue/tech-fascism-is-not-inevitable-community-is-the-alternative/26200

@@ -3,6 +3,7 @@ title: William Kentridge slams European leaders for being greedy and selfish
 date: 2018-12-27
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24467
 original_slug: william-kentridge-slams-european-leaders-for-being-greedy-and-selfish
 original_url: https://olivenetwork.org/Issue/william-kentridge-slams-european-leaders-for-being-greedy-and-selfish/24467

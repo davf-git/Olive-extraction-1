@@ -3,6 +3,7 @@ title: 'MSF’s Christopher Lockyear: ‘It’s shocking to think that Gaza coul
 date: 2024-10-06
 category: Charities
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/peace-humanitarian/msf-s-chris-lockyear-it-s-shocking-to-think-that-gaza-could-be-forgotten
 original_id: 26168
 original_slug: msf-s-christopher-lockyear-it-s-shocking-to-think-that-gaza-could-be-forgotten
 original_url: https://olivenetwork.org/Issue/msf-s-christopher-lockyear-it-s-shocking-to-think-that-gaza-could-be-forgotten/26168

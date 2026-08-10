@@ -3,6 +3,7 @@ title: Beyond Growth 2023 Conference
 date: 2023-05-19
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25946
 original_slug: beyond-growth-2023-conference
 original_url: https://olivenetwork.org/Issue/beyond-growth-2023-conference/25946

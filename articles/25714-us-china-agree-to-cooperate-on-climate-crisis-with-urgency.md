@@ -3,6 +3,7 @@ title: US, China agree to cooperate on climate crisis with urgency
 date: 2021-04-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25714
 original_slug: us-china-agree-to-cooperate-on-climate-crisis-with-urgency
 original_url: https://olivenetwork.org/Issue/us-china-agree-to-cooperate-on-climate-crisis-with-urgency/25714

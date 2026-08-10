@@ -4,6 +4,7 @@ title: Finland grants nearly EUR 70 million in humanitarian assistance to streng
 date: 2021-03-28
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25698
 original_slug: finland-grants-nearly-eur-70-million-in-humanitarian-assistance-to-strengthen-food-security-support-refugees-and-promote-the-rights-of-vulnerable-peop
 original_url: https://olivenetwork.org/Issue/finland-grants-nearly-eur-70-million-in-humanitarian-assistance-to-strengthen-food-security-support-refugees-and-promote-the-rights-of-vulnerable-peop/25698

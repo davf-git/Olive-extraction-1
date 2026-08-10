@@ -3,6 +3,7 @@ title: The teenagers in crisis at Europe’s borders
 date: 2025-04-19
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25674
 original_slug: the-teenagers-in-crisis-at-europe-s-borders
 original_url: https://olivenetwork.org/Issue/the-teenagers-in-crisis-at-europe-s-borders/25674

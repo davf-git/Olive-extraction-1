@@ -3,6 +3,7 @@ title: 'BBC Analysis: Thinking for the Long Term'
 date: 2020-07-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25383
 original_slug: bbc-analysis-thinking-for-the-long-term
 original_url: https://olivenetwork.org/Issue/bbc-analysis-thinking-for-the-long-term/25383

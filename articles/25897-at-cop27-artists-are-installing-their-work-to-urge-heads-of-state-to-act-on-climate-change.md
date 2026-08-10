@@ -4,6 +4,7 @@ title: At COP27, Artists Are Installing Their Work to Urge Heads of State to Act
 date: 2022-11-12
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25897
 original_slug: at-cop27-artists-are-installing-their-work-to-urge-heads-of-state-to-act-on-climate-change
 original_url: https://olivenetwork.org/Issue/at-cop27-artists-are-installing-their-work-to-urge-heads-of-state-to-act-on-climate-change/25897

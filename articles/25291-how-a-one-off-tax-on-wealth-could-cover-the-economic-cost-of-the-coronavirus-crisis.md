@@ -4,6 +4,7 @@ title: How a one-off tax on wealth could cover the economic cost of the coronavi
 date: 2020-05-05
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25291
 original_slug: how-a-one-off-tax-on-wealth-could-cover-the-economic-cost-of-the-coronavirus-crisis
 original_url: https://olivenetwork.org/Issue/how-a-one-off-tax-on-wealth-could-cover-the-economic-cost-of-the-coronavirus-crisis/25291

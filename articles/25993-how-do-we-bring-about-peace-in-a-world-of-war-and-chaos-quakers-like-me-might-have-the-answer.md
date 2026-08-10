@@ -3,6 +3,7 @@ title: How do we bring about peace in a world of war and chaos?
 date: 2023-12-03
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25993
 original_slug: how-do-we-bring-about-peace-in-a-world-of-war-and-chaos-quakers-like-me-might-have-the-answer
 original_url: https://olivenetwork.org/Issue/how-do-we-bring-about-peace-in-a-world-of-war-and-chaos-quakers-like-me-might-have-the-answer/25993

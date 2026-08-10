@@ -3,6 +3,7 @@ title: Rich countries to ramp up fossil fuels despite net-zero pledges, says UN
 date: 2021-10-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25773
 original_slug: rich-countries-to-ramp-up-fossil-fuels-despite-net-zero-pledges-says-un
 original_url: https://olivenetwork.org/Issue/rich-countries-to-ramp-up-fossil-fuels-despite-net-zero-pledges-says-un/25773

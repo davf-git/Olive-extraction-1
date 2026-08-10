@@ -3,6 +3,7 @@ title: OECD Report Calls for More Synergistic Responses to Triple Planetary Cris
 date: 2026-01-10
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/oecd-report-calls-for-more-synergistic-responses-to-triple-planetary-crisis/?utm_medium=email&utm_campaign=SDG%20Update%20-%204%20December%202025&utm_content=SDG%20Update%20-%204%20December%202025+CID_b30e94b15f05b1d77960fa020eff155a&utm_source=cm&utm_term=Read
 original_id: 26260
 original_slug: oecd-report-calls-for-more-synergistic-responses-to-triple-planetary-crisis
 original_url: https://olivenetwork.org/Issue/oecd-report-calls-for-more-synergistic-responses-to-triple-planetary-crisis/26260

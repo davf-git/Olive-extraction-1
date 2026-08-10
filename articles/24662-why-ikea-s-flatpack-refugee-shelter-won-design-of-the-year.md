@@ -3,6 +3,7 @@ title: Why Ikea's Flatpack Refugee Shelter Won Design Of The Year
 date: 2019-08-18
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 24662
 original_slug: why-ikea-s-flatpack-refugee-shelter-won-design-of-the-year
 original_url: https://olivenetwork.org/Issue/why-ikea-s-flatpack-refugee-shelter-won-design-of-the-year/24662

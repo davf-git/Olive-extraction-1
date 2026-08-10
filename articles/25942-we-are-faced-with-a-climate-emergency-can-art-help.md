@@ -3,6 +3,7 @@ title: We are faced with a climate emergency. Can art help?
 date: 2023-05-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25942
 original_slug: we-are-faced-with-a-climate-emergency-can-art-help
 original_url: https://olivenetwork.org/Issue/we-are-faced-with-a-climate-emergency-can-art-help/25942

@@ -3,6 +3,7 @@ title: 'Jeremy Deller mints his first NFT: here is his advice for other artists'
 date: 2021-03-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25694
 original_slug: jeremy-deller-mints-his-first-nft-here-is-his-advice-for-other-artists
 original_url: https://olivenetwork.org/Issue/jeremy-deller-mints-his-first-nft-here-is-his-advice-for-other-artists/25694

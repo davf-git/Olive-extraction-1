@@ -3,6 +3,7 @@ title: TEDx Berlin The Next Step Speakers - Alice Phoebe Lou
 date: 2019-01-03
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24660
 original_slug: tedx-berlin-the-next-step-speakers-alice-phoebe-lou
 original_url: https://olivenetwork.org/Issue/tedx-berlin-the-next-step-speakers-alice-phoebe-lou/24660

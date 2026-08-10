@@ -4,6 +4,7 @@ title: 'UN News - First Person: The Colombian youth fighting for digital educati
 date: 2021-02-20
 category: Education
 source: ON Network
+source_url: null
 original_id: 25665
 original_slug: un-news-first-person-the-colombian-youth-fighting-for-digital-education-for-all
 original_url: https://olivenetwork.org/Issue/un-news-first-person-the-colombian-youth-fighting-for-digital-education-for-all/25665

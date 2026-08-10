@@ -4,6 +4,7 @@ title: 'Mia Mottley, Prime Minister of Barbados at the Opening of the #COP27 Wor
 date: 2022-11-08
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25896
 original_slug: mia-mottley-prime-minister-of-barbados-at-the-opening-of-the-cop27-world-leaders-summit
 original_url: https://olivenetwork.org/Issue/mia-mottley-prime-minister-of-barbados-at-the-opening-of-the-cop27-world-leaders-summit/25896

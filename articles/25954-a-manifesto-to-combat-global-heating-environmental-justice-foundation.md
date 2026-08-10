@@ -3,6 +3,7 @@ title: A Manifesto To Combat Global Heating - Environmental Justice Foundation
 date: 2023-07-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25954
 original_slug: a-manifesto-to-combat-global-heating-environmental-justice-foundation
 original_url: https://olivenetwork.org/Issue/a-manifesto-to-combat-global-heating-environmental-justice-foundation/25954

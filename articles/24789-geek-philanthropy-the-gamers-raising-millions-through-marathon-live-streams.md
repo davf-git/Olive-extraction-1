@@ -3,6 +3,7 @@ title: '''Geek philanthropy'': the gamers raising millions through marathon live
 date: 2019-03-10
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24789
 original_slug: geek-philanthropy-the-gamers-raising-millions-through-marathon-live-streams
 original_url: https://olivenetwork.org/Issue/geek-philanthropy-the-gamers-raising-millions-through-marathon-live-streams/24789

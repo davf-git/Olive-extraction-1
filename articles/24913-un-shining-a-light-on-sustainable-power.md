@@ -3,6 +3,7 @@ title: 'UN: Shining a light on sustainable power'
 date: 2019-06-14
 category: UN
 source: ON Network
+source_url: null
 original_id: 24913
 original_slug: un-shining-a-light-on-sustainable-power
 original_url: https://olivenetwork.org/Issue/un-shining-a-light-on-sustainable-power/24913

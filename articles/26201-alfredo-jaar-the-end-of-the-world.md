@@ -3,6 +3,7 @@ title: Alfredo Jaar - The End of the World
 date: 2025-02-18
 category: Climate
 source: KINDL - BERLIN
+source_url: https://www.kindl-berlin.com/jaar
 original_id: 26201
 original_slug: alfredo-jaar-the-end-of-the-world
 original_url: https://olivenetwork.org/Issue/alfredo-jaar-the-end-of-the-world/26201

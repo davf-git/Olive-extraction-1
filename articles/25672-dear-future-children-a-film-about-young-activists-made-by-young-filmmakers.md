@@ -3,6 +3,7 @@ title: Dear future children, ‘a film about young activists made by young filmm
 date: 2025-12-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25672
 original_slug: dear-future-children-a-film-about-young-activists-made-by-young-filmmakers
 original_url: https://olivenetwork.org/Issue/dear-future-children-a-film-about-young-activists-made-by-young-filmmakers/25672

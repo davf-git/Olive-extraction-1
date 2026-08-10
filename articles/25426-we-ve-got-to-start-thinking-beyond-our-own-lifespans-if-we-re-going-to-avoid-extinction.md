@@ -4,6 +4,7 @@ title: We’ve got to start thinking beyond our own lifespans if we’re going t
 date: 2020-08-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25426
 original_slug: we-ve-got-to-start-thinking-beyond-our-own-lifespans-if-we-re-going-to-avoid-extinction
 original_url: https://olivenetwork.org/Issue/we-ve-got-to-start-thinking-beyond-our-own-lifespans-if-we-re-going-to-avoid-extinction/25426

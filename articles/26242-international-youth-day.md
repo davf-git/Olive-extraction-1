@@ -3,6 +3,7 @@ title: International Youth Day
 date: 2025-08-19
 category: Climate
 source: UNITED NATIONS INTERNATIONAL YOUTH DAY
+source_url: https://www.un.org/en/observances/youth-day
 original_id: 26242
 original_slug: international-youth-day
 original_url: https://olivenetwork.org/Issue/international-youth-day/26242

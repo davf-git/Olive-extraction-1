@@ -3,6 +3,7 @@ title: 15,000 at Glastonbury set record for biggest human peace sign
 date: 2019-01-08
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24675
 original_slug: 15-000-at-glastonbury-set-record-for-biggest-human-peace-sign
 original_url: https://olivenetwork.org/Issue/15-000-at-glastonbury-set-record-for-biggest-human-peace-sign/24675

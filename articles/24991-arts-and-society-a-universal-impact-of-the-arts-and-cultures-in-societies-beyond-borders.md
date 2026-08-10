@@ -4,6 +4,7 @@ title: 'Arts and Society: A universal impact of the arts and cultures in societi
 date: 2019-08-13
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24991
 original_slug: arts-and-society-a-universal-impact-of-the-arts-and-cultures-in-societies-beyond-borders
 original_url: https://olivenetwork.org/Issue/arts-and-society-a-universal-impact-of-the-arts-and-cultures-in-societies-beyond-borders/24991

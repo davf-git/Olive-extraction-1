@@ -3,6 +3,7 @@ title: Historian William Dalrymple Speaks about Gaza
 date: 2025-07-07
 category: Arts & Culture
 source: SUSHEELA RAMAN
+source_url: https://www.youtube.com/watch?v=kmfgI3vL1VQ
 original_id: 26233
 original_slug: historian-william-dalrymple-speaks-about-gaza
 original_url: https://olivenetwork.org/Issue/historian-william-dalrymple-speaks-about-gaza/26233

@@ -3,6 +3,7 @@ title: Two German states hit 100% renewable electricity
 date: 2018-12-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24476
 original_slug: two-german-states-hit-100-renewable-electricity
 original_url: https://olivenetwork.org/Issue/two-german-states-hit-100-renewable-electricity/24476

@@ -3,6 +3,7 @@ title: 'United Nations: General Debate of the 80th Session'
 date: 2025-09-22
 category: Climate
 source: UN GENERAL ASSEMBLY
+source_url: https://gadebate.un.org/en
 original_id: 26247
 original_slug: united-nations-general-debate-of-the-80th-session
 original_url: https://olivenetwork.org/Issue/united-nations-general-debate-of-the-80th-session/26247

@@ -3,6 +3,7 @@ title: 'Featured Artwork Marie Claire Hamon: Sorrow'
 date: 2026-08-06
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 26323
 original_slug: featured-artwork-marie-claire-hamon-sorrow
 original_url: https://olivenetwork.org/Issue/featured-artwork-marie-claire-hamon-sorrow/26323

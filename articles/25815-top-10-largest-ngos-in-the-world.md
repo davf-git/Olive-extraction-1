@@ -3,6 +3,7 @@ title: Top 10 largest NGOs in the world
 date: 2022-01-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25815
 original_slug: top-10-largest-ngos-in-the-world
 original_url: https://olivenetwork.org/Issue/top-10-largest-ngos-in-the-world/25815

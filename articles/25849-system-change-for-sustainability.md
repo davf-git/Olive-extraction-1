@@ -3,6 +3,7 @@ title: 'School of System Change: System change for sustainability'
 date: 2022-05-13
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25849
 original_slug: system-change-for-sustainability
 original_url: https://olivenetwork.org/Issue/system-change-for-sustainability/25849

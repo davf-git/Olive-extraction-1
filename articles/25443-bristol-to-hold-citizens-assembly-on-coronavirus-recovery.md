@@ -3,6 +3,7 @@ title: Bristol to hold Citizens’ Assembly on coronavirus recovery
 date: 2020-08-28
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25443
 original_slug: bristol-to-hold-citizens-assembly-on-coronavirus-recovery
 original_url: https://olivenetwork.org/Issue/bristol-to-hold-citizens-assembly-on-coronavirus-recovery/25443

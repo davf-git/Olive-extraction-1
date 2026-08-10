@@ -3,6 +3,7 @@ title: Sweden’s Recycling is so Revolutionary, the Country is Running Out of T
 date: 2019-01-01
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24646
 original_slug: sweden-s-recycling-is-so-revolutionary-the-country-is-running-out-of-trash
 original_url: https://olivenetwork.org/Issue/sweden-s-recycling-is-so-revolutionary-the-country-is-running-out-of-trash/24646

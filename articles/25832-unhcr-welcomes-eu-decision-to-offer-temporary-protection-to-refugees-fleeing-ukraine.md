@@ -4,6 +4,7 @@ title: UNHCR welcomes EU decision to offer temporary protection to refugees flee
 date: 2022-03-15
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25832
 original_slug: unhcr-welcomes-eu-decision-to-offer-temporary-protection-to-refugees-fleeing-ukraine
 original_url: https://olivenetwork.org/Issue/unhcr-welcomes-eu-decision-to-offer-temporary-protection-to-refugees-fleeing-ukraine/25832

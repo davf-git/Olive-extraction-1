@@ -3,6 +3,7 @@ title: 'Ibrahim Mahama: Parliament of Ghosts at The Whitworth, Manchester'
 date: 2019-09-26
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25029
 original_slug: ibrahim-mahama-parliament-of-ghosts-at-the-whitworth-manchester
 original_url: https://olivenetwork.org/Issue/ibrahim-mahama-parliament-of-ghosts-at-the-whitworth-manchester/25029

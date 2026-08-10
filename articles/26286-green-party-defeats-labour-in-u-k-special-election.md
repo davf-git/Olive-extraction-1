@@ -3,6 +3,7 @@ title: Green Party Defeats Labour in U.K. Special Election
 date: 2026-02-27
 category: Dwelling
 source: NEW YORK TIMES
+source_url: https://www.nytimes.com/2026/02/26/world/europe/gorton-denton-result-green-party-labour.html
 original_id: 26286
 original_slug: green-party-defeats-labour-in-u-k-special-election
 original_url: https://olivenetwork.org/Issue/green-party-defeats-labour-in-u-k-special-election/26286

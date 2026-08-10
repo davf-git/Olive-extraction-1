@@ -3,6 +3,7 @@ title: 'Featured Story - Water Aid: Introducing Mali''s coolest water technician
 date: 2024-09-08
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25224
 original_slug: water-aid-introducing-mali-s-coolest-water-technician
 original_url: https://olivenetwork.org/Issue/water-aid-introducing-mali-s-coolest-water-technician/25224

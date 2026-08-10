@@ -3,6 +3,7 @@ title: COOL EARTH
 date: 2019-01-07
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24665
 original_slug: cool-earth
 original_url: https://olivenetwork.org/Issue/cool-earth/24665

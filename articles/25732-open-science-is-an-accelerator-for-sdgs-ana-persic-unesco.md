@@ -3,6 +3,7 @@ title: '‘Open science is an accelerator for SDGs’: Ana Persic, UNESCO'
 date: 2021-11-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25732
 original_slug: open-science-is-an-accelerator-for-sdgs-ana-persic-unesco
 original_url: https://olivenetwork.org/Issue/open-science-is-an-accelerator-for-sdgs-ana-persic-unesco/25732

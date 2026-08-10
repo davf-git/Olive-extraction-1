@@ -3,6 +3,7 @@ title: 'Global Optimism: 2020: The Start of the Exponential Decade'
 date: 2020-02-17
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25203
 original_slug: global-optimism-2020-the-start-of-the-exponential-decade
 original_url: https://olivenetwork.org/Issue/global-optimism-2020-the-start-of-the-exponential-decade/25203

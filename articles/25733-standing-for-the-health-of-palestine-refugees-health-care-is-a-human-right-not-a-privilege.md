@@ -4,6 +4,7 @@ title: Standing for the health of Palestine refugees, health care is a human rig
 date: 2021-05-26
 category: Health
 source: ON Network
+source_url: null
 original_id: 25733
 original_slug: standing-for-the-health-of-palestine-refugees-health-care-is-a-human-right-not-a-privilege
 original_url: https://olivenetwork.org/Issue/standing-for-the-health-of-palestine-refugees-health-care-is-a-human-right-not-a-privilege/25733

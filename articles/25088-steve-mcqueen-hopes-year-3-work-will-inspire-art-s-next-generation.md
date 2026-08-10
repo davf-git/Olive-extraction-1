@@ -3,6 +3,7 @@ title: Steve McQueen hopes Year 3 work will inspire art's next generation
 date: 2020-02-01
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25088
 original_slug: steve-mcqueen-hopes-year-3-work-will-inspire-art-s-next-generation
 original_url: https://olivenetwork.org/Issue/steve-mcqueen-hopes-year-3-work-will-inspire-art-s-next-generation/25088

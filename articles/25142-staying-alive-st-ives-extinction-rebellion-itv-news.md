@@ -3,6 +3,7 @@ title: 'Staying Alive - St Ives : Extinction Rebellion ITV News'
 date: 2020-01-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25142
 original_slug: staying-alive-st-ives-extinction-rebellion-itv-news
 original_url: https://olivenetwork.org/Issue/staying-alive-st-ives-extinction-rebellion-itv-news/25142

@@ -3,6 +3,7 @@ title: The 2022 Global People’s Assembly and a New Multilateralism
 date: 2022-09-21
 category: Sustainability
 source: ON Network
+source_url: null
 original_id: 25883
 original_slug: the-2022-global-people-s-assembly-and-a-new-multilateralism
 original_url: https://olivenetwork.org/Issue/the-2022-global-people-s-assembly-and-a-new-multilateralism/25883

@@ -3,6 +3,7 @@ title: Global Platform to Inform Shift from Reducing Risk to Building Resilience
 date: 2022-05-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25853
 original_slug: global-platform-to-inform-shift-from-reducing-risk-to-building-resilience
 original_url: https://olivenetwork.org/Issue/global-platform-to-inform-shift-from-reducing-risk-to-building-resilience/25853

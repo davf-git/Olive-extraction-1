@@ -3,6 +3,7 @@ title: Top-5 world’s most peaceful countries in 2022
 date: 2022-12-13
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25908
 original_slug: top-5-world-s-most-peaceful-countries-in-2022
 original_url: https://olivenetwork.org/Issue/top-5-world-s-most-peaceful-countries-in-2022/25908

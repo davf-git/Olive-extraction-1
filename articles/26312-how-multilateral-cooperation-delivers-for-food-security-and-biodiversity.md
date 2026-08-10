@@ -3,6 +3,7 @@ title: How Multilateral Cooperation Delivers for Food Security and Biodiversity
 date: 2026-07-28
 category: Dwelling
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/commentary/guest-articles/how-multilateral-cooperation-delivers-for-food-security-and-biodiversity/
 original_id: 26312
 original_slug: how-multilateral-cooperation-delivers-for-food-security-and-biodiversity
 original_url: https://olivenetwork.org/Issue/how-multilateral-cooperation-delivers-for-food-security-and-biodiversity/26312

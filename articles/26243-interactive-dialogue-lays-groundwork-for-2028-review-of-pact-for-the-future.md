@@ -3,6 +3,7 @@ title: Interactive Dialogue Lays Groundwork for 2028 Review of Pact for the Futu
 date: 2025-09-09
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/interactive-dialogue-lays-groundwork-for-2028-review-of-pact-for-the-future/
 original_id: 26243
 original_slug: interactive-dialogue-lays-groundwork-for-2028-review-of-pact-for-the-future
 original_url: https://olivenetwork.org/Issue/interactive-dialogue-lays-groundwork-for-2028-review-of-pact-for-the-future/26243

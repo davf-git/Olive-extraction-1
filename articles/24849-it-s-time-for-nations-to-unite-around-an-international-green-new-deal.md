@@ -3,6 +3,7 @@ title: It's time for nations to unite around an International Green New Deal
 date: 2019-04-23
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24849
 original_slug: it-s-time-for-nations-to-unite-around-an-international-green-new-deal
 original_url: https://olivenetwork.org/Issue/it-s-time-for-nations-to-unite-around-an-international-green-new-deal/24849

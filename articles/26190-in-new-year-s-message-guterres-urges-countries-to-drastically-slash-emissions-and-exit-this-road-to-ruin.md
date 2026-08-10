@@ -4,6 +4,7 @@ title: In New Year’s Message, Guterres urges countries to drastically slash em
 date: 2024-12-31
 category: Climate
 source: UN NEWS
+source_url: https://news.un.org/en/story/2024/12/1158611
 original_id: 26190
 original_slug: in-new-year-s-message-guterres-urges-countries-to-drastically-slash-emissions-and-exit-this-road-to-ruin
 original_url: https://olivenetwork.org/Issue/in-new-year-s-message-guterres-urges-countries-to-drastically-slash-emissions-and-exit-this-road-to-ruin/26190

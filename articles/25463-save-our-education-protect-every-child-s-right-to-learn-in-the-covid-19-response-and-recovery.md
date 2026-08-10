@@ -4,6 +4,7 @@ title: 'Save Our Education: Protect every child’s right to learn in the COVID-
 date: 2020-09-06
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25463
 original_slug: save-our-education-protect-every-child-s-right-to-learn-in-the-covid-19-response-and-recovery
 original_url: https://olivenetwork.org/Issue/save-our-education-protect-every-child-s-right-to-learn-in-the-covid-19-response-and-recovery/25463

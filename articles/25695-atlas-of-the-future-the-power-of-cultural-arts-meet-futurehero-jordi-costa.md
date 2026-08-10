@@ -3,6 +3,7 @@ title: 'Atlas of the Future - the power of cultural arts: meet FutureHero Jordi 
 date: 2023-10-29
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25695
 original_slug: atlas-of-the-future-the-power-of-cultural-arts-meet-futurehero-jordi-costa
 original_url: https://olivenetwork.org/Issue/atlas-of-the-future-the-power-of-cultural-arts-meet-futurehero-jordi-costa/25695

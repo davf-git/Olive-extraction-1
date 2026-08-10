@@ -3,6 +3,7 @@ title: Firms must justify investment in fossil fuels, warns Mark Carney
 date: 2019-12-29
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25137
 original_slug: firms-must-justify-investment-in-fossil-fuels-warns-mark-carney
 original_url: https://olivenetwork.org/Issue/firms-must-justify-investment-in-fossil-fuels-warns-mark-carney/25137

@@ -3,6 +3,7 @@ title: Nature’s Dangerous Decline ‘Unprecedented’; Species Extinction Rate
 date: 2019-05-05
 category: Science & Tech
 source: ON Network
+source_url: null
 original_id: 24859
 original_slug: nature-s-dangerous-decline-unprecedented-species-extinction-rates-accelerating
 original_url: https://olivenetwork.org/Issue/nature-s-dangerous-decline-unprecedented-species-extinction-rates-accelerating/24859

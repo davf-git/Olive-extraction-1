@@ -3,6 +3,7 @@ title: World can save lives and ‘end this pandemic, together’ – WHO chief
 date: 2020-11-08
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25558
 original_slug: world-can-save-lives-and-end-this-pandemic-together-who-chief
 original_url: https://olivenetwork.org/Issue/world-can-save-lives-and-end-this-pandemic-together-who-chief/25558

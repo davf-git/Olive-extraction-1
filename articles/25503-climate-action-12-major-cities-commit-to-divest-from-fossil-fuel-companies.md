@@ -3,6 +3,7 @@ title: 'Climate Action: 12 major cities commit to divest from fossil fuel compan
 date: 2020-09-25
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25503
 original_slug: climate-action-12-major-cities-commit-to-divest-from-fossil-fuel-companies
 original_url: https://olivenetwork.org/Issue/climate-action-12-major-cities-commit-to-divest-from-fossil-fuel-companies/25503

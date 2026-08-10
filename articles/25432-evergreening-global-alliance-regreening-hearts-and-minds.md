@@ -3,6 +3,7 @@ title: EverGreening Global Alliance - Regreening hearts and minds
 date: 2024-08-14
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25432
 original_slug: evergreening-global-alliance-regreening-hearts-and-minds
 original_url: https://olivenetwork.org/Issue/evergreening-global-alliance-regreening-hearts-and-minds/25432

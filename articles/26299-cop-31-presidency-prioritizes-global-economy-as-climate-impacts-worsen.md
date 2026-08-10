@@ -3,6 +3,7 @@ title: COP 31 Presidency Prioritizes Global Economy as Climate Impacts Worsen
 date: 2026-04-26
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/cop-31-presidency-aims-for-secure-global-economy-as-climate-impacts-worsen/?utm_medium=email&utm_campaign=SDG%20Update%20-%2023%20April%202026&utm_content=SDG%20Update%20-%2023%20April%202026+CID_0f58d4659459c123c13e3833e3668616&utm_source=cm
 original_id: 26299
 original_slug: cop-31-presidency-prioritizes-global-economy-as-climate-impacts-worsen
 original_url: https://olivenetwork.org/Issue/cop-31-presidency-prioritizes-global-economy-as-climate-impacts-worsen/26299

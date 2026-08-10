@@ -3,6 +3,7 @@ title: Cambridge students create the UK’s most efficient solar-powered electri
 date: 2019-11-26
 category: Uncategorized
 source: Joe Thorp
+source_url: null
 original_id: 25113
 original_slug: cambridge-students-create-the-uk-s-most-efficient-solar-powered-electric-car
 original_url: https://olivenetwork.org/Issue/cambridge-students-create-the-uk-s-most-efficient-solar-powered-electric-car/25113

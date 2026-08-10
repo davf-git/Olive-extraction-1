@@ -3,6 +3,7 @@ title: EU extends humanitarian support for refugees in Turkey
 date: 2023-01-09
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25600
 original_slug: eu-extends-humanitarian-support-for-refugees-in-turkey
 original_url: https://olivenetwork.org/Issue/eu-extends-humanitarian-support-for-refugees-in-turkey/25600

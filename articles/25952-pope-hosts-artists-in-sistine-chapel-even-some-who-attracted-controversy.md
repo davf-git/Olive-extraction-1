@@ -3,6 +3,7 @@ title: Pope Hosts Artists in Sistine Chapel, Even Some Who Attracted Controversy
 date: 2023-06-27
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25952
 original_slug: pope-hosts-artists-in-sistine-chapel-even-some-who-attracted-controversy
 original_url: https://olivenetwork.org/Issue/pope-hosts-artists-in-sistine-chapel-even-some-who-attracted-controversy/25952

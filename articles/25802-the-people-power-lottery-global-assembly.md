@@ -3,6 +3,7 @@ title: 'The people power lottery : Global Assembly'
 date: 2021-11-30
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25802
 original_slug: the-people-power-lottery-global-assembly
 original_url: https://olivenetwork.org/Issue/the-people-power-lottery-global-assembly/25802

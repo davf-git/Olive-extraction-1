@@ -3,6 +3,7 @@ title: Places For People - Venice Architecture Biennale
 date: 2019-09-24
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 24474
 original_slug: places-for-people-venice-architecture-biennale
 original_url: https://olivenetwork.org/Issue/places-for-people-venice-architecture-biennale/24474

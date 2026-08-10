@@ -4,6 +4,7 @@ title: 'International Telecommunication Union: Our interconnected world needs co
 date: 2025-05-16
 category: Science & Tech
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/science-tech/as-itu-turns-160-our-interconnected-world-needs-cooperation-more-than-ever?utm_source=newsletter&utm_medium=email
 original_id: 26220
 original_slug: as-itu-turns-160-our-interconnected-world-needs-cooperation-more-than-ever
 original_url: https://olivenetwork.org/Issue/as-itu-turns-160-our-interconnected-world-needs-cooperation-more-than-ever/26220

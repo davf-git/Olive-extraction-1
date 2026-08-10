@@ -4,6 +4,7 @@ title: Around the world, C40 cities are taking bold climate action, leading the 
 date: 2020-05-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25300
 original_slug: around-the-world-c40-cities-are-taking-bold-climate-action-leading-the-way-towards-a-healthier-and-more-sustainable-future
 original_url: https://olivenetwork.org/Issue/around-the-world-c40-cities-are-taking-bold-climate-action-leading-the-way-towards-a-healthier-and-more-sustainable-future/25300

@@ -3,6 +3,7 @@ title: Solar energy is lighting up the lives of 80,000 Syrian refugees
 date: 2019-01-08
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 24686
 original_slug: solar-energy-is-lighting-up-the-lives-of-80-000-syrian-refugees
 original_url: https://olivenetwork.org/Issue/solar-energy-is-lighting-up-the-lives-of-80-000-syrian-refugees/24686

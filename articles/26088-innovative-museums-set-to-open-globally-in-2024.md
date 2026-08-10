@@ -3,6 +3,7 @@ title: Innovative Museums set to open Globally in 2024
 date: 2024-10-19
 category: Arts & Culture
 source: WORLD CITIES CULTURE FORUM
+source_url: https://worldcitiescultureforum.com/2024/01/18/innovative-museums-set-to-open-globally-in-2024/
 original_id: 26088
 original_slug: innovative-museums-set-to-open-globally-in-2024
 original_url: https://olivenetwork.org/Issue/innovative-museums-set-to-open-globally-in-2024/26088

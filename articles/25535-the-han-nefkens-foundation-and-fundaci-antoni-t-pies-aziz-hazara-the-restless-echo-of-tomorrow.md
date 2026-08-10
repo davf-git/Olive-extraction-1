@@ -4,6 +4,7 @@ title: 'The Han Nefkens Foundation and Fundació Antoni Tàpies: Aziz Hazara “
 date: 2023-11-23
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25535
 original_slug: the-han-nefkens-foundation-and-fundaci-antoni-t-pies-aziz-hazara-the-restless-echo-of-tomorrow
 original_url: https://olivenetwork.org/Issue/the-han-nefkens-foundation-and-fundaci-antoni-t-pies-aziz-hazara-the-restless-echo-of-tomorrow/25535

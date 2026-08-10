@@ -3,6 +3,7 @@ title: This can be the year when we recharge nature – and ourselves
 date: 2020-01-03
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25143
 original_slug: this-can-be-the-year-when-we-recharge-nature-and-ourselves
 original_url: https://olivenetwork.org/Issue/this-can-be-the-year-when-we-recharge-nature-and-ourselves/25143

@@ -3,6 +3,7 @@ title: 'ShelterBox: What would you take?'
 date: 2022-11-19
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25900
 original_slug: shalterbox-what-would-you-take
 original_url: https://olivenetwork.org/Issue/shalterbox-what-would-you-take/25900

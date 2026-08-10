@@ -3,6 +3,7 @@ title: The latest UN biodiversity summit opens in Colombia; here’s what’s at
 date: 2024-10-21
 category: Climate
 source: UN News - Global perspective Human stories
+source_url: https://news.un.org/en/story/2024/10/1155931
 original_id: 26172
 original_slug: the-latest-un-biodiversity-summit-opens-in-colombia-here-s-what-s-at-stake
 original_url: https://olivenetwork.org/Issue/the-latest-un-biodiversity-summit-opens-in-colombia-here-s-what-s-at-stake/26172

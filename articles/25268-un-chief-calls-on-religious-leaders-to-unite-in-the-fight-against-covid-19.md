@@ -3,6 +3,7 @@ title: UN chief calls on religious leaders to unite in the fight against COVID-1
 date: 2020-04-13
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25268
 original_slug: un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against-covid-19
 original_url: https://olivenetwork.org/Issue/un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against-covid-19/25268

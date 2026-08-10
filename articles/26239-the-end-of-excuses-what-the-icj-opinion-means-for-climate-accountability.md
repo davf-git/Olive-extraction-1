@@ -3,6 +3,7 @@ title: 'The End of Excuses: What the ICJ Opinion Means for Climate Accountabilit
 date: 2025-07-27
 category: Climate
 source: WE DON'T HAVE TIME
+source_url: https://app.wedonthavetime.org/posts/92166e4b-62de-4980-8d70-7922c9d50f85
 original_id: 26239
 original_slug: the-end-of-excuses-what-the-icj-opinion-means-for-climate-accountability
 original_url: https://olivenetwork.org/Issue/the-end-of-excuses-what-the-icj-opinion-means-for-climate-accountability/26239

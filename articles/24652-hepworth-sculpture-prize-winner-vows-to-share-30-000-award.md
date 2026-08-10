@@ -3,6 +3,7 @@ title: Hepworth Sculpture Prize Winner vows to share £30,000 award
 date: 2019-01-02
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24652
 original_slug: hepworth-sculpture-prize-winner-vows-to-share-30-000-award
 original_url: https://olivenetwork.org/Issue/hepworth-sculpture-prize-winner-vows-to-share-30-000-award/24652

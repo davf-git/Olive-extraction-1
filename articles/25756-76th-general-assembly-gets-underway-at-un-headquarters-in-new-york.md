@@ -3,6 +3,7 @@ title: 76th General Assembly gets underway at UN Headquarters in New York
 date: 2021-09-16
 category: UN
 source: ON Network
+source_url: null
 original_id: 25756
 original_slug: 76th-general-assembly-gets-underway-at-un-headquarters-in-new-york
 original_url: https://olivenetwork.org/Issue/76th-general-assembly-gets-underway-at-un-headquarters-in-new-york/25756

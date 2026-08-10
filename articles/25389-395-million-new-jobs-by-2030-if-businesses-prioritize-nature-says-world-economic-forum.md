@@ -4,6 +4,7 @@ title: 395 Million New Jobs by 2030 if Businesses Prioritize Nature, Says World 
 date: 2020-07-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25389
 original_slug: 395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says-world-economic-forum
 original_url: https://olivenetwork.org/Issue/395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says-world-economic-forum/25389

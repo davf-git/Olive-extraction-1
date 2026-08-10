@@ -3,6 +3,7 @@ title: War, mining and disinformation threaten fundamental right to healthy envi
 date: 2026-06-11
 category: Dwelling
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/human-rights/war-mining-and-disinformation-threaten-fundamental-right-to-healthy-environment-un-expert-astrid-puentes-riano
 original_id: 26290
 original_slug: war-mining-and-disinformation-threaten-fundamental-right-to-healthy-environment
 original_url: https://olivenetwork.org/Issue/war-mining-and-disinformation-threaten-fundamental-right-to-healthy-environment/26290

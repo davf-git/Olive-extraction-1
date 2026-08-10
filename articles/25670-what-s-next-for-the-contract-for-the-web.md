@@ -3,6 +3,7 @@ title: What’s next for the Contract for the Web
 date: 2021-03-04
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25670
 original_slug: what-s-next-for-the-contract-for-the-web
 original_url: https://olivenetwork.org/Issue/what-s-next-for-the-contract-for-the-web/25670

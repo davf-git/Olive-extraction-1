@@ -3,6 +3,7 @@ title: World leaders promise to step up efforts to prepare for climate impact
 date: 2021-01-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25640
 original_slug: world-leaders-promise-to-step-up-efforts-to-prepare-for-climate-impact
 original_url: https://olivenetwork.org/Issue/world-leaders-promise-to-step-up-efforts-to-prepare-for-climate-impact/25640

@@ -3,6 +3,7 @@ title: Refugees' tents in Lebanon set on fire
 date: 2020-12-29
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25599
 original_slug: refugees-tents-in-lebanon-set-on-fire
 original_url: https://olivenetwork.org/Issue/refugees-tents-in-lebanon-set-on-fire/25599

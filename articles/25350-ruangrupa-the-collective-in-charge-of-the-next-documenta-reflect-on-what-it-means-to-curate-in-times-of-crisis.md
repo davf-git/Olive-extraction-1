@@ -4,6 +4,7 @@ title: Ruangrupa, the Collective in Charge of the Next Documenta, Reflect on Wha
 date: 2020-06-05
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25350
 original_slug: ruangrupa-the-collective-in-charge-of-the-next-documenta-reflect-on-what-it-means-to-curate-in-times-of-crisis
 original_url: https://olivenetwork.org/Issue/ruangrupa-the-collective-in-charge-of-the-next-documenta-reflect-on-what-it-means-to-curate-in-times-of-crisis/25350

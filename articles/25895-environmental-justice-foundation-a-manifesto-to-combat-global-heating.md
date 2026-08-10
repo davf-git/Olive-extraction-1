@@ -3,6 +3,7 @@ title: 'Environmental Justice Foundation: A Manifesto to Combat Global Heating'
 date: 2022-11-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25895
 original_slug: environmental-justice-foundation-a-manifesto-to-combat-global-heating
 original_url: https://olivenetwork.org/Issue/environmental-justice-foundation-a-manifesto-to-combat-global-heating/25895

@@ -4,6 +4,7 @@ title: 'The power of now: V&A acquires Extinction Rebellion memorabilia for Rapi
 date: 2019-07-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24972
 original_slug: the-power-of-now-v-a-acquires-extinction-rebellion-memorabilia-for-rapid-response-collection
 original_url: https://olivenetwork.org/Issue/the-power-of-now-v-a-acquires-extinction-rebellion-memorabilia-for-rapid-response-collection/24972

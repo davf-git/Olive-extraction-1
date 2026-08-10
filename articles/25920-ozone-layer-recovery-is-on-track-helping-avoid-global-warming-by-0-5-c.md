@@ -3,6 +3,7 @@ title: Ozone layer recovery is on track, helping avoid global warming by 0.5°C
 date: 2023-01-11
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25920
 original_slug: ozone-layer-recovery-is-on-track-helping-avoid-global-warming-by-0-5-c
 original_url: https://olivenetwork.org/Issue/ozone-layer-recovery-is-on-track-helping-avoid-global-warming-by-0-5-c/25920

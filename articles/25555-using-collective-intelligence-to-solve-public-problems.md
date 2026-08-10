@@ -3,6 +3,7 @@ title: Using Collective Intelligence to Solve Public Problems
 date: 2020-11-04
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25555
 original_slug: using-collective-intelligence-to-solve-public-problems
 original_url: https://olivenetwork.org/Issue/using-collective-intelligence-to-solve-public-problems/25555

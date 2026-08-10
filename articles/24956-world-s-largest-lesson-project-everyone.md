@@ -3,6 +3,7 @@ title: World's Largest Lesson - Project Everyone
 date: 2019-10-21
 category: Education
 source: ON Network
+source_url: null
 original_id: 24956
 original_slug: world-s-largest-lesson-project-everyone
 original_url: https://olivenetwork.org/Issue/world-s-largest-lesson-project-everyone/24956

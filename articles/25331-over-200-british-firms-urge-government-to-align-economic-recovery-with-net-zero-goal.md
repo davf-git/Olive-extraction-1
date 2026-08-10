@@ -4,6 +4,7 @@ title: Over 200 British firms urge government to align economic recovery with ne
 date: 2020-06-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25331
 original_slug: over-200-british-firms-urge-government-to-align-economic-recovery-with-net-zero-goal
 original_url: https://olivenetwork.org/Issue/over-200-british-firms-urge-government-to-align-economic-recovery-with-net-zero-goal/25331

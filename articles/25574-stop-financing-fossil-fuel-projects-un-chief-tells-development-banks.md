@@ -3,6 +3,7 @@ title: Stop financing fossil fuel projects, UN chief tells development banks
 date: 2020-11-17
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25574
 original_slug: stop-financing-fossil-fuel-projects-un-chief-tells-development-banks
 original_url: https://olivenetwork.org/Issue/stop-financing-fossil-fuel-projects-un-chief-tells-development-banks/25574

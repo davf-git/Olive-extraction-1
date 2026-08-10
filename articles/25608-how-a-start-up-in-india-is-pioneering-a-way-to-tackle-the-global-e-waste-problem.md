@@ -3,6 +3,7 @@ title: How a start-up in India is pioneering a way to tackle the global e-waste 
 date: 2021-01-11
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25608
 original_slug: how-a-start-up-in-india-is-pioneering-a-way-to-tackle-the-global-e-waste-problem
 original_url: https://olivenetwork.org/Issue/how-a-start-up-in-india-is-pioneering-a-way-to-tackle-the-global-e-waste-problem/25608

@@ -3,6 +3,7 @@ title: Artist John Akomfrah Wins Artes Mundi Prize - his work feels particularly
 date: 2019-01-03
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24661
 original_slug: artist-john-akomfrah-wins-artes-mundi-prize-his-work-feels-particularly-urgent
 original_url: https://olivenetwork.org/Issue/artist-john-akomfrah-wins-artes-mundi-prize-his-work-feels-particularly-urgent/24661

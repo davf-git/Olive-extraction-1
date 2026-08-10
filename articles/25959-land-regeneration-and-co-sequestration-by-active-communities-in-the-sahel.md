@@ -3,6 +3,7 @@ title: Land regeneration and CO₂ sequestration by active communities in the Sa
 date: 2023-08-30
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25959
 original_slug: land-regeneration-and-co-sequestration-by-active-communities-in-the-sahel
 original_url: https://olivenetwork.org/Issue/land-regeneration-and-co-sequestration-by-active-communities-in-the-sahel/25959

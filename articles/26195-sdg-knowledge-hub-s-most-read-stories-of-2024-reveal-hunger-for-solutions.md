@@ -3,6 +3,7 @@ title: SDG Knowledge Hub’s Most Read Stories of 2024 Reveal Hunger for Solutio
 date: 2025-01-18
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/commentary/policy-briefs/sdg-knowledge-hubs-most-read-stories-of-2024-reveal-hunger-for-solutions/?utm_medium=email&utm_campaign=SDG%20Update%2016%20January%202025&utm_content=SDG%20Update%2016%20January%202025+CID_820e4e6438d172694144237deb8fe57f&utm_source=cm
 original_id: 26195
 original_slug: sdg-knowledge-hub-s-most-read-stories-of-2024-reveal-hunger-for-solutions
 original_url: https://olivenetwork.org/Issue/sdg-knowledge-hub-s-most-read-stories-of-2024-reveal-hunger-for-solutions/26195

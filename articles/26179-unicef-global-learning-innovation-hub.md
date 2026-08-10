@@ -3,6 +3,7 @@ title: 'Featured Story: UNICEF Global Learning Innovation Hub'
 date: 2025-06-09
 category: Arts & Culture
 source: UNICEF GLOBAL LEARNING INNOVATION HUB
+source_url: https://www.unicef.org/innovation/learning-innovation-hub
 original_id: 26179
 original_slug: unicef-global-learning-innovation-hub
 original_url: https://olivenetwork.org/Issue/unicef-global-learning-innovation-hub/26179

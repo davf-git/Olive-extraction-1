@@ -3,6 +3,7 @@ title: World cannot return to 'business as usual' after Covid-19, say mayors
 date: 2020-05-07
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25297
 original_slug: world-cannot-return-to-business-as-usual-after-covid-19-say-mayors
 original_url: https://olivenetwork.org/Issue/world-cannot-return-to-business-as-usual-after-covid-19-say-mayors/25297

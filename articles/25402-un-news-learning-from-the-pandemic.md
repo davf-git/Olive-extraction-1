@@ -3,6 +3,7 @@ title: 'UN News: Learning from the pandemic'
 date: 2020-08-01
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25402
 original_slug: un-news-learning-from-the-pandemic
 original_url: https://olivenetwork.org/Issue/un-news-learning-from-the-pandemic/25402

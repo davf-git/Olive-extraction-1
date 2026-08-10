@@ -3,6 +3,7 @@ title: Leaders Summit on Climate spurs emissions targets
 date: 2021-04-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25719
 original_slug: leaders-summit-on-climate-spurs-emissions-targets
 original_url: https://olivenetwork.org/Issue/leaders-summit-on-climate-spurs-emissions-targets/25719

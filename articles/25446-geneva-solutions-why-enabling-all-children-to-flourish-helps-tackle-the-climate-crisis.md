@@ -4,6 +4,7 @@ title: 'Geneva Solutions: Why enabling all children to flourish helps tackle the
 date: 2020-08-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25446
 original_slug: geneva-solutions-why-enabling-all-children-to-flourish-helps-tackle-the-climate-crisis
 original_url: https://olivenetwork.org/Issue/geneva-solutions-why-enabling-all-children-to-flourish-helps-tackle-the-climate-crisis/25446

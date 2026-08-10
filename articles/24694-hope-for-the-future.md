@@ -3,6 +3,7 @@ title: Hope for the Future
 date: 2019-01-23
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24694
 original_slug: hope-for-the-future
 original_url: https://olivenetwork.org/Issue/hope-for-the-future/24694

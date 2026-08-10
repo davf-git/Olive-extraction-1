@@ -3,6 +3,7 @@ title: 'The Promise: 75 Years of the Refugee Convention'
 date: 2026-07-29
 category: Climate
 source: UNHCR
+source_url: https://www.unhcr.org/get-involved/take-action/the-promise
 original_id: 26319
 original_slug: the-promise-75-years-of-the-refugee-convention
 original_url: https://olivenetwork.org/Issue/the-promise-75-years-of-the-refugee-convention/26319

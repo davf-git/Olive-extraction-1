@@ -4,6 +4,7 @@ title: 'UNICEF: Around 3 in 4 youth lack skills needed for employment, new repor
 date: 2022-07-13
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25864
 original_slug: unicef-around-3-in-4-youth-lack-skills-needed-for-employment-new-report-says
 original_url: https://olivenetwork.org/Issue/unicef-around-3-in-4-youth-lack-skills-needed-for-employment-new-report-says/25864

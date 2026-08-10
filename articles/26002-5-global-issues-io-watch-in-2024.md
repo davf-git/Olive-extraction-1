@@ -3,6 +3,7 @@ title: 5 Global Issues Io Watch In 2024
 date: 2023-12-30
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26002
 original_slug: 5-global-issues-io-watch-in-2024
 original_url: https://olivenetwork.org/Issue/5-global-issues-io-watch-in-2024/26002

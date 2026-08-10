@@ -4,6 +4,7 @@ title: Attenborough’s Ocean is the film I’ve been waiting my whole career fo
 date: 2025-06-18
 category: Uncategorized
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/commentisfree/2025/jun/13/ocean-film-world-david-atenborough-documentary-fishing-industry
 original_id: 26228
 original_slug: attenborough-s-ocean-is-the-film-i-ve-been-waiting-my-whole-career-for-now-the-world-must-act-on-its-message
 original_url: https://olivenetwork.org/Issue/attenborough-s-ocean-is-the-film-i-ve-been-waiting-my-whole-career-for-now-the-world-must-act-on-its-message/26228

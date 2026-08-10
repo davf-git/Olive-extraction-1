@@ -3,6 +3,7 @@ title: Universities enrich communities, as well as educating students – new re
 date: 2020-10-30
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25551
 original_slug: universities-enrich-communities-as-well-as-educating-students-new-research
 original_url: https://olivenetwork.org/Issue/universities-enrich-communities-as-well-as-educating-students-new-research/25551

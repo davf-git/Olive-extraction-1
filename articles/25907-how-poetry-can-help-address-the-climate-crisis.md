@@ -3,6 +3,7 @@ title: How poetry can help address the climate crisis
 date: 2022-12-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25907
 original_slug: how-poetry-can-help-address-the-climate-crisis
 original_url: https://olivenetwork.org/Issue/how-poetry-can-help-address-the-climate-crisis/25907

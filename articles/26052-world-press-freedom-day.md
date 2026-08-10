@@ -3,6 +3,7 @@ title: World Press Freedom Day
 date: 2024-05-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26052
 original_slug: world-press-freedom-day
 original_url: https://olivenetwork.org/Issue/world-press-freedom-day/26052

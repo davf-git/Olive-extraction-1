@@ -3,6 +3,7 @@ title: 'RSA: Indigenous Knowledge: the wisdom of deep listening'
 date: 2021-10-18
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25771
 original_slug: rsa-indigenous-knowledge-the-wisdom-of-deep-listening
 original_url: https://olivenetwork.org/Issue/rsa-indigenous-knowledge-the-wisdom-of-deep-listening/25771

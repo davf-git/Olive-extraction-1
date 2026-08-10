@@ -3,6 +3,7 @@ title: 'Sonia Boyce OBE RA: British Pavilion Artist 2021'
 date: 2020-02-13
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25200
 original_slug: sonia-boyce-obe-ra-british-pavilion-artist-2021
 original_url: https://olivenetwork.org/Issue/sonia-boyce-obe-ra-british-pavilion-artist-2021/25200

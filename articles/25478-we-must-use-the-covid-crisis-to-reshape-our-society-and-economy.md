@@ -3,6 +3,7 @@ title: We must use the Covid crisis to reshape our society and economy
 date: 2020-09-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25478
 original_slug: we-must-use-the-covid-crisis-to-reshape-our-society-and-economy
 original_url: https://olivenetwork.org/Issue/we-must-use-the-covid-crisis-to-reshape-our-society-and-economy/25478

@@ -3,6 +3,7 @@ title: World Humanitarian Day
 date: 2024-08-20
 category: Charities
 source: UNITED NATIONS
+source_url: https://www.un.org/en/observances/humanitarian-day
 original_id: 26148
 original_slug: world-humanitarian-day
 original_url: https://olivenetwork.org/Issue/world-humanitarian-day/26148

@@ -3,6 +3,7 @@ title: 'UN Habitat: Housing for all campaign'
 date: 2020-10-05
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25514
 original_slug: un-habitat-housing-for-all-campaign
 original_url: https://olivenetwork.org/Issue/un-habitat-housing-for-all-campaign/25514

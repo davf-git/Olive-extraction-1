@@ -3,6 +3,7 @@ title: 'Serpentine Galleries: Back to Earth'
 date: 2025-10-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25860
 original_slug: serpentine-galleries-back-to-earth
 original_url: https://olivenetwork.org/Issue/serpentine-galleries-back-to-earth/25860

@@ -3,6 +3,7 @@ title: Venice Biennale - Cosmonación
 date: 2024-10-19
 category: Arts & Culture
 source: La Biennale di Venezia
+source_url: https://www.labiennale.org/en/art/2024/chile
 original_id: 26147
 original_slug: chile-cosmonaci-n
 original_url: https://olivenetwork.org/Issue/chile-cosmonaci-n/26147

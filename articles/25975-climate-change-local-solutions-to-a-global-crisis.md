@@ -3,6 +3,7 @@ title: 'Climate change: Local solutions to a global crisis'
 date: 2023-10-29
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25975
 original_slug: climate-change-local-solutions-to-a-global-crisis
 original_url: https://olivenetwork.org/Issue/climate-change-local-solutions-to-a-global-crisis/25975

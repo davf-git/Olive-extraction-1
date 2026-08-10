@@ -3,6 +3,7 @@ title: Tilda Swinton - Berlin International Film Festival
 date: 2025-02-19
 category: Arts & Culture
 source: BERLINALE
+source_url: https://www.youtube.com/watch?v=Fqol-1nTp_U
 original_id: 26202
 original_slug: tilda-swinton
 original_url: https://olivenetwork.org/Issue/tilda-swinton/26202

@@ -4,6 +4,7 @@ title: 'Featured Story: Mexican Artist Pedro Reyes Molds 1,527 Guns into Shovels
 date: 2026-06-10
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25202
 original_slug: mexican-artist-pedro-reyes-molds-1-527-guns-into-shovels-used-to-plant-trees
 original_url: https://olivenetwork.org/Issue/mexican-artist-pedro-reyes-molds-1-527-guns-into-shovels-used-to-plant-trees/25202

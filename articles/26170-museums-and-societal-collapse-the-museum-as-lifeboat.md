@@ -3,6 +3,7 @@ title: 'Museums and Societal Collapse: The Museum as Lifeboat'
 date: 2024-10-15
 category: Arts & Culture
 source: THINKING MUSEUM
+source_url: https://thinkingmuseum.com/2024/03/20/museums-and-societal-collapse-an-interview-with-robert-r-janes/
 original_id: 26170
 original_slug: museums-and-societal-collapse-the-museum-as-lifeboat
 original_url: https://olivenetwork.org/Issue/museums-and-societal-collapse-the-museum-as-lifeboat/26170

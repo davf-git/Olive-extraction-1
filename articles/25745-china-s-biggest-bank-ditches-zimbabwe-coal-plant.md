@@ -3,6 +3,7 @@ title: China’s biggest bank ditches Zimbabwe coal plant
 date: 2021-08-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25745
 original_slug: china-s-biggest-bank-ditches-zimbabwe-coal-plant
 original_url: https://olivenetwork.org/Issue/china-s-biggest-bank-ditches-zimbabwe-coal-plant/25745

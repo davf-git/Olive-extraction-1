@@ -3,6 +3,7 @@ title: Welcome the Stranger - Mayor Mamdani
 date: 2026-02-19
 category: Arts & Culture
 source: NYC MAYOR'S OFFICE
+source_url: https://youtu.be/uoU9Img_B40?si=9fvZXYGd16C_9JOD
 original_id: 26283
 original_slug: welcome-the-stranger-mayor-mamdani
 original_url: https://olivenetwork.org/Issue/welcome-the-stranger-mayor-mamdani/26283

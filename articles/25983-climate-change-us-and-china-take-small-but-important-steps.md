@@ -3,6 +3,7 @@ title: 'Climate change: US and China take ''small but important steps'''
 date: 2025-07-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25983
 original_slug: climate-change-us-and-china-take-small-but-important-steps
 original_url: https://olivenetwork.org/Issue/climate-change-us-and-china-take-small-but-important-steps/25983

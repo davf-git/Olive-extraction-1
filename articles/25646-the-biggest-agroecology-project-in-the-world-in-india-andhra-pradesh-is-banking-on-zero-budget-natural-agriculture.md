@@ -4,6 +4,7 @@ title: 'The biggest agroecology project in the world: in India, Andhra Pradesh i
 date: 2024-04-01
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25646
 original_slug: the-biggest-agroecology-project-in-the-world-in-india-andhra-pradesh-is-banking-on-zero-budget-natural-agriculture
 original_url: https://olivenetwork.org/Issue/the-biggest-agroecology-project-in-the-world-in-india-andhra-pradesh-is-banking-on-zero-budget-natural-agriculture/25646

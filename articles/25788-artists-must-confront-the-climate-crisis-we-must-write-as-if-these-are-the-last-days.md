@@ -4,6 +4,7 @@ title: Artists must confront the climate crisis – we must write as if these ar
 date: 2021-11-12
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25788
 original_slug: artists-must-confront-the-climate-crisis-we-must-write-as-if-these-are-the-last-days
 original_url: https://olivenetwork.org/Issue/artists-must-confront-the-climate-crisis-we-must-write-as-if-these-are-the-last-days/25788

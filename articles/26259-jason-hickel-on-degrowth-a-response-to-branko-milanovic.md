@@ -3,6 +3,7 @@ title: 'Jason Hickel on Degrowth: A response to Branko Milanovic'
 date: 2025-12-03
 category: Climate
 source: JASON HICKEL
+source_url: https://www.jasonhickel.org/blog/tag/degrowth
 original_id: 26259
 original_slug: jason-hickel-on-degrowth-a-response-to-branko-milanovic
 original_url: https://olivenetwork.org/Issue/jason-hickel-on-degrowth-a-response-to-branko-milanovic/26259

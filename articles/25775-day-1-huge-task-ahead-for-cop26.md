@@ -3,6 +3,7 @@ title: 'Day 1: Huge task ahead for COP26'
 date: 2021-10-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25775
 original_slug: day-1-huge-task-ahead-for-cop26
 original_url: https://olivenetwork.org/Issue/day-1-huge-task-ahead-for-cop26/25775

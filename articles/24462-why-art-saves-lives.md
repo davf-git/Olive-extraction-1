@@ -3,6 +3,7 @@ title: Why art saves lives
 date: 2018-12-28
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24462
 original_slug: why-art-saves-lives
 original_url: https://olivenetwork.org/Issue/why-art-saves-lives/24462

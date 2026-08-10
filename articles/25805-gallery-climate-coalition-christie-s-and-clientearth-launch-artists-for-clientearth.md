@@ -3,6 +3,7 @@ title: Gallery Climate Coalition, Christie’s and ClientEarth launch 'Artists f
 date: 2024-08-20
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25805
 original_slug: gallery-climate-coalition-christie-s-and-clientearth-launch-artists-for-clientearth
 original_url: https://olivenetwork.org/Issue/gallery-climate-coalition-christie-s-and-clientearth-launch-artists-for-clientearth/25805

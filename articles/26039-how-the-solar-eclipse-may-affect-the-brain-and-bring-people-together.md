@@ -3,6 +3,7 @@ title: How the solar eclipse may affect the brain and bring people together
 date: 2024-04-08
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 26039
 original_slug: how-the-solar-eclipse-may-affect-the-brain-and-bring-people-together
 original_url: https://olivenetwork.org/Issue/how-the-solar-eclipse-may-affect-the-brain-and-bring-people-together/26039

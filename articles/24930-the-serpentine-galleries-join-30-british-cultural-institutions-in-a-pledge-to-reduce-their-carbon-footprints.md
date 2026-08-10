@@ -4,6 +4,7 @@ title: The Serpentine Galleries Join 30 British Cultural Institutions in a Pledg
 date: 2019-06-27
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24930
 original_slug: the-serpentine-galleries-join-30-british-cultural-institutions-in-a-pledge-to-reduce-their-carbon-footprints
 original_url: https://olivenetwork.org/Issue/the-serpentine-galleries-join-30-british-cultural-institutions-in-a-pledge-to-reduce-their-carbon-footprints/24930

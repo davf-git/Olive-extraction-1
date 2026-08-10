@@ -4,6 +4,7 @@ title: 'WEF only ‘about tweaking the system’: rogue business leaders call fo
 date: 2023-01-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25929
 original_slug: wef-only-about-tweaking-the-system-rogue-business-leaders-call-for-real-wealth-distribution
 original_url: https://olivenetwork.org/Issue/wef-only-about-tweaking-the-system-rogue-business-leaders-call-for-real-wealth-distribution/25929

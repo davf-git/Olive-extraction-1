@@ -3,6 +3,7 @@ title: What if nature could save us?
 date: 2025-09-09
 category: Climate
 source: ART 2030
+source_url: https://www.art2030.org/projects/what-if?utm_source=ART+2030&utm_campaign=207f8f38cb-EMAIL_CAMPAIGN_2025_09_09_12_04&utm_medium=email&utm_term=0_821d252afd-207f8f38cb-114133783
 original_id: 26246
 original_slug: what-if-nature-could-save-us
 original_url: https://olivenetwork.org/Issue/what-if-nature-could-save-us/26246

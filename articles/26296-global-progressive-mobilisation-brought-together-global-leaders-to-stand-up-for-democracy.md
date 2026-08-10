@@ -4,6 +4,7 @@ title: Global Progressive Mobilisation brought together global leaders to stand 
 date: 2026-04-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26296
 original_slug: global-progressive-mobilisation-brought-together-global-leaders-to-stand-up-for-democracy
 original_url: https://olivenetwork.org/Issue/global-progressive-mobilisation-brought-together-global-leaders-to-stand-up-for-democracy/26296

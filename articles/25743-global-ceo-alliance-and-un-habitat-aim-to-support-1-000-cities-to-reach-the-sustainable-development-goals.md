@@ -4,6 +4,7 @@ title: Global CEO Alliance and UN-Habitat aim to support 1,000 cities to reach t
 date: 2021-07-26
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25743
 original_slug: global-ceo-alliance-and-un-habitat-aim-to-support-1-000-cities-to-reach-the-sustainable-development-goals
 original_url: https://olivenetwork.org/Issue/global-ceo-alliance-and-un-habitat-aim-to-support-1-000-cities-to-reach-the-sustainable-development-goals/25743

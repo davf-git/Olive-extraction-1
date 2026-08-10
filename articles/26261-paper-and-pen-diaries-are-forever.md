@@ -3,6 +3,7 @@ title: 'Lily Koppel: Paper-and-Pen Diaries Are Forever'
 date: 2025-12-05
 category: Arts & Culture
 source: NEW YORK TIMES
+source_url: https://www.nytimes.com/2025/11/29/opinion/diaries-writing-ai.html?unlocked_article_code=1.5U8.pFMy.zPSistRsdyGP&smid=url-share
 original_id: 26261
 original_slug: paper-and-pen-diaries-are-forever
 original_url: https://olivenetwork.org/Issue/paper-and-pen-diaries-are-forever/26261

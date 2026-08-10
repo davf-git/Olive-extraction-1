@@ -4,6 +4,7 @@ title: 'New York Times: Restoring Farmland Could Drastically Slow Extinctions, F
 date: 2020-10-16
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 25529
 original_slug: new-york-times-restoring-farmland-could-drastically-slow-extinctions-fight-climate-change
 original_url: https://olivenetwork.org/Issue/new-york-times-restoring-farmland-could-drastically-slow-extinctions-fight-climate-change/25529

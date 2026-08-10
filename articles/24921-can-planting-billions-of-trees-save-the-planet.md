@@ -3,6 +3,7 @@ title: Can planting billions of trees save the planet?
 date: 2019-06-18
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24921
 original_slug: can-planting-billions-of-trees-save-the-planet
 original_url: https://olivenetwork.org/Issue/can-planting-billions-of-trees-save-the-planet/24921

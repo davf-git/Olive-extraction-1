@@ -4,6 +4,7 @@ title: 'Featured Story: A Bamboo Tower that produces up to 25 gallons of water i
 date: 2025-05-08
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25156
 original_slug: a-bamboo-tower-that-produces-up-to-25-gallons-of-water-in-a-day-by-capturing-condensation
 original_url: https://olivenetwork.org/Issue/a-bamboo-tower-that-produces-up-to-25-gallons-of-water-in-a-day-by-capturing-condensation/25156

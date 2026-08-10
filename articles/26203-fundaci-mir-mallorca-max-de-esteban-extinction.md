@@ -3,6 +3,7 @@ title: 'Fundació Miró Mallorca: Max de Esteban'
 date: 2025-03-08
 category: Arts & Culture
 source: Fundació Miró Mallorca
+source_url: https://miromallorca.com/en/exhibition/max-de-esteban-extinction/
 original_id: 26203
 original_slug: fundaci-mir-mallorca-max-de-esteban-extinction
 original_url: https://olivenetwork.org/Issue/fundaci-mir-mallorca-max-de-esteban-extinction/26203

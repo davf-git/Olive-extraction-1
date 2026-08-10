@@ -3,6 +3,7 @@ title: 'Tunes for Transformation: How Ancient Chinese Music Inspires Positive Ch
 date: 2024-10-19
 category: Arts & Culture
 source: MUSEUM FOR THE UNITED NATIONS
+source_url: https://www.museumfortheunitednations.com/collection/tunes-for-transformation
 original_id: 26037
 original_slug: tunes-for-transformation-how-ancient-chinese-music-inspires-positive-change
 original_url: https://olivenetwork.org/Issue/tunes-for-transformation-how-ancient-chinese-music-inspires-positive-change/26037

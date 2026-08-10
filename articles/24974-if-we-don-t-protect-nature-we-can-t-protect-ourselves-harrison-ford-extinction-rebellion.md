@@ -4,6 +4,7 @@ title: '"If We Don''t Protect Nature We Can''t Protect Ourselves" Harrison Ford 
 date: 2019-07-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24974
 original_slug: if-we-don-t-protect-nature-we-can-t-protect-ourselves-harrison-ford-extinction-rebellion
 original_url: https://olivenetwork.org/Issue/if-we-don-t-protect-nature-we-can-t-protect-ourselves-harrison-ford-extinction-rebellion/24974

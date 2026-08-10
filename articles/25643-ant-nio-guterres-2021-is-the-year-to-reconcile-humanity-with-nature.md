@@ -3,6 +3,7 @@ title: 'António Guterres: 2021 Is the Year to Reconcile Humanity with Nature'
 date: 2021-01-28
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25643
 original_slug: ant-nio-guterres-2021-is-the-year-to-reconcile-humanity-with-nature
 original_url: https://olivenetwork.org/Issue/ant-nio-guterres-2021-is-the-year-to-reconcile-humanity-with-nature/25643

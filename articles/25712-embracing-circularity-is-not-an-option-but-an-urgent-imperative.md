@@ -3,6 +3,7 @@ title: Embracing Circularity is Not an Option but an Urgent Imperative
 date: 2021-04-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25712
 original_slug: embracing-circularity-is-not-an-option-but-an-urgent-imperative
 original_url: https://olivenetwork.org/Issue/embracing-circularity-is-not-an-option-but-an-urgent-imperative/25712

@@ -3,6 +3,7 @@ title: 'COP30 Closes: Hijacking by rich countries and dire need for peoples’ m
 date: 2025-11-23
 category: Climate
 source: FRIENDS OF THE EARTH
+source_url: https://www.foei.org/cop30-closing-press-release/
 original_id: 26255
 original_slug: cop30-closes-hijacking-by-rich-countries-and-dire-need-for-peoples-multilateralism
 original_url: https://olivenetwork.org/Issue/cop30-closes-hijacking-by-rich-countries-and-dire-need-for-peoples-multilateralism/26255

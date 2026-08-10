@@ -4,6 +4,7 @@ title: Moving away from coal ‘will not be easy’ but it is essential for our 
 date: 2022-04-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25836
 original_slug: moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-our-common-future-un-deputy-chief-says
 original_url: https://olivenetwork.org/Issue/moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-our-common-future-un-deputy-chief-says/25836

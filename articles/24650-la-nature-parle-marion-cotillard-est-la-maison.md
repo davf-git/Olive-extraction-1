@@ -3,6 +3,7 @@ title: 'La Nature Parle: Marion Cotillard est la Maison'
 date: 2019-01-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 24650
 original_slug: la-nature-parle-marion-cotillard-est-la-maison
 original_url: https://olivenetwork.org/Issue/la-nature-parle-marion-cotillard-est-la-maison/24650

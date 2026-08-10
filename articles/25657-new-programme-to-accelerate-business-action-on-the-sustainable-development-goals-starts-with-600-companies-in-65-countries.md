@@ -4,6 +4,7 @@ title: New programme to accelerate business action on the Sustainable Developmen
 date: 2021-02-09
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25657
 original_slug: new-programme-to-accelerate-business-action-on-the-sustainable-development-goals-starts-with-600-companies-in-65-countries
 original_url: https://olivenetwork.org/Issue/new-programme-to-accelerate-business-action-on-the-sustainable-development-goals-starts-with-600-companies-in-65-countries/25657

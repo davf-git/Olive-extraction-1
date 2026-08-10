@@ -4,6 +4,7 @@ title: 'Beauty That Unites: Travels in the Marvelous Harmony of the Chinese peop
 date: 2019-01-08
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24687
 original_slug: beauty-that-unites-travels-in-the-marvelous-harmony-of-the-chinese-people-and-vatican-museums
 original_url: https://olivenetwork.org/Issue/beauty-that-unites-travels-in-the-marvelous-harmony-of-the-chinese-people-and-vatican-museums/24687

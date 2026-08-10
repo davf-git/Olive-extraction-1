@@ -4,6 +4,7 @@ title: Europe’s sizzling heat is a ‘brutal reminder’ of global warming, UN
 date: 2026-06-24
 category: Climate
 source: POLITICO
+source_url: https://www.politico.eu/article/europe-heatwave-record-temperatures-climate-change/
 original_id: 26311
 original_slug: europe-s-sizzling-heat-is-a-brutal-reminder-of-global-warming-un-climate-chief-says
 original_url: https://olivenetwork.org/Issue/europe-s-sizzling-heat-is-a-brutal-reminder-of-global-warming-un-climate-chief-says/26311

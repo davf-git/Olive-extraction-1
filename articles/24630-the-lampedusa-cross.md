@@ -3,6 +3,7 @@ title: The Lampedusa Cross
 date: 2018-12-28
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24630
 original_slug: the-lampedusa-cross
 original_url: https://olivenetwork.org/Issue/the-lampedusa-cross/24630

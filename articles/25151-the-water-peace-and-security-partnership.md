@@ -3,6 +3,7 @@ title: The Water, Peace and Security Partnership
 date: 2020-01-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25151
 original_slug: the-water-peace-and-security-partnership
 original_url: https://olivenetwork.org/Issue/the-water-peace-and-security-partnership/25151

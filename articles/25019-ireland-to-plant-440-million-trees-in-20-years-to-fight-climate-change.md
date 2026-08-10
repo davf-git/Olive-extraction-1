@@ -3,6 +3,7 @@ title: Ireland to Plant 440 Million Trees in 20 Years to Fight Climate Change
 date: 2019-09-05
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25019
 original_slug: ireland-to-plant-440-million-trees-in-20-years-to-fight-climate-change
 original_url: https://olivenetwork.org/Issue/ireland-to-plant-440-million-trees-in-20-years-to-fight-climate-change/25019

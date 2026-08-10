@@ -3,6 +3,7 @@ title: 'Beyond GDP: An Opportunity for Economic Reset'
 date: 2026-03-05
 category: Climate
 source: SDG KNOWLEDGE HUB
+source_url: https://sdg.iisd.org/news/beyond-gdp-an-opportunity-for-economic-reset/?utm_medium=email&utm_campaign=SDG%20Update%20-%205%20March%202026&utm_content=SDG%20Update%20-%205%20March%202026+CID_19eb6ea64097548f6118ea33d2986ba8&utm_source=cm&utm_term=Read
 original_id: 26287
 original_slug: beyond-gdp-an-opportunity-for-economic-reset
 original_url: https://olivenetwork.org/Issue/beyond-gdp-an-opportunity-for-economic-reset/26287

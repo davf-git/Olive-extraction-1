@@ -3,6 +3,7 @@ title: If democracy looks doomed, Extinction Rebellion may have an answer
 date: 2020-09-02
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25449
 original_slug: if-democracy-looks-doomed-extinction-rebellion-may-have-an-answer
 original_url: https://olivenetwork.org/Issue/if-democracy-looks-doomed-extinction-rebellion-may-have-an-answer/25449

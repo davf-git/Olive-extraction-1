@@ -4,6 +4,7 @@ title: 'Beyond GDP: changing how we measure progress is key to tackling a world 
 date: 2022-08-18
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25873
 original_slug: beyond-gdp-changing-how-we-measure-progress-is-key-to-tackling-a-world-in-crisis
 original_url: https://olivenetwork.org/Issue/beyond-gdp-changing-how-we-measure-progress-is-key-to-tackling-a-world-in-crisis/25873

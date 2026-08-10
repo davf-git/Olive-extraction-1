@@ -3,6 +3,7 @@ title: 'Lower Frequencies: Steve McQueen’s “Bass” as “Cinematic Space”
 date: 2025-05-08
 category: Arts & Culture
 source: MUBI NOTEBOOK
+source_url: https://mubi.com/en/notebook/posts/lower-frequencies-steve-mcqueen-s-bass-as-cinematic-space
 original_id: 26214
 original_slug: lower-frequencies-steve-mcqueen-s-bass-as-cinematic-space
 original_url: https://olivenetwork.org/Issue/lower-frequencies-steve-mcqueen-s-bass-as-cinematic-space/26214

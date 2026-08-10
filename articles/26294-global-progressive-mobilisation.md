@@ -3,6 +3,7 @@ title: 'Featured Story: Global Progressive Mobilisation'
 date: 2026-06-05
 category: Economics
 source: Global Progressive Mobilisation
+source_url: https://globalprogressivemobilisation.org/en
 original_id: 26294
 original_slug: global-progressive-mobilisation
 original_url: https://olivenetwork.org/Issue/global-progressive-mobilisation/26294

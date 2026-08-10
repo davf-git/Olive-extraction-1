@@ -3,6 +3,7 @@ title: 'Regenesis: George Monbiot'
 date: 2022-06-22
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25859
 original_slug: regenesis-george-monbiot
 original_url: https://olivenetwork.org/Issue/regenesis-george-monbiot/25859

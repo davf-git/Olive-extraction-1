@@ -3,6 +3,7 @@ title: Inside - Artists and Writers in Reading Prison
 date: 2018-12-28
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24629
 original_slug: inside-artists-and-writers-in-reading-prison
 original_url: https://olivenetwork.org/Issue/inside-artists-and-writers-in-reading-prison/24629

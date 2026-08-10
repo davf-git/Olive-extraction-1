@@ -3,6 +3,7 @@ title: International School for Peace
 date: 2024-06-09
 category: Arts & Culture
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/peace-humanitarian/one-hundred-years-on-international-school-reverberates-beyond-geneva
 original_id: 26069
 original_slug: international-school-for-peace
 original_url: https://olivenetwork.org/Issue/international-school-for-peace/26069

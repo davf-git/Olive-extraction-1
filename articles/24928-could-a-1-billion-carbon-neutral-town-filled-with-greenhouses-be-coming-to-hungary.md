@@ -4,6 +4,7 @@ title: Could a €1 billion carbon-neutral town filled with greenhouses be comin
 date: 2019-06-25
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24928
 original_slug: could-a-1-billion-carbon-neutral-town-filled-with-greenhouses-be-coming-to-hungary
 original_url: https://olivenetwork.org/Issue/could-a-1-billion-carbon-neutral-town-filled-with-greenhouses-be-coming-to-hungary/24928

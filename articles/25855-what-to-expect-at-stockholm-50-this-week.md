@@ -3,6 +3,7 @@ title: What to expect at Stockholm+50 this week
 date: 2022-05-31
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25855
 original_slug: what-to-expect-at-stockholm-50-this-week
 original_url: https://olivenetwork.org/Issue/what-to-expect-at-stockholm-50-this-week/25855

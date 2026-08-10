@@ -3,6 +3,7 @@ title: From Hiroshima, UN chief calls for global nuclear disarmament
 date: 2022-08-06
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25871
 original_slug: from-hiroshima-un-chief-calls-for-global-nuclear-disarmament
 original_url: https://olivenetwork.org/Issue/from-hiroshima-un-chief-calls-for-global-nuclear-disarmament/25871

@@ -3,6 +3,7 @@ title: I’ve Said Goodbye to ‘Normal.’ You Should, Too.
 date: 2021-01-25
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25638
 original_slug: i-ve-said-goodbye-to-normal-you-should-too
 original_url: https://olivenetwork.org/Issue/i-ve-said-goodbye-to-normal-you-should-too/25638

@@ -3,6 +3,7 @@ title: Statement by the Secretary-General at the conclusion of COP27 in Sharm el
 date: 2022-11-28
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25905
 original_slug: statement-by-the-secretary-general-at-the-conclusion-of-cop27-in-sharm-el-sheikh
 original_url: https://olivenetwork.org/Issue/statement-by-the-secretary-general-at-the-conclusion-of-cop27-in-sharm-el-sheikh/25905

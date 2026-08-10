@@ -3,6 +3,7 @@ title: There’s a Flood of Climate Change-Related Art at the Venice Biennale.
 date: 2019-09-17
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24858
 original_slug: there-s-a-flood-of-climate-change-related-art-at-the-venice-biennale
 original_url: https://olivenetwork.org/Issue/there-s-a-flood-of-climate-change-related-art-at-the-venice-biennale/24858

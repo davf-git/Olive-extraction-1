@@ -4,6 +4,7 @@ title: UN rights chief on Myanmar refugees and a future of ‘kindness, empathy 
 date: 2023-01-04
 category: Humanitarian
 source: ON Network
+source_url: null
 original_id: 25916
 original_slug: un-rights-chief-on-myanmar-refugees-and-a-future-of-kindness-empathy-and-unity
 original_url: https://olivenetwork.org/Issue/un-rights-chief-on-myanmar-refugees-and-a-future-of-kindness-empathy-and-unity/25916

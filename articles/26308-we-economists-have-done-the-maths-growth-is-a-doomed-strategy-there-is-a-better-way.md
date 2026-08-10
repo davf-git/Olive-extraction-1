@@ -4,6 +4,7 @@ title: 'We economists have done the maths: ‘growth’ is a doomed strategy –
 date: 2026-06-10
 category: Climate
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders
 original_id: 26308
 original_slug: we-economists-have-done-the-maths-growth-is-a-doomed-strategy-there-is-a-better-way
 original_url: https://olivenetwork.org/Issue/we-economists-have-done-the-maths-growth-is-a-doomed-strategy-there-is-a-better-way/26308

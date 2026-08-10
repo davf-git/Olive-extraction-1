@@ -4,6 +4,7 @@ title: Human.Kind. A new look at Humanitarian Photography through 10 editions of
 date: 2023-12-19
 category: Charities
 source: ON Network
+source_url: null
 original_id: 26000
 original_slug: human-kind-a-new-look-at-humanitarian-photography-through-10-editions-of-the-prix-pictet
 original_url: https://olivenetwork.org/Issue/human-kind-a-new-look-at-humanitarian-photography-through-10-editions-of-the-prix-pictet/26000

@@ -3,6 +3,7 @@ title: National Gallery launches citizens’ assembly as a step towards inclusiv
 date: 2026-02-05
 category: Arts & Culture
 source: NETWORK OF EUROPEAN MUSEUM ORGANISATIONS
+source_url: https://www.ne-mo.org/news-events/article/national-gallery-launches-citizens-assembly-as-a-step-towards-inclusive-governance/
 original_id: 26277
 original_slug: national-gallery-launches-citizens-assembly-as-a-step-towards-inclusive-governance
 original_url: https://olivenetwork.org/Issue/national-gallery-launches-citizens-assembly-as-a-step-towards-inclusive-governance/26277

@@ -3,6 +3,7 @@ title: Denmark to build 'first energy island' in North Sea
 date: 2021-02-17
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25662
 original_slug: denmark-to-build-first-energy-island-in-north-sea
 original_url: https://olivenetwork.org/Issue/denmark-to-build-first-energy-island-in-north-sea/25662

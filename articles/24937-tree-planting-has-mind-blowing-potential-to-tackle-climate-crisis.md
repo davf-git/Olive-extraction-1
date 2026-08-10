@@ -3,6 +3,7 @@ title: Tree planting 'has mind-blowing potential' to tackle climate crisis
 date: 2019-07-04
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24937
 original_slug: tree-planting-has-mind-blowing-potential-to-tackle-climate-crisis
 original_url: https://olivenetwork.org/Issue/tree-planting-has-mind-blowing-potential-to-tackle-climate-crisis/24937

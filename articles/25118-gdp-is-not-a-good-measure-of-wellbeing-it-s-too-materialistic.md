@@ -3,6 +3,7 @@ title: GDP is not a good measure of wellbeing – it's too materialistic
 date: 2019-12-03
 category: Education
 source: ON Network
+source_url: null
 original_id: 25118
 original_slug: gdp-is-not-a-good-measure-of-wellbeing-it-s-too-materialistic
 original_url: https://olivenetwork.org/Issue/gdp-is-not-a-good-measure-of-wellbeing-it-s-too-materialistic/25118

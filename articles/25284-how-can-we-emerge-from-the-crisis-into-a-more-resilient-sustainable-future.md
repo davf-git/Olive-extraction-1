@@ -3,6 +3,7 @@ title: How can we emerge from the crisis into a more resilient, sustainable futu
 date: 2020-04-30
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25284
 original_slug: how-can-we-emerge-from-the-crisis-into-a-more-resilient-sustainable-future
 original_url: https://olivenetwork.org/Issue/how-can-we-emerge-from-the-crisis-into-a-more-resilient-sustainable-future/25284

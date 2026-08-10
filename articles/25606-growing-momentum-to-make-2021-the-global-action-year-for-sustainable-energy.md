@@ -3,6 +3,7 @@ title: ‘Growing momentum’ to make 2021 the global action year for sustainabl
 date: 2021-01-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25606
 original_slug: growing-momentum-to-make-2021-the-global-action-year-for-sustainable-energy
 original_url: https://olivenetwork.org/Issue/growing-momentum-to-make-2021-the-global-action-year-for-sustainable-energy/25606

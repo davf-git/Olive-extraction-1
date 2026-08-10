@@ -4,6 +4,7 @@ title: Walid Raad, the 2019 Turner Prize Winners, and Other Artists Are Mobilizi
 date: 2020-08-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25416
 original_slug: walid-raad-the-2019-turner-prize-winners-and-other-artists-are-mobilizing-to-raise-emergency-funds-for-beirut
 original_url: https://olivenetwork.org/Issue/walid-raad-the-2019-turner-prize-winners-and-other-artists-are-mobilizing-to-raise-emergency-funds-for-beirut/25416

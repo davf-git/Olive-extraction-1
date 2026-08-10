@@ -3,6 +3,7 @@ title: The DIY wooden drones reforesting Spain
 date: 2021-01-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25619
 original_slug: the-diy-wooden-drones-reforesting-spain
 original_url: https://olivenetwork.org/Issue/the-diy-wooden-drones-reforesting-spain/25619

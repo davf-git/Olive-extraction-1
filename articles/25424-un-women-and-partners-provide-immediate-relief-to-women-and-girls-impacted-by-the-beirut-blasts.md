@@ -4,6 +4,7 @@ title: UN Women and partners provide immediate relief to women and girls impacte
 date: 2020-08-17
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25424
 original_slug: un-women-and-partners-provide-immediate-relief-to-women-and-girls-impacted-by-the-beirut-blasts
 original_url: https://olivenetwork.org/Issue/un-women-and-partners-provide-immediate-relief-to-women-and-girls-impacted-by-the-beirut-blasts/25424

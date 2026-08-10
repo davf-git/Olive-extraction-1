@@ -3,6 +3,7 @@ title: Global Assessment Report on Disaster Risk Reduction
 date: 2020-11-13
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25570
 original_slug: global-assessment-report-on-disaster-risk-reduction
 original_url: https://olivenetwork.org/Issue/global-assessment-report-on-disaster-risk-reduction/25570

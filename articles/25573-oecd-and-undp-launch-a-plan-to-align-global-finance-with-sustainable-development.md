@@ -3,6 +3,7 @@ title: OECD and UNDP launch a plan to align global finance with sustainable deve
 date: 2020-11-16
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25573
 original_slug: oecd-and-undp-launch-a-plan-to-align-global-finance-with-sustainable-development
 original_url: https://olivenetwork.org/Issue/oecd-and-undp-launch-a-plan-to-align-global-finance-with-sustainable-development/25573

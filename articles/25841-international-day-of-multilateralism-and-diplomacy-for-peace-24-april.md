@@ -3,6 +3,7 @@ title: International Day of Multilateralism and Diplomacy for Peace, 24 April
 date: 2022-04-25
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25841
 original_slug: international-day-of-multilateralism-and-diplomacy-for-peace-24-april
 original_url: https://olivenetwork.org/Issue/international-day-of-multilateralism-and-diplomacy-for-peace-24-april/25841

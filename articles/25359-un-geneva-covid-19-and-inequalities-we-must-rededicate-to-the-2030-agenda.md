@@ -3,6 +3,7 @@ title: 'UN GENEVA: COVID-19 and inequalities: ‘We must rededicate to the 2030 
 date: 2020-06-12
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25359
 original_slug: un-geneva-covid-19-and-inequalities-we-must-rededicate-to-the-2030-agenda
 original_url: https://olivenetwork.org/Issue/un-geneva-covid-19-and-inequalities-we-must-rededicate-to-the-2030-agenda/25359

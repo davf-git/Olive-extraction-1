@@ -3,6 +3,7 @@ title: 'Anthropy Live: A launchpad for change'
 date: 2022-10-31
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25891
 original_slug: anthropy-live-a-launchpad-for-change
 original_url: https://olivenetwork.org/Issue/anthropy-live-a-launchpad-for-change/25891

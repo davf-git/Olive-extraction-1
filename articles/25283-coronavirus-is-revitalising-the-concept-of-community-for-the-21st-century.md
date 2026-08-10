@@ -3,6 +3,7 @@ title: Coronavirus is revitalising the concept of community for the 21st century
 date: 2020-04-30
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25283
 original_slug: coronavirus-is-revitalising-the-concept-of-community-for-the-21st-century
 original_url: https://olivenetwork.org/Issue/coronavirus-is-revitalising-the-concept-of-community-for-the-21st-century/25283

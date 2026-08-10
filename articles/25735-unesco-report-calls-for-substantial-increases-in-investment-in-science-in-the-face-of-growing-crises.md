@@ -4,6 +4,7 @@ title: UNESCO report calls for substantial increases in investment in science in
 date: 2021-06-17
 category: Science & Tech
 source: ON Network
+source_url: null
 original_id: 25735
 original_slug: unesco-report-calls-for-substantial-increases-in-investment-in-science-in-the-face-of-growing-crises
 original_url: https://olivenetwork.org/Issue/unesco-report-calls-for-substantial-increases-in-investment-in-science-in-the-face-of-growing-crises/25735

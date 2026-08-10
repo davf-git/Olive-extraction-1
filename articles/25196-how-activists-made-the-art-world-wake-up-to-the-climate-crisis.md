@@ -3,6 +3,7 @@ title: How Activists Made the Art World Wake Up to the Climate Crisis
 date: 2020-02-12
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25196
 original_slug: how-activists-made-the-art-world-wake-up-to-the-climate-crisis
 original_url: https://olivenetwork.org/Issue/how-activists-made-the-art-world-wake-up-to-the-climate-crisis/25196

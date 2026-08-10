@@ -3,6 +3,7 @@ title: Mexico becomes first country to launch SDG sovereign bond
 date: 2024-04-01
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25487
 original_slug: mexico-becomes-first-country-to-launch-sdg-sovereign-bond
 original_url: https://olivenetwork.org/Issue/mexico-becomes-first-country-to-launch-sdg-sovereign-bond/25487

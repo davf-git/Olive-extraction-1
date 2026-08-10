@@ -3,6 +3,7 @@ title: 'Peter Bakker: Big business climate pledges must be measured'
 date: 2021-11-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25799
 original_slug: peter-bakker-big-business-climate-pledges-must-be-measured
 original_url: https://olivenetwork.org/Issue/peter-bakker-big-business-climate-pledges-must-be-measured/25799

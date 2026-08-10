@@ -3,6 +3,7 @@ title: 'On Culture and Climate: Artist Talk with John Akomfrah and Olafur Eliass
 date: 2020-11-27
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25585
 original_slug: on-culture-and-climate-artist-talk-with-john-akomfrah-and-olafur-eliasson
 original_url: https://olivenetwork.org/Issue/on-culture-and-climate-artist-talk-with-john-akomfrah-and-olafur-eliasson/25585

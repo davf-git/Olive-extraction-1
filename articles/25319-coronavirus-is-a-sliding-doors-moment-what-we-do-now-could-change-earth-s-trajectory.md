@@ -4,6 +4,7 @@ title: Coronavirus is a ‘sliding doors’ moment. What we do now could change 
 date: 2020-05-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25319
 original_slug: coronavirus-is-a-sliding-doors-moment-what-we-do-now-could-change-earth-s-trajectory
 original_url: https://olivenetwork.org/Issue/coronavirus-is-a-sliding-doors-moment-what-we-do-now-could-change-earth-s-trajectory/25319

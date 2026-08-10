@@ -3,6 +3,7 @@ title: 'World Environment Day: Global institutions call for a global green recov
 date: 2020-06-05
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25353
 original_slug: world-environment-day-global-institutions-call-for-a-global-green-recovery
 original_url: https://olivenetwork.org/Issue/world-environment-day-global-institutions-call-for-a-global-green-recovery/25353

@@ -3,6 +3,7 @@ title: US look to Syria for ancient wisdom in nature
 date: 2019-09-24
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24591
 original_slug: us-look-to-syria-for-ancient-wisdom-in-nature
 original_url: https://olivenetwork.org/Issue/us-look-to-syria-for-ancient-wisdom-in-nature/24591

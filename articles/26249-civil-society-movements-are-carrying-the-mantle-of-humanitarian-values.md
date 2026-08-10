@@ -3,6 +3,7 @@ title: 'From the Global Sumud Flotilla to the UN General Assembly: Where are the
 date: 2025-10-01
 category: Climate
 source: THE NEW HUMANITARIAN
+source_url: https://www.thenewhumanitarian.org/opinion/2025/09/30/global-sumud-flotilla-un-general-assembly-where-are-humanitarians
 original_id: 26249
 original_slug: civil-society-movements-are-carrying-the-mantle-of-humanitarian-values
 original_url: https://olivenetwork.org/Issue/civil-society-movements-are-carrying-the-mantle-of-humanitarian-values/26249

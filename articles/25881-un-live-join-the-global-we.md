@@ -3,6 +3,7 @@ title: UN Live - Join the Global We
 date: 2022-09-20
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25881
 original_slug: un-live-join-the-global-we
 original_url: https://olivenetwork.org/Issue/un-live-join-the-global-we/25881

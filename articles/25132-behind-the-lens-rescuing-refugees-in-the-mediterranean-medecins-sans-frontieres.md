@@ -3,6 +3,7 @@ title: 'Medecins Sans Frontieres: Rescuing refugees in the Mediterranean'
 date: 2022-02-11
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25132
 original_slug: behind-the-lens-rescuing-refugees-in-the-mediterranean-medecins-sans-frontieres
 original_url: https://olivenetwork.org/Issue/behind-the-lens-rescuing-refugees-in-the-mediterranean-medecins-sans-frontieres/25132

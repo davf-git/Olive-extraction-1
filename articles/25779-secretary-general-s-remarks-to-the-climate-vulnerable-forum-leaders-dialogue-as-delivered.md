@@ -4,6 +4,7 @@ title: Secretary-General's remarks to the Climate Vulnerable Forum Leaders Dialo
 date: 2021-11-06
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25779
 original_slug: secretary-general-s-remarks-to-the-climate-vulnerable-forum-leaders-dialogue-as-delivered
 original_url: https://olivenetwork.org/Issue/secretary-general-s-remarks-to-the-climate-vulnerable-forum-leaders-dialogue-as-delivered/25779

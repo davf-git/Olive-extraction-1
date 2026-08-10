@@ -3,6 +3,7 @@ title: Museums around the world step up to be transformed into vaccination centr
 date: 2021-01-19
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25623
 original_slug: museums-around-the-world-step-up-to-be-transformed-into-vaccination-centres
 original_url: https://olivenetwork.org/Issue/museums-around-the-world-step-up-to-be-transformed-into-vaccination-centres/25623

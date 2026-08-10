@@ -3,6 +3,7 @@ title: The Hope Forum
 date: 2022-04-11
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25838
 original_slug: the-hope-forum
 original_url: https://olivenetwork.org/Issue/the-hope-forum/25838

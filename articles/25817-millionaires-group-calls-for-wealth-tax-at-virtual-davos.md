@@ -3,6 +3,7 @@ title: Millionaires group calls for wealth tax at virtual Davos
 date: 2022-01-19
 category: Economics
 source: ON Network
+source_url: null
 original_id: 25817
 original_slug: millionaires-group-calls-for-wealth-tax-at-virtual-davos
 original_url: https://olivenetwork.org/Issue/millionaires-group-calls-for-wealth-tax-at-virtual-davos/25817

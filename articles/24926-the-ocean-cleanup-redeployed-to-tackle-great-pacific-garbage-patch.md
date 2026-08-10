@@ -3,6 +3,7 @@ title: The Ocean Cleanup redeployed to tackle Great Pacific Garbage Patch
 date: 2019-06-24
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24926
 original_slug: the-ocean-cleanup-redeployed-to-tackle-great-pacific-garbage-patch
 original_url: https://olivenetwork.org/Issue/the-ocean-cleanup-redeployed-to-tackle-great-pacific-garbage-patch/24926

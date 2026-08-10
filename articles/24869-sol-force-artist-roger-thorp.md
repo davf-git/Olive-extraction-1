@@ -3,6 +3,7 @@ title: 'SOL FORCE ARTIST: Roger Thorp'
 date: 2019-06-19
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24869
 original_slug: sol-force-artist-roger-thorp
 original_url: https://olivenetwork.org/Issue/sol-force-artist-roger-thorp/24869

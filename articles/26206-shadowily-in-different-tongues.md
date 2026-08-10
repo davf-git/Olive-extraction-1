@@ -3,6 +3,7 @@ title: Shadowily in different tongues
 date: 2025-03-20
 category: Arts & Culture
 source: E-FLUX
+source_url: https://www.e-flux.com/announcements/646178/shadowily-in-different-tongues/#:~:text=The%20exhibition%20Shadowily%20in%20different,to%20the%20verge%20of%20exhaustion.
 original_id: 26206
 original_slug: shadowily-in-different-tongues
 original_url: https://olivenetwork.org/Issue/shadowily-in-different-tongues/26206

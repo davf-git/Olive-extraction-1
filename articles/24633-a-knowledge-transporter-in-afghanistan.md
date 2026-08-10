@@ -3,6 +3,7 @@ title: 'Featured Story: A knowledge transporter in Afghanistan'
 date: 2026-04-14
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 24633
 original_slug: a-knowledge-transporter-in-afghanistan
 original_url: https://olivenetwork.org/Issue/a-knowledge-transporter-in-afghanistan/24633

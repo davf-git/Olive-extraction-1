@@ -4,6 +4,7 @@ title: UK must impose sanctions on Israel to meet legal obligations, say more th
 date: 2025-05-27
 category: Education
 source: THE GUARDIAN
+source_url: https://www.theguardian.com/world/2025/may/27/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers?CMP=Share_iOSApp_Other
 original_id: 26221
 original_slug: uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers
 original_url: https://olivenetwork.org/Issue/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers/26221

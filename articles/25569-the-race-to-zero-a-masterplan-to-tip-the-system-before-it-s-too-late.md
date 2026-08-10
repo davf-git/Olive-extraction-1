@@ -3,6 +3,7 @@ title: The Race to Zero, a masterplan to tip the system before it's too late
 date: 2020-11-13
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25569
 original_slug: the-race-to-zero-a-masterplan-to-tip-the-system-before-it-s-too-late
 original_url: https://olivenetwork.org/Issue/the-race-to-zero-a-masterplan-to-tip-the-system-before-it-s-too-late/25569

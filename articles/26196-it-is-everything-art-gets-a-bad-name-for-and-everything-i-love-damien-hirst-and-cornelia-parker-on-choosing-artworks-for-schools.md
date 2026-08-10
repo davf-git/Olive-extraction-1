@@ -4,6 +4,7 @@ title: '‘It is everything art gets a bad name for and everything I love’: Da
 date: 2025-01-18
 category: Arts & Culture
 source: THE OBSERVER
+source_url: https://www.theguardian.com/global/2025/jan/11/it-is-everything-art-gets-a-bad-name-for-and-everything-i-love-damien-hirst-and-cornelia-parker-on-choosing-artworks-for-schools
 original_id: 26196
 original_slug: it-is-everything-art-gets-a-bad-name-for-and-everything-i-love-damien-hirst-and-cornelia-parker-on-choosing-artworks-for-schools
 original_url: https://olivenetwork.org/Issue/it-is-everything-art-gets-a-bad-name-for-and-everything-i-love-damien-hirst-and-cornelia-parker-on-choosing-artworks-for-schools/26196

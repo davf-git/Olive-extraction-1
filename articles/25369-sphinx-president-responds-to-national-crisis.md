@@ -3,6 +3,7 @@ title: Sphinx President Responds to National Crisis
 date: 2023-11-08
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25369
 original_slug: sphinx-president-responds-to-national-crisis
 original_url: https://olivenetwork.org/Issue/sphinx-president-responds-to-national-crisis/25369

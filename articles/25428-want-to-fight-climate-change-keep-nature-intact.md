@@ -3,6 +3,7 @@ title: Want to Fight Climate Change? Keep Nature Intact.
 date: 2020-08-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25428
 original_slug: want-to-fight-climate-change-keep-nature-intact
 original_url: https://olivenetwork.org/Issue/want-to-fight-climate-change-keep-nature-intact/25428

@@ -3,6 +3,7 @@ title: Global push for AI governance amid warnings of ‘catastrophic harm’
 date: 2026-07-06
 category: Education
 source: UN News   -   Global perspective Human stories
+source_url: https://news.un.org/en/story/2026/07/1167862
 original_id: 26315
 original_slug: global-push-for-ai-governance-amid-warnings-of-catastrophic-harm
 original_url: https://olivenetwork.org/Issue/global-push-for-ai-governance-amid-warnings-of-catastrophic-harm/26315

@@ -3,6 +3,7 @@ title: '2024: A Four-pronged Quest to Rebuild Trust and Restore Hope'
 date: 2024-01-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 26006
 original_slug: 2024-a-four-pronged-quest-to-rebuild-trust-and-restore-hope
 original_url: https://olivenetwork.org/Issue/2024-a-four-pronged-quest-to-rebuild-trust-and-restore-hope/26006

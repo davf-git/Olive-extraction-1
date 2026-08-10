@@ -3,6 +3,7 @@ title: About The People's COP 27
 date: 2022-11-19
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25901
 original_slug: about-the-people-s-cop-27
 original_url: https://olivenetwork.org/Issue/about-the-people-s-cop-27/25901

@@ -3,6 +3,7 @@ title: Portugal Runs For Four Days Straight On Renewable Energy Alone
 date: 2019-01-02
 category: Environment
 source: ON Network
+source_url: null
 original_id: 24657
 original_slug: portugal-runs-for-four-days-straight-on-renewable-energy-alone
 original_url: https://olivenetwork.org/Issue/portugal-runs-for-four-days-straight-on-renewable-energy-alone/24657

@@ -3,6 +3,7 @@ title: '''The beginning of great change'': Greta Thunberg hails school climate s
 date: 2019-02-14
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24735
 original_slug: the-beginning-of-great-change-greta-thunberg-hails-school-climate-strikes
 original_url: https://olivenetwork.org/Issue/the-beginning-of-great-change-greta-thunberg-hails-school-climate-strikes/24735

@@ -4,6 +4,7 @@ title: 'UN''s Guterres: oil companies have peddled ''big lie'' on climate crisis
 date: 2023-01-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25928
 original_slug: un-s-guterres-oil-companies-have-peddled-big-lie-on-climate-crisis-video
 original_url: https://olivenetwork.org/Issue/un-s-guterres-oil-companies-have-peddled-big-lie-on-climate-crisis-video/25928

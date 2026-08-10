@@ -3,6 +3,7 @@ title: The Wonderful Culture of Iranian Cinema
 date: 2026-04-21
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 26297
 original_slug: iranian-cinema
 original_url: https://olivenetwork.org/Issue/iranian-cinema/26297

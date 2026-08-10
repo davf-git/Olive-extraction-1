@@ -4,6 +4,7 @@ title: Ghanaian Curator Nana Oforiatta Ayim on Why the Future of the Museum Must
 date: 2022-07-31
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25869
 original_slug: ghanaian-curator-nana-oforiatta-ayim-on-why-the-future-of-the-museum-must-exist-beyond-art-s-traditional-boundaries
 original_url: https://olivenetwork.org/Issue/ghanaian-curator-nana-oforiatta-ayim-on-why-the-future-of-the-museum-must-exist-beyond-art-s-traditional-boundaries/25869

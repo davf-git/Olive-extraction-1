@@ -3,6 +3,7 @@ title: 'Featured: Utopia For Realists - and how we can get there.'
 date: 2025-11-27
 category: Uncategorized
 source: David Seedhouse
+source_url: null
 original_id: 24283
 original_slug: featured-utopia-for-realists-and-how-we-can-get-there
 original_url: https://olivenetwork.org/Issue/featured-utopia-for-realists-and-how-we-can-get-there/24283

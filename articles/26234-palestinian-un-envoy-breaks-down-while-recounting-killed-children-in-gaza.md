@@ -3,6 +3,7 @@ title: Palestinian UN envoy breaks down while recounting killed children in Gaza
 date: 2025-07-14
 category: Humanitarian
 source: ALJAZEERA
+source_url: https://www.aljazeera.com/video/newsfeed/2025/5/28/palestinian-un-envoy-breaks-down-while-recounting-killed-children-in-gaza
 original_id: 26234
 original_slug: palestinian-un-envoy-breaks-down-while-recounting-killed-children-in-gaza
 original_url: https://olivenetwork.org/Issue/palestinian-un-envoy-breaks-down-while-recounting-killed-children-in-gaza/26234

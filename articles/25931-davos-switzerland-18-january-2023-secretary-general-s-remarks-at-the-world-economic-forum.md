@@ -4,6 +4,7 @@ title: Davos, Switzerland 18 January 2023 Secretary-General's remarks at the Wor
 date: 2023-01-20
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25931
 original_slug: davos-switzerland-18-january-2023-secretary-general-s-remarks-at-the-world-economic-forum
 original_url: https://olivenetwork.org/Issue/davos-switzerland-18-january-2023-secretary-general-s-remarks-at-the-world-economic-forum/25931

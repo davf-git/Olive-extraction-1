@@ -4,6 +4,7 @@ title: Norway increases commitment to immunisation for the most vulnerable, pled
 date: 2020-05-06
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25295
 original_slug: norway-increases-commitment-to-immunisation-for-the-most-vulnerable-pledges-usd-1-billion-to-gavi
 original_url: https://olivenetwork.org/Issue/norway-increases-commitment-to-immunisation-for-the-most-vulnerable-pledges-usd-1-billion-to-gavi/25295

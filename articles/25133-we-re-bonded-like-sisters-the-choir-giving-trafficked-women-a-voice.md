@@ -3,6 +3,7 @@ title: '‘We''re bonded like sisters'': the choir giving trafficked women a voi
 date: 2019-12-18
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25133
 original_slug: we-re-bonded-like-sisters-the-choir-giving-trafficked-women-a-voice
 original_url: https://olivenetwork.org/Issue/we-re-bonded-like-sisters-the-choir-giving-trafficked-women-a-voice/25133

@@ -3,6 +3,7 @@ title: Soils - L'Internationale
 date: 2025-01-07
 category: Arts & Culture
 source: L'INTERNATIONALE
+source_url: https://internationaleonline.org/publications/soils/
 original_id: 26192
 original_slug: soils-l-internationale
 original_url: https://olivenetwork.org/Issue/soils-l-internationale/26192

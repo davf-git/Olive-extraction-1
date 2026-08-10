@@ -3,6 +3,7 @@ title: 'Helsinki Biennial 2025: Shelter'
 date: 2024-12-02
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 26182
 original_slug: shelter
 original_url: https://olivenetwork.org/Issue/shelter/26182

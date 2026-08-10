@@ -3,6 +3,7 @@ title: Youth Activists Are Holding Their Own Climate Summit
 date: 2020-11-10
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25562
 original_slug: youth-activists-are-holding-their-own-climate-summit
 original_url: https://olivenetwork.org/Issue/youth-activists-are-holding-their-own-climate-summit/25562

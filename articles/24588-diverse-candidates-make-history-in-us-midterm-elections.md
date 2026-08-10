@@ -3,6 +3,7 @@ title: Diverse candidates make history in US midterm elections
 date: 2018-12-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24588
 original_slug: diverse-candidates-make-history-in-us-midterm-elections
 original_url: https://olivenetwork.org/Issue/diverse-candidates-make-history-in-us-midterm-elections/24588

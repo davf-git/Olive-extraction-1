@@ -4,6 +4,7 @@ title: United Nations adopts ground-breaking Pact for the Future to transform gl
 date: 2024-10-01
 category: Climate
 source: UNITED NATIONS
+source_url: https://www.un.org/en/unis-nairobi/press-releaseunited-nations-adopts-ground-breaking-pact-future-transform-global
 original_id: 26165
 original_slug: press-release-united-nations-adopts-ground-breaking-pact-for-the-future-to-transform-global-governance
 original_url: https://olivenetwork.org/Issue/press-release-united-nations-adopts-ground-breaking-pact-for-the-future-to-transform-global-governance/26165

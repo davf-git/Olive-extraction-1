@@ -3,6 +3,7 @@ title: Nations clinch pandemic treaty in sign that ‘multilateralism is alive a
 date: 2025-04-17
 category: Health
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/global-health/nations-clinch-pandemic-treaty-in-sign-that-multilateralism-is-alive-and-well?utm_source=newsletter&utm_medium=email
 original_id: 26211
 original_slug: nations-clinch-pandemic-treaty-in-sign-that-multilateralism-is-alive-and-well
 original_url: https://olivenetwork.org/Issue/nations-clinch-pandemic-treaty-in-sign-that-multilateralism-is-alive-and-well/26211

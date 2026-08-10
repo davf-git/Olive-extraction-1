@@ -3,6 +3,7 @@ title: Jake Chapman on Refugee Rescue in Greece
 date: 2019-01-07
 category: Charities
 source: ON Network
+source_url: null
 original_id: 24667
 original_slug: jake-chapman-on-refugee-rescue-in-greece
 original_url: https://olivenetwork.org/Issue/jake-chapman-on-refugee-rescue-in-greece/24667

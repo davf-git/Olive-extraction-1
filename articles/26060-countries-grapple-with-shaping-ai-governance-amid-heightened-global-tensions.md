@@ -3,6 +3,7 @@ title: Countries grapple with shaping AI governance amid heightened global tensi
 date: 2024-05-26
 category: Arts & Culture
 source: GENEVA SOLUTIONS
+source_url: https://genevasolutions.news/science-tech/countries-grapple-with-shaping-ai-governance-amid-heightened-global-tensions?utm_source=newsletter&utm_medium=email
 original_id: 26060
 original_slug: countries-grapple-with-shaping-ai-governance-amid-heightened-global-tensions
 original_url: https://olivenetwork.org/Issue/countries-grapple-with-shaping-ai-governance-amid-heightened-global-tensions/26060

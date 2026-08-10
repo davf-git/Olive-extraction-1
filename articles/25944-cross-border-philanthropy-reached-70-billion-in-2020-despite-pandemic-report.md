@@ -3,6 +3,7 @@ title: Cross-border philanthropy reached $70 billion in 2020 despite pandemic - 
 date: 2023-05-18
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25944
 original_slug: cross-border-philanthropy-reached-70-billion-in-2020-despite-pandemic-report
 original_url: https://olivenetwork.org/Issue/cross-border-philanthropy-reached-70-billion-in-2020-despite-pandemic-report/25944

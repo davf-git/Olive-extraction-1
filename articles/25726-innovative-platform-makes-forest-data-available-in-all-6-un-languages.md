@@ -3,6 +3,7 @@ title: Innovative Platform Makes Forest Data Available in All 6 UN Languages
 date: 2021-05-01
 category: Environment
 source: ON Network
+source_url: null
 original_id: 25726
 original_slug: innovative-platform-makes-forest-data-available-in-all-6-un-languages
 original_url: https://olivenetwork.org/Issue/innovative-platform-makes-forest-data-available-in-all-6-un-languages/25726

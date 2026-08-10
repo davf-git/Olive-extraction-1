@@ -4,6 +4,7 @@ title: A happier marriage between science and policy - some advice from Swiss Pu
 date: 2020-09-09
 category: Health
 source: ON Network
+source_url: null
 original_id: 25469
 original_slug: a-happier-marriage-between-science-and-policy-some-advice-from-swiss-public-health-experts
 original_url: https://olivenetwork.org/Issue/a-happier-marriage-between-science-and-policy-some-advice-from-swiss-public-health-experts/25469

@@ -3,6 +3,7 @@ title: 'UN Foundation: Climate Issues to watch in 2023'
 date: 2023-01-05
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25917
 original_slug: united-nations-foundation-climate-issues-to-watch-in-2023
 original_url: https://olivenetwork.org/Issue/united-nations-foundation-climate-issues-to-watch-in-2023/25917

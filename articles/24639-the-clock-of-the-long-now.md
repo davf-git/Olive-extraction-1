@@ -3,6 +3,7 @@ title: The Clock of the Long Now
 date: 2019-01-10
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24639
 original_slug: the-clock-of-the-long-now
 original_url: https://olivenetwork.org/Issue/the-clock-of-the-long-now/24639

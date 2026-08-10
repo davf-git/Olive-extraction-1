@@ -4,6 +4,7 @@ title: 'Geneva Solutions - Elise Buckle: ‘It’s time for a global reset to re
 date: 2020-09-21
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25494
 original_slug: geneva-solutions-elise-buckle-it-s-time-for-a-global-reset-to-rebalance-our-relationship-with-nature
 original_url: https://olivenetwork.org/Issue/geneva-solutions-elise-buckle-it-s-time-for-a-global-reset-to-rebalance-our-relationship-with-nature/25494

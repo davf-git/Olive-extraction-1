@@ -3,6 +3,7 @@ title: Water kiosks in Madagascar - Water Aid
 date: 2018-12-28
 category: Uncategorized
 source: ON Network
+source_url: null
 original_id: 24471
 original_slug: water-kiosks-in-madagascar-water-aid
 original_url: https://olivenetwork.org/Issue/water-kiosks-in-madagascar-water-aid/24471

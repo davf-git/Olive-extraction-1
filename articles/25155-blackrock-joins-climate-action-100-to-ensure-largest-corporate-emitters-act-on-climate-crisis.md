@@ -4,6 +4,7 @@ title: BlackRock joins Climate Action 100+ to ensure largest corporate emitters 
 date: 2020-01-15
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25155
 original_slug: blackrock-joins-climate-action-100-to-ensure-largest-corporate-emitters-act-on-climate-crisis
 original_url: https://olivenetwork.org/Issue/blackrock-joins-climate-action-100-to-ensure-largest-corporate-emitters-act-on-climate-crisis/25155

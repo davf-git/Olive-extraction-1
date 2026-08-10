@@ -3,6 +3,7 @@ title: The Citizens' Assembly on Climate Change
 date: 2020-09-18
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25349
 original_slug: the-citizens-assembly-on-climate-change
 original_url: https://olivenetwork.org/Issue/the-citizens-assembly-on-climate-change/25349

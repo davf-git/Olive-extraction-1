@@ -3,6 +3,7 @@ title: 'Reimagining the future of skills: what do young people think?'
 date: 2020-07-22
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25393
 original_slug: reimagining-the-future-of-skills-what-do-young-people-think
 original_url: https://olivenetwork.org/Issue/reimagining-the-future-of-skills-what-do-young-people-think/25393

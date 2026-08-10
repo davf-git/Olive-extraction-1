@@ -3,6 +3,7 @@ title: TORI TSUI - Resisting Billionaire Extractivism
 date: 2026-01-19
 category: Climate
 source: TORI TSUI
+source_url: https://www.toritsui.com/
 original_id: 26272
 original_slug: tori-tsui-resisting-billionaire-extractivism
 original_url: https://olivenetwork.org/Issue/tori-tsui-resisting-billionaire-extractivism/26272

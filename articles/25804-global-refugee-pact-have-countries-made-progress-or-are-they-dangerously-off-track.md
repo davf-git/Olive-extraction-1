@@ -4,6 +4,7 @@ title: 'Global refugee pact: have countries made progress or are they dangerousl
 date: 2021-12-13
 category: Charities
 source: ON Network
+source_url: null
 original_id: 25804
 original_slug: global-refugee-pact-have-countries-made-progress-or-are-they-dangerously-off-track
 original_url: https://olivenetwork.org/Issue/global-refugee-pact-have-countries-made-progress-or-are-they-dangerously-off-track/25804

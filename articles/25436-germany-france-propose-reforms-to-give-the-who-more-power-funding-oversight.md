@@ -3,6 +3,7 @@ title: Germany & France Propose Reforms To Give The WHO More Power, Funding & Ov
 date: 2020-08-24
 category: Health
 source: ON Network
+source_url: null
 original_id: 25436
 original_slug: germany-france-propose-reforms-to-give-the-who-more-power-funding-oversight
 original_url: https://olivenetwork.org/Issue/germany-france-propose-reforms-to-give-the-who-more-power-funding-oversight/25436

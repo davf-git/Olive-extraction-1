@@ -3,6 +3,7 @@ title: Biocities beyond the Digitial
 date: 2019-09-22
 category: Dwelling
 source: ON Network
+source_url: null
 original_id: 25034
 original_slug: biocities-beyond-the-digitial
 original_url: https://olivenetwork.org/Issue/biocities-beyond-the-digitial/25034

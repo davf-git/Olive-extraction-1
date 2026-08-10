@@ -4,6 +4,7 @@ title: Financing education, imperative for 'peaceful, prosperous, stable societi
 date: 2022-09-18
 category: Education
 source: ON Network
+source_url: null
 original_id: 25879
 original_slug: financing-education-imperative-for-peaceful-prosperous-stable-societies-un-chief
 original_url: https://olivenetwork.org/Issue/financing-education-imperative-for-peaceful-prosperous-stable-societies-un-chief/25879

@@ -3,6 +3,7 @@ title: 'Doha Social Summit: Path to fairer societies begins in the classroom'
 date: 2025-11-05
 category: Arts & Culture
 source: UN News Global perspective Human stories
+source_url: https://news.un.org/en/story/2025/11/1166274
 original_id: 26252
 original_slug: doha-social-summit-path-to-fairer-societies-begins-in-the-classroom
 original_url: https://olivenetwork.org/Issue/doha-social-summit-path-to-fairer-societies-begins-in-the-classroom/26252

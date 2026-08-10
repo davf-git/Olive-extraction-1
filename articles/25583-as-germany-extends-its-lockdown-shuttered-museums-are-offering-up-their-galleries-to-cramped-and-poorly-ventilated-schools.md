@@ -4,6 +4,7 @@ title: As Germany Extends Its Lockdown, Shuttered Museums Are Offering Up Their 
 date: 2020-11-27
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25583
 original_slug: as-germany-extends-its-lockdown-shuttered-museums-are-offering-up-their-galleries-to-cramped-and-poorly-ventilated-schools
 original_url: https://olivenetwork.org/Issue/as-germany-extends-its-lockdown-shuttered-museums-are-offering-up-their-galleries-to-cramped-and-poorly-ventilated-schools/25583

@@ -3,6 +3,7 @@ title: General Assembly backs historic World Court climate crisis ruling
 date: 2026-05-24
 category: Climate
 source: UN NEWS
+source_url: https://news.un.org/en/story/2026/05/1167561
 original_id: 26304
 original_slug: general-assembly-backs-historic-world-court-climate-crisis-ruling
 original_url: https://olivenetwork.org/Issue/general-assembly-backs-historic-world-court-climate-crisis-ruling/26304

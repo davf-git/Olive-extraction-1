@@ -3,6 +3,7 @@ title: 'Forum for the Future: Food'
 date: 2023-06-15
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25950
 original_slug: forum-for-the-future-food
 original_url: https://olivenetwork.org/Issue/forum-for-the-future-food/25950

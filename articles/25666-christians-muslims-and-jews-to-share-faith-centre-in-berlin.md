@@ -3,6 +3,7 @@ title: Christians, Muslims and Jews to share faith centre in Berlin
 date: 2021-02-21
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25666
 original_slug: christians-muslims-and-jews-to-share-faith-centre-in-berlin
 original_url: https://olivenetwork.org/Issue/christians-muslims-and-jews-to-share-faith-centre-in-berlin/25666

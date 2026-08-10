@@ -3,6 +3,7 @@ title: The Arts and Climate Change | Canada Council for the Arts
 date: 2020-01-21
 category: Arts & Culture
 source: ON Network
+source_url: null
 original_id: 25161
 original_slug: the-arts-and-climate-change-canada-council-for-the-arts
 original_url: https://olivenetwork.org/Issue/the-arts-and-climate-change-canada-council-for-the-arts/25161

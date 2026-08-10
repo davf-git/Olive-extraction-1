@@ -3,6 +3,7 @@ title: Greta Thunberg blasts world leaders in emotional speech at U.N. climate s
 date: 2019-09-24
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25038
 original_slug: greta-thunberg-blasts-world-leaders-in-emotional-speech-at-u-n-climate-summit
 original_url: https://olivenetwork.org/Issue/greta-thunberg-blasts-world-leaders-in-emotional-speech-at-u-n-climate-summit/25038

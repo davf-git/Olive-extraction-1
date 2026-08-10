@@ -3,6 +3,7 @@ title: How to create a government that considers future generations
 date: 2021-01-04
 category: Climate
 source: ON Network
+source_url: null
 original_id: 25601
 original_slug: how-to-create-a-government-that-considers-future-generations
 original_url: https://olivenetwork.org/Issue/how-to-create-a-government-that-considers-future-generations/25601

@@ -3,6 +3,7 @@ title: Francis Alÿs’s “The Gibraltar Projects”
 date: 2024-12-18
 category: Arts & Culture
 source: E-FLUX DAVID ZWIRNER
+source_url: https://www.e-flux.com/criticism/646129/francis-als-s-the-gibraltar-projects
 original_id: 26188
 original_slug: francis-al-s-s-the-gibraltar-projects
 original_url: https://olivenetwork.org/Issue/francis-al-s-s-the-gibraltar-projects/26188
