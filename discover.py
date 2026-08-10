@@ -15,6 +15,8 @@ from bs4 import BeautifulSoup
 from olive_common import BASE_URL, CATEGORIES, get_session, polite_get
 
 ITEM_LINK_RE = re.compile(r"^/Issue/([^/]+)/(\d+)/?$")
+SITEMAP_ITEM_RE = re.compile(r"https?://olivenetwork\.org/Issue/([^/<]+)/(\d+)")
+UNCATEGORIZED = "Uncategorized"
 
 
 def parse_items(html: str) -> list[tuple[str, str]]:
@@ -87,6 +89,34 @@ def discover_category(session, slug: str, cat_id: int, display_name: str) -> lis
     return rows
 
 
+def discover_sitemap_orphans(session, manifest: dict[str, dict]) -> list[dict]:
+    """Items published on the site but not reachable from any of the 12
+    category indexes (e.g. older content orphaned from current tagging).
+    Found via sitemap.xml, which is a flat <urlset> (not a sitemap index)."""
+    print("[discover] fetching sitemap.xml for orphaned items", file=sys.stderr)
+    resp = polite_get(session, f"{BASE_URL}/sitemap.xml")
+    resp.raise_for_status()
+
+    seen = set()
+    rows = []
+    for slug, item_id in SITEMAP_ITEM_RE.findall(resp.text):
+        if item_id in manifest or item_id in seen:
+            continue
+        seen.add(item_id)
+        rows.append(
+            {
+                "id": item_id,
+                "slug": slug,
+                "category": UNCATEGORIZED,
+                "url": f"{BASE_URL}/Issue/{slug}/{item_id}",
+                "status": "pending",
+            }
+        )
+    print(f"[discover] sitemap: {len(rows)} orphaned items found (not in any of the 12 categories)",
+          file=sys.stderr)
+    return rows
+
+
 def main():
     session = get_session()
     manifest: dict[str, dict] = {}  # id -> row, dedup across categories
@@ -104,6 +134,9 @@ def main():
             manifest[row["id"]] = row
         print(f"[discover] {display_name}: {len(rows)} items found (total unique so far: {len(manifest)})",
               file=sys.stderr)
+
+    for row in discover_sitemap_orphans(session, manifest):
+        manifest[row["id"]] = row
 
     with open("manifest.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["id", "slug", "category", "url", "status"])
