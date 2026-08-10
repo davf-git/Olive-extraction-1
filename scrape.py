@@ -9,6 +9,7 @@ status first).
 
 Usage: python3 scrape.py
 """
+import base64
 import csv
 import os
 import re
@@ -90,21 +91,31 @@ def parse_source(soup: BeautifulSoup, desc) -> tuple[str, str]:
 
 
 def download_image(session, url: str, dest_dir: str, index: int) -> str | None:
-    try:
-        resp = polite_get(session, url)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"    [image] failed to download {url}: {e}", file=sys.stderr)
-        return None
-    ext = sniff_ext(resp.content)
+    if url.startswith("data:"):
+        try:
+            header, b64_payload = url.split(",", 1)
+            content = base64.b64decode(b64_payload)
+        except Exception as e:
+            print(f"    [image] failed to decode data URI: {e}", file=sys.stderr)
+            return None
+    else:
+        try:
+            resp = polite_get(session, url)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"    [image] failed to download {url}: {e}", file=sys.stderr)
+            return None
+        content = resp.content
+
+    ext = sniff_ext(content)
     if ext is None:
-        print(f"    [image] could not identify image type for {url}, skipping", file=sys.stderr)
+        print(f"    [image] could not identify image type for {url[:80]}, skipping", file=sys.stderr)
         return None
     os.makedirs(dest_dir, exist_ok=True)
     filename = f"{index:02d}.{ext}"
     path = os.path.join(dest_dir, filename)
     with open(path, "wb") as f:
-        f.write(resp.content)
+        f.write(content)
     return path
 
 
