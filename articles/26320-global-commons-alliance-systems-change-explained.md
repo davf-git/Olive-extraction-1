@@ -9,6 +9,8 @@ original_slug: global-commons-alliance-systems-change-explained
 original_url: https://olivenetwork.org/Issue/global-commons-alliance-systems-change-explained/26320
 images:
 - images/26320/01.jpg
+videos:
+- https://vimeo.com/1214301689
 ---
 
 ![](images/26320/01.jpg)
@@ -31,6 +33,8 @@ What does systems change actually mean? Watch the fourth video in our global com
  Above all, it means centering the people most affected by environmental and social change, and moving fast, together.   
    
  Watch our latest video to find out what systems change looks like in practice – and join us in building it.
+
+[[Video: https://vimeo.com/1214301689]](https://vimeo.com/1214301689)
 
 #### Credits
 

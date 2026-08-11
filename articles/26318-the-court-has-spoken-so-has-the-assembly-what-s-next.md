@@ -9,6 +9,7 @@ original_slug: the-court-has-spoken-so-has-the-assembly-what-s-next
 original_url: https://olivenetwork.org/Issue/the-court-has-spoken-so-has-the-assembly-what-s-next/26318
 images:
 - images/26318/01.jpg
+videos: []
 ---
 
 ![](images/26318/01.jpg)
@@ -21,7 +22,7 @@ ON SOURCE: [SDG KNOWLEDGE HUB](https://sdg.iisd.org/commentary/guest-articles/th
 
 ### 
 
-#### *by [Aditi Shetye](/cdn-cgi/l/email-protection#9dfcf9f4e9f4ddeae4a9fef7b3f2effa), [Mariana Campos](/cdn-cgi/l/email-protection#ed808c9f848c838cad9a94d98e87c3829f8a), and [Jule Schnakenberg](/cdn-cgi/l/email-protection#711b041d1431060845121b5f1e0316), Global Secretariat, World’s Youth for Climate Justice*
+#### *by [Aditi Shetye](/cdn-cgi/l/email-protection#94f5f0fde0fdd4e3eda0f7febafbe6f3), [Mariana Campos](/cdn-cgi/l/email-protection#a6cbc7d4cfc7c8c7e6d1df92c5cc88c9d4c1), and [Jule Schnakenberg](/cdn-cgi/l/email-protection#e18b948d84a19698d5828bcf8e9386), Global Secretariat, World’s Youth for Climate Justice*
 
 ### 
 

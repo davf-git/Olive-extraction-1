@@ -11,6 +11,7 @@ images:
 - images/26302/01.jpg
 - images/26302/02.jpg
 - images/26302/03.jpg
+videos: []
 ---
 
 ![](images/26302/01.jpg)
@@ -65,6 +66,6 @@ But the crisis is not affecting all countries equally. Analysts point out that n
 
 Martina is a journalist and editor with experience covering climate change, extreme weather, climate policy and litigation. At Earth.Org, she singlehandedly manages over 100 global contributing writers and oversees the publication's editorial calendar. She also curates the news section and multiple newsletters. Since joining the newsroom in 2022, she's successfully grown the monthly audience from 600,000 to more than one million. Before moving to Asia, she worked in Vienna at the United Nations Global Communication Department and in Italy as a local news reporter. She holds two BA degrees - in Translation Studies and Journalism - and an MA in International Development from the University of Vienna.
 
-[[email protected]](/cdn-cgi/l/email-protection#8fe2eefdfbe6e1eea1e6e8e6e1e6cfeaeefdfbe7a1e0fde8)
+[[email protected]](/cdn-cgi/l/email-protection#87eae6f5f3eee9e6a9eee0eee9eec7e2e6f5f3efa9e8f5e0)
 
 ON SOURCE: [EARTH . ORG](https://earth.org/renewables-hit-nearly-half-of-global-power-capacity-in-2025/?mc_cid=aef4597d25&mc_eid=90ca4a86f9)

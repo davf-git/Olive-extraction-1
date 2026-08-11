@@ -9,6 +9,7 @@ original_slug: preserving-indigenous-wisdom-requires-protecting-forests
 original_url: https://olivenetwork.org/Issue/preserving-indigenous-wisdom-requires-protecting-forests/26324
 images:
 - images/26324/01.jpg
+videos: []
 ---
 
 ![](images/26324/01.jpg)

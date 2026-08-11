@@ -9,6 +9,8 @@ original_slug: un-ocean-conference-lisbon-portugal
 original_url: https://olivenetwork.org/Issue/un-ocean-conference-lisbon-portugal/25861
 images:
 - images/25861/01.jpg
+videos:
+- https://www.youtube.com/watch?v=zXhB2r-A1qo
 ---
 
 ![](images/25861/01.jpg)
@@ -25,6 +27,8 @@ images:
 The Ocean Conference, co-hosted by the Governments of Kenya and Portugal, comes at a critical time as the world is seeking to address many of the deep-rooted problems of our societies laid bare by the COVID-19 pandemic and which will require major structural transformations and common shared solutions that are anchored in the SDGs. To mobilize action, the Conference will seek to propel much needed science-based innovative solutions aimed at starting a new chapter of global ocean action.
 
 [MORE ABOUT THE CONFERENCE](https://www.un.org/en/conferences/ocean2022/about)
+
+[[Video: https://www.youtube.com/watch?v=zXhB2r-A1qo]](https://www.youtube.com/watch?v=zXhB2r-A1qo)
 
 ### 
 
