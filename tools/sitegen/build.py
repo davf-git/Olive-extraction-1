@@ -103,10 +103,11 @@ INDEX_TEMPLATE = r"""<!doctype html>
 </section>
 
 <div class="wrap">
+  <p class="header-note" style="padding-top:18px;margin-bottom:-6px;">Showing a sample of {{ sample_total }} items below, spread across every category and the full date range — the figures above are for the whole archive.</p>
   <div class="filters">
     <div class="filter-row">
       <div class="chips">
-        <button class="chip active" data-category="all">All <span class="n">{{ total }}</span></button>
+        <button class="chip active" data-category="all">All <span class="n">{{ sample_total }}</span></button>
         {% for cat in categories %}
         <button class="chip" data-category="{{ cat.slug }}">{{ cat.name }} <span class="n">{{ cat.count }}</span></button>
         {% endfor %}
@@ -198,6 +199,66 @@ ARTICLE_TEMPLATE = r"""<!doctype html>
 """
 
 
+SAMPLE_SIZE = 20
+MIN_NO_IMAGE_SAMPLES = 2
+
+
+def evenly_spaced(lst, n):
+    if n >= len(lst):
+        return list(lst)
+    if n <= 0:
+        return []
+    step = len(lst) / n
+    return [lst[int(i * step)] for i in range(n)]
+
+
+def pick_sample(all_items, target=SAMPLE_SIZE):
+    from collections import defaultdict
+    by_cat = defaultdict(list)
+    for it in all_items:
+        by_cat[it["category"]].append(it)
+    cats = list(by_cat.keys())
+    total = len(all_items)
+
+    alloc = {c: max(1, round(len(by_cat[c]) / total * target)) for c in cats}
+    cats_by_size_desc = sorted(cats, key=lambda c: -len(by_cat[c]))
+    diff = sum(alloc.values()) - target
+    i = 0
+    while diff > 0:
+        c = cats_by_size_desc[i % len(cats_by_size_desc)]
+        if alloc[c] > 1:
+            alloc[c] -= 1
+            diff -= 1
+        i += 1
+    while diff < 0:
+        c = cats_by_size_desc[i % len(cats_by_size_desc)]
+        alloc[c] += 1
+        diff += 1
+        i += 1
+
+    sample = []
+    sample_ids = set()
+    for cat, n in alloc.items():
+        chrono = sorted(by_cat[cat], key=lambda x: x["date_sort"])
+        for it in evenly_spaced(chrono, n):
+            if it["id"] not in sample_ids:
+                sample.append(it)
+                sample_ids.add(it["id"])
+
+    have_no_img = sum(1 for it in sample if not it["thumb"])
+    needed = max(0, MIN_NO_IMAGE_SAMPLES - have_no_img)
+    for it in all_items:
+        if needed <= 0:
+            break
+        if not it["thumb"] and it["id"] not in sample_ids:
+            sample.append(it)
+            sample_ids.add(it["id"])
+            needed -= 1
+
+    sample.sort(key=lambda x: x["date_sort"], reverse=True)
+    return sample
+
+
 def main():
     env = Environment(loader=BaseLoader())
     index_tpl = env.from_string(INDEX_TEMPLATE)
@@ -254,16 +315,33 @@ def main():
     date_min = min(dates)[:4] if dates else "?"
     date_max = max(dates)[:4] if dates else "?"
 
+    sample = pick_sample(items, SAMPLE_SIZE)
+
+    sample_cat_counts = {}
+    for it in sample:
+        key = (it["category_slug"], it["category"])
+        sample_cat_counts[key] = sample_cat_counts.get(key, 0) + 1
+    sample_categories = sorted(
+        [{"slug": s, "name": n, "count": c} for (s, n), c in sample_cat_counts.items()],
+        key=lambda x: -x["count"]
+    )
+
+    # clear any previously generated browse pages before writing the sample
+    if BROWSE_DIR.exists():
+        for f in BROWSE_DIR.glob("*.html"):
+            f.unlink()
     BROWSE_DIR.mkdir(exist_ok=True)
+
     (ROOT / "index.html").write_text(
         index_tpl.render(
-            items=items, categories=categories, total=len(items),
+            items=sample, categories=sample_categories, total=len(items),
+            sample_total=len(sample),
             date_min=date_min, date_max=date_max, font_links=FONT_LINKS,
         ),
         encoding="utf-8",
     )
 
-    for item in items:
+    for item in sample:
         (BROWSE_DIR / f"{item['id']}.html").write_text(
             article_tpl.render(item=item, font_links=FONT_LINKS),
             encoding="utf-8",
@@ -271,7 +349,9 @@ def main():
 
     (ROOT / ".nojekyll").write_text("", encoding="utf-8")
 
-    print(f"Built index.html + {len(items)} article pages.")
+    print(f"Archive: {len(items)} items across {len(categories)} categories, {date_min}-{date_max}.")
+    print(f"Built index.html + {len(sample)} sample article pages (target {SAMPLE_SIZE}).")
+    print("Sample categories:", ", ".join(f"{c['name']}({c['count']})" for c in sample_categories))
     if missing:
         print(f"WARNING: {len(missing)} manifest rows had no matching article file: {missing[:10]}{'...' if len(missing) > 10 else ''}")
 
