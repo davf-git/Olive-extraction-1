@@ -11,6 +11,8 @@ images:
 - images/26201/01.jpg
 - images/26201/02.jpg
 - images/26201/03.jpg
+videos:
+- https://www.youtube.com/watch?v=KIa4gkcfKAo
 ---
 
 ![](images/26201/01.jpg)
@@ -70,5 +72,7 @@ ON SOURCE: [KINDL - BERLIN](https://www.kindl-berlin.com/jaar)
 ---
 
 Further Material:[**Booklet *Alfredo Jaar. The End of the World***](https://www.kindl-berlin.com/s/KINDL-Broschuere-Alfredo-Jaar-en-83ws.pdf)
+
+***[[Video: https://www.youtube.com/watch?v=KIa4gkcfKAo]](https://www.youtube.com/watch?v=KIa4gkcfKAo)***
 
 ***ON SOURCE: [KINDL - BERLIN](https://www.kindl-berlin.com/jaar)***

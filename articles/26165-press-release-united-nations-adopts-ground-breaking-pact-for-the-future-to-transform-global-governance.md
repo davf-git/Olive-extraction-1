@@ -10,6 +10,7 @@ original_slug: press-release-united-nations-adopts-ground-breaking-pact-for-the-
 original_url: https://olivenetwork.org/Issue/press-release-united-nations-adopts-ground-breaking-pact-for-the-future-to-transform-global-governance/26165
 images:
 - images/26165/01.jpg
+videos: []
 ---
 
 ![](images/26165/01.jpg)

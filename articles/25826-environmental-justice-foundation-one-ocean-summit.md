@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/environmental-justice-foundation-on
 images:
 - images/25826/01.jpg
 - images/25826/02.jpg
+videos: []
 ---
 
 ![](images/25826/01.jpg)

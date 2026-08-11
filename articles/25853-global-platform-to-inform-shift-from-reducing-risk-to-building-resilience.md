@@ -9,6 +9,7 @@ original_slug: global-platform-to-inform-shift-from-reducing-risk-to-building-re
 original_url: https://olivenetwork.org/Issue/global-platform-to-inform-shift-from-reducing-risk-to-building-resilience/25853
 images:
 - images/25853/01.jpg
+videos: []
 ---
 
 ### 

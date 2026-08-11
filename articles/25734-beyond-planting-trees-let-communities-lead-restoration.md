@@ -9,6 +9,7 @@ original_slug: beyond-planting-trees-let-communities-lead-restoration
 original_url: https://olivenetwork.org/Issue/beyond-planting-trees-let-communities-lead-restoration/25734
 images:
 - images/25734/01.jpg
+videos: []
 ---
 
 ![](images/25734/01.jpg)

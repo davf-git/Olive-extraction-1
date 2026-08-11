@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/sdgs-a-global-plan-for-investment-i
 images:
 - images/25679/01.jpg
 - images/25679/02.jpg
+videos: []
 ---
 
 ![](images/25679/01.jpg)

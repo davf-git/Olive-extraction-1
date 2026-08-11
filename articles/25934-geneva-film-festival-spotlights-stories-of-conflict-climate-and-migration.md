@@ -9,6 +9,7 @@ original_slug: geneva-film-festival-spotlights-stories-of-conflict-climate-and-m
 original_url: https://olivenetwork.org/Issue/geneva-film-festival-spotlights-stories-of-conflict-climate-and-migration/25934
 images:
 - images/25934/01.jpg
+videos: []
 ---
 
 ![](images/25934/01.jpg)

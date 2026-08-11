@@ -9,7 +9,11 @@ original_id: 25928
 original_slug: un-s-guterres-oil-companies-have-peddled-big-lie-on-climate-crisis-video
 original_url: https://olivenetwork.org/Issue/un-s-guterres-oil-companies-have-peddled-big-lie-on-climate-crisis-video/25928
 images: []
+videos:
+- https://www.youtube.com/watch?v=OiUxaGI6IuA
 ---
+
+[[Video: https://www.youtube.com/watch?v=OiUxaGI6IuA]](https://www.youtube.com/watch?v=OiUxaGI6IuA)
 
 # 
 

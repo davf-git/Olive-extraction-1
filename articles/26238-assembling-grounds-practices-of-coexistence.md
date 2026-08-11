@@ -9,6 +9,7 @@ original_slug: assembling-grounds-practices-of-coexistence
 original_url: https://olivenetwork.org/Issue/assembling-grounds-practices-of-coexistence/26238
 images:
 - images/26238/01.jpg
+videos: []
 ---
 
 ![](images/26238/01.jpg)

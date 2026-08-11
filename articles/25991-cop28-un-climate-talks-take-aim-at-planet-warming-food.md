@@ -9,6 +9,7 @@ original_slug: cop28-un-climate-talks-take-aim-at-planet-warming-food
 original_url: https://olivenetwork.org/Issue/cop28-un-climate-talks-take-aim-at-planet-warming-food/25991
 images:
 - images/25991/01.jpg
+videos: []
 ---
 
 # 

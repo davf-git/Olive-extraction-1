@@ -11,6 +11,8 @@ images:
 - images/25601/01.jpg
 - images/25601/02.jpg
 - images/25601/03.jpg
+videos:
+- https://www.youtube.com/watch?v=_j2RxW3Kn20
 ---
 
 ###### Kameel4u/Shutterstock.com
@@ -65,6 +67,8 @@ And Finland has taken the approach of enhanced parliamentary scrutiny. Its [Com
 Other countries have taken participatory approaches. Scotland’s [Futures Forum](https://www.scotlandfutureforum.org/) is a channel for public engagement with the Scottish Parliament by encouraging dialogue on long-term issues. The [United Kingdom](https://www.climateassembly.uk/), [Ireland](https://www.citizensassembly.ie/en/) and [France](https://www.conventioncitoyennepourleclimat.fr/) have used citizens’ assemblies. The assemblies in Ireland are considered to have been successful in developing a broad consensus in changing the law on abortion and same sex marriage.
 
 Another approach has seen attempts to pivot the management of the economy away from a focus on GDP to instead consider a wider range of wellbeing objectives. New Zealand has adopted a [Wellbeing Budget](https://www.treasury.govt.nz/sites/default/files/2019-05/b19-wellbeing-budget.pdf) with five priority areas.
+
+[[Video: https://www.youtube.com/watch?v=\_j2RxW3Kn20]](https://www.youtube.com/watch?v=_j2RxW3Kn20)
 
 ### **Enforcing sustainability law**
 

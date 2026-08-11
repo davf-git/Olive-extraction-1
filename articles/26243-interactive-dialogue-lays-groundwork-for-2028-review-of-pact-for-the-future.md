@@ -9,6 +9,7 @@ original_slug: interactive-dialogue-lays-groundwork-for-2028-review-of-pact-for-
 original_url: https://olivenetwork.org/Issue/interactive-dialogue-lays-groundwork-for-2028-review-of-pact-for-the-future/26243
 images:
 - images/26243/01.jpg
+videos: []
 ---
 
 ![](images/26243/01.jpg)

@@ -9,6 +9,10 @@ original_slug: cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-dama
 original_url: https://olivenetwork.org/Issue/cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-damage-fund/25988
 images:
 - images/25988/01.jpg
+videos:
+- https://www.youtube.com/watch?v=O8NJ6T03eiA
+- https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1678703418&color=ff5500&show_comments=false&show_user=false
+- https://www.youtube.com/watch?v=UTt_iW0h7LQ
 ---
 
 ![](images/25988/01.jpg)
@@ -53,6 +57,8 @@ In short, nations contributing least to greenhouse gas emissions are least equip
 
 The draft agreement to operationalize the long-awaited ‘loss and damage’ fund aims to help compensate vulnerable nations for the impact of climate change, by, citing just one possible example, ensuring that vital infrastructure can be rebuilt or replaced with more sustainable versions.
 
+[[Video: https://www.youtube.com/watch?v=O8NJ6T03eiA]](https://www.youtube.com/watch?v=O8NJ6T03eiA)
+
 ### 
 
 ### **‘Bold action, now’**
@@ -78,6 +84,8 @@ Mr Stiell then outlined what’s at stake. “This has been the hottest year eve
 ##### 
 
 ##### UN News managed to speak in Dubai on Thursday with the head of the UN World Meteorological Organization (WMO), Petteri Taalas, who told us that limit was on the brink of being breached:
+
+[[Video: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1678703418&color=ff5500&show\_comments=false&show\_user=false]](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1678703418&color=ff5500&show_comments=false&show_user=false)
 
 [United Nations News](https://soundcloud.com/unradio "United Nations News") · [World getting ever closer to 1.5°C limit, warns WMO chief](https://soundcloud.com/unradio/world-getting-ever-closer-to-15c-limit-warns-wmo-chief "World getting ever closer to 1.5°C limit, warns WMO chief")
 
@@ -108,6 +116,8 @@ Egyptian Minister of Foreign Affairs and President of COP27 Sameh Shoukry remind
  He recalled that the ‘loss and damage’ funding arrangement had been established, the so-named ‘Just Transition’ work programme had been launched, and parties had also agreed on a pathway to cutting greenhouse gas emissions, providing a boost to climate action during this critical decade.   
    
  He underscored that *Together for Implementation* had not just been a slogan for COP27, but rather a timely call to move from setting rules, frameworks and commitments to a clear focus on the tangible implementation these commitments on the ground.
+
+[[Video: https://www.youtube.com/watch?v=UTt\_iW0h7LQ]](https://www.youtube.com/watch?v=UTt_iW0h7LQ)
 
 ### **World at a crossroads:**
 

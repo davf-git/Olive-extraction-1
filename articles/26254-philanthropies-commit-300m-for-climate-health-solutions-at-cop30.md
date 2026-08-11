@@ -9,6 +9,7 @@ original_slug: philanthropies-commit-300m-for-climate-health-solutions-at-cop30
 original_url: https://olivenetwork.org/Issue/philanthropies-commit-300m-for-climate-health-solutions-at-cop30/26254
 images:
 - images/26254/01.jpg
+videos: []
 ---
 
 ##### A hospital lab assistant processes a blood sample for dengue testing as cases continue to rise in Bangladesh in September 2025. Photo by: MD Abu Sufian Jewel via Reuters Connect

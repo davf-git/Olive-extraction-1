@@ -10,6 +10,7 @@ original_slug: davos-switzerland-18-january-2023-secretary-general-s-remarks-at-
 original_url: https://olivenetwork.org/Issue/davos-switzerland-18-january-2023-secretary-general-s-remarks-at-the-world-economic-forum/25931
 images:
 - images/25931/01.jpg
+videos: []
 ---
 
 ![](images/25931/01.jpg)

@@ -9,6 +9,7 @@ original_slug: clientearth-the-power-of-law
 original_url: https://olivenetwork.org/Issue/clientearth-the-power-of-law/26023
 images:
 - images/26023/01.jpg
+videos: []
 ---
 
 ![](images/26023/01.jpg)

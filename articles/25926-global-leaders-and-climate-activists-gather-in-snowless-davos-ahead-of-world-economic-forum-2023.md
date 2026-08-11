@@ -10,6 +10,7 @@ original_slug: global-leaders-and-climate-activists-gather-in-snowless-davos-ahe
 original_url: https://olivenetwork.org/Issue/global-leaders-and-climate-activists-gather-in-snowless-davos-ahead-of-world-economic-forum-2023/25926
 images:
 - images/25926/01.jpg
+videos: []
 ---
 
 ![](images/25926/01.jpg)
@@ -50,6 +51,6 @@ Davos 2023 begins as a massive heatwave, [which scientists blame on anthropogeni
 
 Martina is the Managing Editor of Earth.Org. She holds two BA degrees, in Translation/Interpreting Studies and Journalism, and a MA in International Development from the University of Vienna. After working at the United Nations Global Communication Department in Vienna, she joined a newspaper in Italy as a reporter before moving to Hong Kong in 2020. Her interests include sustainability and the role of public policy in environmental protection with a focus on developing countries.   
    
- [martina.igini[at]earth.org](/cdn-cgi/l/email-protection#c3aea2b1b7aaada2edaaa4aaadaa98a2b79ea6a2b1b7abedacb1a4)
+ [martina.igini[at]earth.org](/cdn-cgi/l/email-protection#1875796a6c71767936717f71767143796c457d796a6c7036776a7f)
 
 SOURCE: [EARTH.ORG](https://earth.org/davos-2023/)

@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/art-charter-for-climate-action/2600
 images:
 - images/26001/01.jpg
 - images/26001/02.jpg
+videos: []
 ---
 
 # 

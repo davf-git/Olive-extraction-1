@@ -10,6 +10,10 @@ original_url: https://olivenetwork.org/Issue/about-the-people-s-cop-27/25901
 images:
 - images/25901/01.jpg
 - images/25901/02.gif
+videos:
+- https://vimeo.com/768895996
+- https://vimeo.com/768892335
+- https://vimeo.com/768899222
 ---
 
 ## 
@@ -42,11 +46,17 @@ The People's COP27 has now ended, but you can catch up on all of our sessions on
 
 Loss and Damage
 
+[[Video: https://vimeo.com/768895996]](https://vimeo.com/768895996)
+
 Climate Justice
+
+[[Video: https://vimeo.com/768892335]](https://vimeo.com/768892335)
 
 ##
 
 Mitigation
+
+[[Video: https://vimeo.com/768899222]](https://vimeo.com/768899222)
 
 ## 
 

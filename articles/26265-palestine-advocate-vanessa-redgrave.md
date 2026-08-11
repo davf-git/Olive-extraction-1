@@ -9,11 +9,13 @@ original_slug: palestine-advocate-vanessa-redgrave
 original_url: https://olivenetwork.org/Issue/palestine-advocate-vanessa-redgrave/26265
 images:
 - images/26265/01.jpg
+videos:
+- https://vimeo.com/1151038304
 ---
 
 ### 
 
-### 
+### **[[Video: https://vimeo.com/1151038304]](https://vimeo.com/1151038304)**
 
 ### 
 

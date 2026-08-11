@@ -9,6 +9,7 @@ original_slug: call-of-belem-for-the-climate
 original_url: https://olivenetwork.org/Issue/call-of-belem-for-the-climate/26253
 images:
 - images/26253/01.jpg
+videos: []
 ---
 
 ![](images/26253/01.jpg)

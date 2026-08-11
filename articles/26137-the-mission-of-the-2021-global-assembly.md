@@ -10,7 +10,11 @@ original_url: https://olivenetwork.org/Issue/the-mission-of-the-2021-global-asse
 images:
 - images/26137/01.jpg
 - images/26137/02.jpg
+videos:
+- https://www.youtube.com/watch?v=3PUrN07Q50w
 ---
+
+[[Video: https://www.youtube.com/watch?v=3PUrN07Q50w]](https://www.youtube.com/watch?v=3PUrN07Q50w)
 
 ### **Narrated by Mark Rylance**
 

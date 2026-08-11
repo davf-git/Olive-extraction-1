@@ -9,6 +9,7 @@ original_slug: art-for-a-healthy-planet-2022
 original_url: https://olivenetwork.org/Issue/art-for-a-healthy-planet-2022/25854
 images:
 - images/25854/01.jpg
+videos: []
 ---
 
 ![](images/25854/01.jpg)

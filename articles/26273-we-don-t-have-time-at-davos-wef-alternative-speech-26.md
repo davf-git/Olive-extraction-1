@@ -8,11 +8,13 @@ original_id: 26273
 original_slug: we-don-t-have-time-at-davos-wef-alternative-speech-26
 original_url: https://olivenetwork.org/Issue/we-don-t-have-time-at-davos-wef-alternative-speech-26/26273
 images: []
+videos:
+- https://www.youtube.com/watch?v=bA-efSNq3bc
 ---
 
 ### 
 
-### 
+### **[[Video: https://www.youtube.com/watch?v=bA-efSNq3bc]](https://www.youtube.com/watch?v=bA-efSNq3bc)**
 
 ### 
 

@@ -19,6 +19,7 @@ images:
 - images/25813/09.jpg
 - images/25813/10.jpg
 - images/25813/11.jpg
+videos: []
 ---
 
 ![](images/25813/01.jpg)SFER IK in Mexico, an interdisciplinary arts space within the Azulik resort complex near Tulum, designed by the architect and eco-hotelier Eduardo Neira, known as RothPhoto: courtesy of Azulik

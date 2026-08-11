@@ -9,6 +9,7 @@ original_slug: un-secretary-general-s-sdg-progress-report-shows-change-is-possib
 original_url: https://olivenetwork.org/Issue/un-secretary-general-s-sdg-progress-report-shows-change-is-possible/26222
 images:
 - images/26222/01.jpg
+videos: []
 ---
 
 ![](images/26222/01.jpg)

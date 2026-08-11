@@ -9,6 +9,8 @@ original_slug: t-rk-says-human-rights-under-attack-yet-undeterred-in-2025
 original_url: https://olivenetwork.org/Issue/t-rk-says-human-rights-under-attack-yet-undeterred-in-2025/26262
 images:
 - images/26262/01.jpg
+videos:
+- https://www.youtube.com/watch?v=lkCiH-Vrgyo
 ---
 
 ![](images/26262/01.jpg)
@@ -102,12 +104,12 @@ Thank you.
 ##### For more information and media requests, please contact:
 
 **In Geneva**   
- Ravina Shamdasani: +41 22 917 9169 / [[email protected]](/cdn-cgi/l/email-protection#c3b1a2b5aaada2edb0aba2aea7a2b0a2adaa83b6adedacb1a4)   
- Jeremy Laurence: +41 22 917 9383 / [[email protected]](/cdn-cgi/l/email-protection#c5afa0b7a0a8bceba9a4b0b7a0aba6a085b0abebaab7a2)   
- Marta Hurtado: + 41 22 917 9466 / [[email protected]](/cdn-cgi/l/email-protection#3855594a4c5916504d4a4c595c575f57555d42784d5616574a5f)   
- Thameen Al-Kheetan: +41 22 917 4232 / [[email protected]](/cdn-cgi/l/email-protection#097d6168646c6c6727686562616c6c7d6867497c6727667b6e)   
+ Ravina Shamdasani: +41 22 917 9169 / [[email protected]](/cdn-cgi/l/email-protection#d9abb8afb0b7b8f7aab1b8b4bdb8aab8b7b099acb7f7b6abbe)   
+ Jeremy Laurence: +41 22 917 9383 / [[email protected]](/cdn-cgi/l/email-protection#573d3225323a2e793b3622253239343217223979382530)   
+ Marta Hurtado: + 41 22 917 9466 / [[email protected]](/cdn-cgi/l/email-protection#375a56454356195f42454356535850585a524d77425919584550)   
+ Thameen Al-Kheetan: +41 22 917 4232 / [[email protected]](/cdn-cgi/l/email-protection#116579707c74747f3f707d7a79747465707f51647f3f7e6376)   
  **In Nairobi**   
- Seif Magango : +254 78834 3897 / [[email protected]](/cdn-cgi/l/email-protection#483b2d212e6625292f29262f27083d2666273a2f)
+ Seif Magango : +254 78834 3897 / [[email protected]](/cdn-cgi/l/email-protection#5d2e38343b73303c3a3c333a321d283373322f3a)
 
 [WhatsApp](https://whatsapp.com/channel/0029Vb9lHDR0bIdf5eR8OC3o)   
  [X @UNHumanRights](https://x.com/unhumanrights)   
@@ -135,6 +137,8 @@ Statements and speeches
 # [Human Rights - Global Issues](https://www.un.org/en/global-issues/human-rights?gad_source=1&gad_campaignid=20126487822&gbraid=0AAAAAD9kiAeE2D-c1M70EtuF_bRTf_O_4&gclid=CjwKCAiA0eTJBhBaEiwA-Pa-hSGKvCzncqY8atyFkzlEHsOMckarwn-7sgkHL5Vh6N307lg3eFEidhoCeoQQAvD_BwE)
 
 # [FULL ADDRESS: UN High Commissioner Volker Türk Briefs Media on Human Rights Day | Geneva 2025 | AC1Z](https://youtu.be/lkCiH-Vrgyo?si=kPPLkAlPb9Ib4Ja1)
+
+[[Video: https://www.youtube.com/watch?v=lkCiH-Vrgyo]](https://www.youtube.com/watch?v=lkCiH-Vrgyo)
 
 # [Türk says human rights under attack, yet undeterred, in 2025](https://www.ohchr.org/en/statements-and-speeches/2025/12/turk-says-human-rights-under-attack-yet-undeterred-2025)
 

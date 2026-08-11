@@ -10,6 +10,7 @@ original_slug: secretary-general-s-remarks-to-the-climate-vulnerable-forum-leade
 original_url: https://olivenetwork.org/Issue/secretary-general-s-remarks-to-the-climate-vulnerable-forum-leaders-dialogue-as-delivered/25779
 images:
 - images/25779/01.jpg
+videos: []
 ---
 
 ## 

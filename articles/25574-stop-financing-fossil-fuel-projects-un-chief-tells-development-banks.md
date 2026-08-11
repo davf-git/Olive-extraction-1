@@ -9,6 +9,7 @@ original_slug: stop-financing-fossil-fuel-projects-un-chief-tells-development-ba
 original_url: https://olivenetwork.org/Issue/stop-financing-fossil-fuel-projects-un-chief-tells-development-banks/25574
 images:
 - images/25574/01.jpg
+videos: []
 ---
 
 [![](images/25574/01.jpg)SUSTAINABLE BUSINESS & FINANCE](https://genevasolutions.news/sustainable-business-finance)|[#Fossil fuels](https://genevasolutions.news/tags/fossil-fuels)|[NEWS](https://genevasolutions.news/articles/news)

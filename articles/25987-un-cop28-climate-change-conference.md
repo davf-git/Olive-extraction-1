@@ -9,6 +9,7 @@ original_slug: un-cop28-climate-change-conference
 original_url: https://olivenetwork.org/Issue/un-cop28-climate-change-conference/25987
 images:
 - images/25987/01.jpg
+videos: []
 ---
 
 ![](images/25987/01.jpg)

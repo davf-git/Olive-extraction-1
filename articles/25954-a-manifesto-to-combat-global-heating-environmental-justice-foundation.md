@@ -8,7 +8,11 @@ original_id: 25954
 original_slug: a-manifesto-to-combat-global-heating-environmental-justice-foundation
 original_url: https://olivenetwork.org/Issue/a-manifesto-to-combat-global-heating-environmental-justice-foundation/25954
 images: []
+videos:
+- https://www.youtube.com/watch?v=a_9iJVv4_Q4
 ---
+
+[[Video: https://www.youtube.com/watch?v=a\_9iJVv4\_Q4]](https://www.youtube.com/watch?v=a_9iJVv4_Q4)
 
 From 2 years ago in the run up to Cop26 this film reinforces how pressing the situation is today, how little has been recognsed by nation states and also how unfair are the consequences for least developed places (ON ED)
 

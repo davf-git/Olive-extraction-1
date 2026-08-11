@@ -9,6 +9,7 @@ original_slug: embracing-circularity-is-not-an-option-but-an-urgent-imperative
 original_url: https://olivenetwork.org/Issue/embracing-circularity-is-not-an-option-but-an-urgent-imperative/25712
 images:
 - images/25712/01.jpg
+videos: []
 ---
 
 ![](images/25712/01.jpg)

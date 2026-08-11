@@ -9,6 +9,7 @@ original_slug: day-1-huge-task-ahead-for-cop26
 original_url: https://olivenetwork.org/Issue/day-1-huge-task-ahead-for-cop26/25775
 images:
 - images/25775/01.jpg
+videos: []
 ---
 
 ![](images/25775/01.jpg)

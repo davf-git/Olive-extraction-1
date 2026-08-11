@@ -9,6 +9,7 @@ original_slug: water-crisis-where-is-the-political-leadership
 original_url: https://olivenetwork.org/Issue/water-crisis-where-is-the-political-leadership/25940
 images:
 - images/25940/01.jpg
+videos: []
 ---
 
 ![](images/25940/01.jpg)Inland rivers of St Louis, Senegal, 2016. A joint organisation created by Mali, Senegal and Mauritania in 1972 manages the transboundary Senegal River basin. (Keystone/Mauritious images/Novarc Images/Nicolás Marino)

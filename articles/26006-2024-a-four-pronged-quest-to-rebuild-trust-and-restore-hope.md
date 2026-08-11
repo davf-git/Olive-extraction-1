@@ -9,6 +9,7 @@ original_slug: 2024-a-four-pronged-quest-to-rebuild-trust-and-restore-hope
 original_url: https://olivenetwork.org/Issue/2024-a-four-pronged-quest-to-rebuild-trust-and-restore-hope/26006
 images:
 - images/26006/01.jpg
+videos: []
 ---
 
 ![](images/26006/01.jpg)

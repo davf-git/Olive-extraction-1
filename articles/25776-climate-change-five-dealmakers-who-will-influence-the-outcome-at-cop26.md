@@ -14,6 +14,7 @@ images:
 - images/25776/04.jpg
 - images/25776/05.jpg
 - images/25776/06.jpg
+videos: []
 ---
 
 # Climate change: Five dealmakers who will influence the outcome at COP26

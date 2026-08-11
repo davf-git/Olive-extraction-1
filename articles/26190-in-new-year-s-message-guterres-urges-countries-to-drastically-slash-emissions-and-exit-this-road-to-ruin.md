@@ -14,6 +14,8 @@ images:
 - images/26190/03.jpg
 - images/26190/04.jpg
 - images/26190/05.jpg
+videos:
+- https://www.youtube.com/watch?v=DkJtl7AxrgA
 ---
 
 ![](images/26190/01.jpg)
@@ -61,6 +63,8 @@ The Secretary-General concluded by stating that there are no guarantees for what
 He pledged to stand with all those working to forge a more peaceful, equal, stable and healthy future for all people.
 
 “Together, we can make 2025 a new beginning,” he said. “Not as a world divided. But as nations united.”
+
+[[Video: https://www.youtube.com/watch?v=DkJtl7AxrgA]](https://www.youtube.com/watch?v=DkJtl7AxrgA)
 
 ON SOURCE: [UN NEWS](https://news.un.org/en/story/2024/12/1158611)
 

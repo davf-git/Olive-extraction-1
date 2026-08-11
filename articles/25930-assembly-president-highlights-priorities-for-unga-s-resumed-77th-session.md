@@ -9,6 +9,7 @@ original_slug: assembly-president-highlights-priorities-for-unga-s-resumed-77th-
 original_url: https://olivenetwork.org/Issue/assembly-president-highlights-priorities-for-unga-s-resumed-77th-session/25930
 images:
 - images/25930/01.jpg
+videos: []
 ---
 
 ![](images/25930/01.jpg)

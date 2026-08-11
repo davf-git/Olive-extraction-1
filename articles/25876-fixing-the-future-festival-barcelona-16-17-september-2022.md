@@ -9,6 +9,8 @@ original_slug: fixing-the-future-festival-barcelona-16-17-september-2022
 original_url: https://olivenetwork.org/Issue/fixing-the-future-festival-barcelona-16-17-september-2022/25876
 images:
 - images/25876/01.jpg
+videos:
+- https://www.youtube.com/watch?v=e9gvkTpIJDU
 ---
 
 [![](images/25876/01.jpg)](https://fixingthefuture.atlasofthefuture.org/en/)
@@ -22,6 +24,8 @@ From fair fashion revolutions to youth climate movements, there’s a lot happen
  will immerse yourself in a festival of ideas and innovations and join the conversations   
  that are making change happen. Grab a chair, pick a workshop, ask questions. Prepare   
  to be surprised, moved, and inspired.
+
+[[Video: https://www.youtube.com/watch?v=e9gvkTpIJDU]](https://www.youtube.com/watch?v=e9gvkTpIJDU)
 
 ### **[More than 50 international speakers,](https://fixingthefuture.atlasofthefuture.org/en/speakers/)** **[more than 50 ideas and projects](https://fixingthefuture.atlasofthefuture.org/en/speakers/)** **[to inspire change.](https://fixingthefuture.atlasofthefuture.org/en/speakers/)**
 

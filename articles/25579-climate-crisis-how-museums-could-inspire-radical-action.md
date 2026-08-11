@@ -19,6 +19,7 @@ images:
 - images/25579/09.jpg
 - images/25579/10.jpg
 - images/25579/11.jpg
+videos: []
 ---
 
 ![](images/25579/01.jpg)The Gallery of Ecological Art (formerly China gallery) at the British Museum of Decolonised Nature. Image courtesy John Zhang and Studio JZ, Author provided

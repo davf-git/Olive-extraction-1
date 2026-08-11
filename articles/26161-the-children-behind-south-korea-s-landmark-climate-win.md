@@ -13,6 +13,7 @@ images:
 - images/26161/03.jpg
 - images/26161/04.jpg
 - images/26161/05.jpg
+videos: []
 ---
 
 **![](images/26161/01.jpg)**Jeah Han holds a file containing her closing argument outside South Korea’s constitutional court in Seoul in May 2024. The climate campaigner says she has felt the direct impacts of the climate crisis. Photograph: Anthony Wallace/AFP/Getty Images

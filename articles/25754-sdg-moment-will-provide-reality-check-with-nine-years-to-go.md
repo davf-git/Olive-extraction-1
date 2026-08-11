@@ -9,6 +9,7 @@ original_slug: sdg-moment-will-provide-reality-check-with-nine-years-to-go
 original_url: https://olivenetwork.org/Issue/sdg-moment-will-provide-reality-check-with-nine-years-to-go/25754
 images:
 - images/25754/01.jpg
+videos: []
 ---
 
 ### 

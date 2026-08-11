@@ -10,6 +10,7 @@ original_slug: earth-day-teachers-from-every-corner-of-the-world-call-for-qualit
 original_url: https://olivenetwork.org/Issue/earth-day-teachers-from-every-corner-of-the-world-call-for-quality-climate-change-education-for-all/25715
 images:
 - images/25715/01.jpg
+videos: []
 ---
 
 ![](images/25715/01.jpg)

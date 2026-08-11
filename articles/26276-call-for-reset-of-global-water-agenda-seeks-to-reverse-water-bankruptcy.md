@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/call-for-reset-of-global-water-agen
 images:
 - images/26276/01.jpg
 - images/26276/02.jpg
+videos: []
 ---
 
 ![](images/26276/01.jpg)

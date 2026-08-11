@@ -10,6 +10,7 @@ original_slug: if-global-finance-can-step-up-to-the-net-zero-challenge-governmen
 original_url: https://olivenetwork.org/Issue/if-global-finance-can-step-up-to-the-net-zero-challenge-governments-surely-can/25789
 images:
 - images/25789/01.jpg
+videos: []
 ---
 
 # 

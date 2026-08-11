@@ -14,6 +14,7 @@ images:
 - images/25696/03.jpg
 - images/25696/04.jpg
 - images/25696/05.jpg
+videos: []
 ---
 
 ![](images/25696/01.jpg)The Loess plateau, in China, in 2007, left, and transformed into green valleys and productive farmland in 2019. Composite: Rex/Shutterstock/Xinhua/Alamy

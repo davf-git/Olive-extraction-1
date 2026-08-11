@@ -9,6 +9,7 @@ original_slug: geneva-solutions-charting-a-new-path-to-protect-the-high-seas
 original_url: https://olivenetwork.org/Issue/geneva-solutions-charting-a-new-path-to-protect-the-high-seas/25727
 images:
 - images/25727/01.jpg
+videos: []
 ---
 
 ![](images/25727/01.jpg)Pixelbay

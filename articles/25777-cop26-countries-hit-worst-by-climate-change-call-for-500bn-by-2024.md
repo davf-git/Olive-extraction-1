@@ -9,6 +9,7 @@ original_slug: cop26-countries-hit-worst-by-climate-change-call-for-500bn-by-202
 original_url: https://olivenetwork.org/Issue/cop26-countries-hit-worst-by-climate-change-call-for-500bn-by-2024/25777
 images:
 - images/25777/01.jpg
+videos: []
 ---
 
 ![](images/25777/01.jpg)

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/trading-in-the-currency-of-hope-as-
 images:
 - images/25862/01.jpg
 - images/25862/02.jpg
+videos: []
 ---
 
 # 

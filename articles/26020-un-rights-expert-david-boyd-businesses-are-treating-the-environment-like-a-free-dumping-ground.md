@@ -10,6 +10,7 @@ original_slug: un-rights-expert-david-boyd-businesses-are-treating-the-environme
 original_url: https://olivenetwork.org/Issue/un-rights-expert-david-boyd-businesses-are-treating-the-environment-like-a-free-dumping-ground/26020
 images:
 - images/26020/01.jpg
+videos: []
 ---
 
 ![](images/26020/01.jpg)

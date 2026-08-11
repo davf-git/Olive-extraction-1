@@ -10,6 +10,7 @@ original_slug: restoring-oceans-could-create-100-000-jobs-and-give-50bn-boost-to
 original_url: https://olivenetwork.org/Issue/restoring-oceans-could-create-100-000-jobs-and-give-50bn-boost-to-economy-in-uk/25621
 images:
 - images/25621/01.jpg
+videos: []
 ---
 
 ![](images/25621/01.jpg)

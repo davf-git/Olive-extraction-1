@@ -9,6 +9,8 @@ original_slug: five-young-women-activists-to-watch-a-moderator-s-take
 original_url: https://olivenetwork.org/Issue/five-young-women-activists-to-watch-a-moderator-s-take/25682
 images:
 - images/25682/01.jpg
+videos:
+- https://www.youtube.com/watch?v=jnQufgSgBgQ
 ---
 
 ![](images/25682/01.jpg)
@@ -52,6 +54,8 @@ Julieta Martinez, 17, from Chile is the founder of the TREMENDAS Collaborative P
 “Amazingly talented girls are all around the world. We have to continue looking for them. We have to continue giving them a space. And we have to continue this fight to actually get to gender equality… Girls, young women and adolescents have the right to raise their voices, to be heard and to take action for their dignity, their integrity and to be agents of social change in a society where human and youth rights must always be defended. ”
 
 [Watch the full event on youtube here.](https://www.youtube.com/watch?v=jnQufgSgBgQ)
+
+[[Video: https://www.youtube.com/watch?v=jnQufgSgBgQ]](https://www.youtube.com/watch?v=jnQufgSgBgQ)
 
 [#Young Activists Summit](https://genevasolutions.news/tags/young-activists-summit) [#Climate activism](https://genevasolutions.news/tags/climate-activism) [#Gender equality](https://genevasolutions.news/tags/gender-equality)
 

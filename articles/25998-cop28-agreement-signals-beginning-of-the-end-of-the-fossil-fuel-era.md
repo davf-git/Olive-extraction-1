@@ -9,6 +9,7 @@ original_slug: cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-e
 original_url: https://olivenetwork.org/Issue/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era/25998
 images:
 - images/25998/01.jpg
+videos: []
 ---
 
 ![](images/25998/01.jpg)Credit: Kiara Worth | UN Climate Change
@@ -93,6 +94,6 @@ UN Climate Press Release
    
  Read a transcript of Simon Stiell’s **closing speech** [here](https://unfccc.int/news/we-didn-t-turn-the-page-on-the-fossil-fuel-era-but-this-outcome-is-the-beginning-of-the-end-un).   
    
- For **media enquiries**, please contact [[email protected]](/cdn-cgi/l/email-protection#85f5f7e0f6f6c5f0ebe3e6e6e6abecebf1)
+ For **media enquiries**, please contact [[email protected]](/cdn-cgi/l/email-protection#c7b7b5a2b4b487b2a9a1a4a4a4e9aea9b3)
 
 SOURCE: [UNITED NATIONS CLIMATE CHANGE](https://unfccc.int/news/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era)

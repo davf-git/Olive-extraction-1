@@ -9,6 +9,7 @@ original_slug: in-a-message-of-hope-un-secretary-general-outlines-priorities-for
 original_url: https://olivenetwork.org/Issue/in-a-message-of-hope-un-secretary-general-outlines-priorities-for-2025/26198
 images:
 - images/26198/01.jpg
+videos: []
 ---
 
 ![](images/26198/01.jpg)

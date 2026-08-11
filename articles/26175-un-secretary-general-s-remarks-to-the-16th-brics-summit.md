@@ -8,7 +8,11 @@ original_id: 26175
 original_slug: un-secretary-general-s-remarks-to-the-16th-brics-summit
 original_url: https://olivenetwork.org/Issue/un-secretary-general-s-remarks-to-the-16th-brics-summit/26175
 images: []
+videos:
+- https://www.youtube.com/watch?v=cIS3BTGkncs
 ---
+
+[[Video: https://www.youtube.com/watch?v=cIS3BTGkncs]](https://www.youtube.com/watch?v=cIS3BTGkncs)
 
 ON SOURCE: [UNITED NATIONS](https://www.un.org/sg/en/content/sg/statement/2024-10-24/secretary-generals-remarks-the-16th-brics-summit-delivered)
 

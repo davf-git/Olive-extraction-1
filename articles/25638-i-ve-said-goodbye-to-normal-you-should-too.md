@@ -9,6 +9,7 @@ original_slug: i-ve-said-goodbye-to-normal-you-should-too
 original_url: https://olivenetwork.org/Issue/i-ve-said-goodbye-to-normal-you-should-too/25638
 images:
 - images/25638/01.jpg
+videos: []
 ---
 
 ![](images/25638/01.jpg)

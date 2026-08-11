@@ -9,6 +9,7 @@ original_slug: jeremy-deller-mints-his-first-nft-here-is-his-advice-for-other-ar
 original_url: https://olivenetwork.org/Issue/jeremy-deller-mints-his-first-nft-here-is-his-advice-for-other-artists/25694
 images:
 - images/25694/01.jpg
+videos: []
 ---
 
 ![](images/25694/01.jpg)A still from Jeremy Deller, The last day (2021) © Jeremy Deller,

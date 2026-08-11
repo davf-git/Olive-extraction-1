@@ -10,6 +10,7 @@ original_slug: global-progressive-mobilisation-brought-together-global-leaders-t
 original_url: https://olivenetwork.org/Issue/global-progressive-mobilisation-brought-together-global-leaders-to-stand-up-for-democracy/26296
 images:
 - images/26296/01.jpg
+videos: []
 ---
 
 ![](images/26296/01.jpg)

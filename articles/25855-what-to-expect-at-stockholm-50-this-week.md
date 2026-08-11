@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/what-to-expect-at-stockholm-50-this
 images:
 - images/25855/01.jpg
 - images/25855/02.jpg
+videos: []
 ---
 
 ![](images/25855/01.jpg)

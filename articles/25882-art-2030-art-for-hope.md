@@ -10,6 +10,9 @@ original_url: https://olivenetwork.org/Issue/art-2030-art-for-hope/25882
 images:
 - images/25882/01.jpg
 - images/25882/02.jpg
+videos:
+- https://www.youtube.com/watch?v=bsrfIxquMxA
+- https://www.youtube.com/watch?v=egRHAGtystQ
 ---
 
 ![](images/25882/01.jpg)
@@ -53,9 +56,13 @@ Allora and Calzadilla
 
 Adopted from the work 'The Great Silence' Allora & Calzadilla's video work is a direct message to the United Nations. Examining extinction from its very core, the work urges policymakers to let more sensitivity and planetary care into the decision-making.
 
+[[Video: https://www.youtube.com/watch?v=bsrfIxquMxA]](https://www.youtube.com/watch?v=bsrfIxquMxA)
+
 Museum of Contemporary Art, Los Angeles
 
 Johanna Burton, The Maurice Marciano Director of the Museum of Contemporary Art (MOCA) in Los Angeles speaks about the museum's newly established Environmental Council, the first of its kind in the United States, and what practical actions they have taken to create their first ever net zero exhibition in collaboration with artist Pipilotti Rist as a concrete action for a sustainable future.
+
+[[Video: https://www.youtube.com/watch?v=egRHAGtystQ]](https://www.youtube.com/watch?v=egRHAGtystQ)
 
 Yin Xiuzhen
 

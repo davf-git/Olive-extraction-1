@@ -10,6 +10,8 @@ original_slug: cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emission
 original_url: https://olivenetwork.org/Issue/cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emissions-cuts-fossil-fuels/25995
 images:
 - images/25995/01.jpg
+videos:
+- https://www.youtube.com/watch?v=MMcH9dMDhIs
 ---
 
 ![](images/25995/01.jpg)
@@ -46,6 +48,8 @@ At a press conference, he underscored his views on what should be the way forwar
 * Compromises will be essential. But not on ambition. Think outside the box.  Climate action needs that paradigm shift. Bold climate action can be the meal-ticket of the 21st century.
 
 As the delegates head into the home stretch – [COP28](https://unfccc.int/cop28) is expected to close next Tuesday, 12 December – here’s a snapshot of **what’s happened so far and what’s ahead**.
+
+[[Video: https://www.youtube.com/watch?v=MMcH9dMDhIs]](https://www.youtube.com/watch?v=MMcH9dMDhIs)
 
 # 
 

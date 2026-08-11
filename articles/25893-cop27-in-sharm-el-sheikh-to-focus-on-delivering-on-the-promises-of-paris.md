@@ -9,6 +9,7 @@ original_slug: cop27-in-sharm-el-sheikh-to-focus-on-delivering-on-the-promises-o
 original_url: https://olivenetwork.org/Issue/cop27-in-sharm-el-sheikh-to-focus-on-delivering-on-the-promises-of-paris/25893
 images:
 - images/25893/01.jpg
+videos: []
 ---
 
 ![](images/25893/01.jpg)

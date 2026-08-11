@@ -9,6 +9,7 @@ original_slug: reforming-financial-architecture-to-achieve-new-forms-of-cooperat
 original_url: https://olivenetwork.org/Issue/reforming-financial-architecture-to-achieve-new-forms-of-cooperation/25949
 images:
 - images/25949/01.jpg
+videos: []
 ---
 
 ![](images/25949/01.jpg)

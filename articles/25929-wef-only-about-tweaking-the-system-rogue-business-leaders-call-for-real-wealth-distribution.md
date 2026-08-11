@@ -10,6 +10,7 @@ original_slug: wef-only-about-tweaking-the-system-rogue-business-leaders-call-fo
 original_url: https://olivenetwork.org/Issue/wef-only-about-tweaking-the-system-rogue-business-leaders-call-for-real-wealth-distribution/25929
 images:
 - images/25929/01.jpg
+videos: []
 ---
 
 ![](images/25929/01.jpg)
