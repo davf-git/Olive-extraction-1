@@ -7,10 +7,14 @@ source_url: null
 original_id: 24464
 original_slug: would-you-dare-to-question-who-you-really-are
 original_url: https://olivenetwork.org/Issue/would-you-dare-to-question-who-you-really-are/24464
-images: []
+images:
+- images/24464/01.jpg
 videos:
 - https://www.youtube.com/watch?v=tyaEQEmt5ls
 ---
+
+![](images/24464/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=tyaEQEmt5ls]](https://www.youtube.com/watch?v=tyaEQEmt5ls)
 

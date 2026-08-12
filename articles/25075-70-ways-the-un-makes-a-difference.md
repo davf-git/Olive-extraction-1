@@ -7,9 +7,13 @@ source_url: null
 original_id: 25075
 original_slug: 70-ways-the-un-makes-a-difference
 original_url: https://olivenetwork.org/Issue/70-ways-the-un-makes-a-difference/25075
-images: []
+images:
+- images/25075/01.jpg
 videos: []
 ---
+
+![](images/25075/01.jpg)
+
 
 Child Protection Personnel of UNMISS Police Visit School at POC Site. **Credit UN Photo/JC McIlwaine**
 

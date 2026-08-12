@@ -8,9 +8,13 @@ source_url: null
 original_id: 25286
 original_slug: to-survive-the-challenges-ahead-cultural-institutions-will-need-to-redefine-the-value-of-art
 original_url: https://olivenetwork.org/Issue/to-survive-the-challenges-ahead-cultural-institutions-will-need-to-redefine-the-value-of-art/25286
-images: []
+images:
+- images/25286/01.jpg
 videos: []
 ---
+
+![](images/25286/01.jpg)
+
 
 ##### 
 

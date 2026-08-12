@@ -7,9 +7,13 @@ source_url: null
 original_id: 24630
 original_slug: the-lampedusa-cross
 original_url: https://olivenetwork.org/Issue/the-lampedusa-cross/24630
-images: []
+images:
+- images/24630/01.jpg
 videos: []
 ---
+
+![](images/24630/01.jpg)
+
 
 [The Lampedusa Cross - The British Museum](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3691920&partId=1&searchText=cross+lampedusa&page=1)
 
