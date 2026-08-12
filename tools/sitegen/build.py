@@ -68,15 +68,41 @@ def format_date(d):
         return str(d) if d else ""
 
 
+def to_embed_url(watch_url):
+    m = re.search(r"(?:youtube\.com/watch\?v=|youtu\.be/)([\w-]+)", watch_url)
+    if m:
+        return f"https://www.youtube.com/embed/{m.group(1)}"
+    m = re.search(r"vimeo\.com/(\d+)", watch_url)
+    if m:
+        return f"https://player.vimeo.com/video/{m.group(1)}"
+    return None
+
+
 def render_body_html(body_md):
     # article pages live one directory below root; images are referenced
     # relative to root in the source markdown, so bump them up a level
     fixed = body_md.replace("](images/", "](../images/")
     rendered = markdown.markdown(fixed, extensions=["extra"])
-    # give recovered video links their own look instead of a plain text link
+
+    def swap_for_embed(m):
+        url = m.group(1)
+        embed_url = to_embed_url(url)
+        if embed_url:
+            return (
+                f'<div class="video-embed"><iframe src="{embed_url}" '
+                f'title="Embedded video" loading="lazy" '
+                f'allow="accelerometer; autoplay; clipboard-write; encrypted-media; '
+                f'gyroscope; picture-in-picture" allowfullscreen></iframe></div>'
+                f'<a href="{url}" target="_blank" rel="noopener" class="video-link-sub">Open on original site &#8599;</a>'
+            )
+        return (
+            f'<a href="{url}" target="_blank" rel="noopener" class="video-link">'
+            f'&#9654; Watch video</a>'
+        )
+
     rendered = re.sub(
         r'<a href="(https?://[^"]+)">\[Video:[^<]*\]</a>',
-        r'<a href="\1" target="_blank" rel="noopener" class="video-link">&#9654; Watch video</a>',
+        swap_for_embed,
         rendered,
     )
     return rendered
