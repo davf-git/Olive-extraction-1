@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/we-are-faced-with-a-climate-emergen
 images:
 - images/25942/01.jpg
 - images/25942/02.png
+missing_images: []
 videos: []
 ---
 

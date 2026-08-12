@@ -9,6 +9,7 @@ original_slug: cryptocurrency-donations-set-to-fund-innovation-hub-in-rwanda-to-
 original_url: https://olivenetwork.org/Issue/cryptocurrency-donations-set-to-fund-innovation-hub-in-rwanda-to-aid-children/25741
 images:
 - images/25741/01.jpg
+missing_images: []
 videos: []
 ---
 

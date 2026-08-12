@@ -16,6 +16,7 @@ images:
 - images/26203/06.jpg
 - images/26203/07.jpg
 - images/26203/08.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1063225261
 ---

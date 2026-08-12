@@ -9,6 +9,7 @@ original_slug: 2021-year-in-review-climate-action-or-blah-blah-blah
 original_url: https://olivenetwork.org/Issue/2021-year-in-review-climate-action-or-blah-blah-blah/25809
 images:
 - images/25809/01.jpg
+missing_images: []
 videos: []
 ---
 

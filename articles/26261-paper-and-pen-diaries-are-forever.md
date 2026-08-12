@@ -9,6 +9,7 @@ original_slug: paper-and-pen-diaries-are-forever
 original_url: https://olivenetwork.org/Issue/paper-and-pen-diaries-are-forever/26261
 images:
 - images/26261/01.jpg
+missing_images: []
 videos: []
 ---
 

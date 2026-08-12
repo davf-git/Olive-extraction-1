@@ -9,6 +9,7 @@ original_slug: t-rk-says-human-rights-under-attack-yet-undeterred-in-2025
 original_url: https://olivenetwork.org/Issue/t-rk-says-human-rights-under-attack-yet-undeterred-in-2025/26262
 images:
 - images/26262/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=lkCiH-Vrgyo
 ---

@@ -9,6 +9,7 @@ original_slug: 76th-general-assembly-gets-underway-at-un-headquarters-in-new-yor
 original_url: https://olivenetwork.org/Issue/76th-general-assembly-gets-underway-at-un-headquarters-in-new-york/25756
 images:
 - images/25756/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1437764066039140354&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F110250%2F76th-general-assembly&sessionId=b80817bd104f8fcf24b5d81da905e89ecd563e07&siteScreenName=devaidjobs&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px
 - https://www.youtube.com/watch?v=0-344dpYw3s

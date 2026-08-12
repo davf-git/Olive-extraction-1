@@ -9,6 +9,7 @@ original_slug: our-future-agenda-the-big-brainstorm
 original_url: https://olivenetwork.org/Issue/our-future-agenda-the-big-brainstorm/25924
 images:
 - images/25924/01.jpg
+missing_images: []
 videos: []
 ---
 

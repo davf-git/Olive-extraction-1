@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/water-aid-soapmakers-of-samabogo/25
 images:
 - images/25282/01.jpg
 - images/25282/02.jpg
+missing_images: []
 videos:
 - https://vimeo.com/312756980
 ---

@@ -9,6 +9,7 @@ original_slug: crises-have-changed-can-the-aid-industry
 original_url: https://olivenetwork.org/Issue/crises-have-changed-can-the-aid-industry/25565
 images:
 - images/25565/01.jpg
+missing_images: []
 videos: []
 ---
 

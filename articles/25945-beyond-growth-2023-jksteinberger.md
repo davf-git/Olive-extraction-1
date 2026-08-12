@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/beyond-growth-2023-jksteinberger/25
 images:
 - images/25945/01.jpg
 - images/25945/03.jpg
+missing_images: []
 videos: []
 ---
 

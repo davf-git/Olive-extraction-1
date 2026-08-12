@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/what-to-expect-at-cop29-connecting-
 images:
 - images/26177/01.jpg
 - images/26177/02.jpg
+missing_images: []
 videos: []
 ---
 

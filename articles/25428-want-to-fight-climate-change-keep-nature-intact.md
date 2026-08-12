@@ -7,10 +7,15 @@ source_url: null
 original_id: 25428
 original_slug: want-to-fight-climate-change-keep-nature-intact
 original_url: https://olivenetwork.org/Issue/want-to-fight-climate-change-keep-nature-intact/25428
-images: []
+images:
+- images/25428/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=GRDSkjcr2vk
 ---
+
+![](images/25428/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=GRDSkjcr2vk]](https://www.youtube.com/watch?v=GRDSkjcr2vk)
 

@@ -9,6 +9,7 @@ original_slug: voices-for-now-for-tomorrow-edition-2
 original_url: https://olivenetwork.org/Issue/voices-for-now-for-tomorrow-edition-2/26288
 images:
 - images/26288/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1172693351
 ---

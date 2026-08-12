@@ -9,6 +9,7 @@ original_slug: human-rights-day-2024
 original_url: https://olivenetwork.org/Issue/human-rights-day-2024/26184
 images:
 - images/26184/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=iB_e2y2dEDU
 ---

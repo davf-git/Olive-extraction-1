@@ -7,11 +7,16 @@ source_url: https://www.youtube.com/watch?v=v-SVAFgEd5g
 original_id: 26226
 original_slug: arundhati-roy-on
 original_url: https://olivenetwork.org/Issue/arundhati-roy-on/26226
-images: []
+images:
+- images/26226/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1092483308
 - https://www.youtube.com/watch?v=v-SVAFgEd5g
 ---
+
+![](images/26226/01.jpg)
+
 
 [[Video: https://vimeo.com/1092483308]](https://vimeo.com/1092483308)
 

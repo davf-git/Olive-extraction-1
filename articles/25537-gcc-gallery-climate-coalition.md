@@ -9,6 +9,7 @@ original_slug: gcc-gallery-climate-coalition
 original_url: https://olivenetwork.org/Issue/gcc-gallery-climate-coalition/25537
 images:
 - images/25537/01.jpg
+missing_images: []
 videos: []
 ---
 

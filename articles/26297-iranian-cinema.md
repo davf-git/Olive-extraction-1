@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/iranian-cinema/26297
 images:
 - images/26297/01.jpg
 - images/26297/02.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1185221016
 - https://vimeo.com/1185222093

@@ -9,6 +9,7 @@ original_slug: msf-climate-emergency-the-climate-crisis-is-a-health-and-humanita
 original_url: https://olivenetwork.org/Issue/msf-climate-emergency-the-climate-crisis-is-a-health-and-humanitarian-crisis/25785
 images:
 - images/25785/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=cE8c_eyu0DY
 ---

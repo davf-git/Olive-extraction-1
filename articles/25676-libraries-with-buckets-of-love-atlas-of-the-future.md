@@ -15,6 +15,7 @@ images:
 - images/25676/05.jpg
 - images/25676/06.jpg
 - images/25676/07.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=jCgarW0U6Mk
 ---

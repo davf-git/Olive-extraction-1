@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-elders-finding-humanity-podcast
 images:
 - images/25371/01.jpg
 - images/25371/05.jpg
+missing_images: []
 videos:
 - https://anchor.fm/findinghumanity/embed/episodes/Global-Governance-Former-World-Leaders-on-Collective-Responsibility--The-Future-of-Multilateralism-and-The-United-Nations-efre25/a-a2hrhep
 ---

@@ -10,6 +10,7 @@ original_slug: un-chief-unveils-new-vision-for-peace-across-a-multipolar-world
 original_url: https://olivenetwork.org/Issue/un-chief-unveils-new-vision-for-peace-across-a-multipolar-world/25953
 images:
 - images/25953/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -10,6 +10,7 @@ original_slug: the-world-is-burning-who-can-convince-the-comfortable-classes-of-
 original_url: https://olivenetwork.org/Issue/the-world-is-burning-who-can-convince-the-comfortable-classes-of-the-radical-sacrifices-needed/25958
 images:
 - images/25958/01.jpg
+missing_images: []
 videos: []
 ---
 

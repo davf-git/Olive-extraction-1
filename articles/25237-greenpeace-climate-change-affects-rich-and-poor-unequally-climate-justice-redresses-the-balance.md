@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/greenpeace-climate-change-affects-r
 images:
 - images/25237/01.jpg
 - images/25237/03.jpg
+missing_images: []
 videos: []
 ---
 

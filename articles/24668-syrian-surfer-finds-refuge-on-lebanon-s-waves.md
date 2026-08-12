@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/syrian-surfer-finds-refuge-on-leban
 images:
 - images/24668/01.jpg
 - images/24668/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=vrqk9tFC6Ro
 ---

@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/art-2030-art-for-hope/25882
 images:
 - images/25882/01.jpg
 - images/25882/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=bsrfIxquMxA
 - https://www.youtube.com/watch?v=egRHAGtystQ

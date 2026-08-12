@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/school-strike-4-climate-action-nz/2
 images:
 - images/24797/01.jpg
 - images/24797/02.jpg
+missing_images: []
 videos: []
 ---
 

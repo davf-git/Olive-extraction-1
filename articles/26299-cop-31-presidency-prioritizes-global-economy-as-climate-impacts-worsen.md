@@ -9,6 +9,7 @@ original_slug: cop-31-presidency-prioritizes-global-economy-as-climate-impacts-w
 original_url: https://olivenetwork.org/Issue/cop-31-presidency-prioritizes-global-economy-as-climate-impacts-worsen/26299
 images:
 - images/26299/01.jpg
+missing_images: []
 videos: []
 ---
 

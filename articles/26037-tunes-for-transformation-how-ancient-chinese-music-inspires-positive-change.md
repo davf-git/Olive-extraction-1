@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/tunes-for-transformation-how-ancien
 images:
 - images/26037/01.jpg
 - images/26037/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=0cX7fGGqj3M
 - https://www.youtube.com/watch?v=EaBBBCce980

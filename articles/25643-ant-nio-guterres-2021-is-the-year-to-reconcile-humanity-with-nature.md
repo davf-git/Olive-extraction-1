@@ -9,6 +9,7 @@ original_slug: ant-nio-guterres-2021-is-the-year-to-reconcile-humanity-with-natu
 original_url: https://olivenetwork.org/Issue/ant-nio-guterres-2021-is-the-year-to-reconcile-humanity-with-nature/25643
 images:
 - images/25643/01.jpg
+missing_images: []
 videos: []
 ---
 

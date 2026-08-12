@@ -10,6 +10,7 @@ original_slug: connected-by-a-thread-arts-territory-exchange-residency-in-sustai
 original_url: https://olivenetwork.org/Issue/connected-by-a-thread-arts-territory-exchange-residency-in-sustainable-practice/25153
 images:
 - images/25153/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/292284891
 ---

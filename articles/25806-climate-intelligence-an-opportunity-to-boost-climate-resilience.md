@@ -9,6 +9,7 @@ original_slug: climate-intelligence-an-opportunity-to-boost-climate-resilience
 original_url: https://olivenetwork.org/Issue/climate-intelligence-an-opportunity-to-boost-climate-resilience/25806
 images:
 - images/25806/01.jpg
+missing_images: []
 videos: []
 ---
 

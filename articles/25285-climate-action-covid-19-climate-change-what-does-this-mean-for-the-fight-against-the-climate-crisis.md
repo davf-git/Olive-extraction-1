@@ -12,6 +12,7 @@ images:
 - images/25285/01.png
 - images/25285/02.png
 - images/25285/03.png
+missing_images: []
 videos:
 - https://vimeo.com/414282070
 - https://vimeo.com/414283100

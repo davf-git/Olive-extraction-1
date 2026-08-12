@@ -9,6 +9,7 @@ original_slug: places-for-people-venice-architecture-biennale
 original_url: https://olivenetwork.org/Issue/places-for-people-venice-architecture-biennale/24474
 images:
 - images/24474/01.webp
+missing_images: []
 videos: []
 ---
 

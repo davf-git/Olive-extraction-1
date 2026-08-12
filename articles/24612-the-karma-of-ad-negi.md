@@ -9,6 +9,7 @@ original_slug: the-karma-of-ad-negi
 original_url: https://olivenetwork.org/Issue/the-karma-of-ad-negi/24612
 images:
 - images/24612/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=-foEwcAu_zw
 ---

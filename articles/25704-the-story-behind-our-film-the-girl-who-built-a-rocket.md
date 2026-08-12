@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-story-behind-our-film-the-girl-
 images:
 - images/25704/01.jpg
 - images/25704/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=lmBp2-t38Mw
 ---

@@ -10,6 +10,7 @@ original_slug: conservation-international-these-ecosystems-could-determine-our-c
 original_url: https://olivenetwork.org/Issue/conservation-international-these-ecosystems-could-determine-our-climate-future-study/25797
 images:
 - images/25797/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -7,10 +7,15 @@ source_url: https://www.un.org/sg/en/content/sg/statement/2024-10-24/secretary-g
 original_id: 26175
 original_slug: un-secretary-general-s-remarks-to-the-16th-brics-summit
 original_url: https://olivenetwork.org/Issue/un-secretary-general-s-remarks-to-the-16th-brics-summit/26175
-images: []
+images:
+- images/26175/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=cIS3BTGkncs
 ---
+
+![](images/26175/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=cIS3BTGkncs]](https://www.youtube.com/watch?v=cIS3BTGkncs)
 

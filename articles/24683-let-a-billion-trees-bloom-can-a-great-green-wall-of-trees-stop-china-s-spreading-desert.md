@@ -10,6 +10,7 @@ original_slug: let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-ch
 original_url: https://olivenetwork.org/Issue/let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-china-s-spreading-desert/24683
 images:
 - images/24683/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/9901381
 ---

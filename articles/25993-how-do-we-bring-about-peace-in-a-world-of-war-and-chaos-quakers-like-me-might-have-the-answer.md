@@ -9,6 +9,7 @@ original_slug: how-do-we-bring-about-peace-in-a-world-of-war-and-chaos-quakers-l
 original_url: https://olivenetwork.org/Issue/how-do-we-bring-about-peace-in-a-world-of-war-and-chaos-quakers-like-me-might-have-the-answer/25993
 images:
 - images/25993/01.jpg
+missing_images: []
 videos: []
 ---
 

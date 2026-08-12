@@ -7,10 +7,15 @@ source_url: null
 original_id: 25142
 original_slug: staying-alive-st-ives-extinction-rebellion-itv-news
 original_url: https://olivenetwork.org/Issue/staying-alive-st-ives-extinction-rebellion-itv-news/25142
-images: []
+images:
+- images/25142/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/382424298
 ---
+
+![](images/25142/01.jpg)
+
 
 [[Video: https://vimeo.com/382424298]](https://vimeo.com/382424298)
 

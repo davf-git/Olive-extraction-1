@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/mexican-shelter-welcomes-lgbti-refu
 images:
 - images/24681/01.jpg
 - images/24681/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=sIQ8yQRqt0k
 ---

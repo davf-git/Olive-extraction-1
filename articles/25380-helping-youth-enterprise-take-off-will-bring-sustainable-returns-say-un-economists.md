@@ -9,6 +9,7 @@ original_slug: helping-youth-enterprise-take-off-will-bring-sustainable-returns-
 original_url: https://olivenetwork.org/Issue/helping-youth-enterprise-take-off-will-bring-sustainable-returns-say-un-economists/25380
 images:
 - images/25380/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=8kJbX5kXMXs
 ---

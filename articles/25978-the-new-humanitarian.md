@@ -7,11 +7,16 @@ source_url: null
 original_id: 25978
 original_slug: the-new-humanitarian
 original_url: https://olivenetwork.org/Issue/the-new-humanitarian/25978
-images: []
+images:
+- images/25978/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=80-Og8WvzBU
 - https://www.youtube.com/watch?v=xpocdVZeR28
 ---
+
+![](images/25978/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=80-Og8WvzBU]](https://www.youtube.com/watch?v=80-Og8WvzBU)
 

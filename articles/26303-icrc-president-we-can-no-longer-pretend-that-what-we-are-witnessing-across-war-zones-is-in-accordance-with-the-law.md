@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/icrc-president-we-can-no-longer-pre
 images:
 - images/26303/01.jpg
 - images/26303/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=J72-Wevk9oo
 ---

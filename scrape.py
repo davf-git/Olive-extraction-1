@@ -165,7 +165,11 @@ def scrape_item(session, row: dict) -> dict:
     author, source, source_url = parse_source(soup, desc)
 
     # Download body images, in document order, and rewrite src to local paths.
+    # A failed download doesn't vanish the tag (that's the same silent-loss bug
+    # as the video embeds) — it becomes a link to the original, and the URL is
+    # recorded in missing_images so the manifest stays honest about what's gone.
     images_rel = []
+    missing_images = []
     img_dir = os.path.join(IMAGES_DIR, item_id)
     for i, img in enumerate(desc.find_all("img"), start=1):
         src = img.get("src")
@@ -178,7 +182,16 @@ def scrape_item(session, row: dict) -> dict:
             img["src"] = local_path
             images_rel.append(local_path)
         else:
-            img.decompose()
+            missing_images.append(abs_url)
+            if img.find_parent("a"):
+                # Nesting a link inside the existing enclosing <a> would
+                # produce invalid, garbled markdown — just leave the URL as
+                # text; the surrounding link still gives a functional click-through.
+                img.replace_with(f"[Image: {abs_url}]")
+            else:
+                link = soup.new_tag("a", href=abs_url)
+                link.string = f"[Image: {abs_url}]"
+                img.replace_with(link)
 
     # Capture video embeds — markdownify drops <iframe> tags silently,
     # so pull the src out and swap in a link that survives conversion.
@@ -206,6 +219,7 @@ def scrape_item(session, row: dict) -> dict:
         "original_slug": slug,
         "original_url": url,
         "images": images_rel,
+        "missing_images": missing_images,
         "videos": videos_rel,
     }
 

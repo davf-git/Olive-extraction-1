@@ -10,6 +10,7 @@ original_slug: conservation-international-notes-from-the-field-sun-powered-water
 original_url: https://olivenetwork.org/Issue/conservation-international-notes-from-the-field-sun-powered-water-covid-and-fishing-and-more/25550
 images:
 - images/25550/01.jpg
+missing_images: []
 videos: []
 ---
 

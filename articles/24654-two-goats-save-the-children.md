@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/two-goats-save-the-children/24654
 images:
 - images/24654/01.jpg
 - images/24654/02.jpg
+missing_images: []
 videos: []
 ---
 

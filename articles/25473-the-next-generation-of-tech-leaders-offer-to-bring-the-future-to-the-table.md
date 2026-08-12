@@ -9,6 +9,7 @@ original_slug: the-next-generation-of-tech-leaders-offer-to-bring-the-future-to-
 original_url: https://olivenetwork.org/Issue/the-next-generation-of-tech-leaders-offer-to-bring-the-future-to-the-table/25473
 images:
 - images/25473/01.jpg
+missing_images: []
 videos: []
 ---
 

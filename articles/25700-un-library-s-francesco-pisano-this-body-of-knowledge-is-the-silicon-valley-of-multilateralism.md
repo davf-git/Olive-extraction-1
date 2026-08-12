@@ -10,6 +10,7 @@ original_slug: un-library-s-francesco-pisano-this-body-of-knowledge-is-the-silic
 original_url: https://olivenetwork.org/Issue/un-library-s-francesco-pisano-this-body-of-knowledge-is-the-silicon-valley-of-multilateralism/25700
 images:
 - images/25700/01.jpg
+missing_images: []
 videos:
 - https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1018676353&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true
 ---

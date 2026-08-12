@@ -9,6 +9,7 @@ original_slug: launch-of-new-covid19-humanitarian-platform
 original_url: https://olivenetwork.org/Issue/launch-of-new-covid19-humanitarian-platform/25280
 images:
 - images/25280/01.jpg
+missing_images: []
 videos: []
 ---
 

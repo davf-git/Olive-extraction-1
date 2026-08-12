@@ -9,6 +9,7 @@ original_slug: bristol-to-hold-citizens-assembly-on-coronavirus-recovery
 original_url: https://olivenetwork.org/Issue/bristol-to-hold-citizens-assembly-on-coronavirus-recovery/25443
 images:
 - images/25443/01.jpg
+missing_images: []
 videos: []
 ---
 

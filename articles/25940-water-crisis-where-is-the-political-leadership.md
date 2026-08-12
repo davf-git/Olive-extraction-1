@@ -9,6 +9,7 @@ original_slug: water-crisis-where-is-the-political-leadership
 original_url: https://olivenetwork.org/Issue/water-crisis-where-is-the-political-leadership/25940
 images:
 - images/25940/01.jpg
+missing_images: []
 videos: []
 ---
 

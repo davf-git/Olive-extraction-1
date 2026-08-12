@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/we-simply-can-t-turn-our-backs-on-v
 images:
 - images/25152/01.jpg
 - images/25152/02.jpg
+missing_images: []
 videos: []
 ---
 

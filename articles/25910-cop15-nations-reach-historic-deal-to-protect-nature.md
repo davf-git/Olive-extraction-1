@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/cop15-nations-reach-historic-deal-t
 images:
 - images/25910/01.jpg
 - images/25910/02.jpg
+missing_images: []
 videos: []
 ---
 

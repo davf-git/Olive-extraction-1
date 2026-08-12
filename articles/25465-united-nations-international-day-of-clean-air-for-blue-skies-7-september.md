@@ -9,6 +9,7 @@ original_slug: united-nations-international-day-of-clean-air-for-blue-skies-7-se
 original_url: https://olivenetwork.org/Issue/united-nations-international-day-of-clean-air-for-blue-skies-7-september/25465
 images:
 - images/25465/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=GVBeY1jSG9Y
 ---

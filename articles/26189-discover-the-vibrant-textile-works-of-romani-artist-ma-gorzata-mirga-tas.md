@@ -9,6 +9,7 @@ original_slug: discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mi
 original_url: https://olivenetwork.org/Issue/discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mirga-tas/26189
 images:
 - images/26189/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=UTGNaopLt68
 ---

@@ -10,6 +10,7 @@ original_slug: the-japanese-practice-of-forest-bathing-is-scientificially-proven
 original_url: https://olivenetwork.org/Issue/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you/24677
 images:
 - images/24677/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=stuZaKB9j7I
 ---

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/forum-for-the-future-three-transiti
 images:
 - images/25889/01.jpg
 - images/25889/02.png
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=v30gqFYDygs
 ---

@@ -9,6 +9,7 @@ original_slug: former-child-refugee-tracks-down-aid-worker-who-gave-her-a-bike
 original_url: https://olivenetwork.org/Issue/former-child-refugee-tracks-down-aid-worker-who-gave-her-a-bike/24992
 images:
 - images/24992/01.jpg
+missing_images: []
 videos: []
 ---
 

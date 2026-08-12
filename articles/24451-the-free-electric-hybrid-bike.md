@@ -7,10 +7,15 @@ source_url: null
 original_id: 24451
 original_slug: the-free-electric-hybrid-bike
 original_url: https://olivenetwork.org/Issue/the-free-electric-hybrid-bike/24451
-images: []
+images:
+- images/24451/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=Cgb9lfKW_d4
 ---
+
+![](images/24451/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=Cgb9lfKW\_d4]](https://www.youtube.com/watch?v=Cgb9lfKW_d4)
 

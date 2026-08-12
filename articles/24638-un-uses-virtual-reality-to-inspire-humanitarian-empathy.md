@@ -9,6 +9,7 @@ original_slug: un-uses-virtual-reality-to-inspire-humanitarian-empathy
 original_url: https://olivenetwork.org/Issue/un-uses-virtual-reality-to-inspire-humanitarian-empathy/24638
 images:
 - images/24638/01.jpg
+missing_images: []
 videos: []
 ---
 

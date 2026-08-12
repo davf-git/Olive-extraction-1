@@ -9,6 +9,7 @@ original_slug: cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-e
 original_url: https://olivenetwork.org/Issue/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era/25998
 images:
 - images/25998/01.jpg
+missing_images: []
 videos: []
 ---
 

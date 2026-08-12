@@ -9,6 +9,7 @@ original_slug: msf-director-on-climate-we-are-at-a-crucial-moment-in-the-history
 original_url: https://olivenetwork.org/Issue/msf-director-on-climate-we-are-at-a-crucial-moment-in-the-history-of-mankind/25669
 images:
 - images/25669/01.jpg
+missing_images: []
 videos: []
 ---
 

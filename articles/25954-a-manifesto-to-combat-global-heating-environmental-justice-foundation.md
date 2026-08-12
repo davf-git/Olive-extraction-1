@@ -7,10 +7,15 @@ source_url: null
 original_id: 25954
 original_slug: a-manifesto-to-combat-global-heating-environmental-justice-foundation
 original_url: https://olivenetwork.org/Issue/a-manifesto-to-combat-global-heating-environmental-justice-foundation/25954
-images: []
+images:
+- images/25954/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=a_9iJVv4_Q4
 ---
+
+![](images/25954/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=a\_9iJVv4\_Q4]](https://www.youtube.com/watch?v=a_9iJVv4_Q4)
 

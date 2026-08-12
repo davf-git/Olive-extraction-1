@@ -7,10 +7,15 @@ source_url: null
 original_id: 25585
 original_slug: on-culture-and-climate-artist-talk-with-john-akomfrah-and-olafur-eliasson
 original_url: https://olivenetwork.org/Issue/on-culture-and-climate-artist-talk-with-john-akomfrah-and-olafur-eliasson/25585
-images: []
+images:
+- images/25585/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=qnX4OSX5mqA
 ---
+
+![](images/25585/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=qnX4OSX5mqA]](https://www.youtube.com/watch?v=qnX4OSX5mqA)
 

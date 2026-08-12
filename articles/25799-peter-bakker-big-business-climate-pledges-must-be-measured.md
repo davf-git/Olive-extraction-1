@@ -9,6 +9,7 @@ original_slug: peter-bakker-big-business-climate-pledges-must-be-measured
 original_url: https://olivenetwork.org/Issue/peter-bakker-big-business-climate-pledges-must-be-measured/25799
 images:
 - images/25799/01.jpg
+missing_images: []
 videos: []
 ---
 

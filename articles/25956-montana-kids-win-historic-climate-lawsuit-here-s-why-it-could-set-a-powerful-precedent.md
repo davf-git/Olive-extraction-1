@@ -10,6 +10,7 @@ original_slug: montana-kids-win-historic-climate-lawsuit-here-s-why-it-could-set
 original_url: https://olivenetwork.org/Issue/montana-kids-win-historic-climate-lawsuit-here-s-why-it-could-set-a-powerful-precedent/25956
 images:
 - images/25956/01.jpg
+missing_images: []
 videos: []
 ---
 

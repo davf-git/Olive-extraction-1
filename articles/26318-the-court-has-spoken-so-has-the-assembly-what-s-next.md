@@ -9,6 +9,7 @@ original_slug: the-court-has-spoken-so-has-the-assembly-what-s-next
 original_url: https://olivenetwork.org/Issue/the-court-has-spoken-so-has-the-assembly-what-s-next/26318
 images:
 - images/26318/01.jpg
+missing_images: []
 videos: []
 ---
 

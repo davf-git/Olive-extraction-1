@@ -9,6 +9,7 @@ original_slug: democracy-depends-on-women-s-empowerment-kamala-harris-says-in-he
 original_url: https://olivenetwork.org/Issue/democracy-depends-on-women-s-empowerment-kamala-harris-says-in-her-un-debut/25684
 images:
 - images/25684/01.jpg
+missing_images: []
 videos: []
 ---
 

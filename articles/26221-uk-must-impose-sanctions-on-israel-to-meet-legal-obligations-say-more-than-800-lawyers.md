@@ -10,6 +10,7 @@ original_slug: uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-
 original_url: https://olivenetwork.org/Issue/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers/26221
 images:
 - images/26221/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=8BPMk_eZsH4
 ---

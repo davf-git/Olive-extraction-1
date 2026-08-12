@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/solar-powered-ambulance-to-save-liv
 images:
 - images/24663/01.jpg
 - images/24663/02.jpg
+missing_images: []
 videos: []
 ---
 

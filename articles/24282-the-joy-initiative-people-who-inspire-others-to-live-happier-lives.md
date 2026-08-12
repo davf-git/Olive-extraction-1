@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-joy-initiative-people-who-inspi
 images:
 - images/24282/02.jpg
 - images/24282/03.jpg
+missing_images: []
 videos: []
 ---
 

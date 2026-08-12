@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/success-in-finland-education/25972
 images:
 - images/25972/01.jpg
 - images/25972/02.png
+missing_images: []
 videos: []
 ---
 

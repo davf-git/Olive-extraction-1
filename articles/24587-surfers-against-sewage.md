@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/surfers-against-sewage/24587
 images:
 - images/24587/01.jpg
 - images/24587/02.jpg
+missing_images: []
 videos: []
 ---
 

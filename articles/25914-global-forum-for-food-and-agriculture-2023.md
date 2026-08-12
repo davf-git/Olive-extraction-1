@@ -9,6 +9,7 @@ original_slug: global-forum-for-food-and-agriculture-2023
 original_url: https://olivenetwork.org/Issue/global-forum-for-food-and-agriculture-2023/25914
 images:
 - images/25914/01.jpg
+missing_images: []
 videos: []
 ---
 
