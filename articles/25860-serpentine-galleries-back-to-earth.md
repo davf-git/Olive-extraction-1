@@ -9,6 +9,7 @@ original_slug: serpentine-galleries-back-to-earth
 original_url: https://olivenetwork.org/Issue/serpentine-galleries-back-to-earth/25860
 images:
 - images/25860/01.jpg
+missing_images: []
 videos: []
 ---
 

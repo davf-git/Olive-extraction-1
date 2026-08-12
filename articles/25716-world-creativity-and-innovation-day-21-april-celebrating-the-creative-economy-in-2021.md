@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/world-creativity-and-innovation-day
 images:
 - images/25716/01.jpg
 - images/25716/02.jpg
+missing_images: []
 videos: []
 ---
 

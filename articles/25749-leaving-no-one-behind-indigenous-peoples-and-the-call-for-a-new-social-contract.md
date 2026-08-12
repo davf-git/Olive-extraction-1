@@ -9,6 +9,7 @@ original_slug: leaving-no-one-behind-indigenous-peoples-and-the-call-for-a-new-s
 original_url: https://olivenetwork.org/Issue/leaving-no-one-behind-indigenous-peoples-and-the-call-for-a-new-social-contract/25749
 images:
 - images/25749/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=tRIW0GPD4FY
 - https://www.youtube.com/watch?v=ufwuv3_LJ1w

@@ -9,6 +9,7 @@ original_slug: leaders-summit-on-climate-spurs-emissions-targets
 original_url: https://olivenetwork.org/Issue/leaders-summit-on-climate-spurs-emissions-targets/25719
 images:
 - images/25719/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfX0%3D&frame=false&hideCard=false&hideThread=false&id=1385319373276172288&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F89612%2Fleaders-summit-on-climate-spurs-emissions-targets&sessionId=727236756aef479bd5901aa089cc8be65390553f&siteScreenName=devaidjobs&theme=light&widgetsVersion=ff2e7cf%3A1618526400629&width=550px
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfX0%3D&frame=false&hideCard=false&hideThread=false&id=1385290997073121283&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F89612%2Fleaders-summit-on-climate-spurs-emissions-targets&sessionId=727236756aef479bd5901aa089cc8be65390553f&siteScreenName=devaidjobs&theme=light&widgetsVersion=ff2e7cf%3A1618526400629&width=550px

@@ -9,6 +9,7 @@ original_slug: we-must-use-the-covid-crisis-to-reshape-our-society-and-economy
 original_url: https://olivenetwork.org/Issue/we-must-use-the-covid-crisis-to-reshape-our-society-and-economy/25478
 images:
 - images/25478/01.jpg
+missing_images: []
 videos: []
 ---
 

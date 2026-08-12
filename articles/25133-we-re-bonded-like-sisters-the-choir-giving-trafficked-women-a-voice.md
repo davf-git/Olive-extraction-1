@@ -15,6 +15,7 @@ images:
 - images/25133/05.jpg
 - images/25133/06.jpg
 - images/25133/07.jpg
+missing_images: []
 videos:
 - https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F825417533&show_artwork=true
 ---

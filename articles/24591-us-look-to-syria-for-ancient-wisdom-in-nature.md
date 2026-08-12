@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/us-look-to-syria-for-ancient-wisdom
 images:
 - images/24591/01.jpg
 - images/24591/02.jpg
+missing_images: []
 videos: []
 ---
 

@@ -13,6 +13,7 @@ images:
 - images/25247/03.jpg
 - images/25247/04.jpg
 - images/25247/05.jpg
+missing_images: []
 videos:
 - https://www.bbc.co.uk/programmes/p0876qmv/player
 ---

@@ -13,6 +13,7 @@ images:
 - images/26266/03.png
 - images/26266/04.png
 - images/26266/05.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=epPqp9nNjp0
 ---

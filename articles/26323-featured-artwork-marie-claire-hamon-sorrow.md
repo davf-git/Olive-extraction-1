@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/featured-artwork-marie-claire-hamon
 images:
 - images/26323/01.jpg
 - images/26323/02.jpg
+missing_images: []
 videos: []
 ---
 

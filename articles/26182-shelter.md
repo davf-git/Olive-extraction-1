@@ -9,6 +9,7 @@ original_slug: shelter
 original_url: https://olivenetwork.org/Issue/shelter/26182
 images:
 - images/26182/01.jpg
+missing_images: []
 videos: []
 ---
 

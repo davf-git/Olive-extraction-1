@@ -9,6 +9,7 @@ original_slug: the-observer-view-on-the-world-needing-the-united-nations-more-th
 original_url: https://olivenetwork.org/Issue/the-observer-view-on-the-world-needing-the-united-nations-more-than-ever/25311
 images:
 - images/25311/01.jpg
+missing_images: []
 videos: []
 ---
 

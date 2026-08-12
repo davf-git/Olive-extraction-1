@@ -9,6 +9,7 @@ original_slug: mayor-of-london-announces-90-million-towards-new-green-bonds
 original_url: https://olivenetwork.org/Issue/mayor-of-london-announces-90-million-towards-new-green-bonds/25828
 images:
 - images/25828/01.jpg
+missing_images: []
 videos: []
 ---
 

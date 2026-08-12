@@ -12,6 +12,7 @@ images:
 - images/24672/02.jpg
 - images/24672/03.jpg
 - images/24672/04.jpg
+missing_images: []
 videos: []
 ---
 

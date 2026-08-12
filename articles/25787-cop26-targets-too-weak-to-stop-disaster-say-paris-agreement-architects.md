@@ -9,6 +9,7 @@ original_slug: cop26-targets-too-weak-to-stop-disaster-say-paris-agreement-archi
 original_url: https://olivenetwork.org/Issue/cop26-targets-too-weak-to-stop-disaster-say-paris-agreement-architects/25787
 images:
 - images/25787/01.jpg
+missing_images: []
 videos: []
 ---
 

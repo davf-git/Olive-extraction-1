@@ -9,6 +9,7 @@ original_slug: a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditi
 original_url: https://olivenetwork.org/Issue/a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditional-knowledge/26055
 images:
 - images/26055/01.jpg
+missing_images: []
 videos: []
 ---
 

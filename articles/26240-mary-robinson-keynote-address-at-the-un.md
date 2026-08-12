@@ -7,10 +7,15 @@ source_url: null
 original_id: 26240
 original_slug: mary-robinson-keynote-address-at-the-un
 original_url: https://olivenetwork.org/Issue/mary-robinson-keynote-address-at-the-un/26240
-images: []
+images:
+- images/26240/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1106683081
 ---
+
+![](images/26240/01.jpg)
+
 
 [[Video: https://vimeo.com/1106683081]](https://vimeo.com/1106683081)
 

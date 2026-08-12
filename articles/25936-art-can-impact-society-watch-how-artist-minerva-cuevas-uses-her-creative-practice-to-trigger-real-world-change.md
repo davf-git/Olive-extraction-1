@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/art-can-impact-society-watch-how-ar
 images:
 - images/25936/01.jpg
 - images/25936/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=cKGcNIy10fI
 ---

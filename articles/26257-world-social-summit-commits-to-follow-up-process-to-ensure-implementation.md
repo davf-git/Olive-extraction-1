@@ -9,6 +9,7 @@ original_slug: world-social-summit-commits-to-follow-up-process-to-ensure-implem
 original_url: https://olivenetwork.org/Issue/world-social-summit-commits-to-follow-up-process-to-ensure-implementation/26257
 images:
 - images/26257/01.jpg
+missing_images: []
 videos: []
 ---
 

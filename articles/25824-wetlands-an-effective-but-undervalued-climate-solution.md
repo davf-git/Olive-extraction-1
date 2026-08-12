@@ -9,6 +9,7 @@ original_slug: wetlands-an-effective-but-undervalued-climate-solution
 original_url: https://olivenetwork.org/Issue/wetlands-an-effective-but-undervalued-climate-solution/25824
 images:
 - images/25824/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1488870571270156289&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F137445%2Fwetlands-climate-solution&sessionId=e9692db383a50f08cf48ad351a4c688442dd7f62&siteScreenName=devaidjobs&theme=light&widgetsVersion=0a8eea3%3A1643743420422&width=550px
 ---

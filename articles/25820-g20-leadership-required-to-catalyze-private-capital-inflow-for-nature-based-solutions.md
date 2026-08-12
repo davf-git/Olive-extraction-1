@@ -10,6 +10,7 @@ original_slug: g20-leadership-required-to-catalyze-private-capital-inflow-for-na
 original_url: https://olivenetwork.org/Issue/g20-leadership-required-to-catalyze-private-capital-inflow-for-nature-based-solutions/25820
 images:
 - images/25820/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1486691278968475663&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F137135%2Fnature-based-solutions-g20&sessionId=7fc2ec957d034cb69a01195c61736ce335750f80&siteScreenName=devaidjobs&theme=light&widgetsVersion=75b3351%3A1642573356397&width=550px
 ---

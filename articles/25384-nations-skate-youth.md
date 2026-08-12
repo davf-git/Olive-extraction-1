@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/nations-skate-youth/25384
 images:
 - images/25384/01.jpg
 - images/25384/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=DcXqGEaJfuw
 ---

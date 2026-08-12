@@ -9,6 +9,7 @@ original_slug: reorganizing-production-to-serve-life-not-profit
 original_url: https://olivenetwork.org/Issue/reorganizing-production-to-serve-life-not-profit/26229
 images:
 - images/26229/01.jpg
+missing_images: []
 videos: []
 ---
 

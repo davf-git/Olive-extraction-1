@@ -9,6 +9,7 @@ original_slug: world-press-freedom-day-2024-ips-video
 original_url: https://olivenetwork.org/Issue/world-press-freedom-day-2024-ips-video/26050
 images:
 - images/26050/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=ttkMQ1fWhMA
 ---

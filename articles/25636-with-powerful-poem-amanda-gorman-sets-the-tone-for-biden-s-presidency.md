@@ -9,6 +9,7 @@ original_slug: with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presid
 original_url: https://olivenetwork.org/Issue/with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presidency/25636
 images:
 - images/25636/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=2mTmTdOgv0M
 ---

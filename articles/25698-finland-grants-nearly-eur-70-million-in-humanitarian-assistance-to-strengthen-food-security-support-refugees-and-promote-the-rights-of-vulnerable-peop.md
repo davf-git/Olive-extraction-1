@@ -10,6 +10,7 @@ original_slug: finland-grants-nearly-eur-70-million-in-humanitarian-assistance-t
 original_url: https://olivenetwork.org/Issue/finland-grants-nearly-eur-70-million-in-humanitarian-assistance-to-strengthen-food-security-support-refugees-and-promote-the-rights-of-vulnerable-peop/25698
 images:
 - images/25698/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&frame=false&hideCard=false&hideThread=false&id=1375364479928700930&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F87552%2Ffinland-humanitarian-assistance-2&siteScreenName=devaidjobs&theme=light&widgetsVersion=e1ffbdb%3A1614796141937&width=550px
 ---

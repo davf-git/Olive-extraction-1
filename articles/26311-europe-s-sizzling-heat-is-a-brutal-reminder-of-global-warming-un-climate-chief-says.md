@@ -10,6 +10,7 @@ original_slug: europe-s-sizzling-heat-is-a-brutal-reminder-of-global-warming-un-
 original_url: https://olivenetwork.org/Issue/europe-s-sizzling-heat-is-a-brutal-reminder-of-global-warming-un-climate-chief-says/26311
 images:
 - images/26311/01.jpg
+missing_images: []
 videos: []
 ---
 

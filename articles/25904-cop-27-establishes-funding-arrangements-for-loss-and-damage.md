@@ -9,6 +9,7 @@ original_slug: cop-27-establishes-funding-arrangements-for-loss-and-damage
 original_url: https://olivenetwork.org/Issue/cop-27-establishes-funding-arrangements-for-loss-and-damage/25904
 images:
 - images/25904/01.jpg
+missing_images: []
 videos: []
 ---
 

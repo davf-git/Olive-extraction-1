@@ -9,6 +9,7 @@ original_slug: why-we-need-museums-now-more-than-ever
 original_url: https://olivenetwork.org/Issue/why-we-need-museums-now-more-than-ever/25523
 images:
 - images/25523/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=T4L51b61KSk
 ---

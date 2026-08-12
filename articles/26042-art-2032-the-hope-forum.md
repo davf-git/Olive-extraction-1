@@ -9,6 +9,7 @@ original_slug: art-2032-the-hope-forum
 original_url: https://olivenetwork.org/Issue/art-2032-the-hope-forum/26042
 images:
 - images/26042/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=ikb0_KvqlSQ
 - https://www.youtube.com/watch?v=dvN8ohgi_o4

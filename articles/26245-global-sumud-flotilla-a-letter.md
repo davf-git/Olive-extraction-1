@@ -9,6 +9,7 @@ original_slug: global-sumud-flotilla-a-letter
 original_url: https://olivenetwork.org/Issue/global-sumud-flotilla-a-letter/26245
 images:
 - images/26245/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1116387301
 ---

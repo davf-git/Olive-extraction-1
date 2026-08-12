@@ -9,6 +9,7 @@ original_slug: brazil-shares-priorities-for-cop-30
 original_url: https://olivenetwork.org/Issue/brazil-shares-priorities-for-cop-30/26204
 images:
 - images/26204/01.jpg
+missing_images: []
 videos: []
 ---
 

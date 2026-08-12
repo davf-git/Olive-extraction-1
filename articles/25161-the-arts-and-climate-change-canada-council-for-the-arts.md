@@ -9,6 +9,7 @@ original_slug: the-arts-and-climate-change-canada-council-for-the-arts
 original_url: https://olivenetwork.org/Issue/the-arts-and-climate-change-canada-council-for-the-arts/25161
 images:
 - images/25161/01.jpg
+missing_images: []
 videos: []
 ---
 

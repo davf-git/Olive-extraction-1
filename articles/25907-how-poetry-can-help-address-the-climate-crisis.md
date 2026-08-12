@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/how-poetry-can-help-address-the-cli
 images:
 - images/25907/01.jpg
 - images/25907/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=kfEF_P73RE0
 ---

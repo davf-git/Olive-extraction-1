@@ -8,10 +8,15 @@ source_url: null
 original_id: 25249
 original_slug: a-sustainable-global-economy-must-arise-once-covid-19-pandemic-is-reversed-un-chief-tells-g-20-summit
 original_url: https://olivenetwork.org/Issue/a-sustainable-global-economy-must-arise-once-covid-19-pandemic-is-reversed-un-chief-tells-g-20-summit/25249
-images: []
+images:
+- images/25249/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=CWdkDHQGIms
 ---
+
+![](images/25249/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=CWdkDHQGIms]](https://www.youtube.com/watch?v=CWdkDHQGIms)
 

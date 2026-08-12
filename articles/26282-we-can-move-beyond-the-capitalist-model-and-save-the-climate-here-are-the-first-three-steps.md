@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/we-can-move-beyond-the-capitalist-m
 images:
 - images/26282/01.jpg
 - images/26282/02.jpg
+missing_images: []
 videos: []
 ---
 

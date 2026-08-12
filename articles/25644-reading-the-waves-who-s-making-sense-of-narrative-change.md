@@ -9,6 +9,7 @@ original_slug: reading-the-waves-who-s-making-sense-of-narrative-change
 original_url: https://olivenetwork.org/Issue/reading-the-waves-who-s-making-sense-of-narrative-change/25644
 images:
 - images/25644/01.jpg
+missing_images: []
 videos: []
 ---
 

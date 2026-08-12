@@ -9,6 +9,7 @@ original_slug: just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transitio
 original_url: https://olivenetwork.org/Issue/just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transition/24983
 images:
 - images/24983/01.jpg
+missing_images: []
 videos: []
 ---
 

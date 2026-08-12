@@ -9,6 +9,7 @@ original_slug: un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against
 original_url: https://olivenetwork.org/Issue/un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against-covid-19/25268
 images:
 - images/25268/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=9qdyeXpr3W8
 ---

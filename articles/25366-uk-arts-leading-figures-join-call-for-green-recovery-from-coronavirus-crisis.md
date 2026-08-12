@@ -9,6 +9,7 @@ original_slug: uk-arts-leading-figures-join-call-for-green-recovery-from-coronav
 original_url: https://olivenetwork.org/Issue/uk-arts-leading-figures-join-call-for-green-recovery-from-coronavirus-crisis/25366
 images:
 - images/25366/01.jpg
+missing_images: []
 videos: []
 ---
 

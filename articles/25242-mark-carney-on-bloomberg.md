@@ -7,10 +7,15 @@ source_url: null
 original_id: 25242
 original_slug: mark-carney-on-bloomberg
 original_url: https://olivenetwork.org/Issue/mark-carney-on-bloomberg/25242
-images: []
+images:
+- images/25242/01.jpg
+missing_images: []
 videos:
 - https://www.bloomberg.com/multimedia/api/embed/iframe?id=b5353b60-fe11-4103-9e74-c4c1ed260453
 ---
+
+![](images/25242/01.jpg)
+
 
 [[Video: https://www.bloomberg.com/multimedia/api/embed/iframe?id=b5353b60-fe11-4103-9e74-c4c1ed260453]](https://www.bloomberg.com/multimedia/api/embed/iframe?id=b5353b60-fe11-4103-9e74-c4c1ed260453)
 

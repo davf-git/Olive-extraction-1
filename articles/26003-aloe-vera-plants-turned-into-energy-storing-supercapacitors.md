@@ -9,6 +9,7 @@ original_slug: aloe-vera-plants-turned-into-energy-storing-supercapacitors
 original_url: https://olivenetwork.org/Issue/aloe-vera-plants-turned-into-energy-storing-supercapacitors/26003
 images:
 - images/26003/01.jpg
+missing_images: []
 videos: []
 ---
 

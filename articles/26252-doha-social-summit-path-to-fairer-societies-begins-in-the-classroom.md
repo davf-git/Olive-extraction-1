@@ -11,6 +11,7 @@ images:
 - images/26252/01.jpg
 - images/26252/02.jpg
 - images/26252/03.jpg
+missing_images: []
 videos:
 - https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2206331263&visual=&auto_play=false&hide_related=true&show_artwork=true&show_playcount=false&show_comments=false&show_user=false&show_reposts=false&download=false&buying=false&sharing=false&show_teaser=false&single_active=true&color=%23ff5500
 ---

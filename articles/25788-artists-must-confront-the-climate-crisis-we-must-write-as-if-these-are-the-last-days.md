@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/artists-must-confront-the-climate-c
 images:
 - images/25788/01.jpg
 - images/25788/02.jpg
+missing_images: []
 videos: []
 ---
 

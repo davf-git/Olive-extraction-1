@@ -9,6 +9,7 @@ original_slug: french-climate-activist-camille-tienne-and-the-power-of-fear
 original_url: https://olivenetwork.org/Issue/french-climate-activist-camille-tienne-and-the-power-of-fear/26010
 images:
 - images/26010/01.jpg
+missing_images: []
 videos: []
 ---
 

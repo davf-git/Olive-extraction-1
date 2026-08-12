@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-performers-bringing-joy-to-chil
 images:
 - images/24679/01.jpg
 - images/24679/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=mYBhgUnpQmE
 ---

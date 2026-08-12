@@ -10,6 +10,7 @@ original_slug: positive-tech-solutions-will-forge-the-recovery-global-technology
 original_url: https://olivenetwork.org/Issue/positive-tech-solutions-will-forge-the-recovery-global-technology-governance-summit-concludes/25708
 images:
 - images/25708/01.jpg
+missing_images: []
 videos: []
 ---
 

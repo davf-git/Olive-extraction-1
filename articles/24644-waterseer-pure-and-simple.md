@@ -12,6 +12,7 @@ images:
 - images/24644/02.jpg
 - images/24644/03.jpg
 - images/24644/04.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=mchIdbLCjsY
 ---

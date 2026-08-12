@@ -10,6 +10,7 @@ original_slug: bill-gates-is-ready-to-spend-more-on-global-health-governments-sh
 original_url: https://olivenetwork.org/Issue/bill-gates-is-ready-to-spend-more-on-global-health-governments-should-do-the-same-says-foundation-official/25717
 images:
 - images/25717/01.jpg
+missing_images: []
 videos: []
 ---
 

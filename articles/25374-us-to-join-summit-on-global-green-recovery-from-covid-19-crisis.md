@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/us-to-join-summit-on-global-green-r
 images:
 - images/25374/01.jpg
 - images/25374/02.jpg
+missing_images: []
 videos: []
 ---
 

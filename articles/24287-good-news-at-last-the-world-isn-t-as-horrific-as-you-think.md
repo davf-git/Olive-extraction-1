@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/good-news-at-last-the-world-isn-t-a
 images:
 - images/24287/01.jpg
 - images/24287/02.jpg
+missing_images: []
 videos:
 - https://interactive.guim.co.uk/charts/embed/apr/2018-04-11T11:09:59/embed.html
 - https://embed.theguardian.com/embed/video/global-development/video/2013/may/17/population-climate-change-hans-rosling-video

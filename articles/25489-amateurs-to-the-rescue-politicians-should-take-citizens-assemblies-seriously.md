@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/amateurs-to-the-rescue-politicians-
 images:
 - images/25489/01.jpg
 - images/25489/02.jpg
+missing_images: []
 videos: []
 ---
 

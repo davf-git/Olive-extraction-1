@@ -10,6 +10,7 @@ original_slug: 395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says
 original_url: https://olivenetwork.org/Issue/395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says-world-economic-forum/25389
 images:
 - images/25389/01.jpg
+missing_images: []
 videos: []
 ---
 

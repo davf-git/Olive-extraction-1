@@ -9,6 +9,7 @@ original_slug: mexico-becomes-first-country-to-launch-sdg-sovereign-bond
 original_url: https://olivenetwork.org/Issue/mexico-becomes-first-country-to-launch-sdg-sovereign-bond/25487
 images:
 - images/25487/01.jpg
+missing_images: []
 videos: []
 ---
 

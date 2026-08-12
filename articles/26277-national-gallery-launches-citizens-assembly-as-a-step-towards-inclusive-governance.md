@@ -9,6 +9,7 @@ original_slug: national-gallery-launches-citizens-assembly-as-a-step-towards-inc
 original_url: https://olivenetwork.org/Issue/national-gallery-launches-citizens-assembly-as-a-step-towards-inclusive-governance/26277
 images:
 - images/26277/01.jpg
+missing_images: []
 videos: []
 ---
 

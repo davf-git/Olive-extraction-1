@@ -7,10 +7,15 @@ source_url: https://www.youtube.com/watch?v=Fqol-1nTp_U
 original_id: 26202
 original_slug: tilda-swinton
 original_url: https://olivenetwork.org/Issue/tilda-swinton/26202
-images: []
+images:
+- images/26202/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=Fqol-1nTp_U
 ---
+
+![](images/26202/01.jpg)
+
 
 ##### [[Video: https://www.youtube.com/watch?v=Fqol-1nTp\_U]](https://www.youtube.com/watch?v=Fqol-1nTp_U)
 

@@ -9,6 +9,7 @@ original_slug: in-new-strategy-wellcome-trust-will-take-on-global-health-challen
 original_url: https://olivenetwork.org/Issue/in-new-strategy-wellcome-trust-will-take-on-global-health-challenges/25538
 images:
 - images/25538/01.jpg
+missing_images: []
 videos: []
 ---
 

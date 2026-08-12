@@ -9,6 +9,7 @@ original_slug: william-kamkwamba-the-boy-who-harnessed-the-wind
 original_url: https://olivenetwork.org/Issue/william-kamkwamba-the-boy-who-harnessed-the-wind/24362
 images:
 - images/24362/01.jpg
+missing_images: []
 videos: []
 ---
 

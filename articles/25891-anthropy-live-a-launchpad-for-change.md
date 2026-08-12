@@ -9,6 +9,7 @@ original_slug: anthropy-live-a-launchpad-for-change
 original_url: https://olivenetwork.org/Issue/anthropy-live-a-launchpad-for-change/25891
 images:
 - images/25891/01.jpg
+missing_images: []
 videos: []
 ---
 

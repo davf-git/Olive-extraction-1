@@ -10,6 +10,7 @@ original_slug: investing-in-health-workers-yields-triple-dividend-who-chief-says
 original_url: https://olivenetwork.org/Issue/investing-in-health-workers-yields-triple-dividend-who-chief-says-in-new-year-s-message/25145
 images:
 - images/25145/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=_lt8GbIR-2M
 ---

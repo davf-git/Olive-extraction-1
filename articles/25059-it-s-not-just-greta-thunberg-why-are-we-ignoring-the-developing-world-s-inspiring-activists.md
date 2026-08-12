@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/it-s-not-just-greta-thunberg-why-ar
 images:
 - images/25059/01.jpg
 - images/25059/02.jpg
+missing_images: []
 videos: []
 ---
 

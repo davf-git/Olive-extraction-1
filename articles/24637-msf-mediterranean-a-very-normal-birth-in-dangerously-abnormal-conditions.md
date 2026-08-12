@@ -9,6 +9,7 @@ original_slug: msf-mediterranean-a-very-normal-birth-in-dangerously-abnormal-con
 original_url: https://olivenetwork.org/Issue/msf-mediterranean-a-very-normal-birth-in-dangerously-abnormal-conditions/24637
 images:
 - images/24637/01.jpg
+missing_images: []
 videos: []
 ---
 

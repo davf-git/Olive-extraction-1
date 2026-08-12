@@ -7,10 +7,15 @@ source_url: null
 original_id: 25859
 original_slug: regenesis-george-monbiot
 original_url: https://olivenetwork.org/Issue/regenesis-george-monbiot/25859
-images: []
+images:
+- images/25859/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=6eaTIe_TBZA
 ---
+
+![](images/25859/01.jpg)
+
 
 # [[Video: https://www.youtube.com/watch?v=6eaTIe\_TBZA]](https://www.youtube.com/watch?v=6eaTIe_TBZA)
 

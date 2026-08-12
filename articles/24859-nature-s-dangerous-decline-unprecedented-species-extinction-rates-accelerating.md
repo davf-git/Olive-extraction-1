@@ -9,6 +9,7 @@ original_slug: nature-s-dangerous-decline-unprecedented-species-extinction-rates
 original_url: https://olivenetwork.org/Issue/nature-s-dangerous-decline-unprecedented-species-extinction-rates-accelerating/24859
 images:
 - images/24859/01.jpg
+missing_images: []
 videos: []
 ---
 

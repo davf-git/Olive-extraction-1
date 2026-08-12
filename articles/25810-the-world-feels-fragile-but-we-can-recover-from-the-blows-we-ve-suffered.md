@@ -9,6 +9,7 @@ original_slug: the-world-feels-fragile-but-we-can-recover-from-the-blows-we-ve-s
 original_url: https://olivenetwork.org/Issue/the-world-feels-fragile-but-we-can-recover-from-the-blows-we-ve-suffered/25810
 images:
 - images/25810/01.jpg
+missing_images: []
 videos: []
 ---
 

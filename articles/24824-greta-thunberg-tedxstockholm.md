@@ -9,6 +9,7 @@ original_slug: greta-thunberg-tedxstockholm
 original_url: https://olivenetwork.org/Issue/greta-thunberg-tedxstockholm/24824
 images:
 - images/24824/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=EAmmUIEsN9A
 ---

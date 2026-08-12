@@ -9,6 +9,7 @@ original_slug: invest-in-climate-education-to-build-a-better-workforce-for-a-gre
 original_url: https://olivenetwork.org/Issue/invest-in-climate-education-to-build-a-better-workforce-for-a-greener-future/25721
 images:
 - images/25721/01.jpg
+missing_images: []
 videos: []
 ---
 

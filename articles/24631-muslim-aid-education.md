@@ -7,9 +7,14 @@ source_url: null
 original_id: 24631
 original_slug: muslim-aid-education
 original_url: https://olivenetwork.org/Issue/muslim-aid-education/24631
-images: []
+images:
+- images/24631/01.jpg
+missing_images: []
 videos: []
 ---
+
+![](images/24631/01.jpg)
+
 
 # [Education](https://www.muslimaid.org/what-we-do/education/)
 

@@ -10,6 +10,7 @@ original_slug: unhcr-welcomes-eu-decision-to-offer-temporary-protection-to-refug
 original_url: https://olivenetwork.org/Issue/unhcr-welcomes-eu-decision-to-offer-temporary-protection-to-refugees-fleeing-ukraine/25832
 images:
 - images/25832/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -9,6 +9,7 @@ original_slug: global-commons-alliance-systems-change-explained
 original_url: https://olivenetwork.org/Issue/global-commons-alliance-systems-change-explained/26320
 images:
 - images/26320/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1214301689
 ---

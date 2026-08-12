@@ -9,6 +9,7 @@ original_slug: open-science-is-an-accelerator-for-sdgs-ana-persic-unesco
 original_url: https://olivenetwork.org/Issue/open-science-is-an-accelerator-for-sdgs-ana-persic-unesco/25732
 images:
 - images/25732/01.jpg
+missing_images: []
 videos: []
 ---
 

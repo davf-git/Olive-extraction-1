@@ -9,6 +9,7 @@ original_slug: forum-for-the-future-food
 original_url: https://olivenetwork.org/Issue/forum-for-the-future-food/25950
 images:
 - images/25950/01.jpg
+missing_images: []
 videos: []
 ---
 

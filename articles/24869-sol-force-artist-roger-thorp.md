@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/sol-force-artist-roger-thorp/24869
 images:
 - images/24869/01.jpg
 - images/24869/02.jpg
+missing_images: []
 videos: []
 ---
 

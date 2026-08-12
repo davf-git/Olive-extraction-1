@@ -9,6 +9,7 @@ original_slug: the-other-tree-of-guernica-e-flux-education
 original_url: https://olivenetwork.org/Issue/the-other-tree-of-guernica-e-flux-education/26309
 images:
 - images/26309/01.jpg
+missing_images: []
 videos: []
 ---
 

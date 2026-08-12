@@ -18,6 +18,7 @@ images:
 - images/26283/08.jpg
 - images/26283/09.jpg
 - images/26283/10.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=uoU9Img_B40
 ---

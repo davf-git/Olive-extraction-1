@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/covid-19-un-chief-outlines-path-to-
 images:
 - images/25440/01.jpg
 - images/25440/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=dsSKhNcbTD4
 ---

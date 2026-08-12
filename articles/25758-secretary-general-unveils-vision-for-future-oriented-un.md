@@ -9,6 +9,7 @@ original_slug: secretary-general-unveils-vision-for-future-oriented-un
 original_url: https://olivenetwork.org/Issue/secretary-general-unveils-vision-for-future-oriented-un/25758
 images:
 - images/25758/01.jpg
+missing_images: []
 videos: []
 ---
 

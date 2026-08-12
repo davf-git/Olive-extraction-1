@@ -9,6 +9,7 @@ original_slug: shelterbox-donates-a-classroom-to-syrian-children-learning-in-a-c
 original_url: https://olivenetwork.org/Issue/shelterbox-donates-a-classroom-to-syrian-children-learning-in-a-cave/24469
 images:
 - images/24469/01.jpg
+missing_images: []
 videos: []
 ---
 

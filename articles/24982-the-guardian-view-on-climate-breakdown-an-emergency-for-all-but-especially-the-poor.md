@@ -10,6 +10,7 @@ original_slug: the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-e
 original_url: https://olivenetwork.org/Issue/the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-especially-the-poor/24982
 images:
 - images/24982/01.jpg
+missing_images: []
 videos: []
 ---
 

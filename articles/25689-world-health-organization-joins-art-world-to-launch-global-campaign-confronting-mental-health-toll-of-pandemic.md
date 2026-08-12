@@ -10,6 +10,7 @@ original_slug: world-health-organization-joins-art-world-to-launch-global-campai
 original_url: https://olivenetwork.org/Issue/world-health-organization-joins-art-world-to-launch-global-campaign-confronting-mental-health-toll-of-pandemic/25689
 images:
 - images/25689/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=btNsLp1CQ-8
 ---

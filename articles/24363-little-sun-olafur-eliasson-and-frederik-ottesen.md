@@ -9,6 +9,7 @@ original_slug: little-sun-olafur-eliasson-and-frederik-ottesen
 original_url: https://olivenetwork.org/Issue/little-sun-olafur-eliasson-and-frederik-ottesen/24363
 images:
 - images/24363/01.jpg
+missing_images: []
 videos: []
 ---
 

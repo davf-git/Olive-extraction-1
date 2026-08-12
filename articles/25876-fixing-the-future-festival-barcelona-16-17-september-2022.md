@@ -9,6 +9,7 @@ original_slug: fixing-the-future-festival-barcelona-16-17-september-2022
 original_url: https://olivenetwork.org/Issue/fixing-the-future-festival-barcelona-16-17-september-2022/25876
 images:
 - images/25876/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=e9gvkTpIJDU
 ---

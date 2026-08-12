@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/marcus-rashford-s-book-club-couldn-
 images:
 - images/25581/01.jpg
 - images/25581/02.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/index.html?creatorScreenName=ILoveCopyright&dnt=false&embedId=twitter-widget-0&frame=false&hideCard=false&hideThread=false&id=1329049202169700353&lang=en&origin=https%3A%2F%2Ftheconversation.com%2Fmarcus-rashfords-book-club-couldnt-come-at-a-better-time-childrens-reading-is-at-a-15-year-low-150572&siteScreenName=ConversationUK&theme=light&widgetsVersion=ed20a2b%3A1601588405575&width=550px
 - https://platform.twitter.com/embed/index.html?creatorScreenName=ILoveCopyright&dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&id=1328630274603814914&lang=en&origin=https%3A%2F%2Ftheconversation.com%2Fmarcus-rashfords-book-club-couldnt-come-at-a-better-time-childrens-reading-is-at-a-15-year-low-150572&siteScreenName=ConversationUK&theme=light&widgetsVersion=ed20a2b%3A1601588405575&width=550px

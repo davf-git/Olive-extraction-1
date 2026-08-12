@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/water-aid-to-be-a-girl-is-to-be-in-
 images:
 - images/25633/01.jpg
 - images/25633/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=Ijhs6YEVCAw
 ---

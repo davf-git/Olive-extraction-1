@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/bridging-the-gap-with-classical-mus
 images:
 - images/25951/01.jpg
 - images/25951/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=9B7RMXDU4YE
 ---

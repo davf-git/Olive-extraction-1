@@ -9,6 +9,7 @@ original_slug: climate-advocates-demand-stronger-cop28-language-on-fossil-fuels
 original_url: https://olivenetwork.org/Issue/climate-advocates-demand-stronger-cop28-language-on-fossil-fuels/25996
 images:
 - images/25996/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=64N0hplcDL8
 ---

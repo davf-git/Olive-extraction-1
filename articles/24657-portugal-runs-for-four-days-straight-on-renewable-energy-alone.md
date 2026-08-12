@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/portugal-runs-for-four-days-straigh
 images:
 - images/24657/01.jpg
 - images/24657/02.jpg
+missing_images: []
 videos: []
 ---
 

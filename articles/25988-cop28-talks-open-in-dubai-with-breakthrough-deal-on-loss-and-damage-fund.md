@@ -9,6 +9,7 @@ original_slug: cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-dama
 original_url: https://olivenetwork.org/Issue/cop28-talks-open-in-dubai-with-breakthrough-deal-on-loss-and-damage-fund/25988
 images:
 - images/25988/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=O8NJ6T03eiA
 - https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1678703418&color=ff5500&show_comments=false&show_user=false

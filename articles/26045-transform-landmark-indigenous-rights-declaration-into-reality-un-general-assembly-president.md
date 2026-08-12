@@ -12,6 +12,7 @@ images:
 - images/26045/01.jpg
 - images/26045/02.jpg
 - images/26045/03.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=XhcxKhu_aT0
 ---

@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/united-nations-world-soil-day/26183
 images:
 - images/26183/01.jpg
 - images/26183/02.jpg
+missing_images: []
 videos: []
 ---
 
