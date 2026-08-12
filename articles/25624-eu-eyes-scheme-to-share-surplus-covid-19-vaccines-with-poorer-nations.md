@@ -9,6 +9,7 @@ original_slug: eu-eyes-scheme-to-share-surplus-covid-19-vaccines-with-poorer-nat
 original_url: https://olivenetwork.org/Issue/eu-eyes-scheme-to-share-surplus-covid-19-vaccines-with-poorer-nations/25624
 images:
 - images/25624/01.jpg
+videos: []
 ---
 
 ##### 

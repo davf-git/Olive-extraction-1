@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/united-nations-human-rights-day-10-
 images:
 - images/25803/01.jpg
 - images/25803/02.jpg
+videos: []
 ---
 
 ##### All Human, All Equal' is this year's slogan for Human Rights Day.

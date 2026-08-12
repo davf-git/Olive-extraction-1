@@ -20,6 +20,7 @@ images:
 - images/24659/10.jpg
 - images/24659/11.jpg
 - images/24659/12.jpg
+videos: []
 ---
 
 ![](images/24659/01.jpg)![](images/24659/02.jpg)![](images/24659/03.jpg)![](images/24659/04.jpg)![](images/24659/05.jpg)![](images/24659/06.jpg)![](images/24659/07.jpg)We are a Franciscan voice at the United Nations protecting the vulnerable, the forgotten, and our wounded earth through advocacy.

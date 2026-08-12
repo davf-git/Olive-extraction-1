@@ -10,9 +10,13 @@ original_url: https://olivenetwork.org/Issue/pledge-to-pause/25840
 images:
 - images/25840/01.jpg
 - images/25840/02.jpg
+videos:
+- https://vimeo.com/566044821
 ---
 
 ![](images/25840/01.jpg)![](images/25840/02.jpg)
+
+[[Video: https://vimeo.com/566044821]](https://vimeo.com/566044821)
 
 ### 
 

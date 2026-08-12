@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/why-international-geneva-s-human-di
 images:
 - images/25822/01.jpg
 - images/25822/02.jpg
+videos: []
 ---
 
 ![](images/25822/01.jpg)An artwork by Lynn Finnegan, one of nine artists and illustrators from around the world whose work accompanies the themes of the White Paper and Compendium, helping bring to life the opportunities, challenges, pain and beauty of Environmental Peacebuilding. (Credit: Lynn Finnegan)

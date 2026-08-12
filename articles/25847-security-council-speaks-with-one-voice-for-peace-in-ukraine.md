@@ -9,6 +9,7 @@ original_slug: security-council-speaks-with-one-voice-for-peace-in-ukraine
 original_url: https://olivenetwork.org/Issue/security-council-speaks-with-one-voice-for-peace-in-ukraine/25847
 images:
 - images/25847/01.jpg
+videos: []
 ---
 
 ![](images/25847/01.jpg)

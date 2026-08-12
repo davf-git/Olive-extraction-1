@@ -10,6 +10,7 @@ original_slug: as-itu-turns-160-our-interconnected-world-needs-cooperation-more-
 original_url: https://olivenetwork.org/Issue/as-itu-turns-160-our-interconnected-world-needs-cooperation-more-than-ever/26220
 images:
 - images/26220/01.jpg
+videos: []
 ---
 
 ![](images/26220/01.jpg)

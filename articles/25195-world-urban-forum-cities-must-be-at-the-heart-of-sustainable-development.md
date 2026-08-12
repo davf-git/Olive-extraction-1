@@ -8,7 +8,13 @@ original_id: 25195
 original_slug: world-urban-forum-cities-must-be-at-the-heart-of-sustainable-development
 original_url: https://olivenetwork.org/Issue/world-urban-forum-cities-must-be-at-the-heart-of-sustainable-development/25195
 images: []
+videos:
+- https://www.youtube.com/watch?v=_3MGWlskQGA
+- https://www.youtube.com/watch?v=fSsnQny8GE8
+- https://www.youtube.com/watch?v=6xDBR5RqDmA
 ---
+
+[[Video: https://www.youtube.com/watch?v=\_3MGWlskQGA]](https://www.youtube.com/watch?v=_3MGWlskQGA)
 
 9 February 2020
 
@@ -24,6 +30,8 @@ He noted that urbanization is one of the megatrends of our times and steering it
 
 “As we embark on a Decade of Action to deliver the [Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/ "Sustainable Development Goals"), the world’s cities, towns and communities will be at the heart of this work”, said the UN chief.
 
+[[Video: https://www.youtube.com/watch?v=fSsnQny8GE8]](https://www.youtube.com/watch?v=fSsnQny8GE8)
+
 ### Make sustainable urbanization a reality
 
 “The United Nations counts on local and national leaders, businesses, civil society and other partners to help provide solutions to global threats, including the climate emergency” Mr. Guterres added, urging participants to make sustainable urbanization a reality and ensure that no one and no place is left behind.
@@ -35,6 +43,8 @@ The President of Afghanistan, Ashraf Ghani, the Prime Minister of the Republic o
 Thanking the President of Afghanistan and the Prime Minister of the Republic of Fiji for their continued support of UN-Habitat, Ms. Sharif said it was their sense of urgency, their ability to translate policy into practice and to regard urbanization in holistic terms that would ensure it could be transformed into opportunities for sustainable development.
 
 “Urgent, systematic and global action is required”, said President Ghani. “We have the tools and repertoire of techniques to solve the problem”, he added, noting that the world needed a State-level change of culture, as well as a fresh approach to the culture of global organizations.
+
+[[Video: https://www.youtube.com/watch?v=6xDBR5RqDmA]](https://www.youtube.com/watch?v=6xDBR5RqDmA)
 
 ### Old models are untenable
 

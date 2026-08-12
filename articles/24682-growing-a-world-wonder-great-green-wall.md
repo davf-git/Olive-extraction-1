@@ -14,11 +14,15 @@ images:
 - images/24682/04.jpg
 - images/24682/05.jpg
 - images/24682/06.jpg
+videos:
+- https://www.youtube.com/watch?v=pc3BTMVPIwc
 ---
 
 ![](images/24682/01.jpg)
 
 Spanning the entire width of Africa – nearly 8,000km from Dakar to Djibouti – a [Great Green Wall](http://www.greatgreenwall.org/great-green-wall/#great-green-wall-internal) is planned to defend land from the winds and sand of the Sahara. The band of trees is designed to halt the advance of the desert and create a panoply of initiatives, providing food, jobs and a future for the millions living on the frontline of climate change. Answering many of today’s most critical issues, it’s a growing response to challenges from food security to migration, international peace and security.
+
+[[Video: https://www.youtube.com/watch?v=pc3BTMVPIwc]](https://www.youtube.com/watch?v=pc3BTMVPIwc)
 
 Temperatures in the [Sahel](http://global.britannica.com/place/Sahel) and the Sahara regions are rising [faster than anywhere else](https://mresbec.wordpress.com/2014/12/12/just-deserts-the-plight-of-ignored-biodiversity-loss-in-the-sahara/) and its populations are some of the poorest in the world. Human pressure on fragile eco-systems, alongside the effects of climate change, has led to poor soil quality, lower crop production and less grazing for livestock. Many people, especially the young, have left to find jobs elsewhere through migration to Europe or South America.
 
@@ -46,4 +50,4 @@ This from the BBC:  Eleven countries are planting a wall of trees from east to 
 
 **SOURCE: [BBC](http://www.bbc.co.uk/news/av/magazine-41391844/why-is-africa-building-a-great-green-wall?SThisFB)**
 
-A film by [Amelia Martyn-Hemphill](/cdn-cgi/l/email-protection#cdaca0a8a1a4ace3a0acbfb9b4a3e0a5a8a0bda5a4a1a18dafafaee3aea2e3b8a6) for [BBC World Hacks](http://www.bbc.co.uk/programmes/p04d42vf) - 26 Sep 2017
+A film by [Amelia Martyn-Hemphill](/cdn-cgi/l/email-protection#afcec2cac3c6ce81c2cedddbd6c182c7cac2dfc7c6c3c3efcdcdcc81ccc081dac4) for [BBC World Hacks](http://www.bbc.co.uk/programmes/p04d42vf) - 26 Sep 2017

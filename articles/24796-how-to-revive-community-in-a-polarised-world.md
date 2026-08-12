@@ -9,6 +9,7 @@ original_slug: how-to-revive-community-in-a-polarised-world
 original_url: https://olivenetwork.org/Issue/how-to-revive-community-in-a-polarised-world/24796
 images:
 - images/24796/01.jpg
+videos: []
 ---
 
 *![](images/24796/01.jpg)*
@@ -33,7 +34,7 @@ For more information contact RSA Public Events at:
 
 +44 (0)20 7451 6868
 
-[[email protected]](/cdn-cgi/l/email-protection#d0a2a3b1feb5a6b5bea4a390a2a3b1febfa2b7fea5bb)
+[[email protected]](/cdn-cgi/l/email-protection#8dfffeeca3e8fbe8e3f9fecdfffeeca3e2ffeaa3f8e6)
 
 #### Further Reading
 

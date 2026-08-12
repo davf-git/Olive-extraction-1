@@ -9,7 +9,11 @@ original_slug: pope-leo-urges-release-of-imprisoned-journalists-in-first-news-co
 original_url: https://olivenetwork.org/Issue/pope-leo-urges-release-of-imprisoned-journalists-in-first-news-conference/26218
 images:
 - images/26218/01.jpg
+videos:
+- https://vimeo.com/1083487170
 ---
+
+[[Video: https://vimeo.com/1083487170]](https://vimeo.com/1083487170)
 
 Pope calls for release of imprisoned journalists
 

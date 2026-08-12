@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/water-kiosks-in-madagascar-water-ai
 images:
 - images/24471/01.jpg
 - images/24471/02.jpg
+videos: []
 ---
 
 ![](images/24471/01.jpg)

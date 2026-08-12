@@ -12,6 +12,7 @@ images:
 - images/25090/01.jpg
 - images/25090/02.jpg
 - images/25090/03.jpg
+videos: []
 ---
 
 ![](images/25090/01.jpg)Rubbish pickers at the municipal site in Maputo, Mozambique. Photograph: Gianluigi Guercia/AFP/Getty Images

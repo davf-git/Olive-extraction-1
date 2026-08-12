@@ -8,6 +8,7 @@ original_id: 24363
 original_slug: little-sun-olafur-eliasson-and-frederik-ottesen
 original_url: https://olivenetwork.org/Issue/little-sun-olafur-eliasson-and-frederik-ottesen/24363
 images: []
+videos: []
 ---
 
 **Where [Little Sun](https://littlesun.com/) is Making an Impact**

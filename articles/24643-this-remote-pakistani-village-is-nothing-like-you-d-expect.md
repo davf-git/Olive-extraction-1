@@ -13,6 +13,7 @@ images:
 - images/24643/03.jpg
 - images/24643/04.jpg
 - images/24643/05.jpg
+videos: []
 ---
 
 ![](images/24643/01.jpg)Photos and story by **Matthieu Paley**

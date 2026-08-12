@@ -9,6 +9,7 @@ original_slug: two-german-states-hit-100-renewable-electricity
 original_url: https://olivenetwork.org/Issue/two-german-states-hit-100-renewable-electricity/24476
 images:
 - images/24476/01.jpg
+videos: []
 ---
 
 ![](images/24476/01.jpg)

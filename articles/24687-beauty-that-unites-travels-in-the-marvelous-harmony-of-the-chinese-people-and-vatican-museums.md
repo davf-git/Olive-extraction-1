@@ -10,6 +10,7 @@ original_slug: beauty-that-unites-travels-in-the-marvelous-harmony-of-the-chines
 original_url: https://olivenetwork.org/Issue/beauty-that-unites-travels-in-the-marvelous-harmony-of-the-chinese-people-and-vatican-museums/24687
 images:
 - images/24687/01.jpg
+videos: []
 ---
 
 ## 

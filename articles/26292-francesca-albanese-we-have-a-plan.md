@@ -8,7 +8,11 @@ original_id: 26292
 original_slug: francesca-albanese-we-have-a-plan
 original_url: https://olivenetwork.org/Issue/francesca-albanese-we-have-a-plan/26292
 images: []
+videos:
+- https://vimeo.com/1175072624
 ---
+
+[[Video: https://vimeo.com/1175072624]](https://vimeo.com/1175072624)
 
 ### **Francesca Albanese: We have a plan!**
 

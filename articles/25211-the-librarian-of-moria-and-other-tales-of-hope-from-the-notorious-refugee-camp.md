@@ -17,6 +17,7 @@ images:
 - images/25211/06.jpg
 - images/25211/07.jpg
 - images/25211/08.jpg
+videos: []
 ---
 
 **![](images/25211/01.jpg)**Green shoots ... Sima Mohammedi, 26, a refugee volunteer from Afghanistan, in a garden at the One Happy Family community centre near Moria. Photograph: Byron Smith/Getty Images

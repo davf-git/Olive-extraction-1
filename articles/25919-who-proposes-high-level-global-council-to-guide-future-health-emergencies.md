@@ -9,6 +9,7 @@ original_slug: who-proposes-high-level-global-council-to-guide-future-health-eme
 original_url: https://olivenetwork.org/Issue/who-proposes-high-level-global-council-to-guide-future-health-emergencies/25919
 images:
 - images/25919/01.jpg
+videos: []
 ---
 
 ![](images/25919/01.jpg)

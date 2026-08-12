@@ -9,6 +9,7 @@ original_slug: david-nott-on-desert-island-discs
 original_url: https://olivenetwork.org/Issue/david-nott-on-desert-island-discs/24465
 images:
 - images/24465/01.jpg
+videos: []
 ---
 
 ![](images/24465/01.jpg)

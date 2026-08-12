@@ -9,7 +9,7 @@ original_slug: center-for-countering-digital-hate-about
 original_url: https://olivenetwork.org/Issue/center-for-countering-digital-hate-about/25878
 images:
 - images/25878/01.jpg
-- images/25878/02.jpg
+videos: []
 ---
 
 # CENTER FOR COUNTERING DIGITAL HATE - ABOUT
@@ -31,8 +31,6 @@ The Center’s work encompasses research, campaigns and policy to increase the e
 CCDH have forced social media companies to establish precedent and remove hateful or dangerous content, by holding them directly accountable for amplifying and profiting from it.​
 
 Campaigns such as Stop Funding Misinformation reduce the reach of websites that masquerade as real news but in fact spread conspiracy theories, lies and hateful propaganda.
-
-![person holding a sign at a protest reading, ](images/25878/02.jpg)
 
 Public education such as Don’t Feed the Trolls and Don’t Spread the Virus help consumers understand how to navigate social media in a way that reduces inadvertent amplification of harm.
 

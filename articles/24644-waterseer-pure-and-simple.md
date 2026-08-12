@@ -12,6 +12,8 @@ images:
 - images/24644/02.jpg
 - images/24644/03.jpg
 - images/24644/04.jpg
+videos:
+- https://www.youtube.com/watch?v=mchIdbLCjsY
 ---
 
 ![](images/24644/01.jpg)
@@ -21,6 +23,8 @@ WaterSeer™ condenses pure water from the air without power or chemicals. It is
 ![](images/24644/02.jpg)
 
 One in five people around the world, more that 1 billion, live in areas of water scarcity. It is hard to imagine a day without an abundance of clean, safe water. We drink our fill, shower and bathe daily, water our lawns, wash our clothes and dishes knowing that clean, safe water is an unquestioned condition of our lives. Yet, throughout the world today, one in three people do not have the daily minimum, 7.1 cups of water needed to survive. Worldwide, a child dies every 90 seconds for lack of clean drinking water, nearly 1000 a day. Daily nearly 10,000 people die from dehydration and waterborne disease.
+
+[[Video: https://www.youtube.com/watch?v=mchIdbLCjsY]](https://www.youtube.com/watch?v=mchIdbLCjsY)
 
 WaterSeer™ eliminates this chronic and tragic burden by providing access to clean, safe drinking water, right where people live, by extracting water directly from the air.
 

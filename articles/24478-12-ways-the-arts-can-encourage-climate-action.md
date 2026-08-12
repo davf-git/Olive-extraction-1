@@ -9,6 +9,7 @@ original_slug: 12-ways-the-arts-can-encourage-climate-action
 original_url: https://olivenetwork.org/Issue/12-ways-the-arts-can-encourage-climate-action/24478
 images:
 - images/24478/01.webp
+videos: []
 ---
 
 [![](images/24478/01.webp)](https://www.theguardian.com/global-development-professionals-network/2016/apr/25/12-ways-the-arts-can-encourage-climate-action)

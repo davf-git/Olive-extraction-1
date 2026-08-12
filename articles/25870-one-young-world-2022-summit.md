@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/one-young-world-2022-summit/25870
 images:
 - images/25870/01.jpg
 - images/25870/02.jpg
+videos: []
 ---
 
 ![](images/25870/01.jpg)

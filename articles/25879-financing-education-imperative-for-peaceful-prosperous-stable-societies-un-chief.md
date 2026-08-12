@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/financing-education-imperative-for-
 images:
 - images/25879/01.jpg
 - images/25879/02.jpg
+videos: []
 ---
 
 ![](images/25879/01.jpg)© UNICEF/Mark Naftalin: Survivors of a devastating earthquake in Afghanistan attend class at a UNICEF-supported community-based education centre in Gayan District, Paktika Province.

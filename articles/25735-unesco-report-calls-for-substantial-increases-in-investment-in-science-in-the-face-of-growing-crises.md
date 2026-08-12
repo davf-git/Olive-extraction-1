@@ -10,6 +10,8 @@ original_slug: unesco-report-calls-for-substantial-increases-in-investment-in-sc
 original_url: https://olivenetwork.org/Issue/unesco-report-calls-for-substantial-increases-in-investment-in-science-in-the-face-of-growing-crises/25735
 images:
 - images/25735/01.jpg
+videos:
+- https://www.youtube.com/watch?v=lPguPS77rno
 ---
 
 # 
@@ -43,5 +45,7 @@ UNESCO has been working on this since 2019 when it began preparing a global stan
 The report also underscores the importance of diversity in science; the development of this critical discipline must involve the whole of humanity. It finds that only one-third of researchers in the world are women. While parity has almost been achieved in the life sciences, it is still a long way off in many sectors of growing importance. For example, women represent only 22% of the workforce in the field of artificial intelligence. This is a problem not only for today but also for tomorrow. We cannot allow the inequalities of society to be reproduced, or amplified, by the science of the future.
 
 Science must unite all of humanity to face the challenges of today and tomorrow. The report urges the restoration of public confidence in science and reminds us that today’s science contributes to shaping the world of tomorrow, which is why it is essential to prioritize humanity’s common goal of sustainability through ambitious science policy.
+
+[[Video: https://www.youtube.com/watch?v=lPguPS77rno]](https://www.youtube.com/watch?v=lPguPS77rno)
 
 SOURCE: [DEVELOPMENT AID](https://www.developmentaid.org/#!/news-stream/post/94939/unesco-investment-in-science?utm_source=Newsletter&utm_medium=Email&utm_campaign=NewsDigest&token=d2149963-06e8-11ea-8cc5-52540068df95)

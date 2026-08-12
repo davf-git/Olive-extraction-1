@@ -11,6 +11,7 @@ images:
 - images/24835/01.jpg
 - images/24835/02.jpg
 - images/24835/03.jpg
+videos: []
 ---
 
 ![](images/24835/01.jpg)Extinction Rebellion activists occupy Waterloo Bridge in central London. Photograph: Sean Smith/The Guardian

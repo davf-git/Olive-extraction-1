@@ -10,6 +10,7 @@ original_slug: could-a-1-billion-carbon-neutral-town-filled-with-greenhouses-be-
 original_url: https://olivenetwork.org/Issue/could-a-1-billion-carbon-neutral-town-filled-with-greenhouses-be-coming-to-hungary/24928
 images:
 - images/24928/01.jpg
+videos: []
 ---
 
 ![](images/24928/01.jpg)

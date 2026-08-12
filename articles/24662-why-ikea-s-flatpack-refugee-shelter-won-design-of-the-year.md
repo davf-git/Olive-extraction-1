@@ -12,6 +12,7 @@ images:
 - images/24662/02.jpg
 - images/24662/03.jpg
 - images/24662/04.jpg
+videos: []
 ---
 
 [![](images/24662/01.jpg)](https://www.theguardian.com/artanddesign/2017/jan/27/why-ikea-flatpack-refugee-shelter-won-design-of-the-year)

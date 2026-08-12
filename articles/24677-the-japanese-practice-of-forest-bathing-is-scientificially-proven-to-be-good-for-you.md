@@ -10,6 +10,8 @@ original_slug: the-japanese-practice-of-forest-bathing-is-scientificially-proven
 original_url: https://olivenetwork.org/Issue/the-japanese-practice-of-forest-bathing-is-scientificially-proven-to-be-good-for-you/24677
 images:
 - images/24677/01.jpg
+videos:
+- https://www.youtube.com/watch?v=stuZaKB9j7I
 ---
 
 ![](images/24677/01.jpg)
@@ -19,6 +21,8 @@ Image: REUTERS/Denis Balibouse
 **Research has shown the health benefits of 'forest bathing', the act of being among the trees.**
 
 The tonic of the wilderness was Henry David Thoreau’s classic prescription for civilization and its discontents, offered in the 1854 essay Walden: Or, Life in the Woods. Now there’s scientific evidence [supporting eco-therapy](https://qz.com/750898/how-can-i-get-a-better-body-image/). The Japanese practice of [forest bathing](http://www.motherearthnews.com/natural-health/herbal-remedies/forest-bathing-ze0z1301zgar) is proven to lower heart rate and blood pressure, reduce stress hormone production, boost the immune system, and improve overall feelings of wellbeing.
+
+[[Video: https://www.youtube.com/watch?v=stuZaKB9j7I]](https://www.youtube.com/watch?v=stuZaKB9j7I)
 
 Forest bathing—basically just being in the presence of trees—became part of a national public health program in Japan [in 1982](http://www.japantimes.co.jp/life/2016/10/01/travel/forest-bathing-mindful-walk-inspired-japanese-concept/#.V_gd4os-Ci4) when the forestry ministry coined the phrase shinrin-yoku and promoted topiary as therapy. Nature appreciation—picnicking en masse under the cherry blossoms, for example—is a national pastime in Japan, so forest bathing quickly took. The environment’s wisdom has long been evident to the culture: [Japan’s Zen masters](http://www.japantimes.co.jp/life/2016/10/01/travel/forest-bathing-mindful-walk-inspired-japanese-concept/#.V_gd4os-Ci4) asked: If a tree falls in the forest and no one hears, does it make a sound?
 

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/the-biggest-agroecology-project-in-
 images:
 - images/25646/01.jpg
 - images/25646/02.jpg
+videos: []
 ---
 
 ![](images/25646/01.jpg)

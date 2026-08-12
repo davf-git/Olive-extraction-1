@@ -12,6 +12,9 @@ images:
 - images/25608/02.jpg
 - images/25608/03.jpg
 - images/25608/04.jpg
+videos:
+- https://www.youtube.com/watch?v=o-RDR43fUZ0
+- https://www.youtube.com/watch?v=8nr1gzGdfx0
 ---
 
 ![](images/25608/01.jpg)Every year, India generates 3.2 million metric tons of old smartphones, laptops, monitors and more. Image: Microsoft
@@ -39,6 +42,8 @@ Karo Sambhav [wants to bring manufacturers, distributors and recyclers together
 
 The UN [has warned of an e-waste ‘tsunami’](https://www.un.org/sustainabledevelopment/blog/2015/05/un-environment-chief-warns-of-tsunami-of-e-waste-at-conference-on-chemical-treaties/) unless more is done to tackle the world’s fastest-growing waste stream – one which reached 48.5 million tonnes in 2018. The World Economic Forum’s New Circular Vision for Electronics [argues that it’s time for a ‘global reboot’](http://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf)to accelerate the solutions – and opportunities – that lie buried in this toxic mountain.
 
+[[Video: https://www.youtube.com/watch?v=o-RDR43fUZ0]](https://www.youtube.com/watch?v=o-RDR43fUZ0)
+
 ### **India’s challenge**
 
 India’s e-waste problem is complex. The nation’s burgeoning, tech-savvy economy has created one of the world’s biggest electronics markets – together with plenty of used and unwanted goods. Yet in a city like New Delhi there is no shortage of small workshops, recycling everything from cables to motherboards.
@@ -60,6 +65,8 @@ Something isn’t working – and Karo Sambhav founder Pranshu Singhal believes 
 Singhal realized his team would need to build trust with the important scrap merchants – the ‘aggregators’ – in cities like New Delhi. Karo Sambhav’s staff moved into these neighbourhoods and slowly formed relationships. However, they needed more than goodwill.
 
 The teams began to document and track aggregators’ e-waste shipments’ electronically. Team members now upload photographs and other details onto an app – barcoding every item in transit. The information is then hosted on Microsoft’s Azure cloud platform. Image recognition, provided by Azure Cognitive Services, also makes sure what’s on the bill tallies with what’s on the truck – at every stage of the transaction.
+
+[[Video: https://www.youtube.com/watch?v=8nr1gzGdfx0]](https://www.youtube.com/watch?v=8nr1gzGdfx0)
 
 The result has been rapid expansion for Karo Sambhav – now working with hundreds of companies, government institutions, 5,000 informal sector aggregators and 800 repair shops. In 2018, it collected and sent around 12,000 metric tons of e-waste for recycling.
 

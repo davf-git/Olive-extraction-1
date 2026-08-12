@@ -9,6 +9,7 @@ original_slug: young-people-take-action-for-global-change
 original_url: https://olivenetwork.org/Issue/young-people-take-action-for-global-change/25425
 images:
 - images/25425/01.jpg
+videos: []
 ---
 
 # 

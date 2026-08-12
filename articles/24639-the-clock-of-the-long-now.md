@@ -12,11 +12,15 @@ images:
 - images/24639/02.jpg
 - images/24639/03.jpg
 - images/24639/04.jpg
+videos:
+- https://vimeo.com/146022717
 ---
 
 ![](images/24639/01.jpg)
 
 The Clock of the Long Now is a portrait of Danny Hillis and his brilliant team of inventors, futurists, and engineers as they build The 10,000 Year Clock—a grand, Stone Henge-like monolith, being constructed in a mountain in West Texas.
+
+[[Video: https://vimeo.com/146022717]](https://vimeo.com/146022717)
 
 The film, like the clock itself, celebrates the power of long-term thinking and mankind’s insatiable thirst to solve life’s biggest problems.
 

@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/syrian-surfer-finds-refuge-on-leban
 images:
 - images/24668/01.jpg
 - images/24668/02.jpg
+videos:
+- https://www.youtube.com/watch?v=vrqk9tFC6Ro
 ---
 
 ![](images/24668/01.jpg)
@@ -19,6 +21,8 @@ By: Tania Karas and Dalal Mawad in Jiyeh, Lebanon
 Ali had never seen the sea until his family fled to Lebanon. After catching his first wave, he was embraced by the country’s fledgling surf community.
 
 Ali Kassem lies flat on his surfboard, paddling and waiting for the sea to deliver a perfect wave. Suddenly, he aims his board toward the shore and rises to his feet, gliding forward in a curl of white surf. He makes it look effortless.
+
+[[Video: https://www.youtube.com/watch?v=vrqk9tFC6Ro]](https://www.youtube.com/watch?v=vrqk9tFC6Ro)
 
 Despite his confidence in the water, 16-year-old Ali could not even swim until a few years ago. Growing up in landlocked Aleppo, Syria’s second city, he fled with his family to Lebanon in 2011. They settled in Jiyeh, an ancient coastal town 28 kilometres south of Beirut.
 

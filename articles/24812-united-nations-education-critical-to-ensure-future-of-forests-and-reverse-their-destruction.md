@@ -10,7 +10,11 @@ original_slug: united-nations-education-critical-to-ensure-future-of-forests-and
 original_url: https://olivenetwork.org/Issue/united-nations-education-critical-to-ensure-future-of-forests-and-reverse-their-destruction/24812
 images:
 - images/24812/01.jpg
+videos:
+- https://www.youtube.com/watch?v=Mt8N-sZPVuk
 ---
+
+[[Video: https://www.youtube.com/watch?v=Mt8N-sZPVuk]](https://www.youtube.com/watch?v=Mt8N-sZPVuk)
 
 21 March 2019 - [CLIMATE CHANGE](https://news.un.org/en/news/topic/climate-change)
 

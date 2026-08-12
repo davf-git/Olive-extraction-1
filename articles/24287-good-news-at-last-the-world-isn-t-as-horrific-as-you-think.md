@@ -10,6 +10,9 @@ original_url: https://olivenetwork.org/Issue/good-news-at-last-the-world-isn-t-a
 images:
 - images/24287/01.jpg
 - images/24287/02.jpg
+videos:
+- https://interactive.guim.co.uk/charts/embed/apr/2018-04-11T11:09:59/embed.html
+- https://embed.theguardian.com/embed/video/global-development/video/2013/may/17/population-climate-change-hans-rosling-video
 ---
 
 # Good news at last: the world isn’t as horrific as you think
@@ -34,6 +37,8 @@ We still need these dramatic instincts to give meaning to our world. If we sifte
 
 It is absolutely true that there are many bad things in this world. The number of conflict fatalities has been falling since the second world war, but the Syrian war has reversed this trend. Terrorism too is rising. Overfishing and the deterioration of the seas are truly worrisome. The list of endangered species is getting longer. But while it is easy to be aware of all the bad things happening in the world, it’s harder to know about the good things. The silent miracle of human progress is too slow and too fragmented to ever qualify as news. Over the past 20 years, the proportion of people living in extreme poverty [has almost halved](https://www.theguardian.com/global-development/2015/jul/06/united-nations-extreme-poverty-millennium-development-goals). But in online polls, in most countries, fewer than 10% of people knew this.
 
+[[Video: https://interactive.guim.co.uk/charts/embed/apr/2018-04-11T11:09:59/embed.html]](https://interactive.guim.co.uk/charts/embed/apr/2018-04-11T11:09:59/embed.html)
+
 Our instinct to notice the bad more than the good is related to three things: the misremembering of the past; [selective reporting](https://www.theguardian.com/media/2017/nov/19/worlds-short-of-hope-could-media-help-brexit) by journalists and activists; and the feeling that as long as things are bad, it’s heartless to say they are getting better. For centuries, older people have romanticised their youths and insisted that things ain’t what they used to be. Well, that’s true. Most things used to be worse. This tendency to misremember is compounded by the [never-ending negative news](https://www.theguardian.com/society/2011/mar/02/older-people-net-contributors-volunteering) from across the world.
 
 Stories about gradual improvements rarely make the front page even when they occur on a dramatic scale and affect millions of people. And thanks to increasing press freedom and improving technology, we hear about more disasters than ever before. This improved reporting is itself a sign of human progress, but it creates the impression of the exact opposite. At the same time, activists and lobbyists manage to make every dip in an improving trend appear to be the end of the world, scaring us with alarmist exaggerations and prophecies. In the United States, the violent crime rate has been falling since 1990. But each time something horrific or shocking happened – pretty much every year – a [crisis was reported](https://www.theguardian.com/us-news/2017/feb/10/jeff-sessions-crime-rates-permanent-trend-attorney-general). The majority of people believe that violent crime is getting worse.
@@ -53,5 +58,7 @@ A vaccination session at the Baraouéli health centre in Baraouéli, Ségou regi
 Remember that the media and activists rely on drama to grab your attention; that negative stories are more dramatic than positive ones; and how simple it is to construct a story of crisis from a temporary dip pulled out of its context of a long-term improvement. When you hear about something terrible, calm yourself by asking: if there had been a positive improvement, would I have heard about that? Even if there had been hundreds of larger improvements, would I have heard?
 
 This is “[factfulness](https://www.theguardian.com/books/2018/feb/26/further-reading-steven-pinker-books-to-make-you-an-optimist)”: understanding as a source of mental peace. Like a healthy diet and regular exercise, it can and should become part of people’s daily lives. Start to practise it, and you will make better decisions, stay alert to real dangers and possibilities, and avoid being constantly stressed about the wrong things.
+
+[[Video: https://embed.theguardian.com/embed/video/global-development/video/2013/may/17/population-climate-change-hans-rosling-video]](https://embed.theguardian.com/embed/video/global-development/video/2013/may/17/population-climate-change-hans-rosling-video)
 
 • Hans Rosling was a Swedish physician, academic and statistician, who died in 2017. This is an edited excerpt from his posthumously published book Factfulness: Ten Reasons We’re Wrong about the World – and Why Things Are Better Than You Think (Sceptre), written with Ola Rosling and Anna Rosling Rönnlund

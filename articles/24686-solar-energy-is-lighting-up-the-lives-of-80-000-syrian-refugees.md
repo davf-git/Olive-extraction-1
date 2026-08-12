@@ -11,6 +11,8 @@ images:
 - images/24686/01.jpg
 - images/24686/02.jpg
 - images/24686/03.jpg
+videos:
+- https://www.youtube.com/watch?v=idqVJwChxsA
 ---
 
 ![](images/24686/01.jpg)
@@ -28,6 +30,8 @@ ZA’ATARI REFUGEE CAMP, Jordan – The largest solar plant ever built in a refu
 The plant will reduce annual carbon dioxide emissions from the camp by 13,000 metric tonnes per year, equivalent to 30,000 barrels of oil. It will also deliver annual savings of around US$5.5 million, which UNHCR – the UN Refugee Agency – will be able to reinvest in vital humanitarian assistance.
 
 The 12.9 megawatt peak solar photovoltaic plant was funded by the Government of Germany through the KfW Development Bank at a cost of 15 million euros (US$ 17.5 million).
+
+[[Video: https://www.youtube.com/watch?v=idqVJwChxsA]](https://www.youtube.com/watch?v=idqVJwChxsA)
 
 Za’atari refugee camp goes green
 

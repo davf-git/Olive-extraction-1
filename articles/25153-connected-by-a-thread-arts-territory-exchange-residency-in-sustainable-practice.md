@@ -10,9 +10,13 @@ original_slug: connected-by-a-thread-arts-territory-exchange-residency-in-sustai
 original_url: https://olivenetwork.org/Issue/connected-by-a-thread-arts-territory-exchange-residency-in-sustainable-practice/25153
 images:
 - images/25153/01.jpg
+videos:
+- https://vimeo.com/292284891
 ---
 
 The [ARTS TERRITORY EXCHANGE](https://artsterritoryexchange.com/) is an organisation which facilitates creative exchange across borders and works with artists in remote locations and those whose work explores ideas of place, territory and environment. ATE’s work involves the pairing up of Artist’s across the world in creative long distance correspondences.
+
+[[Video: https://vimeo.com/292284891]](https://vimeo.com/292284891)
 
 The first ATE Residency in Sustainable Practice took place on [Art Aia](https://artaiafvg.wordpress.com/)’s Eco farm in Friulia, Italy this September and ran in conjunction with the Pordenone Litterary festival. The CSPA advised on the project and Meghan Moe Beiticks was on the selection panel alongside Veronica Sekules, art critic and curator at GroundWork Gallery, UK. [Kelly Leonard](https://www.instagram.com/kellyleonardweaving/?hl=en) in Australia and [Beatrice Lopez](http://beatricelopez.co.uk/) in Norway had been corresponding digitally and by post for a year before they were selected by the panel and had developed an intriguing body of weaving and text based works forging a dialogue between their respective locations.
 

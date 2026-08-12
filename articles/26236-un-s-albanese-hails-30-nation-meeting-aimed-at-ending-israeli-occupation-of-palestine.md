@@ -10,6 +10,7 @@ original_slug: un-s-albanese-hails-30-nation-meeting-aimed-at-ending-israeli-occ
 original_url: https://olivenetwork.org/Issue/un-s-albanese-hails-30-nation-meeting-aimed-at-ending-israeli-occupation-of-palestine/26236
 images:
 - images/26236/01.jpg
+videos: []
 ---
 
 ![](images/26236/01.jpg)Francesca Albanese, the UN special rapporteur for the occupied Palestinian territories, will say the era of treating international law as optional must end. Photograph:
