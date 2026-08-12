@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/united-nations-world-children-s-day
 images:
 - images/25794/01.jpg
 - images/25794/02.jpg
+videos: []
 ---
 
 ![](images/25794/01.jpg)Students at the “25 de Junho” School, located in Beira, Mozambique.

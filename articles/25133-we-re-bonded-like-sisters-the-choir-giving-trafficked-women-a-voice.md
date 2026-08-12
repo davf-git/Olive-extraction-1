@@ -15,6 +15,8 @@ images:
 - images/25133/05.jpg
 - images/25133/06.jpg
 - images/25133/07.jpg
+videos:
+- https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F825417533&show_artwork=true
 ---
 
 ![](images/25133/01.jpg)
@@ -104,6 +106,8 @@ It doesn’t always work out though, says Dickson. “It’s very hard for peopl
 “Sometimes you get things where people start talking together in little groups in their own language and undermine the group.
 
 “Some are unable to get past that insecurity – no matter how many times you talk to them – where in order to make themselves feel better, they have to make someone else feel worse. That’s something very common in people who have been traumatised. We work very hard to address these issues.”
+
+[[Video: https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F825417533&show\_artwork=true]](https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F825417533&show_artwork=true)
 
 Dickson and her co-facilitator Anna Samant, who accompanies the women on the piano, aim to create a culture of respect by asking the women to sign a contract that they help to write when they join. “They understand that everyone has the right to their own religion and sexuality, and no one has the right to undermine that,” Dickson .
 

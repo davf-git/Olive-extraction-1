@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/hauser-wirth-has-pledged-to-donate-
 images:
 - images/25262/01.jpg
 - images/25262/02.jpg
+videos: []
 ---
 
 ![](images/25262/01.jpg)

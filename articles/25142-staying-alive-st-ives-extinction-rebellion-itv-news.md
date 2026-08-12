@@ -8,7 +8,11 @@ original_id: 25142
 original_slug: staying-alive-st-ives-extinction-rebellion-itv-news
 original_url: https://olivenetwork.org/Issue/staying-alive-st-ives-extinction-rebellion-itv-news/25142
 images: []
+videos:
+- https://vimeo.com/382424298
 ---
+
+[[Video: https://vimeo.com/382424298]](https://vimeo.com/382424298)
 
 **ITV WEST COUNTRY NEWS 02.01.2020**
 

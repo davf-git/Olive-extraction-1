@@ -8,7 +8,11 @@ original_id: 25962
 original_slug: comfort-ero-president-ceo-crisis-group
 original_url: https://olivenetwork.org/Issue/comfort-ero-president-ceo-crisis-group/25962
 images: []
+videos:
+- https://www.youtube.com/watch?v=YlPG2WUHLH4
 ---
+
+[[Video: https://www.youtube.com/watch?v=YlPG2WUHLH4]](https://www.youtube.com/watch?v=YlPG2WUHLH4)
 
 # Crisis Group Role
 

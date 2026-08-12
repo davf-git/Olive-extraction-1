@@ -12,6 +12,8 @@ images:
 - images/25054/02.jpg
 - images/25054/03.jpg
 - images/25054/04.jpg
+videos:
+- https://www.youtube.com/watch?v=OS-znIS-8ho
 ---
 
 ### 
@@ -39,6 +41,8 @@ We are not conventional; our therapy rooms are outdoors under trees & our thera
 OPENING THE MIND Kuvhura Pfungwa
 
 This phrase refers to the therapeutic process by which, through asking questions, clients are encouraged to open their minds to identify their problems, choose one to work on, identify a feasible solution, and agree on an action plan guided by the lay health workers. [READ MORE...](https://www.friendshipbenchzimbabwe.org/intervention)
+
+[[Video: https://www.youtube.com/watch?v=OS-znIS-8ho]](https://www.youtube.com/watch?v=OS-znIS-8ho)
 
 SOURCE: [FRIENDSHIP BENCH](https://www.friendshipbenchzimbabwe.org)
 

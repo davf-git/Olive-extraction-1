@@ -9,6 +9,7 @@ original_slug: the-new-humanitarian-my-hope-for-2021-is
 original_url: https://olivenetwork.org/Issue/the-new-humanitarian-my-hope-for-2021-is/25602
 images:
 - images/25602/01.jpg
+videos: []
 ---
 
 ### 

@@ -9,6 +9,7 @@ original_slug: 140-artists-ideas-for-planet-earth
 original_url: https://olivenetwork.org/Issue/140-artists-ideas-for-planet-earth/25762
 images:
 - images/25762/01.jpg
+videos: []
 ---
 
 ![](images/25762/01.jpg)

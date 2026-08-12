@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/unearthed-greenpeace/24856
 images:
 - images/24856/01.jpg
 - images/24856/02.jpg
+videos: []
 ---
 
 [![](images/24856/01.jpg)](https://unearthed.greenpeace.org)

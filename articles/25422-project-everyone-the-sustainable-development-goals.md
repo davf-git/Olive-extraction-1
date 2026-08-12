@@ -9,6 +9,8 @@ original_slug: project-everyone-the-sustainable-development-goals
 original_url: https://olivenetwork.org/Issue/project-everyone-the-sustainable-development-goals/25422
 images:
 - images/25422/01.jpg
+videos:
+- https://www.youtube.com/watch?v=w7D9fvg5CK4
 ---
 
 **![](images/25422/01.jpg)**
@@ -18,5 +20,7 @@ images:
 **Our mission** is to accelerate progress towards a fairer world by 2030, where extreme poverty has been eradicated, climate change is properly addressed, and injustice and inequality are unacceptable.
 
 ## Devised by [Richard Curtis](https://www.project-everyone.org/), filmmaker and founder of Comic Relief, we are a team of communications and campaign specialists who sit at the heart of a global network of campaigning organisations, private sector partners, brands, governments, UN agencies, public figures, and social influencers. We are a not-for-profit agency who create campaigns, short films, multiplatform content, convene partners, and put on unique events that all accelerate progress towards the Goals.
+
+[[Video: https://www.youtube.com/watch?v=w7D9fvg5CK4]](https://www.youtube.com/watch?v=w7D9fvg5CK4)
 
 SOURCE: [PROJECT EVERYONE](https://www.project-everyone.org/)

@@ -9,6 +9,9 @@ original_slug: leaving-no-one-behind-indigenous-peoples-and-the-call-for-a-new-s
 original_url: https://olivenetwork.org/Issue/leaving-no-one-behind-indigenous-peoples-and-the-call-for-a-new-social-contract/25749
 images:
 - images/25749/01.jpg
+videos:
+- https://www.youtube.com/watch?v=tRIW0GPD4FY
+- https://www.youtube.com/watch?v=ufwuv3_LJ1w
 ---
 
 ##### **A centuries-old marginalization and a set of different vulnerabilities expose indigenous peoples to the serious effects of the COVID-19 pandemic.**
@@ -45,7 +48,11 @@ The new social contract must be based on genuine participation and partnership t
 
 ### **40,000 year-old hunter-gatherer tribe gains land rights in Tanzania**
 
+[[Video: https://www.youtube.com/watch?v=tRIW0GPD4FY]](https://www.youtube.com/watch?v=tRIW0GPD4FY)
+
 ### **Why indigenous peoples are at a disadvantage in this pandemic**
+
+[[Video: https://www.youtube.com/watch?v=ufwuv3\_LJ1w]](https://www.youtube.com/watch?v=ufwuv3_LJ1w)
 
 ### Related links
 

@@ -13,6 +13,7 @@ images:
 - images/24858/03.jpg
 - images/24858/04.jpg
 - images/24858/05.jpg
+videos: []
 ---
 
 ![](images/24858/01.jpg)Swedish climate activist Greta Thunberg makes a speech in Rome in April 2019. Photo Antonio Masiello/Getty Images.

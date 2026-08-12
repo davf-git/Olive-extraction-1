@@ -12,6 +12,7 @@ images:
 - images/25417/01.jpg
 - images/25417/02.jpg
 - images/25417/03.jpg
+videos: []
 ---
 
 ![](images/25417/01.jpg)Nick Merriman, chief executive of the Horniman Museum & Gardens. Photo by Tania Dolvers

@@ -11,6 +11,8 @@ images:
 - images/24673/01.jpg
 - images/24673/02.jpg
 - images/24673/03.jpg
+videos:
+- https://www.youtube.com/watch?v=9MCx9ZW_ey0
 ---
 
 ![](images/24673/01.jpg)
@@ -38,6 +40,8 @@ The artistic program for *Thread* is inspired both by Anni Albers’s belief in 
 Despite this support and involvement in *Thread*’s program and construction, Thread's most common purpose is as a cultural center and water source for the village; the artists are their guests. Notions of *we* and *they* are wonderfully confused at Thread, as we hope too to challenge concepts of the 'West', the  'developing world,' and the institutional and social functions of art.
 
 Thread posits that art, culture, and architecture should be supported right along side agriculture, education, and health. And that all of these sectors support one another. As such, we are mobilizing the same tenets of inclusion and intersection that made the Bauhaus such a creative success. This is a project about connection and linkage. Between two distinct points, persons, places, or perspectives. To be like thread by forming connections that run through us, and not around us.
+
+[[Video: https://www.youtube.com/watch?v=9MCx9ZW\_ey0]](https://www.youtube.com/watch?v=9MCx9ZW_ey0)
 
 Video by Zoya Films | zoyafilms.com
 

@@ -9,6 +9,9 @@ original_slug: voices-for-now-for-tomorrow
 original_url: https://olivenetwork.org/Issue/voices-for-now-for-tomorrow/26264
 images:
 - images/26264/01.jpg
+videos:
+- https://vimeo.com/1133862604
+- https://vimeo.com/1139028867
 ---
 
 # 
@@ -23,8 +26,12 @@ In the 'age of the screen' and rapid disinformation the challenge is to amplify 
 
 In this video, hear the voices of Volker Türk, Elif Shafak, Omar El Akaad, Greta Thunberg, Pope Francis, Wim Wenders, Agnès Callamard, Brian Eno, Sage Lenier, Jason Hickel and Francesca Albanese.
 
+[[Video: https://vimeo.com/1133862604]](https://vimeo.com/1133862604)
+
 We were recently involved in an exhibition in Palma, Mallorca where the voice became part of the journey of the installation. In times of political hubris, profligacy and ignorance, the need for the arts to extend out further Into civic society is greater than ever.
 
 ### [PETRICOR - UN NUEVO INTERNACIONALISMO](https://www.rogerthorp.net/installation#/petricor/)
 
 A film of the exhibition
+
+[[Video: https://vimeo.com/1139028867]](https://vimeo.com/1139028867)

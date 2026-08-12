@@ -9,6 +9,7 @@ original_slug: olive-network-online-exhibition
 original_url: https://olivenetwork.org/Issue/olive-network-online-exhibition/25403
 images:
 - images/25403/01.jpg
+videos: []
 ---
 
 [![](images/25403/01.jpg)](https://www.olivenetwork.space/)
@@ -47,4 +48,4 @@ ARTIST STATEMENTS
 
 To visit the website – <http://www.olivenetwork.space> - artists works are available for purchase.
 
-For further information contact: [[email protected]](/cdn-cgi/l/email-protection#462a33253f06292a2f30232823323129342d68293421) +44 (0)1326 240517
+For further information contact: [[email protected]](/cdn-cgi/l/email-protection#4e223b2d370e212227382b202b3a39213c2560213c29) +44 (0)1326 240517

@@ -9,9 +9,13 @@ original_slug: voices-for-now-for-tomorrow-edition-2
 original_url: https://olivenetwork.org/Issue/voices-for-now-for-tomorrow-edition-2/26288
 images:
 - images/26288/01.jpg
+videos:
+- https://vimeo.com/1172693351
 ---
 
 *![](images/26288/01.jpg)*
+
+[[Video: https://vimeo.com/1172693351]](https://vimeo.com/1172693351)
 
 Volker Turk
 

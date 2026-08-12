@@ -9,6 +9,7 @@ original_slug: eif-and-undp-to-strengthen-cooperation-for-sustainable-finance
 original_url: https://olivenetwork.org/Issue/eif-and-undp-to-strengthen-cooperation-for-sustainable-finance/25544
 images:
 - images/25544/01.jpg
+videos: []
 ---
 
 ![](images/25544/01.jpg)

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/geneva-solutions-elise-buckle-it-s-
 images:
 - images/25494/01.jpg
 - images/25494/02.jpg
+videos: []
 ---
 
 ![](images/25494/01.jpg)

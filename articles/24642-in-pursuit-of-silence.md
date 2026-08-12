@@ -11,7 +11,11 @@ images:
 - images/24642/01.jpg
 - images/24642/02.jpg
 - images/24642/03.jpg
+videos:
+- https://vimeo.com/235828009
 ---
+
+[[Video: https://vimeo.com/235828009]](https://vimeo.com/235828009)
 
 **“I am undone by this film… it lands in the mind, at least to this reviewer, with an impact reminiscent of seeing 1982’s Koyaanisqatsi for the first time… Shen’s In Pursuit of Silence incessantly inspires and sometimes takes the breath away and can even accomplish both at once.”** -Austin Chronicle
 

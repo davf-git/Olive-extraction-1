@@ -16,6 +16,8 @@ images:
 - images/25556/06.jpg
 - images/25556/07.jpg
 - images/25556/08.jpg
+videos:
+- https://www.youtube.com/watch?v=4y52cVGOFQo
 ---
 
 ![](images/25556/01.jpg)Liu Xiaodong, in his painting “Refugees 4” (2015), depicts Syrian refugees at the port of Lesbos gathered together in a moment of rest. A show at the Phillips Collection features 75 artists on migration and displacement.Credit...Liu Xiaodong and Massimo De Carlo
@@ -73,6 +75,8 @@ Arendt writes that, with her generation, the nature of the refugee changed. “W
 Had they wanted to, the curators of “The Warmth of Other Suns” could have organized an entire show of masterpieces solely by artists forced to flee their homelands: Marc Chagall, Piet Mondrian, Oskar Kokoschka, Max Ernst, Max Beckmann, Robert Capa, Lucien Freud, Eva Hesse, Christo, Dinh Q. Le, Ibrahim el-Salahi. Or Ai Weiwei, the Chinese dissident, who now resides in Berlin and has looked at the rise in migration in his sculptures of gates and fences and films such as “Human Flow.”
 
 Instead, “The Warmth of Other Suns” imagines modern art itself as a kind of refugee camp, where despair and inertia intermingle with evocations of home, family and the everyday. Works of nearly unbearable pathos, such as [a video by the Turkish artist Erkan Ozgen](https://www.youtube.com/watch?v=4y52cVGOFQo) in which a deaf and mute child tries hopelessly to convey what he endured under the Islamic State, appear amid beautiful cloud studies by the photographer Alfred Stieglitz, or small, tender models of houses by the sculptor Beverly Buchanan.
+
+[[Video: https://www.youtube.com/watch?v=4y52cVGOFQo]](https://www.youtube.com/watch?v=4y52cVGOFQo)
 
 A clip from Erkan Özgen’s “Wonderland,” 2016.CreditCredit...
 

@@ -9,6 +9,8 @@ original_slug: un-news-freedom-of-the-press-under-attack-worldwide
 original_url: https://olivenetwork.org/Issue/un-news-freedom-of-the-press-under-attack-worldwide/25941
 images:
 - images/25941/01.jpg
+videos:
+- https://www.youtube.com/watch?v=IcZmsV3aRwE
 ---
 
 ![](images/25941/01.jpg)
@@ -26,6 +28,8 @@ Disinformation, hate speech and deadly attacks against journalists are threateni
 The appeal comes in his message ahead of [World Press Freedom Day](https://www.un.org/en/observances/press-freedom-day), celebrated annually on 3 May, in line with a 1993 UN General Assembly resolution.
 
 The focus this year is on the connection between press freedom and overall human rights.
+
+[[Video: https://www.youtube.com/watch?v=IcZmsV3aRwE]](https://www.youtube.com/watch?v=IcZmsV3aRwE)
 
 ### 
 

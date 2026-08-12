@@ -9,6 +9,8 @@ original_slug: reimagining-the-future-of-skills-what-do-young-people-think
 original_url: https://olivenetwork.org/Issue/reimagining-the-future-of-skills-what-do-young-people-think/25393
 images:
 - images/25393/01.jpg
+videos:
+- https://www.youtube.com/watch?v=-dFaQ4O5ixk
 ---
 
 ![](images/25393/01.jpg)Digital connectivity and online learning can expand opportunities for young people around the world.  Image: REUTERS/Jorge Silva
@@ -54,6 +56,8 @@ The young participants agreed that to be successful in the future of work, their
 “When a policy doesn’t exist or a rule is in favour of a specific group in your community, you need to know how to be able to change that,” said Maryam Elgoni, a masters student in international relations. “For example, how to start a petition, organise a march, or effectively give input into a policy or your company programme.”
 
 According to Ulises Brengi, a landscape architecture student at the University of Buenos Aires, we need to stop looking at skills as high-level, academic knowledge, and more as human skills. “I hope that this crisis will take us to a new and more responsible economy, not only based on making a profit. In order to achieve that, we need people with strong soft skills,” he added.
+
+[[Video: https://www.youtube.com/watch?v=-dFaQ4O5ixk]](https://www.youtube.com/watch?v=-dFaQ4O5ixk)
 
 ## 
 

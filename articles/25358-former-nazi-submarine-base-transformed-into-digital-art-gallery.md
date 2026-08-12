@@ -11,6 +11,7 @@ images:
 - images/25358/01.jpg
 - images/25358/02.jpg
 - images/25358/03.jpg
+videos: []
 ---
 
 ![](images/25358/01.jpg)A “concrete monster” that once housed a fleet of Nazi U-boats in Bordeaux, France, is set to begin a new life as the world’s [largest digital art gallery](https://www.bassins-lumieres.com/en/home), reports [Agence France-Presse](https://www.afp.com/fr/infos/3732/de-leau-de-lart-et-du-beton-dans-lecrin-des-bassins-de-lumieres-bordeaux-doc-1t30m91).

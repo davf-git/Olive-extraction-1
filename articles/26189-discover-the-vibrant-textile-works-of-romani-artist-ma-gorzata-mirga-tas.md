@@ -9,6 +9,8 @@ original_slug: discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mi
 original_url: https://olivenetwork.org/Issue/discover-the-vibrant-textile-works-of-romani-artist-ma-gorzata-mirga-tas/26189
 images:
 - images/26189/01.jpg
+videos:
+- https://www.youtube.com/watch?v=UTGNaopLt68
 ---
 
 ![](images/26189/01.jpg)
@@ -23,7 +25,7 @@ images:
 
 ### **[Małgorzata Mirga-Tas](https://www.tate.org.uk/art/artists/magorzata-mirga-tas-31245) is a Romani visual artist, educator and activist. Born in 1978, she lives and works in Czarna Góra, a village at the foot of the Tatra Mountains in southern Poland.**
 
-### 
+### [[Video: https://www.youtube.com/watch?v=UTGNaopLt68]](https://www.youtube.com/watch?v=UTGNaopLt68)
 
 Mirga-Tas is known for her textile collages created with materials and fabrics that are mainly gathered from family and friends. Her visual storytelling comes from a feminist perspective and challenges stereotypical representations of Roma people. Often working in collaboration with other women, she sews pieces of clothing, handkerchiefs, tablecloths, curtains and sheets together to create vivid portraits and scenes from everyday life.
 

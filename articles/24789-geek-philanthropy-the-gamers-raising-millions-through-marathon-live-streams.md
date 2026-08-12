@@ -11,6 +11,7 @@ images:
 - images/24789/01.jpg
 - images/24789/02.jpg
 - images/24789/03.jpg
+videos: []
 ---
 
 ![](images/24789/01.jpg)Gamers play the endurance driving game Desert Bus as part of Desert Bus for Hope, which launched in 2007 and has raised over $5m for the children’s hospital charity Child’s Play. Photograph: Kolin Toney/Desert Bus for Hope

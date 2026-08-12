@@ -9,6 +9,7 @@ original_slug: countries-grapple-with-shaping-ai-governance-amid-heightened-glob
 original_url: https://olivenetwork.org/Issue/countries-grapple-with-shaping-ai-governance-amid-heightened-global-tensions/26060
 images:
 - images/26060/01.jpg
+videos: []
 ---
 
 ![](images/26060/01.jpg)

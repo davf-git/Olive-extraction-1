@@ -11,6 +11,8 @@ images:
 - images/25083/01.jpg
 - images/25083/02.jpg
 - images/25083/03.jpg
+videos:
+- https://www.youtube.com/watch?v=Mo3PABZVfN8
 ---
 
 ![](images/25083/01.jpg)A family stands proudly outside their ShelterBox tent, which they received following typhoon Rammasun, locally known as Butchoy that destroyed more than 100,000 houses and damaged 400,000 others.
@@ -76,6 +78,8 @@ The country also experiences monsoon rains across the country which can lead to 
 # 
 
 # **SHELTERBOX OPERATIONS PHILIPPINES**
+
+[[Video: https://www.youtube.com/watch?v=Mo3PABZVfN8]](https://www.youtube.com/watch?v=Mo3PABZVfN8)
 
 ---
 

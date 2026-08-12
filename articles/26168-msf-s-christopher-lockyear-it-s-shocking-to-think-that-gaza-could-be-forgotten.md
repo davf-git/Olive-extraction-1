@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/msf-s-christopher-lockyear-it-s-sho
 images:
 - images/26168/01.jpg
 - images/26168/02.jpg
+videos: []
 ---
 
 ![](images/26168/01.jpg)

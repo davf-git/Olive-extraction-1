@@ -13,6 +13,9 @@ images:
 - images/26307/03.jpg
 - images/26307/04.jpg
 - images/26307/05.jpg
+videos:
+- https://www.youtube.com/watch?v=EFt72maILq8
+- https://www.youtube.com/watch?v=rUFn6KGpf3Y
 ---
 
 ![](images/26307/01.jpg)
@@ -34,6 +37,8 @@ ON SOURCE: [ART 2030](https://www.art2030.org/projects/the-hope-forum-2026?utm_s
 #### Centred on the idea of building bridges and bringing different perspectives together, *Archipelagos of Hope* explored how collaboration across disciplines, sectors, and geographies can help shape more sustainable futures. What emerged was a growing network of connections and possibilities already in motion.
 
 # 
+
+[[Video: https://www.youtube.com/watch?v=EFt72maILq8]](https://www.youtube.com/watch?v=EFt72maILq8)
 
 Highlights from The Hope Forum 2026: Archipelagos of Hope. Video courtesy of ART 2030.
 
@@ -68,6 +73,8 @@ Highlights from The Hope Forum 2026: Archipelagos of Hope. Video courtesy of ART
 #### **Lindita Xhaferi-Salihu**, Manager, Communications and Engagement division, United Nations Framework Convention on Climate Change (UNFCCC)
 
 #### 
+
+[[Video: https://www.youtube.com/watch?v=rUFn6KGpf3Y]](https://www.youtube.com/watch?v=rUFn6KGpf3Y)
 
 Pre-recorded opening remarks by Melissa Fleming, United Nations Under-Secretary-General for Global Communications, at The Hope Forum 2026.
 

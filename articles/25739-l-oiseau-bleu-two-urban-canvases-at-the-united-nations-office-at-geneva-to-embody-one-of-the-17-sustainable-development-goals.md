@@ -10,6 +10,7 @@ original_slug: l-oiseau-bleu-two-urban-canvases-at-the-united-nations-office-at-
 original_url: https://olivenetwork.org/Issue/l-oiseau-bleu-two-urban-canvases-at-the-united-nations-office-at-geneva-to-embody-one-of-the-17-sustainable-development-goals/25739
 images:
 - images/25739/01.jpg
+videos: []
 ---
 
 ### 
@@ -54,7 +55,7 @@ Didier Schwarz **Social Media**
 
 Collectif 1m83 Art [1m83.art](https://www.1m83.art/)
 
-[didier.schwarz@1m83](/cdn-cgi/l/email-protection#86e2efe2efe3f4a8f5e5eef1e7f4fcc6b7ebbeb5) art @1m83art
+[didier.schwarz@1m83](/cdn-cgi/l/email-protection#c3a7aaa7aaa6b1edb0a0abb4a2b1b983f2aefbf0) art @1m83art
 
 + 41 79 688 69 78 #1m83Art / #SDG17art
 
@@ -62,7 +63,7 @@ Aziyadé Poltier-Mutal **Social Media**
 
 Perception Change Project, UNOG [ungeneva.org](https://www.ungeneva.org/en)
 
-[[email protected]](/cdn-cgi/l/email-protection#50312a39293134357e203f3c2439352210253e7e3f2237) @ungeneva
+[[email protected]](/cdn-cgi/l/email-protection#4e2f3427372f2a2b603e21223a272b3c0e3b2060213c29) @ungeneva
 
 +41 76 691 02 02 #SDG17art
 

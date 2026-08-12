@@ -11,6 +11,7 @@ images:
 - images/24986/01.jpg
 - images/24986/02.jpg
 - images/24986/03.jpg
+videos: []
 ---
 
 ![](images/24986/01.jpg)Climate crisis panels and expert talks are held at the BlueDot festival at Jodrell Bank observatory in Manchester.

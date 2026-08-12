@@ -13,6 +13,9 @@ images:
 - images/24486/03.jpg
 - images/24486/04.jpg
 - images/24486/05.jpg
+videos:
+- https://www.youtube.com/watch?v=rJWHm0v5MYw
+- https://www.youtube.com/watch?v=oCGXMYARt4A
 ---
 
 ![](images/24486/01.jpg)
@@ -23,7 +26,11 @@ In 2007, Percovich founded [Skateistan](https://www.skateistan.org/), a nonprofi
 
 “Skateboarding is now the largest female sport in Afghanistan”, said Percovich in a [2014 TED talk in Sydney](https://www.youtube.com/watch?v=HnYN2yDqZew). But skateboarding itself doesn’t unlock new opportunities. “The key is the power of sharing something you love and, with persistence, it can grow into something quite unexpected and truly amazing.”
 
+[[Video: https://www.youtube.com/watch?v=rJWHm0v5MYw]](https://www.youtube.com/watch?v=rJWHm0v5MYw)
+
 The opening of their latest school in South Africa was a big success.
+
+[[Video: https://www.youtube.com/watch?v=oCGXMYARt4A]](https://www.youtube.com/watch?v=oCGXMYARt4A)
 
 AtlasAction: Skakeistan believes that children learn best when they are interested, engaged and driven by their own curiosity. [Donate to help](https://www.skateistan.org/donate/) them raise $50,000 to support their skateboarding and education programs worldwide.
 

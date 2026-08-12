@@ -10,6 +10,7 @@ original_slug: blackrock-joins-climate-action-100-to-ensure-largest-corporate-em
 original_url: https://olivenetwork.org/Issue/blackrock-joins-climate-action-100-to-ensure-largest-corporate-emitters-act-on-climate-crisis/25155
 images:
 - images/25155/01.jpg
+videos: []
 ---
 
 ### 
@@ -20,7 +21,7 @@ images:
 
 ### BlackRock joins Climate Action 100+ to ensure largest corporate emitters act on climate crisis
 
-**MEDIA CONTACT**: [[email protected]](/cdn-cgi/l/email-protection#2d43485a5e6d4e4144404c59484c4e594442431c1d1d03425f4a)
+**MEDIA CONTACT**: [[email protected]](/cdn-cgi/l/email-protection#452b2032360526292c282431202426312c2a2b7475756b2a3722)
 
 **09 January 2020** — BlackRock has today become the latest signatory to [Climate Action 100+](http://www.climateaction100.org/), an unprecedented global investor engagement initiative to ensure the world’s largest corporate greenhouse gas emitters take necessary action on climate change. 
 
@@ -127,7 +128,7 @@ Other **members of the Climate Action 100+ steering committee**, commenting on r
 
 ***“****This initiative is a vitally important tool to collectively reiterate to companies that investors, as part owners of their investee companies, want them to succeed now and in the long-term,”* adds **Rebecca Mikula-Wright, Director, Asia Investor Group on Climate Change (AIGCC).** *“However, with climate impacts affecting companies and their supply chains now, and increasingly in the future, investors need companies to articulate how they are adapting their strategies to successfully transition to net zero by 2050.”*
 
-**Media Contact:** [[email protected]](/cdn-cgi/l/email-protection#a2ccc7d5d1e2c1cecbcfc3d6c7c3c1d6cbcdcc9392928ccdd0c5) or Tom Fern (+44 (0) 7867 360 273) Sara (+1 617-247-0700 ext. 172).
+**Media Contact:** [[email protected]](/cdn-cgi/l/email-protection#a1cfc4d6d2e1c2cdc8ccc0d5c4c0c2d5c8cecf9091918fced3c6) or Tom Fern (+44 (0) 7867 360 273) Sara (+1 617-247-0700 ext. 172).
 
 **About Climate Action 100+:** [*Climate Action 100+*](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.climateaction100.org%2F&data=02%7C01%7Canne.simpson%40calpers.ca.gov%7C1f60a7e8154647cda0c608d67a6c06fe%7Cbeec1a79666c427b859c00febbe93470%7C0%7C0%7C636831001728468114&sdata=XUjj2dM7IczENr3%2BfQZItXSJAKBgUWNHr%2FSYXPNn1BE%3D&reserved=0)*is a five-year investor initiative to ensure the world’s largest corporate greenhouse gas emitters take necessary action on climate change. More than 370 investors with over $35 trillion in assets collectively under management are engaging companies on improving governance, curbing emissions and strengthening climate-related financial disclosures. The companies include 100 ‘systemically important emitters’, accounting for two-thirds of annual global industrial emissions, alongside more than 60 others with significant opportunity to drive the clean energy transition.*
 

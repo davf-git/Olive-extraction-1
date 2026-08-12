@@ -19,6 +19,8 @@ images:
 - images/25730/08.jpg
 - images/25730/09.jpg
 - images/25730/10.jpg
+videos:
+- https://www.youtube.com/watch?v=dwoy0ve3b1g
 ---
 
 ![](images/25730/01.jpg)Good Chance theater company, *The Walk*, featuring the Little Amal puppet created by Handspring Puppet Company, as seen in London. Photo by Nick Wall, courtesy of Good Chance theater company.
@@ -42,6 +44,8 @@ The hope is that *The Walk*—which was delayed by the pandemic, just as refuge
 “[*The Walk*](https://www.goodchance.org.uk/thewalk) is there to celebrate the potential of refugees, children, grownups. It is not a march of misery, it is a march of pride,”  Amir Nizar Zuabi, Good Chance’s artistic director, told the [*Guardian*](https://www.theguardian.com/world/2021/may/11/puppet-of-refugee-girl-to-walk-across-europe-along-12-week-arts-festival-trail). “We hope this corridor of friendship will last much longer than the actual 12-week journey. It will become a network of collaborations in the future.”
 
 The articulated Little Amal figure is the work of South Africa’s [Handspring Puppet Company](http://www.handspringpuppet.co.za/), which made the puppets for the play *War Horse*, a hit at London’s National Theatre and West End from 2007 to 2016 and on Broadway in New York from 2011 to 2013.
+
+[[Video: https://www.youtube.com/watch?v=dwoy0ve3b1g]](https://www.youtube.com/watch?v=dwoy0ve3b1g)
 
 “Many children will make puppets of their own to welcome Little Amal when she arrives in town, creating a huge empathetic exchange between the giant puppet and the little puppets made across Europe,” Handspring founders Adrian Kohler and Basil Jones told [Atlas of the Future](https://atlasofthefuture.org/project/little-amal-the-walk/), “
 

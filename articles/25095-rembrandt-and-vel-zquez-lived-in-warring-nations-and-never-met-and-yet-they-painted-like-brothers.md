@@ -17,6 +17,7 @@ images:
 - images/25095/06.jpg
 - images/25095/07.jpg
 - images/25095/08.jpg
+videos: []
 ---
 
 ![](images/25095/01.jpg)'Rembrandt-Velázquez.' Photo: Olivier Middendor

@@ -13,6 +13,7 @@ images:
 - images/25029/03.jpg
 - images/25029/04.jpg
 - images/25029/05.jpg
+videos: []
 ---
 
 # Ibrahim Mahama: Parliament of Ghosts at The Whitworth, Manchester

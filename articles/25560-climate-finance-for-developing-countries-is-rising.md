@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/climate-finance-for-developing-coun
 images:
 - images/25560/01.jpg
 - images/25560/02.jpg
+videos: []
 ---
 
 # 
@@ -40,7 +41,7 @@ In terms of public finance instruments, both loans and grants increased in absol
 
 The year-on-year time series is consistent from 2013 to 2018 for bilateral and multilateral public climate finance and for export credits, however data for private climate finance from 2016 on are not directly comparable with those for 2013-14 due to the application of improved methodology and a resulting gap in the time series in 2015. As a result, the report’s analysis of private and total climate finance focus on the period 2016-18.
 
-For further information journalists are invited to contact [Catherine Bremer](/cdn-cgi/l/email-protection#10737164787562797e753e7262757d7562507f7573743e7f6277) in the OECD Media Office (+33 1 45 24 80 97).
+For further information journalists are invited to contact [Catherine Bremer](/cdn-cgi/l/email-protection#aac9cbdec2cfd8c3c4cf84c8d8cfc7cfd8eac5cfc9ce84c5d8cd) in the OECD Media Office (+33 1 45 24 80 97).
 
 *Working with over 100 countries, the OECD is a global policy forum that promotes policies to improve the economic and social well-being of people around the world.*
 

@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/bridging-the-gap-with-classical-mus
 images:
 - images/25951/01.jpg
 - images/25951/02.jpg
+videos:
+- https://www.youtube.com/watch?v=9B7RMXDU4YE
 ---
 
 ![](images/25951/01.jpg)
@@ -27,6 +29,8 @@ SARA SOLTANI
 OLBIOS CORRESPONDENT AUSTRIA
 
 [View Profile](https://olbios.org/network/sara-soltani/)
+
+[[Video: https://www.youtube.com/watch?v=9B7RMXDU4YE]](https://www.youtube.com/watch?v=9B7RMXDU4YE)
 
 Even though Saeid Taghadossi and Firouzeh Navai founded the Tehran Flute Choir only five years ago, today it is hard to imagine the cultural and music scene in Iran without it. Firouzeh is also the founder of the Austrian-Iranian association Bridge of Art – Brücke der Kunst that supports young and talented musicians in Iran and organises workshops and concerts in Europe for them. Western classical music is, alongside traditional Persian music, essential in Iran and is gaining increasingly importance.
 

@@ -14,6 +14,8 @@ images:
 - images/25224/04.jpg
 - images/25224/05.jpg
 - images/25224/06.jpg
+videos:
+- https://vimeo.com/358794339
 ---
 
 ![](images/25224/01.jpg)WaterAid/Guilhem Alandry
@@ -27,6 +29,8 @@ SOURCE: [WATER AID](https://www.wateraid.org/uk/stories/introducing-malis-cooles
 Souleymane is a carpenter by trade. In his regular business, he makes donkey carts and bed frames to support his family, in Mali’s Bla district.
 
 But since WaterAid worked with the community he calls home to install a life-changing water tower, he has undertaken a second job as one of Samabogo’s water mechanics.
+
+[[Video: https://vimeo.com/358794339]](https://vimeo.com/358794339)
 
 Souleymane explains what the job entails: 'Imagine that there is a small problem, that a tap stand is broken down and you have to have someone travel from far away from here to fix it, it is time consuming and it is costly. That is why it is important that someone in the community can be able to fix it.'
 

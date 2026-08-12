@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/it-s-not-just-greta-thunberg-why-ar
 images:
 - images/25059/01.jpg
 - images/25059/02.jpg
+videos: []
 ---
 
 ![](images/25059/01.jpg)Kenyan 2004 Nobel peace prize winner and environmentalist Wangari Maathai. Photograph: Antony Njuguna/Reuters

@@ -19,6 +19,7 @@ images:
 - images/25212/08.jpg
 - images/25212/09.jpg
 - images/25212/10.jpg
+videos: []
 ---
 
 ![](images/25212/01.jpg)Massimo Osanna, director of the Pompeii Archaeological Park, at the unveiling of one of the painted houses at Pompeii. Courtesy of the Italian Ministry of Culture and Tourism.

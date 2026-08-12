@@ -20,6 +20,7 @@ images:
 - images/24626/10.jpg
 - images/24626/11.jpg
 - images/24626/12.jpg
+videos: []
 ---
 
 # The Syrian Refugee Art Initiative

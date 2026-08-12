@@ -10,6 +10,7 @@ original_slug: 395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says
 original_url: https://olivenetwork.org/Issue/395-million-new-jobs-by-2030-if-businesses-prioritize-nature-says-world-economic-forum/25389
 images:
 - images/25389/01.jpg
+videos: []
 ---
 
 ### 
@@ -22,8 +23,8 @@ Published
 
 14 Jul 2020
 
-Amanda Russo, Public Engagement, World Economic Forum, +41793926898, [[email protected]](/cdn-cgi/l/email-protection#e687949395a69183808994938bc8899481)   
- Max Hall, Public Engagement, World Economic Forum, +41793293500, [[email protected]](/cdn-cgi/l/email-protection#83eeebe2efefc3f4e6e5ecf1f6eeadecf1e4)
+Amanda Russo, Public Engagement, World Economic Forum, +41793926898, [[email protected]](/cdn-cgi/l/email-protection#85e4f7f0f6c5f2e0e3eaf7f0e8abeaf7e2)   
+ Max Hall, Public Engagement, World Economic Forum, +41793293500, [[email protected]](/cdn-cgi/l/email-protection#1a77727b76765a6d7f7c75686f773475687d)
 
 [German](http://www3.weforum.org/docs/WEF_NNE_Report_II_news_release_DE.pdf) | [Spanish](http://www3.weforum.org/docs/WEF_NNE_Report_II_news_release_ES.pdf) | [French](http://www3.weforum.org/docs/WEF_NNE_Report_press_release_French.pdf) | [Mandarin](https://cn.weforum.org/press/2020/07/395-million-new-jobs-by-2030-if-businesses-prioritize-nature-cn) | [Japanese](https://jp.weforum.org/press/2020/07/394-million-new-jobs-by-2030-if-businesses-prioritize-nature-says-world-economic-forum/) | [عربي](http://www3.weforum.org/docs/WEF_NNE_Report_II_news_release_AR.pdf)
 

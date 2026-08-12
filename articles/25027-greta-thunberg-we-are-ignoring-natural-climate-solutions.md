@@ -11,7 +11,11 @@ images:
 - images/25027/01.jpg
 - images/25027/02.jpg
 - images/25027/03.jpg
+videos:
+- https://www.youtube.com/watch?v=-Q0xUXo2zEY
 ---
+
+**[[Video: https://www.youtube.com/watch?v=-Q0xUXo2zEY]](https://www.youtube.com/watch?v=-Q0xUXo2zEY)**
 
 Greta Thunberg and George Monbiot make short film on climate crisis – video
 

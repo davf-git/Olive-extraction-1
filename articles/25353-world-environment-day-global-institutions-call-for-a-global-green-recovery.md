@@ -9,6 +9,7 @@ original_slug: world-environment-day-global-institutions-call-for-a-global-green
 original_url: https://olivenetwork.org/Issue/world-environment-day-global-institutions-call-for-a-global-green-recovery/25353
 images:
 - images/25353/01.jpg
+videos: []
 ---
 
 ![](images/25353/01.jpg)

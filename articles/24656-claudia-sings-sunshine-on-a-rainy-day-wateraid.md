@@ -11,6 +11,8 @@ images:
 - images/24656/01.jpg
 - images/24656/02.jpg
 - images/24656/03.jpg
+videos:
+- https://www.youtube.com/watch?v=Uiy3dkTwPcQ
 ---
 
 ## 
@@ -20,6 +22,8 @@ images:
 ## Meet Claudia
 
 "Claudia's village, *Lubunda*, is in a disadvantaged part of northern Zambia, where people once relied on *dirty, distant and dangerous water sources.*"
+
+[[Video: https://www.youtube.com/watch?v=Uiy3dkTwPcQ]](https://www.youtube.com/watch?v=Uiy3dkTwPcQ)
 
 Claudia speaks about what life was like before the safe, piped water arrived to everybody's homes last year: 'It was so difficult, because it was a long distance to fetch water. We were coming to school late, and we didn't have enough to bathe with.'
 

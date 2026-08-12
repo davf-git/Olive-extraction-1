@@ -12,6 +12,7 @@ images:
 - images/25515/01.jpg
 - images/25515/02.jpg
 - images/25515/03.jpg
+videos: []
 ---
 
 #### EPA-EFE/Riccardo Antimiani

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/world-creativity-and-innovation-day
 images:
 - images/25716/01.jpg
 - images/25716/02.jpg
+videos: []
 ---
 
 ![](images/25716/01.jpg)'Fashion and Sustainability: Look Good, Feel Good, Do Good' – Models parade sustainable clothing representing different regions of the world during the fashion showcase.

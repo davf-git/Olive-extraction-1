@@ -9,6 +9,7 @@ original_slug: all-faiths-and-none-london-peace-march-aims-to-ease-gaza-tensions
 original_url: https://olivenetwork.org/Issue/all-faiths-and-none-london-peace-march-aims-to-ease-gaza-tensions/26007
 images:
 - images/26007/01.jpg
+videos: []
 ---
 
 ![](images/26007/01.jpg)Sunday’s event follows a number of pro-Palestine marches in London in recent weeks.Photograph: Christian Sinibaldi/The Guardian

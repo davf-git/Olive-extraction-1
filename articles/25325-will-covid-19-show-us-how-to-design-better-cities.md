@@ -14,6 +14,7 @@ images:
 - images/25325/04.jpg
 - images/25325/05.jpg
 - images/25325/06.jpg
+videos: []
 ---
 
 **![](images/25325/01.jpg)**Grey’s monument in Newcastle. The street will now be given over to cyclists and pedestrians in an attempt to keep car use low once restrictions are lifted. Photograph: Owen Humphreys/PA

@@ -9,6 +9,7 @@ original_slug: progressive-internationalism-introducing-the-art-of-international
 original_url: https://olivenetwork.org/Issue/progressive-internationalism-introducing-the-art-of-internationalism/25850
 images:
 - images/25850/01.jpg
+videos: []
 ---
 
 ![](images/25850/01.jpg)
@@ -23,7 +24,7 @@ images:
 
 ### The Progressive International’s platform, Art of Internationalism, explores the role of art and culture in imagining and shaping 21st century internationalism.
 
-### *The following declaration is co-written and endorsed by various artists and cultural workers from across the world, each of whom invested in the cultural heritage and contemporary importance of art and culture in internationalist struggles. If you want to get involved with the Art of Internationalism, please write to [[email protected]](/cdn-cgi/l/email-protection#8aebf8fecafaf8e5edf8eff9f9e3fcefa4e3e4feeff8e4ebfee3e5e4ebe6).*
+### *The following declaration is co-written and endorsed by various artists and cultural workers from across the world, each of whom invested in the cultural heritage and contemporary importance of art and culture in internationalist struggles. If you want to get involved with the Art of Internationalism, please write to [[email protected]](/cdn-cgi/l/email-protection#38594a4c78484a575f4a5d4b4b514e5d1651564c5d4a56594c5157565954).*
 
 ### 
 

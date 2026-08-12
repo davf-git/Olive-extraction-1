@@ -10,6 +10,7 @@ original_slug: eu-allocates-additional-3-5-million-to-support-vulnerable-refugee
 original_url: https://olivenetwork.org/Issue/eu-allocates-additional-3-5-million-to-support-vulnerable-refugees-and-migrants-in-bosnia-and-herzegovina/25605
 images:
 - images/25605/01.jpg
+videos: []
 ---
 
 # 

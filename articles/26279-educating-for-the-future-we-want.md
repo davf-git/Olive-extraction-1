@@ -11,7 +11,7 @@ images:
 - images/26279/01.jpg
 - images/26279/02.jpg
 - images/26279/03.jpg
-- images/26279/04.png
+videos: []
 ---
 
 ### 
@@ -136,8 +136,6 @@ GTI Forum
 
 The Pedagogy of Transition:   
  Educating for the Future We Want
-
-[![The Pedagogy of Transition](images/26279/04.png)](https://greattransition.org/gti-forum/pedagogy-transition)
 
 Read all contributions
 

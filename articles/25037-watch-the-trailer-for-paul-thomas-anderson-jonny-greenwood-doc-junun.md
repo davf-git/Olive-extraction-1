@@ -10,7 +10,11 @@ original_url: https://olivenetwork.org/Issue/watch-the-trailer-for-paul-thomas-a
 images:
 - images/25037/01.jpg
 - images/25037/02.jpg
+videos:
+- https://www.youtube.com/watch?v=dLhSyy6UM94
 ---
+
+[[Video: https://www.youtube.com/watch?v=dLhSyy6UM94]](https://www.youtube.com/watch?v=dLhSyy6UM94)
 
 *Film follows Radiohead guitarist and Israeli composer Shye Ben Tzur recording alongside Indian musicians*
 

@@ -11,6 +11,8 @@ images:
 - images/25315/01.jpg
 - images/25315/02.jpg
 - images/25315/03.jpg
+videos:
+- https://www.youtube.com/watch?v=J-hJP7H8z5g
 ---
 
 **![](images/25315/01.jpg)**WaterAid/Ernest Randriarimalala
@@ -24,6 +26,8 @@ Victoria Villasana is a Mexican artist from Guadalajara. Her unconventional tex
 She has worked on iconic images of the Queen, Frida Kahlo and Marylin Monroe to name a few and has collaborated with artists including [Rhianna](https://victoriavillasana.com/category/work/original-work/).
 
 Victoria uses her work to tell stories and to make a statement. She did exactly that on a series of WaterAid’s portraits of people whose lives have been transformed by clean water. These embroidered, outspoken portraits were displayed at an exhibition at the United Nations, for a [high level political forum](https://sustainabledevelopment.un.org/hlpf). The forum focussed on 6 sustainable development goals (SDGs) including SDG6 – clean water and sanitation. This exhibition is being relaunched with two new images from Victoria and will be displayed at [Stockholm World Water Week 2019](https://www.wateraid.org/se/wateraid-at-world-water-week-2019).
+
+[[Video: https://www.youtube.com/watch?v=J-hJP7H8z5g]](https://www.youtube.com/watch?v=J-hJP7H8z5g)
 
 Victoria Villasana speaks about her art for the UN high level political forum
 

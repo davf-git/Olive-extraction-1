@@ -11,7 +11,11 @@ images:
 - images/25519/01.png
 - images/25519/02.png
 - images/25519/03.png
+videos:
+- https://www.youtube.com/watch?v=fwV9OYeGN88
 ---
+
+[[Video: https://www.youtube.com/watch?v=fwV9OYeGN88]](https://www.youtube.com/watch?v=fwV9OYeGN88)
 
 # Water: A life-giving resource, out of balance
 

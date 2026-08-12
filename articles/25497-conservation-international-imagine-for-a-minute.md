@@ -15,7 +15,11 @@ images:
 - images/25497/05.jpg
 - images/25497/06.jpg
 - images/25497/07.jpg
+videos:
+- https://www.youtube.com/watch?v=XALBGkjkUPQ
 ---
+
+[[Video: https://www.youtube.com/watch?v=XALBGkjkUPQ]](https://www.youtube.com/watch?v=XALBGkjkUPQ)
 
 A film that asks viewers to take a minute to close your eyes and picture the future you want, featuring Pope Francis, Nobel prize winner Dr. Mario Molina, UN climate treaty negotiator Christiana Figueres, and Indigenous leaders Hindou Ibrahim and Benki Piyako.
 

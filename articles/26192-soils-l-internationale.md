@@ -13,6 +13,7 @@ images:
 - images/26192/03.jpg
 - images/26192/04.jpg
 - images/26192/05.jpg
+videos: []
 ---
 
 ![](images/26192/01.jpg)

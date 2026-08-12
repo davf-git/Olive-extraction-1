@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/the-han-nefkens-foundation-and-fund
 images:
 - images/25535/01.jpg
 - images/25535/02.jpg
+videos: []
 ---
 
 [![](images/25535/01.jpg)![](images/25535/02.jpg)](https://www.worldartfoundations.com/)

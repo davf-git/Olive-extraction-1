@@ -13,6 +13,8 @@ images:
 - images/25744/03.jpg
 - images/25744/04.jpg
 - images/25744/05.jpg
+videos:
+- https://www.youtube.com/watch?v=HwMY958cVUM
 ---
 
 ###### 
@@ -44,6 +46,8 @@ All initiatives and producers who have decided to eschew the conditions imposed 
 ###### 
 
 The [MercatArrels.cat](https://mercatarrels.cat/?utm_source=web-atles&utm_medium=banner&utm_campaign=arrels&utm_content=webs-som) website is the meeting point of the project, which connect producers with consumers who want to enjoy their products, “as a bridge between the past we love and the future we want”, as stated in the founding manifesto of Arrels and signed by various Catalan personalities in the field of gastronomy, culture and sport, from chef Carme Ruscalleda to athlete Kilian Jornet. For all of them, going back to the roots is not going backwards. It is about reconnecting with the pace of the harvest, restoring the freshness of food and maintaining a healthy lifestyle that is beneficial to the environment.
+
+[[Video: https://www.youtube.com/watch?v=HwMY958cVUM]](https://www.youtube.com/watch?v=HwMY958cVUM)
 
 **AtlasAction:** Want to be part of [Arrels](https://mercatarrels.cat/?utm_source=web-atles&utm_medium=banner&utm_campaign=arrels&utm_content=webs-som)? Sign up now as a [founder](https://www.mercatarrels.cat/fundadors/opcions-de-mecenatge/) of this community.
 

@@ -9,6 +9,7 @@ original_slug: it-s-time-for-nations-to-unite-around-an-international-green-new-
 original_url: https://olivenetwork.org/Issue/it-s-time-for-nations-to-unite-around-an-international-green-new-deal/24849
 images:
 - images/24849/01.jpg
+videos: []
 ---
 
 ![](images/24849/01.jpg)

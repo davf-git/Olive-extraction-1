@@ -9,6 +9,7 @@ original_slug: tuc-boss-calls-for-new-council-to-build-fairer-economy-after-covi
 original_url: https://olivenetwork.org/Issue/tuc-boss-calls-for-new-council-to-build-fairer-economy-after-covid-19/25316
 images:
 - images/25316/01.jpg
+videos: []
 ---
 
 ![](images/25316/01.jpg)Frances O’Grady is launching a TUC report calling for the establishment of a body to bring together government, unions and employers to create ‘a greener and fairer economy’. Photograph: NurPhoto/NurPhoto via Getty Images

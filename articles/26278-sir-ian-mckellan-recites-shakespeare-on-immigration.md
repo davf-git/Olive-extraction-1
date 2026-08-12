@@ -9,6 +9,8 @@ original_slug: sir-ian-mckellan-recites-shakespeare-on-immigration
 original_url: https://olivenetwork.org/Issue/sir-ian-mckellan-recites-shakespeare-on-immigration/26278
 images:
 - images/26278/01.jpg
+videos:
+- https://vimeo.com/1163958930
 ---
 
 ![](images/26278/01.jpg)
@@ -21,7 +23,7 @@ Sir Ian McKellen on the Late Show with Stephen Colbert     
 
 Watch the full interview on [The Late Show](https://www.youtube.com/watch?v=2l2RqzVG4ag)
 
-### 
+### [[Video: https://vimeo.com/1163958930]](https://vimeo.com/1163958930)
 
 ### TRANSCRIPT
 

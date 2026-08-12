@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/water-aid-to-be-a-girl-is-to-be-in-
 images:
 - images/25633/01.jpg
 - images/25633/02.jpg
+videos:
+- https://www.youtube.com/watch?v=Ijhs6YEVCAw
 ---
 
 ![](images/25633/01.jpg)WaterAid/Ernest Randriarimalala
@@ -41,5 +43,7 @@ For Ze's parents, their children represent their hopes and dreams. Noel and Iari
 'I now have fewer chores to do and more time to study. I'm so happy I'm back in school and have the opportunity to learn more.'
 
 ### **Relive the moment everything changed:**
+
+[[Video: https://www.youtube.com/watch?v=Ijhs6YEVCAw]](https://www.youtube.com/watch?v=Ijhs6YEVCAw)
 
 SOURCE: [WATER AID](https://www.wateraid.org/uk/stories/to-be-a-girl-is-to-be-in-school)

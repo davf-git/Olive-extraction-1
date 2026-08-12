@@ -10,6 +10,8 @@ original_slug: ozone-treaties-inspiring-examples-of-political-will-un-chief-says
 original_url: https://olivenetwork.org/Issue/ozone-treaties-inspiring-examples-of-political-will-un-chief-says-on-international-day/25479
 images:
 - images/25479/01.jpg
+videos:
+- https://www.youtube.com/watch?v=WNGH1cILTPE
 ---
 
 ![](images/25479/01.jpg)
@@ -44,7 +46,7 @@ But the work of the Montreal Protocol is not over, said Mr. Guterres
 
 “If fully implemented, the Kigali Amendment can prevent 0.4 degrees Celsius of global warming. I congratulate the 100 Parties that have been leading by example,” added Mr. Guterres.
 
-### 
+### [[Video: https://www.youtube.com/watch?v=WNGH1cILTPE]](https://www.youtube.com/watch?v=WNGH1cILTPE)
 
 UNEP - Precious Ozone - The Size of it
 

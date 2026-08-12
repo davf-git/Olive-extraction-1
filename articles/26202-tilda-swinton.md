@@ -8,9 +8,11 @@ original_id: 26202
 original_slug: tilda-swinton
 original_url: https://olivenetwork.org/Issue/tilda-swinton/26202
 images: []
+videos:
+- https://www.youtube.com/watch?v=Fqol-1nTp_U
 ---
 
-##### 
+##### [[Video: https://www.youtube.com/watch?v=Fqol-1nTp\_U]](https://www.youtube.com/watch?v=Fqol-1nTp_U)
 
 14 Feb 2025 [#Berlinale](https://www.youtube.com/hashtag/berlinale) [#TildaSwinton](https://www.youtube.com/hashtag/tildaswinton) [#Awards](https://www.youtube.com/hashtag/awards)
 

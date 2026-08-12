@@ -9,6 +9,7 @@ original_slug: if-democracy-looks-doomed-extinction-rebellion-may-have-an-answer
 original_url: https://olivenetwork.org/Issue/if-democracy-looks-doomed-extinction-rebellion-may-have-an-answer/25449
 images:
 - images/25449/01.jpg
+videos: []
 ---
 
 # If democracy looks doomed, Extinction Rebellion may have an answer

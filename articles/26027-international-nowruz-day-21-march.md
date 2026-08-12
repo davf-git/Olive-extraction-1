@@ -11,6 +11,7 @@ images:
 - images/26027/01.jpg
 - images/26027/02.jpg
 - images/26027/03.jpg
+videos: []
 ---
 
 ![](images/26027/01.jpg)Nowruz celebration in Turkey

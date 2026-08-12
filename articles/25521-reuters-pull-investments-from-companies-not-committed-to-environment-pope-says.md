@@ -10,6 +10,7 @@ original_slug: reuters-pull-investments-from-companies-not-committed-to-environm
 original_url: https://olivenetwork.org/Issue/reuters-pull-investments-from-companies-not-committed-to-environment-pope-says/25521
 images:
 - images/25521/01.jpg
+videos: []
 ---
 
 ![](images/25521/01.jpg)

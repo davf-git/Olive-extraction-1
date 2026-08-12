@@ -9,6 +9,7 @@ original_slug: nazanin-zaghari-ratcliffe-talks-to-emma-barnett
 original_url: https://olivenetwork.org/Issue/nazanin-zaghari-ratcliffe-talks-to-emma-barnett/25852
 images:
 - images/25852/01.jpg
+videos: []
 ---
 
 # 

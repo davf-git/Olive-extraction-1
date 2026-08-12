@@ -19,6 +19,8 @@ images:
 - images/25495/08.jpg
 - images/25495/09.jpg
 - images/25495/10.jpg
+videos:
+- https://vimeo.com/460120993
 ---
 
 ![](images/25495/01.jpg)
@@ -37,6 +39,8 @@ Amanda Russo, Public Engagement, World Economic Forum, [[email protected]](/cdn
 * While the US is one of the most change-averse nations, alongside the Netherlands, Germany and South Korea, there is still a clear majority in favour of change at 79%.
 * The COVID-19 crisis has broken down cultural barriers, giving way to significant social momentum towards systemic change for a more sustainable and equitable world.
 * Findings are shared ahead of the 4th annual Sustainable Development Impact Summit and can be viewed in detail [here](https://www.ipsos.com/en/global-survey-unveils-profound-desire-change-rather-return-how-life-and-world-were-covid-19).
+
+[[Video: https://vimeo.com/460120993]](https://vimeo.com/460120993)
 
 **Geneva, 16 September 2020** — In a new World Economic Forum-Ipsos [survey](https://www.ipsos.com/en/global-survey-unveils-profound-desire-change-rather-return-how-life-and-world-were-covid-19) of more than 21,000 adults from 28 countries nearly nine in ten say they are ready for their life and the world to change.
 

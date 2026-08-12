@@ -9,6 +9,7 @@ original_slug: it-s-no-surprise-trump-has-met-his-match-in-pope-leo-jonathan-fre
 original_url: https://olivenetwork.org/Issue/it-s-no-surprise-trump-has-met-his-match-in-pope-leo-jonathan-freedland/26300
 images:
 - images/26300/01.jpg
+videos: []
 ---
 
 ![](images/26300/01.jpg)

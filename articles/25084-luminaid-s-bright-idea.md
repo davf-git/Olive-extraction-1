@@ -8,11 +8,13 @@ original_id: 25084
 original_slug: luminaid-s-bright-idea
 original_url: https://olivenetwork.org/Issue/luminaid-s-bright-idea/25084
 images: []
+videos:
+- https://www.youtube.com/watch?v=8RR6shO-FHg
 ---
 
 ## 
 
-## 
+## [[Video: https://www.youtube.com/watch?v=8RR6shO-FHg]](https://www.youtube.com/watch?v=8RR6shO-FHg)
 
 ## 
 

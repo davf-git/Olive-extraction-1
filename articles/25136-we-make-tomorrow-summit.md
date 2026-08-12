@@ -9,6 +9,8 @@ original_slug: we-make-tomorrow-summit
 original_url: https://olivenetwork.org/Issue/we-make-tomorrow-summit/25136
 images:
 - images/25136/01.jpg
+videos:
+- https://www.google.com/maps/embed/v1/place?key=AIzaSyDNsicAsP6-VuGtAb1O9riI3oc_NOb7IOU&q=1+Kensington+Gore+London+SW7+2AR+United+Kingdom+
 ---
 
 # 
@@ -84,3 +86,5 @@ Royal Geographical Society, 1 Kensington Gore London, SW7 2AR United Kingdom
 [+ Google Map](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1+Kensington+Gore+London+SW7+2AR+United+Kingdom "Click to view a Google Map")
 
 Website: <https://www.rgs.org/>
+
+[[Video: https://www.google.com/maps/embed/v1/place?key=AIzaSyDNsicAsP6-VuGtAb1O9riI3oc\_NOb7IOU&q=1+Kensington+Gore+London+SW7+2AR+United+Kingdom+]](https://www.google.com/maps/embed/v1/place?key=AIzaSyDNsicAsP6-VuGtAb1O9riI3oc_NOb7IOU&q=1+Kensington+Gore+London+SW7+2AR+United+Kingdom+)

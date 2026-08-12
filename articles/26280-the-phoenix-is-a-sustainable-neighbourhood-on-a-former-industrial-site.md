@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-phoenix-is-a-sustainable-neighb
 images:
 - images/26280/01.jpg
 - images/26280/02.jpg
+videos: []
 ---
 
 ![](images/26280/01.jpg)

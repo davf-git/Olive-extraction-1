@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/how-can-we-emerge-from-the-crisis-i
 images:
 - images/25284/01.jpg
 - images/25284/02.jpg
+videos: []
 ---
 
 ## 
@@ -43,7 +44,7 @@ A series of **Open Zoom sessions** designed to enable the sharing of our persona
 **[View our upcoming Open Zoom sessions](https://www.forumforthefuture.org/Listing/Category/our-events)**
 
 In addition to online events, we are now publishing a new blog series on Medium - **Diary of Discontinuity**. This Diary, from the heart of Forum for the Future - our staff, and from our partners, examines the day-to-day experience of living in a COVID-19 discontinuity to support others in navigating this moment of massive change. And is intended to give us insight into the personal aspect of living the complexity of a shifting paradigm and help us learn, what it takes, and what it doesn’t, to achieve a more regenerative future.    
- *Contributions encouraged at [[email protected]](/cdn-cgi/l/email-protection#ee8d8183839dae88819c9b8388819c9a868b889b9a9b9c8bc0819c89)*
+ *Contributions encouraged at [[email protected]](/cdn-cgi/l/email-protection#e98a8684849aa98f869b9c848f869b9d818c8f9c9d9c9b8cc7869b8e)*
 
 **[Read our Diary of Discontinuity on Medium](https://medium.com/diary-of-discontinuity)**
 
@@ -81,7 +82,7 @@ Across these workshops, we will be focusing on introducing **practical system ch
 **Participating in external discussions**
 
 We’re also open to taking part and adding our perspectives to external events - ensuring we maximise the value of participatory engagements - having a single, constructive, multi-partner exchange rather than a number of separate, individual conversations. Reach out to us if there’s alignment in what we’re trying to do and/or if there’s an event you’d like us to be a part of.   
- Contact us at [[email protected]](/cdn-cgi/l/email-protection#a8cbc7c5c5dbe8cec7daddc5cec7dadcc0cdcedddcdddacd86c7dacf) 
+ Contact us at [[email protected]](/cdn-cgi/l/email-protection#583b3735352b183e372a2d353e372a2c303d3e2d2c2d2a3d76372a3f) 
 
 **Individual support and coaching**
 

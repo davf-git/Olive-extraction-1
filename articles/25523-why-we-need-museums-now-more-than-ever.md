@@ -9,6 +9,8 @@ original_slug: why-we-need-museums-now-more-than-ever
 original_url: https://olivenetwork.org/Issue/why-we-need-museums-now-more-than-ever/25523
 images:
 - images/25523/01.jpg
+videos:
+- https://www.youtube.com/watch?v=T4L51b61KSk
 ---
 
 ![](images/25523/01.jpg)
@@ -36,6 +38,8 @@ This is especially true in times of turmoil. Today, it’s impossible to ignore 
 To help the public re-establish this common ground and learn to build bridges rather than breed division, many believe that museums have a role to play in giving us perspective – be it through intellectual exercises or merely holding up mistakes of the past as evidence of where such behaviour will lead us once more.
 
 Last year, the [Museum of Oxford](https://www.oxford.gov.uk/museumofoxford) launched its Queering Spires exhibition to celebrate the ‘hidden history’ of Oxford’s LGBTQIA+ community. Speaking at the time, co-founder of the project Richard Howlett said that Oxford has a “queer history to be proud of.”
+
+[[Video: https://www.youtube.com/watch?v=T4L51b61KSk]](https://www.youtube.com/watch?v=T4L51b61KSk)
 
 But, Howlett went on, it’s a “history hidden in people’s attics, filing cabinets and memories. We look forward to helping bring it to life through this exhibition.”
 

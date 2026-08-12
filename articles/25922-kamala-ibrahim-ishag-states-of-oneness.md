@@ -9,6 +9,8 @@ original_slug: kamala-ibrahim-ishag-states-of-oneness
 original_url: https://olivenetwork.org/Issue/kamala-ibrahim-ishag-states-of-oneness/25922
 images:
 - images/25922/01.jpg
+videos:
+- https://www.youtube.com/watch?v=25OAKwT2wYk
 ---
 
 ![](images/25922/01.jpg)
@@ -16,6 +18,8 @@ images:
 Kamala Ibrahim Ishag, Blues for the Martyrs, 2022. Courtesy the artist. Photo: Mohamed Noureldin Abdallah Ahmed. © Kamala Ibrahim Ishag.
 
 ### **An exhibition by pioneering Sudanese artist Kamala Ibrahim Ishag, whose work intertwines the earthly and the spiritual through an understanding of our connections with the natural world.**
+
+[[Video: https://www.youtube.com/watch?v=25OAKwT2wYk]](https://www.youtube.com/watch?v=25OAKwT2wYk)
 
 With a career spanning over sixty years, Kamala Ibrahim Ishag (b.1939) is a defining figure of modern and contemporary art. Her widely recognised paintings, where often human and plant forms intertwine, use a distinctive palette rooted in the colours of the sun, sand and sky and contemplate the cyclical flow of life and the intangible aspects of women’s lives in Sudan.
 

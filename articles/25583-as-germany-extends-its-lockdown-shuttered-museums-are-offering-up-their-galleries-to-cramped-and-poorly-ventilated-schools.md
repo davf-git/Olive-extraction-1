@@ -10,6 +10,7 @@ original_slug: as-germany-extends-its-lockdown-shuttered-museums-are-offering-up
 original_url: https://olivenetwork.org/Issue/as-germany-extends-its-lockdown-shuttered-museums-are-offering-up-their-galleries-to-cramped-and-poorly-ventilated-schools/25583
 images:
 - images/25583/01.jpg
+videos: []
 ---
 
 # 
