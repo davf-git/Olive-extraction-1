@@ -8,9 +8,13 @@ source_url: null
 original_id: 25887
 original_slug: it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft-sculptures-and-their-hard-message-about-planetary-survival
 original_url: https://olivenetwork.org/Issue/it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft-sculptures-and-their-hard-message-about-planetary-survival/25887
-images: []
+images:
+- images/25887/01.jpg
 videos: []
 ---
+
+![](images/25887/01.jpg)
+
 
 Cecilia Vicuna, Turbine Hall, Tate Modern. Hyundai Commission: Cecilia Vicuña: Brain Forest Quipu   
  Installation View at Tate Modern 2022. Photo © Tate Photography (Sonal Bakrania)
