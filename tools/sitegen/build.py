@@ -72,7 +72,14 @@ def render_body_html(body_md):
     # article pages live one directory below root; images are referenced
     # relative to root in the source markdown, so bump them up a level
     fixed = body_md.replace("](images/", "](../images/")
-    return markdown.markdown(fixed, extensions=["extra"])
+    rendered = markdown.markdown(fixed, extensions=["extra"])
+    # give recovered video links their own look instead of a plain text link
+    rendered = re.sub(
+        r'<a href="(https?://[^"]+)">\[Video:[^<]*\]</a>',
+        r'<a href="\1" target="_blank" rel="noopener" class="video-link">&#9654; Watch video</a>',
+        rendered,
+    )
+    return rendered
 
 
 INDEX_TEMPLATE = r"""<!doctype html>
@@ -201,6 +208,7 @@ ARTICLE_TEMPLATE = r"""<!doctype html>
 
 SAMPLE_SIZE = 20
 MIN_NO_IMAGE_SAMPLES = 2
+MIN_VIDEO_SAMPLES = 2
 
 
 def evenly_spaced(lst, n):
@@ -255,6 +263,16 @@ def pick_sample(all_items, target=SAMPLE_SIZE):
             sample_ids.add(it["id"])
             needed -= 1
 
+    have_video = sum(1 for it in sample if it.get("has_video"))
+    needed_video = max(0, MIN_VIDEO_SAMPLES - have_video)
+    for it in all_items:
+        if needed_video <= 0:
+            break
+        if it.get("has_video") and it["id"] not in sample_ids:
+            sample.append(it)
+            sample_ids.add(it["id"])
+            needed_video -= 1
+
     sample.sort(key=lambda x: x["date_sort"], reverse=True)
     return sample
 
@@ -280,6 +298,7 @@ def main():
         title = front.get("title") or slug.replace("-", " ").title()
         date_raw = front.get("date")
         images = front.get("images") or []
+        has_video = bool(front.get("videos"))
         thumb = f"images/{item_id}/" + Path(images[0]).name if images else None
         banner = f"../images/{item_id}/" + Path(images[0]).name if images else None
 
@@ -298,6 +317,7 @@ def main():
             "banner": banner,
             "source": html.escape(front.get("source") or "ON Network"),
             "original_url": front.get("original_url"),
+            "has_video": has_video,
             "body_html": render_body_html(body_md),
         })
 
