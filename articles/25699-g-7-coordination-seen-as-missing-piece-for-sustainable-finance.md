@@ -9,6 +9,7 @@ original_slug: g-7-coordination-seen-as-missing-piece-for-sustainable-finance
 original_url: https://olivenetwork.org/Issue/g-7-coordination-seen-as-missing-piece-for-sustainable-finance/25699
 images:
 - images/25699/01.jpg
+videos: []
 ---
 
 ![](images/25699/01.jpg)Alex Kraus: bLOOMBERG

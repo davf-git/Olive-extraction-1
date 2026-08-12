@@ -9,6 +9,7 @@ original_slug: beyond-gdp-measuring-wealth-to-address-global-and-in-country-chal
 original_url: https://olivenetwork.org/Issue/beyond-gdp-measuring-wealth-to-address-global-and-in-country-challenges/26215
 images:
 - images/26215/01.jpg
+videos: []
 ---
 
 ![](images/26215/01.jpg)

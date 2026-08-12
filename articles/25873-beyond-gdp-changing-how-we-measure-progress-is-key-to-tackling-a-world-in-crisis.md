@@ -17,6 +17,8 @@ images:
 - images/25873/06.jpg
 - images/25873/07.jpg
 - images/25873/08.jpg
+videos:
+- https://www.youtube.com/watch?v=z7-G3PC_868
 ---
 
 ![](images/25873/01.jpg)Robert F Kennedy on the presidential campaign trail in 1968. [Alamy](https://www.alamy.com/stock-photo-robert-f-kennedy-us-politician-campaigning-for-the-democratic-presidential-18628720.html?imageid=15E808E8-A410-4DCD-BD00-A92AD9B6FDDB&p=13044&pn=1&searchId=86aa9e9d0b87a32bf62ec689894813a3&searchtype=0)
@@ -46,6 +48,8 @@ But in measuring the monetary value of economic activity, GDP can incorporate ma
 At the same time, there are numerous aspects of our lives that simply go missing from this conventional account. The inequality in our societies. The contributions from unpaid work. The labour of those who care for the young and the elderly at home or in the community. The depletion of natural resources or biodiversity. And the value of data and many digital services.
 
 What lies outside the market, including public services funded out of taxation, remains unmeasured in a metric of monetary exchange. Kennedy was blunt: “[GDP] measures everything, in short, except that which makes life worthwhile.”
+
+[[Video: https://www.youtube.com/watch?v=z7-G3PC\_868]](https://www.youtube.com/watch?v=z7-G3PC_868)
 
 It’s a sentiment that has resonance half a century later. In a striking encounter during the Brexit debate, a UK academic was trying to convey to a public meeting the dangers of leaving the EU. The impact on GDP would dwarf any savings from the UK’s contributions to the EU budget, he told the audience. “That’s your bloody GDP!” [shouted](https://www.theguardian.com/commentisfree/2017/jan/10/blunt-heckler-economists-failing-us-booming-britain-gdp-london) a woman in the crowd. “It’s not ours.”
 

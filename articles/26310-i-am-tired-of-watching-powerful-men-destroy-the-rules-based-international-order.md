@@ -8,9 +8,11 @@ original_id: 26310
 original_slug: i-am-tired-of-watching-powerful-men-destroy-the-rules-based-international-order
 original_url: https://olivenetwork.org/Issue/i-am-tired-of-watching-powerful-men-destroy-the-rules-based-international-order/26310
 images: []
+videos:
+- https://vimeo.com/1203931853
 ---
 
-# 
+# [[Video: https://vimeo.com/1203931853]](https://vimeo.com/1203931853)
 
 # 
 
