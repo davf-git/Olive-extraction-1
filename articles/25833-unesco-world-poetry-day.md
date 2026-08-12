@@ -7,9 +7,13 @@ source_url: null
 original_id: 25833
 original_slug: unesco-world-poetry-day
 original_url: https://olivenetwork.org/Issue/unesco-world-poetry-day/25833
-images: []
+images:
+- images/25833/01.jpg
 videos: []
 ---
+
+![](images/25833/01.jpg)
+
 
 # World Poetry Day
 

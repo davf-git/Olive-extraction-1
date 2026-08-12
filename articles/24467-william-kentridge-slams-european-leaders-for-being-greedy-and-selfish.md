@@ -7,9 +7,13 @@ source_url: null
 original_id: 24467
 original_slug: william-kentridge-slams-european-leaders-for-being-greedy-and-selfish
 original_url: https://olivenetwork.org/Issue/william-kentridge-slams-european-leaders-for-being-greedy-and-selfish/24467
-images: []
+images:
+- images/24467/01.jpg
 videos: []
 ---
+
+![](images/24467/01.jpg)
+
 
 William Kentridge, Photo: Marc Shoul; courtesy of Berliner Festspiele
 
