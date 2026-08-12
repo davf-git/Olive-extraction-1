@@ -136,7 +136,7 @@ INDEX_TEMPLATE = r"""<!doctype html>
 </section>
 
 <div class="wrap">
-  <p class="header-note" style="padding-top:18px;margin-bottom:-6px;">Showing a sample of {{ sample_total }} items below, spread across every category and the full date range — the figures above are for the whole archive.</p>
+  <p class="header-note" style="padding-top:18px;margin-bottom:-6px;">The full archive — every item extracted from olivenetwork.org, filterable by category or search.</p>
   <div class="filters">
     <div class="filter-row">
       <div class="chips">
@@ -232,7 +232,7 @@ ARTICLE_TEMPLATE = r"""<!doctype html>
 """
 
 
-SAMPLE_SIZE = 20
+SAMPLE_SIZE = None  # None = full archive, no sampling
 MIN_NO_IMAGE_SAMPLES = 2
 MIN_VIDEO_SAMPLES = 2
 
@@ -247,6 +247,8 @@ def evenly_spaced(lst, n):
 
 
 def pick_sample(all_items, target=SAMPLE_SIZE):
+    if target is None:
+        return sorted(all_items, key=lambda x: x["date_sort"], reverse=True)
     from collections import defaultdict
     by_cat = defaultdict(list)
     for it in all_items:
