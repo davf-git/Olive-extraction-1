@@ -9,6 +9,7 @@ original_slug: inside-artists-and-writers-in-reading-prison
 original_url: https://olivenetwork.org/Issue/inside-artists-and-writers-in-reading-prison/24629
 images:
 - images/24629/01.jpg
+missing_images: []
 videos: []
 ---
 

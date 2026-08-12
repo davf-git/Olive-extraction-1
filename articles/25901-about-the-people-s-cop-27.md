@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/about-the-people-s-cop-27/25901
 images:
 - images/25901/01.jpg
 - images/25901/02.gif
+missing_images: []
 videos:
 - https://vimeo.com/768895996
 - https://vimeo.com/768892335

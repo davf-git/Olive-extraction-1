@@ -10,6 +10,7 @@ original_slug: unesco-report-calls-for-substantial-increases-in-investment-in-sc
 original_url: https://olivenetwork.org/Issue/unesco-report-calls-for-substantial-increases-in-investment-in-science-in-the-face-of-growing-crises/25735
 images:
 - images/25735/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=lPguPS77rno
 ---

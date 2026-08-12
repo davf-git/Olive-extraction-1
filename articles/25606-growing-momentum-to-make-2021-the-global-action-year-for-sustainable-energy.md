@@ -9,6 +9,7 @@ original_slug: growing-momentum-to-make-2021-the-global-action-year-for-sustaina
 original_url: https://olivenetwork.org/Issue/growing-momentum-to-make-2021-the-global-action-year-for-sustainable-energy/25606
 images:
 - images/25606/01.jpg
+missing_images: []
 videos: []
 ---
 

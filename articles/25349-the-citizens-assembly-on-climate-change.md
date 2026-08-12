@@ -7,9 +7,14 @@ source_url: null
 original_id: 25349
 original_slug: the-citizens-assembly-on-climate-change
 original_url: https://olivenetwork.org/Issue/the-citizens-assembly-on-climate-change/25349
-images: []
+images:
+- images/25349/01.jpg
+missing_images: []
 videos: []
 ---
+
+![](images/25349/01.jpg)
+
 
 **THIS IS A TEST. PLEASE RESPOND IF YOU LIKE. ALL FEEDBACK WELCOME.**
 

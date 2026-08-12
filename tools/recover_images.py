@@ -12,12 +12,16 @@ for a given item id regardless of the trailing index, so this recovers at most
 one (the item's primary/og:image) per article — not necessarily every image
 originally embedded in the body.
 
-For each article whose front matter has an empty `images` list, this script:
-  1. Re-fetches the live page.
-  2. Skips it if the body never had any <img> tags in the first place (that's
-     not a recovery candidate — there was nothing to lose).
-  3. Otherwise, downloads the page's og:image (served via the img.get proxy)
-     and adds it to the article's images list + a line at the top of the body.
+For each article whose front matter has an empty `images` list, this script
+re-fetches the live page and downloads its og:image (served via the img.get
+proxy), adding it to the article's images list + a line at the top of the
+body. Earlier versions skipped articles whose body never had an <img> tag to
+begin with, on the theory there was nothing to recover — but the site hands
+back a genuine, item-specific image via this proxy even for those (verified
+distinct, non-placeholder images across several such items), so it's worth
+attaching as the item's representative image rather than leaving the article
+with no visual at all. Only genuinely skipped when there's no og:image to
+fall back to.
 
 Resumable: articles that already have images are skipped.
 
@@ -59,10 +63,6 @@ def recover_one(session, article_path: str) -> str:
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    desc = soup.select_one("div.detail div.pnl div.desc")
-    if not desc or not desc.find_all("img"):
-        return "skipped: no <img> tags in body, nothing was lost"
-
     og_image = soup.select_one("meta[property='og:image']")
     if not og_image or not og_image.get("content"):
         return "failed: no og:image to fall back to"
@@ -101,21 +101,18 @@ def main():
     articles = find_zero_image_articles()
     print(f"[recover] {len(articles)} articles with zero images", file=sys.stderr)
 
-    recovered = skipped = failed = 0
+    recovered = failed = 0
     for i, article_path in enumerate(articles):
         print(f"[recover] ({i + 1}/{len(articles)}) {article_path}", file=sys.stderr)
         result = recover_one(session, article_path)
         print(f"    -> {result}", file=sys.stderr)
         if result.startswith("recovered"):
             recovered += 1
-        elif result.startswith("skipped"):
-            skipped += 1
         else:
             failed += 1
 
     print(
-        f"[recover] done. {recovered} recovered, {skipped} skipped "
-        f"(no images to begin with), {failed} still failed, "
+        f"[recover] done. {recovered} recovered, {failed} failed, "
         f"{len(articles)} total",
         file=sys.stderr,
     )

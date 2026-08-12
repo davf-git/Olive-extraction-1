@@ -9,6 +9,7 @@ original_slug: we-have-established-the-lesson-for-the-entire-world
 original_url: https://olivenetwork.org/Issue/we-have-established-the-lesson-for-the-entire-world/25960
 images:
 - images/25960/01.jpg
+missing_images: []
 videos: []
 ---
 

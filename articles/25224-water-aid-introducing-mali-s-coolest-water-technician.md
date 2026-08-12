@@ -14,6 +14,7 @@ images:
 - images/25224/04.jpg
 - images/25224/05.jpg
 - images/25224/06.jpg
+missing_images: []
 videos:
 - https://vimeo.com/358794339
 ---

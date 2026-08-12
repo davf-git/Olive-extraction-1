@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-mighty-we/24664
 images:
 - images/24664/01.jpg
 - images/24664/02.jpg
+missing_images: []
 videos: []
 ---
 

@@ -10,6 +10,7 @@ original_slug: wwf-details-not-just-promises-what-corporate-ambition-should-look
 original_url: https://olivenetwork.org/Issue/wwf-details-not-just-promises-what-corporate-ambition-should-look-like-at-cop26/25784
 images:
 - images/25784/01.jpg
+missing_images: []
 videos: []
 ---
 

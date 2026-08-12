@@ -9,6 +9,7 @@ original_slug: reimagining-the-future-of-skills-what-do-young-people-think
 original_url: https://olivenetwork.org/Issue/reimagining-the-future-of-skills-what-do-young-people-think/25393
 images:
 - images/25393/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=-dFaQ4O5ixk
 ---

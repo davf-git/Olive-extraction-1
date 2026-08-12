@@ -9,6 +9,7 @@ original_slug: un-organizations-launch-plan-to-catalyse-action-by-2025-on-energy
 original_url: https://olivenetwork.org/Issue/un-organizations-launch-plan-to-catalyse-action-by-2025-on-energy-commitments/25843
 images:
 - images/25843/01.jpg
+missing_images: []
 videos: []
 ---
 

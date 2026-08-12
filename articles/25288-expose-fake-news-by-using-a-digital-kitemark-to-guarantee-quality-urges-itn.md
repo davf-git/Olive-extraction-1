@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/expose-fake-news-by-using-a-digital
 images:
 - images/25288/01.jpg
 - images/25288/02.jpg
+missing_images: []
 videos: []
 ---
 

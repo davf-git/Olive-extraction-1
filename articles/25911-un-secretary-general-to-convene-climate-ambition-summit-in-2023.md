@@ -9,6 +9,7 @@ original_slug: un-secretary-general-to-convene-climate-ambition-summit-in-2023
 original_url: https://olivenetwork.org/Issue/un-secretary-general-to-convene-climate-ambition-summit-in-2023/25911
 images:
 - images/25911/01.jpg
+missing_images: []
 videos: []
 ---
 

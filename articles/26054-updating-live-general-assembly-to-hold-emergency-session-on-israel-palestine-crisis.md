@@ -10,6 +10,7 @@ original_slug: updating-live-general-assembly-to-hold-emergency-session-on-israe
 original_url: https://olivenetwork.org/Issue/updating-live-general-assembly-to-hold-emergency-session-on-israel-palestine-crisis/26054
 images:
 - images/26054/01.jpg
+missing_images: []
 videos:
 - https://cdnapisec.kaltura.com//p/2503451/embedPlaykitJs/uiconf_id/47917953?iframeembed=true&entry_id=1_z4l92746
 ---

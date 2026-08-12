@@ -9,6 +9,7 @@ original_slug: we-make-tomorrow-summit
 original_url: https://olivenetwork.org/Issue/we-make-tomorrow-summit/25136
 images:
 - images/25136/01.jpg
+missing_images: []
 videos:
 - https://www.google.com/maps/embed/v1/place?key=AIzaSyDNsicAsP6-VuGtAb1O9riI3oc_NOb7IOU&q=1+Kensington+Gore+London+SW7+2AR+United+Kingdom+
 ---

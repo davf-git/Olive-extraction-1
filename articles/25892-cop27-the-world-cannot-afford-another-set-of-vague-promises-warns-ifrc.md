@@ -9,6 +9,7 @@ original_slug: cop27-the-world-cannot-afford-another-set-of-vague-promises-warns
 original_url: https://olivenetwork.org/Issue/cop27-the-world-cannot-afford-another-set-of-vague-promises-warns-ifrc/25892
 images:
 - images/25892/01.jpg
+missing_images: []
 videos: []
 ---
 

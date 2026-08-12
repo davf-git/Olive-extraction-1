@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/gdp-is-not-a-good-measure-of-wellbe
 images:
 - images/25118/01.jpg
 - images/25118/02.jpg
+missing_images: []
 videos: []
 ---
 

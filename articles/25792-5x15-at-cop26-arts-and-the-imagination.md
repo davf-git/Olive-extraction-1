@@ -9,6 +9,7 @@ original_slug: 5x15-at-cop26-arts-and-the-imagination
 original_url: https://olivenetwork.org/Issue/5x15-at-cop26-arts-and-the-imagination/25792
 images:
 - images/25792/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=PAtq2_nsjKo
 ---

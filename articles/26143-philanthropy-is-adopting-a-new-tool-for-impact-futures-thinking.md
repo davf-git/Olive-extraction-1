@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/philanthropy-is-adopting-a-new-tool
 images:
 - images/26143/01.jpg
 - images/26143/02.jpg
+missing_images: []
 videos: []
 ---
 

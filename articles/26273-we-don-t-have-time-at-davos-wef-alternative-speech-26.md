@@ -7,10 +7,15 @@ source_url: https://www.wedonthavetime.org/events/wef-alternativespeech-26
 original_id: 26273
 original_slug: we-don-t-have-time-at-davos-wef-alternative-speech-26
 original_url: https://olivenetwork.org/Issue/we-don-t-have-time-at-davos-wef-alternative-speech-26/26273
-images: []
+images:
+- images/26273/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=bA-efSNq3bc
 ---
+
+![](images/26273/01.jpg)
+
 
 ### 
 

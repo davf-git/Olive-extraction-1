@@ -13,6 +13,7 @@ images:
 - images/25072/03.jpg
 - images/25072/04.jpg
 - images/25072/05.jpg
+missing_images: []
 videos:
 - https://www.bbc.co.uk/news/av/embed/p07qgyh5/49970607
 ---

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/coronavirus-only-9-of-britons-want-
 images:
 - images/25275/01.jpg
 - images/25275/02.jpg
+missing_images: []
 videos: []
 ---
 

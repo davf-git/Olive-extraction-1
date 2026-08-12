@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/every-child-has-a-voice/25044
 images:
 - images/25044/01.jpg
 - images/25044/02.png
+missing_images: []
 videos: []
 ---
 

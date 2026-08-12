@@ -9,6 +9,7 @@ original_slug: artangel-portugal-joins-red-lines
 original_url: https://olivenetwork.org/Issue/artangel-portugal-joins-red-lines/25199
 images:
 - images/25199/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -10,6 +10,7 @@ original_slug: himalayan-countries-urge-for-measures-to-secure-mountain-communit
 original_url: https://olivenetwork.org/Issue/himalayan-countries-urge-for-measures-to-secure-mountain-communities-climate-resilience/25747
 images:
 - images/25747/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -11,6 +11,7 @@ images:
 - images/25134/01.jpg
 - images/25134/02.jpg
 - images/25134/03.jpg
+missing_images: []
 videos:
 - https://w.soundcloud.com/player/?url=http://api.soundcloud.com/tracks/731465434&show_artwork=true
 ---

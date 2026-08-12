@@ -10,6 +10,7 @@ original_slug: moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-ou
 original_url: https://olivenetwork.org/Issue/moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-our-common-future-un-deputy-chief-says/25836
 images:
 - images/25836/01.jpg
+missing_images: []
 videos:
 - https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NrZWxldG9uX2xvYWRpbmdfMTMzOTgiOnsiYnVja2V0IjoiY3RhIiwidmVyc2lvbiI6bnVsbH0sInRmd19zcGFjZV9jYXJkIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjo0fX0%3D&frame=false&hideCard=false&hideThread=false&id=1508319880004894724&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%2Fnews-stream%2Fpost%2F140580%2Fspeed-up-the-shift-from-fossil-fuels&sessionId=3485de24475a9410e6dc18853d5dd7a58e76561b&siteScreenName=devaidjobs&theme=light&widgetsVersion=f9f80a909a60b%3A1648751432723&width=550px
 ---

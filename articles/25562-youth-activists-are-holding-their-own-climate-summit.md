@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/youth-activists-are-holding-their-o
 images:
 - images/25562/01.jpg
 - images/25562/02.jpg
+missing_images: []
 videos: []
 ---
 

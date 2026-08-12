@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/forum-for-the-future-purpose-of-bus
 images:
 - images/25986/01.jpg
 - images/25986/02.png
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=LlArIAq2_nc
 ---

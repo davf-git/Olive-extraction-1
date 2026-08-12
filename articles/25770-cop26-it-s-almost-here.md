@@ -9,6 +9,7 @@ original_slug: cop26-it-s-almost-here
 original_url: https://olivenetwork.org/Issue/cop26-it-s-almost-here/25770
 images:
 - images/25770/01.jpg
+missing_images: []
 videos: []
 ---
 

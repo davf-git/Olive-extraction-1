@@ -7,10 +7,15 @@ source_url: https://www.instagram.com/francesca.albanese.unsr.opt/
 original_id: 26292
 original_slug: francesca-albanese-we-have-a-plan
 original_url: https://olivenetwork.org/Issue/francesca-albanese-we-have-a-plan/26292
-images: []
+images:
+- images/26292/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1175072624
 ---
+
+![](images/26292/01.jpg)
+
 
 [[Video: https://vimeo.com/1175072624]](https://vimeo.com/1175072624)
 

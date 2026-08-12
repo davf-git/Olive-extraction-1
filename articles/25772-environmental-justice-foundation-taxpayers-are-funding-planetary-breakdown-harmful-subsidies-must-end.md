@@ -10,6 +10,7 @@ original_slug: environmental-justice-foundation-taxpayers-are-funding-planetary-
 original_url: https://olivenetwork.org/Issue/environmental-justice-foundation-taxpayers-are-funding-planetary-breakdown-harmful-subsidies-must-end/25772
 images:
 - images/25772/01.jpg
+missing_images: []
 videos: []
 ---
 

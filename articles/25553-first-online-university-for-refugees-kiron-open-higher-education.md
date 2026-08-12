@@ -14,6 +14,7 @@ images:
 - images/25553/04.jpg
 - images/25553/05.jpg
 - images/25553/06.jpg
+missing_images: []
 videos:
 - https://vimeo.com/138391306
 - https://www.youtube.com/watch?v=7RQn2moIGLk

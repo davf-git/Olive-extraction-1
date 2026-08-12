@@ -9,6 +9,7 @@ original_slug: expert-group-to-build-accountability-for-net-zero-pledges
 original_url: https://olivenetwork.org/Issue/expert-group-to-build-accountability-for-net-zero-pledges/25837
 images:
 - images/25837/01.jpg
+missing_images: []
 videos: []
 ---
 

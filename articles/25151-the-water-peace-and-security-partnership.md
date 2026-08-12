@@ -9,6 +9,7 @@ original_slug: the-water-peace-and-security-partnership
 original_url: https://olivenetwork.org/Issue/the-water-peace-and-security-partnership/25151
 images:
 - images/25151/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=D-D4Q1XPNFg
 ---

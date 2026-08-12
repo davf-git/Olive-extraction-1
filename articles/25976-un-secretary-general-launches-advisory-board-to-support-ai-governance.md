@@ -9,6 +9,7 @@ original_slug: un-secretary-general-launches-advisory-board-to-support-ai-govern
 original_url: https://olivenetwork.org/Issue/un-secretary-general-launches-advisory-board-to-support-ai-governance/25976
 images:
 - images/25976/01.jpg
+missing_images: []
 videos: []
 ---
 

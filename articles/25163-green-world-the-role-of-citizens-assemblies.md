@@ -9,6 +9,7 @@ original_slug: green-world-the-role-of-citizens-assemblies
 original_url: https://olivenetwork.org/Issue/green-world-the-role-of-citizens-assemblies/25163
 images:
 - images/25163/01.jpg
+missing_images: []
 videos: []
 ---
 

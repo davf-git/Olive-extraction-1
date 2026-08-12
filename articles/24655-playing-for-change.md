@@ -9,6 +9,7 @@ original_slug: playing-for-change
 original_url: https://olivenetwork.org/Issue/playing-for-change/24655
 images:
 - images/24655/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=EdhSe3lb7g8
 ---

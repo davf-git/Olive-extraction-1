@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/no-doubt-left-about-scientific-cons
 images:
 - images/24959/01.jpg
 - images/24959/02.jpg
+missing_images: []
 videos: []
 ---
 

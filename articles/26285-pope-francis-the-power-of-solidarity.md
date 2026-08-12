@@ -9,6 +9,7 @@ original_slug: pope-francis-the-power-of-solidarity
 original_url: https://olivenetwork.org/Issue/pope-francis-the-power-of-solidarity/26285
 images:
 - images/26285/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1167430235
 ---

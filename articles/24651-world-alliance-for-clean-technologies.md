@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/world-alliance-for-clean-technologi
 images:
 - images/24651/01.jpg
 - images/24651/02.jpg
+missing_images: []
 videos: []
 ---
 

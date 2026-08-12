@@ -9,6 +9,7 @@ original_slug: un-report-proposes-holistic-approach-to-water-use-water-conservat
 original_url: https://olivenetwork.org/Issue/un-report-proposes-holistic-approach-to-water-use-water-conservation/25957
 images:
 - images/25957/01.jpg
+missing_images: []
 videos: []
 ---
 

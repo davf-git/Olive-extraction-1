@@ -7,10 +7,15 @@ source_url: null
 original_id: 25499
 original_slug: united-nations-marks-75th-anniversary-with-renewed-commitment-to-multilateralism
 original_url: https://olivenetwork.org/Issue/united-nations-marks-75th-anniversary-with-renewed-commitment-to-multilateralism/25499
-images: []
+images:
+- images/25499/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=yKYpnbRZ7XQ
 ---
+
+![](images/25499/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=yKYpnbRZ7XQ]](https://www.youtube.com/watch?v=yKYpnbRZ7XQ)
 

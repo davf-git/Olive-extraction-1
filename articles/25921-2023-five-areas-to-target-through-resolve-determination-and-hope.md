@@ -9,6 +9,7 @@ original_slug: 2023-five-areas-to-target-through-resolve-determination-and-hope
 original_url: https://olivenetwork.org/Issue/2023-five-areas-to-target-through-resolve-determination-and-hope/25921
 images:
 - images/25921/01.jpg
+missing_images: []
 videos: []
 ---
 

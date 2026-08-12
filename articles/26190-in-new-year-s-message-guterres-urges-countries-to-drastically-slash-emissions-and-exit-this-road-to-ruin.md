@@ -14,6 +14,7 @@ images:
 - images/26190/03.jpg
 - images/26190/04.jpg
 - images/26190/05.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=DkJtl7AxrgA
 ---

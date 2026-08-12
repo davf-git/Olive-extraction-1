@@ -9,6 +9,7 @@ original_slug: greta-thunberg-blasts-world-leaders-in-emotional-speech-at-u-n-cl
 original_url: https://olivenetwork.org/Issue/greta-thunberg-blasts-world-leaders-in-emotional-speech-at-u-n-climate-summit/25038
 images:
 - images/25038/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=DYqtXR8iPlE
 ---

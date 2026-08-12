@@ -10,6 +10,7 @@ original_slug: we-economists-have-done-the-maths-growth-is-a-doomed-strategy-the
 original_url: https://olivenetwork.org/Issue/we-economists-have-done-the-maths-growth-is-a-doomed-strategy-there-is-a-better-way/26308
 images:
 - images/26308/01.jpg
+missing_images: []
 videos: []
 ---
 

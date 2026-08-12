@@ -9,6 +9,7 @@ original_slug: by-invitation-mark-carney-on-how-the-economy-must-yield-to-human-
 original_url: https://olivenetwork.org/Issue/by-invitation-mark-carney-on-how-the-economy-must-yield-to-human-values/25274
 images:
 - images/25274/01.jpg
+missing_images: []
 videos: []
 ---
 

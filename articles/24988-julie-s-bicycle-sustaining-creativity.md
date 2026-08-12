@@ -13,6 +13,7 @@ images:
 - images/24988/03.jpg
 - images/24988/04.jpg
 - images/24988/05.jpg
+missing_images: []
 videos:
 - https://vimeo.com/169554048
 ---

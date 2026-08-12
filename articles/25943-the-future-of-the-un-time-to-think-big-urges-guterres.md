@@ -9,6 +9,7 @@ original_slug: the-future-of-the-un-time-to-think-big-urges-guterres
 original_url: https://olivenetwork.org/Issue/the-future-of-the-un-time-to-think-big-urges-guterres/25943
 images:
 - images/25943/01.jpg
+missing_images: []
 videos: []
 ---
 

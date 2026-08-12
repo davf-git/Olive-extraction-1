@@ -10,6 +10,7 @@ original_slug: pedro-arrojo-agudo-water-should-be-a-blue-flag-for-peace-not-a-we
 original_url: https://olivenetwork.org/Issue/pedro-arrojo-agudo-water-should-be-a-blue-flag-for-peace-not-a-weapon-of-war/25979
 images:
 - images/25979/01.jpg
+missing_images: []
 videos: []
 ---
 

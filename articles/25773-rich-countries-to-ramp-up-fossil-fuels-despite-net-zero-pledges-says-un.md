@@ -9,6 +9,7 @@ original_slug: rich-countries-to-ramp-up-fossil-fuels-despite-net-zero-pledges-s
 original_url: https://olivenetwork.org/Issue/rich-countries-to-ramp-up-fossil-fuels-despite-net-zero-pledges-says-un/25773
 images:
 - images/25773/01.jpg
+missing_images: []
 videos: []
 ---
 

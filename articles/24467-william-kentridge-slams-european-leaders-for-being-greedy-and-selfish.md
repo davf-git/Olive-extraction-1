@@ -9,6 +9,7 @@ original_slug: william-kentridge-slams-european-leaders-for-being-greedy-and-sel
 original_url: https://olivenetwork.org/Issue/william-kentridge-slams-european-leaders-for-being-greedy-and-selfish/24467
 images:
 - images/24467/01.jpg
+missing_images: []
 videos: []
 ---
 

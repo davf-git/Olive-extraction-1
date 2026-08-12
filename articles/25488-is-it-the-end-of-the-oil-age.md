@@ -9,6 +9,7 @@ original_slug: is-it-the-end-of-the-oil-age
 original_url: https://olivenetwork.org/Issue/is-it-the-end-of-the-oil-age/25488
 images:
 - images/25488/01.jpg
+missing_images: []
 videos: []
 ---
 

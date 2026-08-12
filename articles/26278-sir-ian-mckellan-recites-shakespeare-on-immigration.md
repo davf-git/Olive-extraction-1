@@ -9,6 +9,7 @@ original_slug: sir-ian-mckellan-recites-shakespeare-on-immigration
 original_url: https://olivenetwork.org/Issue/sir-ian-mckellan-recites-shakespeare-on-immigration/26278
 images:
 - images/26278/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/1163958930
 ---

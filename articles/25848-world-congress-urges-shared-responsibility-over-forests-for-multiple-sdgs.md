@@ -9,6 +9,7 @@ original_slug: world-congress-urges-shared-responsibility-over-forests-for-multi
 original_url: https://olivenetwork.org/Issue/world-congress-urges-shared-responsibility-over-forests-for-multiple-sdgs/25848
 images:
 - images/25848/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -9,6 +9,7 @@ original_slug: in-munich-guterres-calls-for-new-global-order-that-works-for-all
 original_url: https://olivenetwork.org/Issue/in-munich-guterres-calls-for-new-global-order-that-works-for-all/26015
 images:
 - images/26015/01.jpg
+missing_images: []
 videos: []
 ---
 

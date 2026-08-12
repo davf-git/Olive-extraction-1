@@ -9,6 +9,7 @@ original_slug: un-news-freedom-of-the-press-under-attack-worldwide
 original_url: https://olivenetwork.org/Issue/un-news-freedom-of-the-press-under-attack-worldwide/25941
 images:
 - images/25941/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=IcZmsV3aRwE
 ---

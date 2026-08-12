@@ -7,10 +7,15 @@ source_url: null
 original_id: 25962
 original_slug: comfort-ero-president-ceo-crisis-group
 original_url: https://olivenetwork.org/Issue/comfort-ero-president-ceo-crisis-group/25962
-images: []
+images:
+- images/25962/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=YlPG2WUHLH4
 ---
+
+![](images/25962/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=YlPG2WUHLH4]](https://www.youtube.com/watch?v=YlPG2WUHLH4)
 

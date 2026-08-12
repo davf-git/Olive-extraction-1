@@ -7,10 +7,15 @@ source_url: null
 original_id: 25084
 original_slug: luminaid-s-bright-idea
 original_url: https://olivenetwork.org/Issue/luminaid-s-bright-idea/25084
-images: []
+images:
+- images/25084/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=8RR6shO-FHg
 ---
+
+![](images/25084/01.jpg)
+
 
 ## 
 

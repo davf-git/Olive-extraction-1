@@ -9,6 +9,7 @@ original_slug: water-aid-what-has-climate-change-got-to-do-with-water
 original_url: https://olivenetwork.org/Issue/water-aid-what-has-climate-change-got-to-do-with-water/25786
 images:
 - images/25786/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=ZTbBpjHTME0
 ---

@@ -19,6 +19,7 @@ images:
 - images/25495/08.jpg
 - images/25495/09.jpg
 - images/25495/10.jpg
+missing_images: []
 videos:
 - https://vimeo.com/460120993
 ---

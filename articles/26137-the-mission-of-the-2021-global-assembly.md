@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/the-mission-of-the-2021-global-asse
 images:
 - images/26137/01.jpg
 - images/26137/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=3PUrN07Q50w
 ---

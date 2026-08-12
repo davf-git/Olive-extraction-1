@@ -7,10 +7,15 @@ source_url: null
 original_id: 25906
 original_slug: 2022-effective-development-co-operation-summit
 original_url: https://olivenetwork.org/Issue/2022-effective-development-co-operation-summit/25906
-images: []
+images:
+- images/25906/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=Uju4GRqI9o4
 ---
+
+![](images/25906/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=Uju4GRqI9o4]](https://www.youtube.com/watch?v=Uju4GRqI9o4)
 

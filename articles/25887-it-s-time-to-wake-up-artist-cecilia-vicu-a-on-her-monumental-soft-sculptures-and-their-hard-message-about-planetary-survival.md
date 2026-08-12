@@ -10,6 +10,7 @@ original_slug: it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft
 original_url: https://olivenetwork.org/Issue/it-s-time-to-wake-up-artist-cecilia-vicu-a-on-her-monumental-soft-sculptures-and-their-hard-message-about-planetary-survival/25887
 images:
 - images/25887/01.jpg
+missing_images: []
 videos: []
 ---
 

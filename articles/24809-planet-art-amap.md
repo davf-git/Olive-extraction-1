@@ -9,6 +9,7 @@ original_slug: planet-art-amap
 original_url: https://olivenetwork.org/Issue/planet-art-amap/24809
 images:
 - images/24809/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/261096476
 ---

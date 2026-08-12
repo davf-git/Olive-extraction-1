@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/how-the-world-s-dirtiest-industries
 images:
 - images/24990/01.jpg
 - images/24990/02.jpg
+missing_images: []
 videos: []
 ---
 

@@ -10,6 +10,7 @@ original_slug: cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emission
 original_url: https://olivenetwork.org/Issue/cop28-in-dubai-enters-final-week-negotiations-ramp-up-on-emissions-cuts-fossil-fuels/25995
 images:
 - images/25995/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=MMcH9dMDhIs
 ---

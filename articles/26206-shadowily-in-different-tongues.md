@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/shadowily-in-different-tongues/2620
 images:
 - images/26206/01.jpg
 - images/26206/02.jpg
+missing_images: []
 videos: []
 ---
 

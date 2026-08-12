@@ -9,6 +9,7 @@ original_slug: active-travel-at-the-heart-of-a-green-recovery
 original_url: https://olivenetwork.org/Issue/active-travel-at-the-heart-of-a-green-recovery/25330
 images:
 - images/25330/01.jpg
+missing_images: []
 videos: []
 ---
 

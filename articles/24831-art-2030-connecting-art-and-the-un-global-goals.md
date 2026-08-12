@@ -7,10 +7,15 @@ source_url: null
 original_id: 24831
 original_slug: art-2030-connecting-art-and-the-un-global-goals
 original_url: https://olivenetwork.org/Issue/art-2030-connecting-art-and-the-un-global-goals/24831
-images: []
+images:
+- images/24831/01.jpg
+missing_images: []
 videos:
 - https://vimeo.com/140716856
 ---
+
+![](images/24831/01.jpg)
+
 
 ## 
 

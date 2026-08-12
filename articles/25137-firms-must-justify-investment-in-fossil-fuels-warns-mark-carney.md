@@ -9,6 +9,7 @@ original_slug: firms-must-justify-investment-in-fossil-fuels-warns-mark-carney
 original_url: https://olivenetwork.org/Issue/firms-must-justify-investment-in-fossil-fuels-warns-mark-carney/25137
 images:
 - images/25137/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -9,6 +9,7 @@ original_slug: transforming-education-summit
 original_url: https://olivenetwork.org/Issue/transforming-education-summit/25875
 images:
 - images/25875/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=Zn2iOknOka8
 ---

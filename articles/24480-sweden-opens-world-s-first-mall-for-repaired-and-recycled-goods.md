@@ -9,6 +9,7 @@ original_slug: sweden-opens-world-s-first-mall-for-repaired-and-recycled-goods
 original_url: https://olivenetwork.org/Issue/sweden-opens-world-s-first-mall-for-repaired-and-recycled-goods/24480
 images:
 - images/24480/01.jpg
+missing_images: []
 videos: []
 ---
 

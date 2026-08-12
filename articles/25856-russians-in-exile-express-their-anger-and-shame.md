@@ -9,6 +9,7 @@ original_slug: russians-in-exile-express-their-anger-and-shame
 original_url: https://olivenetwork.org/Issue/russians-in-exile-express-their-anger-and-shame/25856
 images:
 - images/25856/01.jpg
+missing_images: []
 videos: []
 ---
 

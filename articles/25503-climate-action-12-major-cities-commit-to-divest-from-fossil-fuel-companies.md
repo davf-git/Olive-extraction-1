@@ -9,6 +9,7 @@ original_slug: climate-action-12-major-cities-commit-to-divest-from-fossil-fuel-
 original_url: https://olivenetwork.org/Issue/climate-action-12-major-cities-commit-to-divest-from-fossil-fuel-companies/25503
 images:
 - images/25503/01.jpg
+missing_images: []
 videos: []
 ---
 

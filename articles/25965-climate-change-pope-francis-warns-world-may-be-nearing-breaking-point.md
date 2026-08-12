@@ -9,6 +9,7 @@ original_slug: climate-change-pope-francis-warns-world-may-be-nearing-breaking-p
 original_url: https://olivenetwork.org/Issue/climate-change-pope-francis-warns-world-may-be-nearing-breaking-point/25965
 images:
 - images/25965/01.jpg
+missing_images: []
 videos: []
 ---
 

@@ -7,12 +7,17 @@ source_url: null
 original_id: 25195
 original_slug: world-urban-forum-cities-must-be-at-the-heart-of-sustainable-development
 original_url: https://olivenetwork.org/Issue/world-urban-forum-cities-must-be-at-the-heart-of-sustainable-development/25195
-images: []
+images:
+- images/25195/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=_3MGWlskQGA
 - https://www.youtube.com/watch?v=fSsnQny8GE8
 - https://www.youtube.com/watch?v=6xDBR5RqDmA
 ---
+
+![](images/25195/01.jpg)
+
 
 [[Video: https://www.youtube.com/watch?v=\_3MGWlskQGA]](https://www.youtube.com/watch?v=_3MGWlskQGA)
 

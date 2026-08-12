@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/setting-sail-to-beat-plastic-pollut
 images:
 - images/25661/01.jpg
 - images/25661/02.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=r97dCMm0M4A
 ---

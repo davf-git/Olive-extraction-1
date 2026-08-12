@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/how-can-we-emerge-from-the-crisis-i
 images:
 - images/25284/01.jpg
 - images/25284/02.jpg
+missing_images: []
 videos: []
 ---
 

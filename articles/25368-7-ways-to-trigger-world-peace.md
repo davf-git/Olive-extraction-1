@@ -7,9 +7,14 @@ source_url: null
 original_id: 25368
 original_slug: 7-ways-to-trigger-world-peace
 original_url: https://olivenetwork.org/Issue/7-ways-to-trigger-world-peace/25368
-images: []
+images:
+- images/25368/01.jpg
+missing_images: []
 videos: []
 ---
+
+![](images/25368/01.jpg)
+
 
 1. Give every new born baby a feather, to learn how to laugh through ticklishness.
 2. Give every new born a flower, made from recycled arms (weapons that is, not human limbs).

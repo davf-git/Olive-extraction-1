@@ -9,6 +9,7 @@ original_slug: sphinx-president-responds-to-national-crisis
 original_url: https://olivenetwork.org/Issue/sphinx-president-responds-to-national-crisis/25369
 images:
 - images/25369/01.jpg
+missing_images: []
 videos:
 - https://www.youtube.com/watch?v=ULncG3sZ0XI
 - https://www.youtube.com/watch?v=C-Sp3Zr5j6U

@@ -10,6 +10,7 @@ original_slug: global-leaders-and-climate-activists-gather-in-snowless-davos-ahe
 original_url: https://olivenetwork.org/Issue/global-leaders-and-climate-activists-gather-in-snowless-davos-ahead-of-world-economic-forum-2023/25926
 images:
 - images/25926/01.jpg
+missing_images: []
 videos: []
 ---
 

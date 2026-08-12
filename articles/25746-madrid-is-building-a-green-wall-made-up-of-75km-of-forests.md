@@ -9,6 +9,7 @@ original_slug: madrid-is-building-a-green-wall-made-up-of-75km-of-forests
 original_url: https://olivenetwork.org/Issue/madrid-is-building-a-green-wall-made-up-of-75km-of-forests/25746
 images:
 - images/25746/01.jpg
+missing_images: []
 videos: []
 ---
 
