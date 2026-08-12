@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/sweden-s-recycling-is-so-revolution
 images:
 - images/24646/01.jpg
 - images/24646/02.jpg
+videos: []
 ---
 
 ## 

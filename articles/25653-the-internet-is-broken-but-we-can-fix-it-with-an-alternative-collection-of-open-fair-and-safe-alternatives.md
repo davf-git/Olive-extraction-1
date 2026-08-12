@@ -14,6 +14,8 @@ images:
 - images/25653/03.jpg
 - images/25653/04.jpg
 - images/25653/05.jpg
+videos:
+- https://vimeo.com/295400865
 ---
 
 ###### 
@@ -63,6 +65,8 @@ The public stack is not an easy stack to adhere to, but Waag wants us to try, so
 > ### “If you love tech (or even if you simply use it), this project can help you find out how it is owned and financed, because that determines everything.” – [Kate Raworth](https://atlasofthefuture.org/futurehero-kate-raworth-doughnut-economics/?_sf_s=kate+raworth), renegade economist
 
 Building for the Public Stack starts with the many initiatives and technologies that are out there [already](https://publicstack.net/alternatives/). And there are many. Technologies, collectives, programmes and initiatives; working on the Public Stack can take many forms. For a large compiled list of technical solutions that are public and open source check [ethical.net](https://atlasofthefuture.org/project/ethical-net/).
+
+[[Video: https://vimeo.com/295400865]](https://vimeo.com/295400865)
 
 **AtlasAction:**We can shape the future of digitalisation – together. Visit [Future Internet Lab](https://waag.org/en/lab/future-internet-lab) for more information. The lab democratises access to technology.
 

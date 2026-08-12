@@ -9,6 +9,8 @@ original_slug: climate-advocates-demand-stronger-cop28-language-on-fossil-fuels
 original_url: https://olivenetwork.org/Issue/climate-advocates-demand-stronger-cop28-language-on-fossil-fuels/25996
 images:
 - images/25996/01.jpg
+videos:
+- https://www.youtube.com/watch?v=64N0hplcDL8
 ---
 
 ![](images/25996/01.jpg)
@@ -45,6 +47,8 @@ Here’s a look at some of the (largely voluntary) measures that made it into th
 2. The words “oil” and “natural gas” do not appear;
 3. Strong obligations for rich countries; and
 4. Equity in adaptation, needed for equitable support from rich countries.
+
+[[Video: https://www.youtube.com/watch?v=64N0hplcDL8]](https://www.youtube.com/watch?v=64N0hplcDL8)
 
 Harjeet Singh, Head of Global Political Strategy at Climate Action Network International, told *UN News* that he was expecting the new text to be “much stronger, but the language on phaseout of fossil fuels is now completely gone … As civil society we reject the text.”
 

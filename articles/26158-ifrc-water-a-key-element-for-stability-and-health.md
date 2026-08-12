@@ -12,6 +12,7 @@ images:
 - images/26158/02.jpg
 - images/26158/03.jpg
 - images/26158/04.jpg
+videos: []
 ---
 
 ##### Women and children fetching water at the newly constructed water-platform in Aweil, South Sudan. Photo: Netherlands Red Cross/Johannes Chinchilla

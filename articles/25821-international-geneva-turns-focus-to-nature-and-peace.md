@@ -9,6 +9,7 @@ original_slug: international-geneva-turns-focus-to-nature-and-peace
 original_url: https://olivenetwork.org/Issue/international-geneva-turns-focus-to-nature-and-peace/25821
 images:
 - images/25821/01.jpg
+videos: []
 ---
 
 ![](images/25821/01.jpg)

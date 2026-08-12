@@ -13,6 +13,8 @@ images:
 - images/25072/03.jpg
 - images/25072/04.jpg
 - images/25072/05.jpg
+videos:
+- https://www.bbc.co.uk/news/av/embed/p07qgyh5/49970607
 ---
 
 ![](images/25072/01.jpg)
@@ -74,5 +76,7 @@ And to encourage a community spirit, the back gardens of the central terraces sh
 Last year's winning building was the European headquarters of Bloomberg, the world's most sustainable office and largest stone building in the City of London.
 
 ---
+
+[[Video: https://www.bbc.co.uk/news/av/embed/p07qgyh5/49970607]](https://www.bbc.co.uk/news/av/embed/p07qgyh5/49970607)
 
 SOURCE: [BBC](https://www.bbc.co.uk/news/entertainment-arts-49970607)

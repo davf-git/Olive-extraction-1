@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/water-aid-decent-toilets-bright-fut
 images:
 - images/25318/01.jpg
 - images/25318/03.jpg
+videos: []
 ---
 
 ![](images/25318/01.jpg)

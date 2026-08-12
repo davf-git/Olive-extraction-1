@@ -10,6 +10,8 @@ original_slug: moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-ou
 original_url: https://olivenetwork.org/Issue/moving-away-from-coal-will-not-be-easy-but-it-is-essential-for-our-common-future-un-deputy-chief-says/25836
 images:
 - images/25836/01.jpg
+videos:
+- https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NrZWxldG9uX2xvYWRpbmdfMTMzOTgiOnsiYnVja2V0IjoiY3RhIiwidmVyc2lvbiI6bnVsbH0sInRmd19zcGFjZV9jYXJkIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjo0fX0%3D&frame=false&hideCard=false&hideThread=false&id=1508319880004894724&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%2Fnews-stream%2Fpost%2F140580%2Fspeed-up-the-shift-from-fossil-fuels&sessionId=3485de24475a9410e6dc18853d5dd7a58e76561b&siteScreenName=devaidjobs&theme=light&widgetsVersion=f9f80a909a60b%3A1648751432723&width=550px
 ---
 
 ![](images/25836/01.jpg)
@@ -21,6 +23,8 @@ By [United Nations](https://www.developmentaid.org/donors/view/118382/un) • 29
 **The [United Nations](https://www.developmentaid.org/donors/view/118382/un) Deputy Secretary-General called on countries in Asia and the Pacific to speed up the shift from fossil fuels to new, low-carbon development models, in a just and inclusive way.**
 
 “Moving away from coal and fossil fuels in a region that accounts for 75 per cent of global coal-fired generation capacity will not be easy. But it is essential for our common future, and it is financially and technologically possible,” Amina Mohammed said.
+
+[[Video: https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NrZWxldG9uX2xvYWRpbmdfMTMzOTgiOnsiYnVja2V0IjoiY3RhIiwidmVyc2lvbiI6bnVsbH0sInRmd19zcGFjZV9jYXJkIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjo0fX0%3D&frame=false&hideCard=false&hideThread=false&id=1508319880004894724&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%2Fnews-stream%2Fpost%2F140580%2Fspeed-up-the-shift-from-fossil-fuels&sessionId=3485de24475a9410e6dc18853d5dd7a58e76561b&siteScreenName=devaidjobs&theme=light&widgetsVersion=f9f80a909a60b%3A1648751432723&width=550px]](https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NrZWxldG9uX2xvYWRpbmdfMTMzOTgiOnsiYnVja2V0IjoiY3RhIiwidmVyc2lvbiI6bnVsbH0sInRmd19zcGFjZV9jYXJkIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0Zndfc2Vuc2l0aXZlX21lZGlhX2ludGVyc3RpdGlhbF8xMzk2MyI6eyJidWNrZXQiOiJpbnRlcnN0aXRpYWwiLCJ2ZXJzaW9uIjo0fX0%3D&frame=false&hideCard=false&hideThread=false&id=1508319880004894724&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%2Fnews-stream%2Fpost%2F140580%2Fspeed-up-the-shift-from-fossil-fuels&sessionId=3485de24475a9410e6dc18853d5dd7a58e76561b&siteScreenName=devaidjobs&theme=light&widgetsVersion=f9f80a909a60b%3A1648751432723&width=550px)
 
 She also highlighted the need for greater investments in adaptation and urgent action to build the capacity of developing countries to adapt and build resilience to the impacts of climate change.
 

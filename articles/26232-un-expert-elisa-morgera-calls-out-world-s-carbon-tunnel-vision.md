@@ -9,6 +9,7 @@ original_slug: un-expert-elisa-morgera-calls-out-world-s-carbon-tunnel-vision
 original_url: https://olivenetwork.org/Issue/un-expert-elisa-morgera-calls-out-world-s-carbon-tunnel-vision/26232
 images:
 - images/26232/01.jpg
+videos: []
 ---
 
 ![](images/26232/01.jpg)

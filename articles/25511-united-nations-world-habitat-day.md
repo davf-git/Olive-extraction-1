@@ -9,6 +9,7 @@ original_slug: united-nations-world-habitat-day
 original_url: https://olivenetwork.org/Issue/united-nations-world-habitat-day/25511
 images:
 - images/25511/01.jpg
+videos: []
 ---
 
 ![](images/25511/01.jpg)A hillside community in Medellin, Colombia. Photo: © Julius Mwelu/UN-Habitat

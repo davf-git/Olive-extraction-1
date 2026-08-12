@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/international-day-of-multilateralis
 images:
 - images/26048/01.jpg
 - images/26048/02.jpg
+videos: []
 ---
 
 ![](images/26048/01.jpg)

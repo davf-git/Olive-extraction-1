@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/a-new-group-of-experts-wants-to-fix
 images:
 - images/26044/01.jpg
 - images/26044/02.jpg
+videos: []
 ---
 
 ![](images/26044/01.jpg)A market in Sana'a, Yemen, 2 March 2024. The escalation of Houthi attacks on shipping lanes since last year is expected to disrupt the country’s food imports between March and April 2024, leading to food shortages in the markets, according to the FAO. (Keystone/EPA/Yahya Arhab)

@@ -12,6 +12,7 @@ images:
 - images/25382/01.jpg
 - images/25382/02.jpg
 - images/25382/03.jpg
+videos: []
 ---
 
 ![](images/25382/01.jpg)Lime expects to have attracted 20,000 new riders to its shared electric bike rental scheme by the time lockdown lifts and plans to offer e-scooters in the UK soon. Photograph: London Time/Alamy

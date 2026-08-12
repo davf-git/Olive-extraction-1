@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/the-2023-sdg-summit-the-high-level-
 images:
 - images/25925/01.jpg
 - images/25925/08.jpg
+videos: []
 ---
 
 ![](images/25925/01.jpg)

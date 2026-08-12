@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/world-leaders-promise-to-step-up-ef
 images:
 - images/25640/01.jpg
 - images/25640/02.jpg
+videos: []
 ---
 
 ![](images/25640/01.jpg)

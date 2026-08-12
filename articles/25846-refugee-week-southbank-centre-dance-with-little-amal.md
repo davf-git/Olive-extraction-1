@@ -9,6 +9,7 @@ original_slug: refugee-week-southbank-centre-dance-with-little-amal
 original_url: https://olivenetwork.org/Issue/refugee-week-southbank-centre-dance-with-little-amal/25846
 images:
 - images/25846/01.jpg
+videos: []
 ---
 
 ![](images/25846/01.jpg)

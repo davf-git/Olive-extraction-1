@@ -11,6 +11,8 @@ images:
 - images/25134/01.jpg
 - images/25134/02.jpg
 - images/25134/03.jpg
+videos:
+- https://w.soundcloud.com/player/?url=http://api.soundcloud.com/tracks/731465434&show_artwork=true
 ---
 
 ![](images/25134/01.jpg)
@@ -46,6 +48,8 @@ Speaking in Spanish, he gave thanks for those who strive to create a more hum
 The Pope also warned against indifference to the suffering of others.
 
 “We cannot - we must not - look the other way at the injustices, the inequalities, the scandal of hunger in the world, of poverty, of children who die because they have no water, food, the necessary care. We can't look the other way at any kind of abuse against the little ones. We must fight this plague together,” he said.
+
+[[Video: https://w.soundcloud.com/player/?url=http://api.soundcloud.com/tracks/731465434&show\_artwork=true]](https://w.soundcloud.com/player/?url=http://api.soundcloud.com/tracks/731465434&show_artwork=true)
 
 **Peace needed in turbulent times**
 

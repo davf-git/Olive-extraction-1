@@ -9,6 +9,7 @@ original_slug: firms-must-justify-investment-in-fossil-fuels-warns-mark-carney
 original_url: https://olivenetwork.org/Issue/firms-must-justify-investment-in-fossil-fuels-warns-mark-carney/25137
 images:
 - images/25137/01.jpg
+videos: []
 ---
 
 ![](images/25137/01.jpg)Mark Carney will focus on his new role as UN special envoy for climate change and finance after he steps down as Bank governor in the new year. Photograph: Kirsty Wigglesworth/AFP via Getty Images

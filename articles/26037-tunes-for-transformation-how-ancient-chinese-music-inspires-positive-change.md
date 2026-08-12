@@ -10,6 +10,9 @@ original_url: https://olivenetwork.org/Issue/tunes-for-transformation-how-ancien
 images:
 - images/26037/01.jpg
 - images/26037/02.jpg
+videos:
+- https://www.youtube.com/watch?v=0cX7fGGqj3M
+- https://www.youtube.com/watch?v=EaBBBCce980
 ---
 
 ![](images/26037/01.jpg)
@@ -56,6 +59,8 @@ The science behind the power of music is well documented. We know that listening
      
  Ancient Chinese music has always emphasised being holistic in its composition. The Pentatonic scale used in Chinese music: 宫 Gong, 商 Shang, 角 Jue, 徵 Zhi, 羽 Yu correlates with the five elements - 金 Metal, 木 Wood, 水 Water, 火 Fire, 土 Earth, which can be seen in the ancient Chinese instrument ‘Guzheng’ that The TENG Ensemble has used in their compositions.
 
+[[Video: https://www.youtube.com/watch?v=0cX7fGGqj3M]](https://www.youtube.com/watch?v=0cX7fGGqj3M)
+
 In 2020, a study conducted by The TENG Company in partnership with the Singapore Chinese Cultural Centre found that participants exposed to TENG's binaural beats reported lower state-anxiety compared to those who listened to an audiobook. The 151 participants were randomly assigned to listen to TENG music with binaural beats, TENG instrumental music, or an audiobook for thirty minutes.    
    
  ***In your view, why is it important to leverage the power of popular culture such as music to drive positive change?***
@@ -63,6 +68,8 @@ In 2020, a study conducted by The TENG Company in partnership with the Singapore
 *“As part of our vision to inspire and create impact by fusing our traditional musical heritage with our unique Singaporean identity, we strive to reinvent the perception of Chinese instruments. While it is important to retain and grow with our existing audience, we also need to emphasize building new audiences by harnessing the power of popular culture.”*
 
 ### **Bridging divides through shared experiences**
+
+[[Video: https://www.youtube.com/watch?v=EaBBBCce980]](https://www.youtube.com/watch?v=EaBBBCce980)
 
 Through the shared experience of melody, rhythm and joy, music can be an incredible tool to transcend barriers, connect people and cultivate empathy.
 

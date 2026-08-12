@@ -8,7 +8,12 @@ original_id: 25978
 original_slug: the-new-humanitarian
 original_url: https://olivenetwork.org/Issue/the-new-humanitarian/25978
 images: []
+videos:
+- https://www.youtube.com/watch?v=80-Og8WvzBU
+- https://www.youtube.com/watch?v=xpocdVZeR28
 ---
+
+[[Video: https://www.youtube.com/watch?v=80-Og8WvzBU]](https://www.youtube.com/watch?v=80-Og8WvzBU)
 
 SOURCE: [THE NEW HUMANITARIAN](https://www.thenewhumanitarian.org/content/about-us)
 
@@ -83,6 +88,8 @@ Our strategy sees us creating that transformation in the following ways:
 ### **How we work**
 
 Working with on-the-ground correspondents in dozens of countries and analysts and editors with intimate knowledge of the sector, The New Humanitarian reports from the heart of humanitarian crises and global policy and donor hubs. Our reporting informs humanitarian need and response, amplifies the voices of those on the ground and holds the sector accountable to itself, its funders and the communities it serves.
+
+[[Video: https://www.youtube.com/watch?v=xpocdVZeR28]](https://www.youtube.com/watch?v=xpocdVZeR28)
 
 Our coverage takes a holistic view of humanitarian crises, from emerging conflicts to the human face of climate change, from refugee movements to disease outbreaks. We also cover the policy and practice of humanitarian response, from local responders to the particular needs of women and girls to the responsible use of technology and data to the financing of aid work. We are there before, during and after; providing early warning when a crisis is brewing and sticking around long after most camera crews have packed up and left. We are committed to keeping neglected crises in the media spotlight and on the policy agenda. Our work always includes a multiplicity of voices, first and foremost those on the ground, be they people whose lives are uprooted or those trying to help.
 

@@ -9,9 +9,13 @@ original_slug: playing-for-change
 original_url: https://olivenetwork.org/Issue/playing-for-change/24655
 images:
 - images/24655/01.jpg
+videos:
+- https://www.youtube.com/watch?v=EdhSe3lb7g8
 ---
 
 ![](images/24655/01.jpg)
+
+[[Video: https://www.youtube.com/watch?v=EdhSe3lb7g8]](https://www.youtube.com/watch?v=EdhSe3lb7g8)
 
 [**Playing for Change**](https://playingforchange.com/) is a [multimedia](https://en.wikipedia.org/wiki/Multimedia "Multimedia") music project, created by the American producer and sound engineer Mark Johnson with his Timeless Media Group, that seeks to inspire, connect, and bring peace to the world through music. Playing For Change also created a separate [non-profit organization](https://en.wikipedia.org/wiki/Non-profit_organization "Non-profit organization") called the Playing For Change Foundation, which builds music schools for children around the world. [Wikipedia](https://en.wikipedia.org/wiki/Playing_for_Change)
 

@@ -9,6 +9,7 @@ original_slug: taking-stock-how-has-the-un-report-informed-the-beyond-gdp-debate
 original_url: https://olivenetwork.org/Issue/taking-stock-how-has-the-un-report-informed-the-beyond-gdp-debate/26314
 images:
 - images/26314/01.jpg
+videos: []
 ---
 
 ![](images/26314/01.jpg)

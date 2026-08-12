@@ -9,6 +9,7 @@ original_slug: l-oeil-de-la-gen-ve-internationale-july-2020
 original_url: https://olivenetwork.org/Issue/l-oeil-de-la-gen-ve-internationale-july-2020/25388
 images:
 - images/25388/01.jpg
+videos: []
 ---
 
 **![](images/25388/01.jpg)**

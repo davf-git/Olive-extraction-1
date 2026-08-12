@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/the-story-behind-our-film-the-girl-
 images:
 - images/25704/01.jpg
 - images/25704/02.jpg
+videos:
+- https://www.youtube.com/watch?v=lmBp2-t38Mw
 ---
 
 # 
@@ -25,6 +27,8 @@ Johnty Gray
 #### **At WaterAid, we are always looking for new ways to share stories which communicate a very real need for action. We have embarked on a  journey to adapt our advertising, and this is a step towards that.**
 
 #### Taking inspiration from real stories, we worked with creative agency **[Don’t Panic](https://www.dontpaniclondon.com/)** and colleagues in Madagascar to create our animated film, The Girl Who Built A Rocket, with a voice-over by Sir Trevor McDonald.
+
+[[Video: https://www.youtube.com/watch?v=lmBp2-t38Mw]](https://www.youtube.com/watch?v=lmBp2-t38Mw)
 
 ### But nobody’s thirsty on Mars
 

@@ -9,6 +9,7 @@ original_slug: places-for-people-venice-architecture-biennale
 original_url: https://olivenetwork.org/Issue/places-for-people-venice-architecture-biennale/24474
 images:
 - images/24474/01.webp
+videos: []
 ---
 
 [![](images/24474/01.webp)](https://news.artnet.com/art-world/germany-austria-2016-venice-architecture-biennale-445028?utm_campaign=artnetnews&utm_source=030916daily&utm_medium=email)

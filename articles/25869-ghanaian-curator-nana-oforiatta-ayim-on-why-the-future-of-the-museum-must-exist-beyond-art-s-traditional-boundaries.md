@@ -10,6 +10,7 @@ original_slug: ghanaian-curator-nana-oforiatta-ayim-on-why-the-future-of-the-mus
 original_url: https://olivenetwork.org/Issue/ghanaian-curator-nana-oforiatta-ayim-on-why-the-future-of-the-museum-must-exist-beyond-art-s-traditional-boundaries/25869
 images:
 - images/25869/01.jpg
+videos: []
 ---
 
 ##### 

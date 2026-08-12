@@ -9,7 +9,11 @@ original_slug: united-nations-international-migration-review-forum-2022-new-york
 original_url: https://olivenetwork.org/Issue/united-nations-international-migration-review-forum-2022-new-york/25844
 images:
 - images/25844/01.jpg
+videos:
+- https://www.youtube.com/watch?v=N9yJhdOWeTQ
 ---
+
+[[Video: https://www.youtube.com/watch?v=N9yJhdOWeTQ]](https://www.youtube.com/watch?v=N9yJhdOWeTQ)
 
 # **[International Migration Review Forum 2022 New York](https://www.un.org/en/migration2022)**
 

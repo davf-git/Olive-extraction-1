@@ -9,6 +9,7 @@ original_slug: cop27-what-you-need-to-know-about-this-year-s-big-un-climate-conf
 original_url: https://olivenetwork.org/Issue/cop27-what-you-need-to-know-about-this-year-s-big-un-climate-conference/25890
 images:
 - images/25890/01.jpg
+videos: []
 ---
 
 [![](images/25890/01.jpg)](https://www.un.org/en/climatechange/cop27#:~:text=The%2027th%20Conference%20of%20the%20Parties%20to%20the,commitments%20to%20finance%20climate%20action%20in%20developing%20countries.)

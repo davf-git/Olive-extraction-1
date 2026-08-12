@@ -15,6 +15,7 @@ images:
 - images/25412/05.jpg
 - images/25412/06.jpg
 - images/25412/07.jpg
+videos: []
 ---
 
 # Four coronavirus futures

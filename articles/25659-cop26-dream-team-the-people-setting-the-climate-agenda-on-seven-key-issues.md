@@ -15,6 +15,7 @@ images:
 - images/25659/05.jpg
 - images/25659/06.jpg
 - images/25659/07.jpg
+videos: []
 ---
 
 ![](images/25659/01.jpg)Mia Mottley, prime minister of Barbados (Photo: [Timothy Sullivan/UNCTAD/Flickr](https://www.flickr.com/photos/53390373@N06/48712998866/in/photolist-2hdARqN-2hdzbre-2hdBGZy-2hdBHmA-2hdBHeM-2hdzcad-2hdBHqt-2hdBHi4-2hdzbwe-2hdzbRx-2hdBH7n-2hdzbAN-2hdARge-2hdzb3d-2hgHEoL-2hdBGwp-2hgHEuH-2hgHEDF-2hdARwu-2hdBGeW-2hgJB36-2hgFXas-2hgFXa2-2hgFWKQ-2hgHEF4-2hdARTM-2hgJB6H-2hQN5dA-2hQN3Ek-2hQQiGy-JyqjEM-2hdBGbe-2hdBG6E-2hdASk3-JyqjDz-25sjXvm-288YGL7-2hdBFqr-JyqjGR-JyqjAZ-2hdza9j-2j4aYMV-2ggLZBn-2ggMdzy-2ggMtJR-2j4cvah-2j4cv5T-2j48mnS-2j48mpv-2j4cv9R))

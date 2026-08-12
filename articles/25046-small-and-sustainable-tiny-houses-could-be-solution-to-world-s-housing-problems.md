@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/small-and-sustainable-tiny-houses-c
 images:
 - images/25046/01.jpg
 - images/25046/02.jpg
+videos: []
 ---
 
 ![](images/25046/01.jpg)

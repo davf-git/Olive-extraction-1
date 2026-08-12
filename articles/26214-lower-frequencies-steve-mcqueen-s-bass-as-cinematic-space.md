@@ -13,6 +13,7 @@ images:
 - images/26214/03.jpg
 - images/26214/04.jpg
 - images/26214/05.jpg
+videos: []
 ---
 
 ![](images/26214/01.jpg)Steve McQueen, *Bass*, 2024. Installation view, Dia Beacon, New York, May 12, 2024–April 14, 2025. © Steve McQueen. Photograph by Bill Jacobson Studio, New York.

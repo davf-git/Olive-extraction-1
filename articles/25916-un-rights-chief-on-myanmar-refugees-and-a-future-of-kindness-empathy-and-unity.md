@@ -10,6 +10,7 @@ original_slug: un-rights-chief-on-myanmar-refugees-and-a-future-of-kindness-empa
 original_url: https://olivenetwork.org/Issue/un-rights-chief-on-myanmar-refugees-and-a-future-of-kindness-empathy-and-unity/25916
 images:
 - images/25916/01.jpg
+videos: []
 ---
 
 ![](images/25916/01.jpg)

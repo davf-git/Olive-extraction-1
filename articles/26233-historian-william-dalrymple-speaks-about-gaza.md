@@ -12,7 +12,11 @@ images:
 - images/26233/02.jpg
 - images/26233/03.jpg
 - images/26233/04.jpg
+videos:
+- https://vimeo.com/1099101393
 ---
+
+[[Video: https://vimeo.com/1099101393]](https://vimeo.com/1099101393)
 
 ### **Historian William Dalrymple Speaks about Gaza**
 

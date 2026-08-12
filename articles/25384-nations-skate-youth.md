@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/nations-skate-youth/25384
 images:
 - images/25384/01.jpg
 - images/25384/02.jpg
+videos:
+- https://www.youtube.com/watch?v=DcXqGEaJfuw
 ---
 
 [![](images/25384/01.jpg)](https://www.gofundme.com/f/nations-skate-youth)
@@ -26,6 +28,8 @@ Nations Youth Society was founded in early 2020, we’re are in the process of t
  \*Please note\* you will not be receiving a donation receipt at this time as we are not a Registered Canadian not for profit that can do this, however we are currently in the process of getting that status.   
    
  We appreciate that you want to be a part of something special.
+
+[[Video: https://www.youtube.com/watch?v=DcXqGEaJfuw]](https://www.youtube.com/watch?v=DcXqGEaJfuw)
 
 Thank you on behalf of Nations volunteers
 

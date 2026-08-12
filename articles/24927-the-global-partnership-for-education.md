@@ -12,6 +12,8 @@ images:
 - images/24927/02.jpg
 - images/24927/03.jpg
 - images/24927/04.jpg
+videos:
+- https://www.youtube.com/watch?v=l3CzMwhpZsE
 ---
 
 ## 
@@ -66,7 +68,7 @@ Building stronger, more equitable and more efficient education systems is at the
 
 GPE's goal at the country level is to strengthen education sector planning and policy implementation. GPE brings together all education partners in local education groups (LEGs), which enable them to contribute at all stages of the education planning cycle, from sector analysis to evaluation.
 
-## 
+## [[Video: https://www.youtube.com/watch?v=l3CzMwhpZsE]](https://www.youtube.com/watch?v=l3CzMwhpZsE)
 
 ## 
 

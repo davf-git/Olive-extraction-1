@@ -9,6 +9,7 @@ original_slug: 2021-international-year-for-the-elimination-of-child-labour
 original_url: https://olivenetwork.org/Issue/2021-international-year-for-the-elimination-of-child-labour/25635
 images:
 - images/25635/01.jpg
+videos: []
 ---
 
 # 

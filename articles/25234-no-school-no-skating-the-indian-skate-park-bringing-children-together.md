@@ -15,6 +15,7 @@ images:
 - images/25234/05.jpg
 - images/25234/06.jpg
 - images/25234/07.jpg
+videos: []
 ---
 
 ![](images/25234/01.jpg)Children at Janwaar Castle in Madhya Pradesh have embraced skateboarding with relish, demonstrating the sport’s potential as a learning tool. Photograph: Matjaz Tancic

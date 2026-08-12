@@ -12,6 +12,10 @@ images:
 - images/25387/02.png
 - images/25387/03.jpg
 - images/25387/04.jpg
+videos:
+- https://www.youtube.com/watch?v=NpkzUVlaANk
+- https://www.youtube.com/watch?v=dtUNdmywYms
+- https://www.youtube.com/watch?v=MBScZMEgFq8
 ---
 
 # 
@@ -41,6 +45,8 @@ All three of these are examples of intentional communities: groups of people who
 
 Intentional communities are by no means a new idea, but they have often been cited as the experimental spaces or test beds for the future. They are sometimes considered as [utopian experiments](https://www.youtube.com/watch?v=k75JHLEE33M) where groups and people strive to create a better life.
 
+[[Video: https://www.youtube.com/watch?v=NpkzUVlaANk]](https://www.youtube.com/watch?v=NpkzUVlaANk)
+
 Many people are looking for antidotes to ever-increasing consumption and feelings of social isolation. There is no single solution, and we will need to look at all aspects of our lives, from the way we consume to day-to-day practices. But for some, the solution is to be found in communal living and intentional communities. It may be that some of the ideas being tested in these communities can create the blueprints for the towns and cities of tomorrow.
 
 ### Alternative lifestyles
@@ -64,6 +70,8 @@ In mainstream society, the solutions to these interlocking ideas are presented a
 
 Those within intentional communities would say that they have been ahead of the curve on this for many years, with ideas such as vegetarianism and self-sufficiency often central to their way of life. They often occupy the necessary middle ground between government policy and individual action. The documentary maker Helen Iles named her series of films on intentional communities “[Living in the future](http://livinginthefuture.org/ecovillage-pioneers.php)”.
 
+[[Video: https://www.youtube.com/watch?v=dtUNdmywYms]](https://www.youtube.com/watch?v=dtUNdmywYms)
+
 ### Living in the future
 
 So what can we tell about possible directions of wider society from the intentional communities of today?
@@ -73,6 +81,8 @@ Some rural communities have embraced low-impact development. For example, [Rhiw 
 Meanwhile, urban-based communities, such as [Bunker Housing Co-operative](https://youtu.be/MBScZMEgFq8) in Brighton, look to create high-quality affordable housing for local people. Such co-operatives are based on the principle of collective control and management of property.
 
 They enable groups of people who might not have access to secure housing to form a legal entity, which enables them to collectively buy and own property. They also have the capacity to incorporate or support co-operative businesses, such as food or printing co-ops.
+
+[[Video: https://www.youtube.com/watch?v=MBScZMEgFq8]](https://www.youtube.com/watch?v=MBScZMEgFq8)
 
 Urban housing co-ops are particularly relevant in areas where house prices and rents can be prohibitively high and exclude certain groups, such as precarious workers or younger people. Housing co-ops can offer secure housing options that also empower people and enable them to live within their means.
 

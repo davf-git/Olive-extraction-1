@@ -11,6 +11,7 @@ images:
 - images/25590/01.jpg
 - images/25590/02.jpg
 - images/25590/03.jpg
+videos: []
 ---
 
 ![](images/25590/01.jpg)

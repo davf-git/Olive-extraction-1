@@ -12,6 +12,7 @@ images:
 - images/24991/01.jpg
 - images/24991/02.jpg
 - images/24991/03.jpg
+videos: []
 ---
 
 [![](images/24991/01.jpg)](http://artsandsociety-iygu.org/home/artists-and-projects/)

@@ -9,6 +9,8 @@ original_slug: un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against
 original_url: https://olivenetwork.org/Issue/un-chief-calls-on-religious-leaders-to-unite-in-the-fight-against-covid-19/25268
 images:
 - images/25268/01.jpg
+videos:
+- https://www.youtube.com/watch?v=9qdyeXpr3W8
 ---
 
 ![](images/25268/01.jpg)
@@ -18,6 +20,8 @@ UN Photo/Mark Garten -UN Secretary-General António Guterres meets religious lea
 11 April 2020 [Peace and Security](https://news.un.org/en/news/topic/peace-and-security)
 
 Religious leaders of all faiths are being urged by the UN Secretary-General to join forces and work for peace around the world and focus on the common battle to defeat COVID-19.
+
+[[Video: https://www.youtube.com/watch?v=9qdyeXpr3W8]](https://www.youtube.com/watch?v=9qdyeXpr3W8)
 
 António Gutteres made the call in a [special appeal](https://www.un.org/sg/en/content/sg/statement/2020-04-11/the-secretary-generals-special-appeal-religious-leaders) issued on Saturday, and at a time when Christians are celebrating Easter, Jews are marking Passover, and Muslims will soon begin the holy month of Ramadan.
 

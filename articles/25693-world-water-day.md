@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/world-water-day/25693
 images:
 - images/25693/01.jpg
 - images/25693/02.jpg
+videos: []
 ---
 
 ![](images/25693/01.jpg)

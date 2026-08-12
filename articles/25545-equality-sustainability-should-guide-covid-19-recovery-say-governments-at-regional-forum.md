@@ -10,6 +10,7 @@ original_slug: equality-sustainability-should-guide-covid-19-recovery-say-govern
 original_url: https://olivenetwork.org/Issue/equality-sustainability-should-guide-covid-19-recovery-say-governments-at-regional-forum/25545
 images:
 - images/25545/01.jpg
+videos: []
 ---
 
 ![](images/25545/01.jpg)WFP/Morelia Eróstegui - Indigenous women in Bolivia speak to a WFP official about the coronavirus pandemic and healthy nutrition.

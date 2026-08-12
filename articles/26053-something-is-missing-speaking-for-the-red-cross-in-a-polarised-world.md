@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/something-is-missing-speaking-for-t
 images:
 - images/26053/01.jpg
 - images/26053/02.jpg
+videos: []
 ---
 
 ![](images/26053/01.jpg)

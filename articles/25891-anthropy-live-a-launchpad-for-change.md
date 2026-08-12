@@ -9,6 +9,7 @@ original_slug: anthropy-live-a-launchpad-for-change
 original_url: https://olivenetwork.org/Issue/anthropy-live-a-launchpad-for-change/25891
 images:
 - images/25891/01.jpg
+videos: []
 ---
 
 ### 
@@ -59,7 +60,7 @@ Anthropy was founded in 2021 as a result of concerns for the economic and social
 
 SOURCE: [ANTHROPY](https://anthropy.live/home)
 
-[[email protected]](/cdn-cgi/l/email-protection#630615060d1723020d170b110c131a4d0f0a1506)
+[[email protected]](/cdn-cgi/l/email-protection#0d687b6863794d6c6379657f627d742361647b68)
 
 Anthropy 2022
 

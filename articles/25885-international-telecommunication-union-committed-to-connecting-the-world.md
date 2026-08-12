@@ -8,11 +8,15 @@ original_id: 25885
 original_slug: international-telecommunication-union-committed-to-connecting-the-world
 original_url: https://olivenetwork.org/Issue/international-telecommunication-union-committed-to-connecting-the-world/25885
 images: []
+videos:
+- https://www.youtube.com/watch?v=EBPiWhp4KG4
 ---
 
 # 
 
 ​​​​​​​​​​​​​​​​​​​​​​​​
+
+[[Video: https://www.youtube.com/watch?v=EBPiWhp4KG4]](https://www.youtube.com/watch?v=EBPiWhp4KG4)
 
 ### 
 

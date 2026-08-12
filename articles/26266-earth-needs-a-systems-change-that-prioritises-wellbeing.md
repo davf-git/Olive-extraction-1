@@ -13,6 +13,8 @@ images:
 - images/26266/03.png
 - images/26266/04.png
 - images/26266/05.jpg
+videos:
+- https://www.youtube.com/watch?v=epPqp9nNjp0
 ---
 
 ![](images/26266/01.jpg)
@@ -64,6 +66,8 @@ Likewise, the finance pledges for financing of the Loss and Damage Fund at COP28
 We must disrupt existing power dynamics, avoiding approaches that reinforce the status quo of powerful economies while perpetuating the cycle of debt for the global south through loans instead of grants. [Debt-for-nature swaps](https://www.reuters.com/sustainability/sustainable-finance-reporting/top-development-banks-funds-set-up-debt-for-nature-task-force-2023-12-04/#:~:text=LONDON%2C%20Dec%204%20(Reuters),return%20for%20protecting%20vital%20ecosystems. "This link will lead you to reuters.com") — proposed by the new taskforce being launched by MDBs, or multilateral development banks, at COP 28 — cannot be a substitute for real debt restructuring and a comprehensive reform of the international financial architecture.
 
 It is as crucial to get the rich countries to pay back their fair share to the poorest and most vulnerable countries for the harm they have caused, as it is to ensure a democratic and inclusive global economic governance. We need a systems change that puts the wellbeing of people and the planet at its core.
+
+[[Video: https://www.youtube.com/watch?v=epPqp9nNjp0]](https://www.youtube.com/watch?v=epPqp9nNjp0)
 
 [Visit here for the full infographic](https://weall.org/systemschange "This link will lead you to weall.org") made in partnership with the Wellbeing Economy Alliance (WEAll).
 

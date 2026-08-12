@@ -9,6 +9,7 @@ original_slug: united-nations-alliance-of-civilizations-unaoc
 original_url: https://olivenetwork.org/Issue/united-nations-alliance-of-civilizations-unaoc/25782
 images:
 - images/25782/01.jpg
+videos: []
 ---
 
 ![](images/25782/01.jpg)

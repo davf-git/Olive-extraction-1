@@ -11,6 +11,8 @@ images:
 - images/26180/01.jpg
 - images/26180/02.jpg
 - images/26180/03.jpg
+videos:
+- https://www.youtube.com/watch?v=clDK5DEm4kE
 ---
 
 # 
@@ -54,6 +56,8 @@ Each Bright Spot offers a glimpse of alternative futures. Collectively, they dem
 ### **So why not join us on this journey?**
 
 Together, we'll explore the social and climate initiatives challenging the status quo, what we can learn from them, and what the implications are for transitions in how we produce and consume food and energy, and in how and why businesses operate.
+
+[[Video: https://www.youtube.com/watch?v=clDK5DEm4kE]](https://www.youtube.com/watch?v=clDK5DEm4kE)
 
 ### 
 

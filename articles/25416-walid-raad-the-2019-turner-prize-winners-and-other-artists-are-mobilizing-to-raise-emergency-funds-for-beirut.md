@@ -12,6 +12,8 @@ images:
 - images/25416/01.jpg
 - images/25416/03.jpg
 - images/25416/04.jpg
+videos:
+- https://www.instagram.com/p/CDoFzwXHe_q/embed/captioned/?cr=1&v=12&wp=500&rd=https%3A%2F%2Fnews.artnet.com&rp=%2Fart-world%2Fartists-raise-emergency-funds-beirut-1900896%3Futm_content%3Dfrom_%26utm_source%3DSailthru%26utm_medium%3Demail%26utm_campaign%3DEUR%2520Aug%252011%2520AM%26utm_term%3DEUR%2520Daily%2520Newsletter%2520%255BMORNING%255D#%7B%22ci%22%3A0%2C%22os%22%3A3346%7D
 ---
 
 #### 
@@ -45,6 +47,8 @@ The damage to the city and its vibrant art community is incalculable, although s
 “It is fortunate that we have a highly dynamic art community, with a widespread diaspora jumping in to help,” Sfeir-Semler says. “I am sure it will recover, the Lebanese resilience is legendary—but it will take a lot of work, a lot of effort, and we will have to band together to make it happen.”
 
 Several artists are doing what they can to raise funds for the city. Among them are the joint winners of the 2019 Turner Prize—Lawrence Abu Hamdan, Helen Cammock, Oscar Murillo, and Tai Shani—who have raised $60,000 by donating two limited-edition prints to a fundraiser called Art Relief 4 Beirut. The works are the first the artists have released since forming a temporary collective to receive the prestigious award last year.
+
+[[Video: https://www.instagram.com/p/CDoFzwXHe\_q/embed/captioned/?cr=1&v=12&wp=500&rd=https%3A%2F%2Fnews.artnet.com&rp=%2Fart-world%2Fartists-raise-emergency-funds-beirut-1900896%3Futm\_content%3Dfrom\_%26utm\_source%3DSailthru%26utm\_medium%3Demail%26utm\_campaign%3DEUR%2520Aug%252011%2520AM%26utm\_term%3DEUR%2520Daily%2520Newsletter%2520%255BMORNING%255D#%7B%22ci%22%3A0%2C%22os%22%3A3346%7D]](https://www.instagram.com/p/CDoFzwXHe_q/embed/captioned/?cr=1&v=12&wp=500&rd=https%3A%2F%2Fnews.artnet.com&rp=%2Fart-world%2Fartists-raise-emergency-funds-beirut-1900896%3Futm_content%3Dfrom_%26utm_source%3DSailthru%26utm_medium%3Demail%26utm_campaign%3DEUR%2520Aug%252011%2520AM%26utm_term%3DEUR%2520Daily%2520Newsletter%2520%255BMORNING%255D#%7B%22ci%22%3A0%2C%22os%22%3A3346%7D)
 
 The collective’s prints are titled *Hey Cupid i!* and *Hey Cupid ii!* They are described cryptically as stills from a work that investigates “the crimes of the 7th Earl of Shaftesbury,” but no further details are given about the work. (The earl, Anthony Ashley Cooper, was a 19th-century social and industrial reformer and evangelist.) The first print, which was an edition of 50 priced at $275 each sold out within an hour, and the second print was an edition of 150 for $275 each.
 

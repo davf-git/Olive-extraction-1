@@ -9,6 +9,7 @@ original_slug: world-cannot-return-to-business-as-usual-after-covid-19-say-mayor
 original_url: https://olivenetwork.org/Issue/world-cannot-return-to-business-as-usual-after-covid-19-say-mayors/25297
 images:
 - images/25297/01.jpg
+videos: []
 ---
 
 ![](images/25297/01.jpg)

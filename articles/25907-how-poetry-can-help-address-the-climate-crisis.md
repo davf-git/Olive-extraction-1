@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/how-poetry-can-help-address-the-cli
 images:
 - images/25907/01.jpg
 - images/25907/02.jpg
+videos:
+- https://www.youtube.com/watch?v=kfEF_P73RE0
 ---
 
 ![](images/25907/01.jpg)
@@ -39,6 +41,8 @@ The worsening climate crisis is a daunting global problem that requires diverse 
 Engaging effectively with these different groups of people means thinking about how the climate crisis affects each of them at a local level. A seemingly gargantuan task, but one for which, some may be surprised to hear, poetry can help.
 
 Poetry has a profound ability to help reframe global issues, taking obscure concepts and couching them in language that is both intimate and familiar. My [own work](https://f1000research.com/articles/5-91) has shown how poetry can be used to communicate complex scientific concepts to non-specialist audiences. I have also used poetry to [interpret](https://gc.copernicus.org/articles/3/35/2020/) the complex principles of climate change science and help [inspire environmental action](https://www.mmu.ac.uk/news-and-events/news/story/6825/). For others who are keen to do the same, reading (and recommending) poetry is the perfect place to help start localising the issue.
+
+[[Video: https://www.youtube.com/watch?v=kfEF\_P73RE0]](https://www.youtube.com/watch?v=kfEF_P73RE0)
 
 [With The Caribou](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=36909) by the late American poet Maxine Kumin is a meditation on the negative impact that humankind has had on one particular species in one part of the world. In contrast, [Lament for Dark Peoples](https://poets.org/poem/lament-dark-peoples) by Langston Hughes invites us to consider the environmental degradation brought about by slavery.
 

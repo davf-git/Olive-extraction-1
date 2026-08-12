@@ -10,6 +10,7 @@ original_slug: around-the-world-c40-cities-are-taking-bold-climate-action-leadin
 original_url: https://olivenetwork.org/Issue/around-the-world-c40-cities-are-taking-bold-climate-action-leading-the-way-towards-a-healthier-and-more-sustainable-future/25300
 images:
 - images/25300/01.jpg
+videos: []
 ---
 
 ![](images/25300/01.jpg)

@@ -13,6 +13,7 @@ images:
 - images/25902/02.jpg
 - images/25902/03.jpg
 - images/25902/04.jpg
+videos: []
 ---
 
 ![](images/25902/01.jpg)UNICEF/Kate Watson Pupils sing a song as part of a tolerance workshop at a school in Indonesia.

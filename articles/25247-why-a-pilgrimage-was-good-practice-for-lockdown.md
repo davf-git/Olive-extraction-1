@@ -13,6 +13,8 @@ images:
 - images/25247/03.jpg
 - images/25247/04.jpg
 - images/25247/05.jpg
+videos:
+- https://www.bbc.co.uk/programmes/p0876qmv/player
 ---
 
 ![](images/25247/01.jpg)Pilgrims’ progress … Adrian, with Dom Joly, Edwina Currie, Mim Shaikh, Pauline McLynn, Fatima Whitbread and Amar Latif. Photograph: Oliver Rose/BBC/CTVC
@@ -35,7 +37,7 @@ Our magnificent seven consisted of two Christians, two Muslims, two atheists and
 
 Now, seven of us on top of a Bulgarian mountain, Serbian monastery or Turkish mosque, or bunking up in confined spaces between these places, is hardly like the kind of home isolation we are all having to do now. But it must count for something that we never fell out. There is hope in there somewhere.
 
-![](images/25247/03.jpg)![](images/25247/04.jpg)![](images/25247/05.jpg)
+[[Video: https://www.bbc.co.uk/programmes/p0876qmv/player]](https://www.bbc.co.uk/programmes/p0876qmv/player)![](images/25247/03.jpg)![](images/25247/04.jpg)![](images/25247/05.jpg)
 
 *[Pilgrimage: The Road to Istanbul](https://www.bbc.co.uk/programmes/m000gpbl) starts Friday, 9pm, BBC Two*.
 

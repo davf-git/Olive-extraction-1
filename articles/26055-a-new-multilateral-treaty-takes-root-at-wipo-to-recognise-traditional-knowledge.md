@@ -9,6 +9,7 @@ original_slug: a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditi
 original_url: https://olivenetwork.org/Issue/a-new-multilateral-treaty-takes-root-at-wipo-to-recognise-traditional-knowledge/26055
 images:
 - images/26055/01.jpg
+videos: []
 ---
 
 ![](images/26055/01.jpg)View of WIPO's main building from the Place des Nations. Over 1,000 delegates will attend talks on genetic resources and associated traditional knowledge from 13-24 May.(WIPO/Emmanuel Berrod)

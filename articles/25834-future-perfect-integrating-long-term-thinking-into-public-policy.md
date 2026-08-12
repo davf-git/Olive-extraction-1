@@ -9,6 +9,7 @@ original_slug: future-perfect-integrating-long-term-thinking-into-public-policy
 original_url: https://olivenetwork.org/Issue/future-perfect-integrating-long-term-thinking-into-public-policy/25834
 images:
 - images/25834/01.jpg
+videos: []
 ---
 
 ![](images/25834/01.jpg)

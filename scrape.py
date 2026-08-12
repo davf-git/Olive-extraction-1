@@ -72,6 +72,18 @@ def parse_date(soup: BeautifulSoup):
         return None
 
 
+def canonical_video_url(src: str) -> str:
+    """Best-effort: turn an embed src into the normal watch/share URL."""
+    src = urljoin(BASE_URL, src)  # handles protocol-relative //... too
+    m = re.search(r"youtube(?:-nocookie)?\.com/embed/([\w-]+)", src)
+    if m:
+        return f"https://www.youtube.com/watch?v={m.group(1)}"
+    m = re.search(r"player\.vimeo\.com/video/(\d+)", src)
+    if m:
+        return f"https://vimeo.com/{m.group(1)}"
+    return src
+
+
 def parse_source(soup: BeautifulSoup, desc) -> tuple[str, str, str | None]:
     """Returns (author, source, source_url). author = the ON Network account;
     source = original outlet named in an 'ON SOURCE:' line if present, else
@@ -110,11 +122,15 @@ def download_image(session, url: str, dest_dir: str, index: int) -> str | None:
         except Exception as e:
             print(f"    [image] failed to download {url}: {e}", file=sys.stderr)
             return None
+        if resp.status_code != 200:
+            print(f"    [image] {url} -> HTTP {resp.status_code}", file=sys.stderr)
+            return None
         content = resp.content
 
     ext = sniff_ext(content)
     if ext is None:
-        print(f"    [image] could not identify image type for {url[:80]}, skipping", file=sys.stderr)
+        print(f"    [image] {url} -> {len(content)} bytes, unrecognised type "
+              f"(content-type: {resp.headers.get('content-type')}), skipping", file=sys.stderr)
         return None
     os.makedirs(dest_dir, exist_ok=True)
     filename = f"{index:02d}.{ext}"
@@ -164,6 +180,20 @@ def scrape_item(session, row: dict) -> dict:
         else:
             img.decompose()
 
+    # Capture video embeds — markdownify drops <iframe> tags silently,
+    # so pull the src out and swap in a link that survives conversion.
+    videos_rel = []
+    for iframe in desc.find_all("iframe"):
+        src = iframe.get("src")
+        if not src:
+            iframe.decompose()
+            continue
+        video_url = canonical_video_url(src)
+        videos_rel.append(video_url)
+        link = soup.new_tag("a", href=video_url)
+        link.string = f"[Video: {video_url}]"
+        iframe.replace_with(link)
+
     body_md = markdownify(str(desc), heading_style="ATX").strip()
 
     front_matter = {
@@ -176,6 +206,7 @@ def scrape_item(session, row: dict) -> dict:
         "original_slug": slug,
         "original_url": url,
         "images": images_rel,
+        "videos": videos_rel,
     }
 
     os.makedirs(ARTICLES_DIR, exist_ok=True)

@@ -9,6 +9,7 @@ original_slug: china-s-biggest-bank-ditches-zimbabwe-coal-plant
 original_url: https://olivenetwork.org/Issue/china-s-biggest-bank-ditches-zimbabwe-coal-plant/25745
 images:
 - images/25745/01.jpg
+videos: []
 ---
 
 # 

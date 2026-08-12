@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/forum-for-the-future-purpose-of-bus
 images:
 - images/25986/01.jpg
 - images/25986/02.png
+videos:
+- https://www.youtube.com/watch?v=LlArIAq2_nc
 ---
 
 ![](images/25986/01.jpg)
@@ -29,6 +31,8 @@ Business leadership and innovation has become critical in determining whether we
 Yet conventional ‘sustainability’ strategies and tick-box approaches to ESG are falling short of the systemic and urgent transformation needed.
 
 Ahead of government and the media, businesses are the [most trusted institution right now](https://www.edelman.com/trust/2023/trust-barometer) - with around 80% of people looking to them to solve our global challenges. Some trailblazing businesses have grasped the scale of this and are responding with pace and vision. But will others wake up fast enough to the need for a radical shift in their purpose?
+
+[[Video: https://www.youtube.com/watch?v=LlArIAq2\_nc]](https://www.youtube.com/watch?v=LlArIAq2_nc)
 
 ### 
 
@@ -89,6 +93,6 @@ To do this, we are focused on four areas where we believe our skills, expertise 
 >
 > **James Payne, Forum’s Global Strategic Lead, Purpose of Business**
 
-[Reach out to James](/cdn-cgi/l/email-protection#fe94d08e9f87909bbe98918c8b9398918c8a969b988b8a8b8c9bd0918c99) or see more about our work to transform the purpose of business below.
+[Reach out to James](/cdn-cgi/l/email-protection#016b2f7160786f6441676e73746c676e737569646774757473642f6e7366) or see more about our work to transform the purpose of business below.
 
 SOURCE: [FORUM FOR THE FUTURE](https://www.forumforthefuture.org/Listing/Category/purpose-of-business?mc_cid=e8d149b8ae&mc_eid=0b086ff192)

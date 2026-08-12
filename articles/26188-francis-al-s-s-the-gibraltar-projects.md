@@ -14,6 +14,7 @@ images:
 - images/26188/04.jpg
 - images/26188/05.jpg
 - images/26188/06.jpg
+videos: []
 ---
 
 ![](images/26188/01.jpg)

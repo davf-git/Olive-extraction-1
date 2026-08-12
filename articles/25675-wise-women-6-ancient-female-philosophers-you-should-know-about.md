@@ -13,6 +13,7 @@ images:
 - images/25675/03.jpg
 - images/25675/04.jpg
 - images/25675/05.jpg
+videos: []
 ---
 
 ![](images/25675/01.jpg)Michel Corneille the Younger: Aspasia surrounded by Greek philosophers. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Michel_II_Corneille_-_Aspasie_au_milieu_des_philosophes_de_la_Gr%C3%A8ce_-_Google_Art_Project.jpg)

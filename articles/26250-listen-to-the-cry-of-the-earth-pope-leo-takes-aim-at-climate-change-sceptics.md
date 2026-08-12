@@ -9,6 +9,7 @@ original_slug: listen-to-the-cry-of-the-earth-pope-leo-takes-aim-at-climate-chan
 original_url: https://olivenetwork.org/Issue/listen-to-the-cry-of-the-earth-pope-leo-takes-aim-at-climate-change-sceptics/26250
 images:
 - images/26250/01.jpg
+videos: []
 ---
 
 ![](images/26250/01.jpg)

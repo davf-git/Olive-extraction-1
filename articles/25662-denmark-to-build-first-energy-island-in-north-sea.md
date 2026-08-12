@@ -11,6 +11,7 @@ images:
 - images/25662/01.jpg
 - images/25662/02.jpg
 - images/25662/03.jpg
+videos: []
 ---
 
 ![](images/25662/01.jpg)DANISH ENERGY AGENCY - An impression of the island, surrounded by offshore wind turbines, 260m (850ft) in height

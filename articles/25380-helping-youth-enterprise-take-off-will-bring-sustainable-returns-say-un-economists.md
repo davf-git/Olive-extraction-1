@@ -9,6 +9,8 @@ original_slug: helping-youth-enterprise-take-off-will-bring-sustainable-returns-
 original_url: https://olivenetwork.org/Issue/helping-youth-enterprise-take-off-will-bring-sustainable-returns-say-un-economists/25380
 images:
 - images/25380/01.jpg
+videos:
+- https://www.youtube.com/watch?v=8kJbX5kXMXs
 ---
 
 ![](images/25380/01.jpg)
@@ -18,6 +20,8 @@ images:
 [Economic Development](https://news.un.org/en/news/topic/economic-development)
 
 ### Young entrepreneurs who want their work to have a positive impact on their communities, urgently need more help from governments if they’re to succeed and resist the COVID-19-fuelled economic downturn, UN economists said on Thursday.
+
+[[Video: https://www.youtube.com/watch?v=8kJbX5kXMXs]](https://www.youtube.com/watch?v=8kJbX5kXMXs)
 
 ### 
 

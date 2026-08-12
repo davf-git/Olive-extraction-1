@@ -9,7 +9,11 @@ original_id: 25896
 original_slug: mia-mottley-prime-minister-of-barbados-at-the-opening-of-the-cop27-world-leaders-summit
 original_url: https://olivenetwork.org/Issue/mia-mottley-prime-minister-of-barbados-at-the-opening-of-the-cop27-world-leaders-summit/25896
 images: []
+videos:
+- https://www.youtube.com/watch?v=5J0egwAfO0w
 ---
+
+[[Video: https://www.youtube.com/watch?v=5J0egwAfO0w]](https://www.youtube.com/watch?v=5J0egwAfO0w)
 
 # Mia Mottley, Prime Minister of Barbados at the Opening of the [#COP27](https://www.youtube.com/hashtag/cop27) World Leaders Summit
 

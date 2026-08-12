@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/tree-planting-has-mind-blowing-pote
 images:
 - images/24937/01.jpg
 - images/24937/02.jpg
+videos: []
 ---
 
 ![](images/24937/01.jpg)Redwood trees in Guerneville, California. Photograph: Gabrielle Lurie/The Guardian

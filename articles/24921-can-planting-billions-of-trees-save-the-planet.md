@@ -15,6 +15,7 @@ images:
 - images/24921/05.jpg
 - images/24921/06.jpg
 - images/24921/07.jpg
+videos: []
 ---
 
 ![](images/24921/01.jpg)Volunteers plant mangroves in Indonesia. Photograph: NurPhoto/NurPhoto via Getty Images

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/unhcr-offers-practical-recommendati
 images:
 - images/25281/01.jpg
 - images/25281/02.jpg
+videos: []
 ---
 
 ![](images/25281/01.jpg)An Afghan asylum seeker stands with two of his childern at a reception centre in Fylakio, Greece, in February 2020. © UNHCR/Achilleas Zavallis

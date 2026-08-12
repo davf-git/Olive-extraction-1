@@ -10,6 +10,7 @@ original_slug: global-ceo-alliance-and-un-habitat-aim-to-support-1-000-cities-to
 original_url: https://olivenetwork.org/Issue/global-ceo-alliance-and-un-habitat-aim-to-support-1-000-cities-to-reach-the-sustainable-development-goals/25743
 images:
 - images/25743/01.jpg
+videos: []
 ---
 
 **![](images/25743/01.jpg)**

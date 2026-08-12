@@ -9,6 +9,7 @@ original_slug: boreal-forests-a-great-unknown-despite-being-the-second-lung-of-t
 original_url: https://olivenetwork.org/Issue/boreal-forests-a-great-unknown-despite-being-the-second-lung-of-the-planet/26216
 images:
 - images/26216/01.jpg
+videos: []
 ---
 
 ![](images/26216/01.jpg)FAO/Bill Ciesla: Boreal forests line a foggy fjord in Southeast Alaska (file).

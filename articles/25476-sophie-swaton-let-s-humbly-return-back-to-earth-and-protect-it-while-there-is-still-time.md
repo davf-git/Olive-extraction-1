@@ -10,6 +10,7 @@ original_slug: sophie-swaton-let-s-humbly-return-back-to-earth-and-protect-it-wh
 original_url: https://olivenetwork.org/Issue/sophie-swaton-let-s-humbly-return-back-to-earth-and-protect-it-while-there-is-still-time/25476
 images:
 - images/25476/01.jpg
+videos: []
 ---
 
 ![](images/25476/01.jpg)

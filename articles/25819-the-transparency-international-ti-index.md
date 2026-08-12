@@ -9,6 +9,7 @@ original_slug: the-transparency-international-ti-index
 original_url: https://olivenetwork.org/Issue/the-transparency-international-ti-index/25819
 images:
 - images/25819/01.jpg
+videos: []
 ---
 
 ![](images/25819/01.jpg)

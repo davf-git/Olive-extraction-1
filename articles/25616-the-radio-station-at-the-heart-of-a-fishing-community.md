@@ -13,6 +13,8 @@ images:
 - images/25616/03.jpg
 - images/25616/04.jpg
 - images/25616/05.jpg
+videos:
+- https://www.podbean.com/media/player/6y7rp-f74713??from=yiiadmin&skin=1&btn-skin=103&share=0&fonts=Helvetica&auto=0&download=1&rtl=0
 ---
 
 # 
@@ -28,6 +30,8 @@ by [Kamala Thiagarajan](https://www.hakaimagazine.com/profiles/kamala-thiagaraj
 January 12, 2021 | 2,400 words, about 12 minutes
 
 *This article is also available in audio format. Listen now, [download](https://hakaimagazine.podbean.com/mf/download/7qgtjy/Radio_Station.mp3), or subscribe to “Hakai Magazine Audio Edition” through your favorite podcast app.*
+
+[[Video: https://www.podbean.com/media/player/6y7rp-f74713??from=yiiadmin&skin=1&btn-skin=103&share=0&fonts=Helvetica&auto=0&download=1&rtl=0]](https://www.podbean.com/media/player/6y7rp-f74713??from=yiiadmin&skin=1&btn-skin=103&share=0&fonts=Helvetica&auto=0&download=1&rtl=0)
 
 Arokiaraj Francis, a 40-year-old fisher, felt the weaves of his plastic net tighten as his trawler puttered around India’s Pamban Island, a mere 29 kilometers from Sri Lanka. It was 11 p.m. and the swirling waters were dark. Only after he’d heaved the net into his boat did he realize what he had caught: an olive ridley sea turtle weighing as much as a bag of cement.
 

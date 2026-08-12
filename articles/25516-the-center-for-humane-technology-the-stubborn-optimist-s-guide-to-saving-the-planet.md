@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/the-center-for-humane-technology-th
 images:
 - images/25516/01.jpg
 - images/25516/02.jpg
+videos: []
 ---
 
 ### 

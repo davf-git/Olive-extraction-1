@@ -9,6 +9,7 @@ original_slug: christians-muslims-and-jews-to-share-faith-centre-in-berlin
 original_url: https://olivenetwork.org/Issue/christians-muslims-and-jews-to-share-faith-centre-in-berlin/25666
 images:
 - images/25666/01.jpg
+videos: []
 ---
 
 ![](images/25666/01.jpg)

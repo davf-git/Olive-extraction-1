@@ -12,6 +12,10 @@ images:
 - images/25285/01.png
 - images/25285/02.png
 - images/25285/03.png
+videos:
+- https://vimeo.com/414282070
+- https://vimeo.com/414283100
+- https://vimeo.com/414284315
 ---
 
 # COVID-19 & Climate Change: What does this mean for the fight against the climate crisis?
@@ -45,15 +49,21 @@ EXCERPT 1
 
 Question from William Young: How do we get governments to take the necessary action and integrate the policies required based on what they’ve learned from covid-19, for the climate emergency and for sustainability? (Nik Gowing)
 
+[[Video: https://vimeo.com/414282070]](https://vimeo.com/414282070)
+
 EXCERPT 2
 
 Question from Julia from [Students for the Future](https://studentsforfuture.info/) in Germany
 
 What would you say that we as civil society or activists can do now in order to build pressure at this time. What would be the best framing when speaking out for this kind of linkage? (Nik Gowing)
 
+[[Video: https://vimeo.com/414283100]](https://vimeo.com/414283100)
+
 EXCERPT 3
 
 The European Bank for Reconstruction: The need to tilt economic growth towards sustainability now in other words don’t invest unless it’s for green. Linking growth to a clean economy at the speed that’s necessary (Nik Gowing).
+
+[[Video: https://vimeo.com/414284315]](https://vimeo.com/414284315)
 
 **Sponsored by:**[![](images/25285/03.png)](https://www.esa.int/)
 

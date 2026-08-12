@@ -13,6 +13,8 @@ images:
 - images/26315/03.jpg
 - images/26315/04.jpg
 - images/26315/05.jpg
+videos:
+- https://www.youtube.com/watch?v=zALv9fAk_Fw
 ---
 
 # 
@@ -82,6 +84,8 @@ Developing countries, in particular, are worried that in the worst-case scenario
 **Egriselda López:**The Global Dialogue is the first platform in the United Nations for the discussion of AI governance. It's also an opportunity for Member States to come together to have an inclusive discussion; But not only governments, it's also about bringing together different stakeholders.
 
 **Maria Ressa**: Not one country can actually deal with this technology on its own; It needs to be a multilateral solution. And the body that is set up that could do this is the United Nations. Now the question is, will its Member States move?
+
+[[Video: https://www.youtube.com/watch?v=zALv9fAk\_Fw]](https://www.youtube.com/watch?v=zALv9fAk_Fw)
 
 ## 
 

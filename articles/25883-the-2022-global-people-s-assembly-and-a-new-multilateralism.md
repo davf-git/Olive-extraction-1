@@ -9,6 +9,7 @@ original_slug: the-2022-global-people-s-assembly-and-a-new-multilateralism
 original_url: https://olivenetwork.org/Issue/the-2022-global-people-s-assembly-and-a-new-multilateralism/25883
 images:
 - images/25883/01.jpg
+videos: []
 ---
 
 ### 

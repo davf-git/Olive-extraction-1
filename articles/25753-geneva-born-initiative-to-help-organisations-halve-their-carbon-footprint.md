@@ -9,6 +9,7 @@ original_slug: geneva-born-initiative-to-help-organisations-halve-their-carbon-f
 original_url: https://olivenetwork.org/Issue/geneva-born-initiative-to-help-organisations-halve-their-carbon-footprint/25753
 images:
 - images/25753/01.jpg
+videos: []
 ---
 
 ![](images/25753/01.jpg)

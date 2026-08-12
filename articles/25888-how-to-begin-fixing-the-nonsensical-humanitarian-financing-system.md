@@ -9,6 +9,7 @@ original_slug: how-to-begin-fixing-the-nonsensical-humanitarian-financing-system
 original_url: https://olivenetwork.org/Issue/how-to-begin-fixing-the-nonsensical-humanitarian-financing-system/25888
 images:
 - images/25888/01.jpg
+videos: []
 ---
 
 ![](images/25888/01.jpg)

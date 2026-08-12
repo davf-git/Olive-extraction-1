@@ -9,6 +9,7 @@ original_slug: the-power-of-collaboration-may-be-one-silver-lining-of-the-covid-
 original_url: https://olivenetwork.org/Issue/the-power-of-collaboration-may-be-one-silver-lining-of-the-covid-19-crisis/25510
 images:
 - images/25510/01.jpg
+videos: []
 ---
 
 ![](images/25510/01.jpg)

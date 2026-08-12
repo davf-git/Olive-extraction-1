@@ -13,6 +13,8 @@ images:
 - images/25558/03.jpg
 - images/25558/04.jpg
 - images/25558/05.jpg
+videos:
+- https://www.youtube.com/watch?v=AGviviGF-p0
 ---
 
 ![](images/25558/01.jpg "Health workers demonstrate proper handwashing to a child at a community health centre in Central Java, Indonesia.")© UNICEF/Fauzan Ijazah Health workers demonstrate proper handwashing to a child at a community health centre in Central Java, Indonesia.
@@ -20,6 +22,8 @@ images:
 6 November 202
 
 ### **World can save lives and ‘end this pandemic, together’ – WHO chief**
+
+[[Video: https://www.youtube.com/watch?v=AGviviGF-p0]](https://www.youtube.com/watch?v=AGviviGF-p0)
 
 ### **As the COVID-19 pandemic continues evolving, the world must “take all opportunities to learn and improve the response as we go”, the UN health agency chief said on Friday.**
 

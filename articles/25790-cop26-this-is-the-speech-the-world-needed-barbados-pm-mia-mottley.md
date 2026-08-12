@@ -8,7 +8,11 @@ original_id: 25790
 original_slug: cop26-this-is-the-speech-the-world-needed-barbados-pm-mia-mottley
 original_url: https://olivenetwork.org/Issue/cop26-this-is-the-speech-the-world-needed-barbados-pm-mia-mottley/25790
 images: []
+videos:
+- https://vimeo.com/645728026
 ---
+
+[[Video: https://vimeo.com/645728026]](https://vimeo.com/645728026)
 
 ### 
 

@@ -9,6 +9,7 @@ original_slug: unep-spotlight-on-climate-action
 original_url: https://olivenetwork.org/Issue/unep-spotlight-on-climate-action/25783
 images:
 - images/25783/01.jpg
+videos: []
 ---
 
 ![](images/25783/01.jpg)

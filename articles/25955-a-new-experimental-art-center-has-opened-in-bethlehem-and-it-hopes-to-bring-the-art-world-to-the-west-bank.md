@@ -12,6 +12,7 @@ images:
 - images/25955/01.jpg
 - images/25955/02.jpg
 - images/25955/03.jpg
+videos: []
 ---
 
 ![](images/25955/01.jpg)Wonder Cabinet. Photo by Ryan Brand.

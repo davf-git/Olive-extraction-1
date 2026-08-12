@@ -11,6 +11,8 @@ images:
 - images/25971/01.jpg
 - images/25971/02.jpg
 - images/25971/03.jpg
+videos:
+- https://www.youtube.com/watch?v=wnEavmXGMTo
 ---
 
 # 
@@ -52,6 +54,8 @@ Young climate advocates will join leaders of government and business at the [Cli
 UN News spoke with Ayisha Siddiqa, a member of the Secretary-General’s [Youth Advisory Group on Climate Change](https://www.un.org/en/climatechange/youth-in-action/youth-advisory-group), about how her background and how it informs her work, recognizing young people as key climate stakeholders, and why poetry “can be a mechanism of quiet protest” in the face of the climate emergency.
 
 [Read more](https://news.un.org/en/audio/2023/06/1137547)
+
+[[Video: https://www.youtube.com/watch?v=wnEavmXGMTo]](https://www.youtube.com/watch?v=wnEavmXGMTo)
 
 ### 
 

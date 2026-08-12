@@ -15,6 +15,7 @@ images:
 - images/24956/05.jpg
 - images/24956/06.jpg
 - images/24956/07.jpg
+videos: []
 ---
 
 ![](images/24956/01.jpg)World’s Largest Lesson is an on-going initiative from Project Everyone delivered in partnership with UNICEF and many other organisations to bring the Global Goals to children across the world.

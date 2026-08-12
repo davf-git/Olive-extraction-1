@@ -9,6 +9,7 @@ original_slug: ozone-layer-recovery-is-on-track-helping-avoid-global-warming-by-
 original_url: https://olivenetwork.org/Issue/ozone-layer-recovery-is-on-track-helping-avoid-global-warming-by-0-5-c/25920
 images:
 - images/25920/01.jpg
+videos: []
 ---
 
 ![](images/25920/01.jpg)
@@ -52,8 +53,8 @@ For the first time, the Scientific Assessment Panel examined the potential effec
 
 **For media inquiries, please contact:**
 
-[Moses Osani,](/cdn-cgi/l/email-protection#e18c8e928492cf8e92808f88a1948fcf8e9386) Media Officer, UN Environment Programme   
- [Stephanie Haysmith](/cdn-cgi/l/email-protection#d1a2a5b4a1b9b0bfb8b4ffb9b0a8a2bcb8a5b991a4bfffbea3b6), Communications & Public Information Officer, UNEP Ozone Secretariat
+[Moses Osani,](/cdn-cgi/l/email-protection#65080a1600164b0a16040b0c25100b4b0a1702) Media Officer, UN Environment Programme   
+ [Stephanie Haysmith](/cdn-cgi/l/email-protection#03707766736b626d6a662d6b627a706e6a776b43766d2d6c7164), Communications & Public Information Officer, UNEP Ozone Secretariat
 
 TOPICS
 

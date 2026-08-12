@@ -10,6 +10,7 @@ original_slug: international-committee-of-the-red-cross-partnering-with-local-or
 original_url: https://olivenetwork.org/Issue/international-committee-of-the-red-cross-partnering-with-local-organizations-makes-us-stronger/25464
 images:
 - images/25464/01.jpg
+videos: []
 ---
 
 # 

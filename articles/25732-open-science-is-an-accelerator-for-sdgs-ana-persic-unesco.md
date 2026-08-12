@@ -9,6 +9,7 @@ original_slug: open-science-is-an-accelerator-for-sdgs-ana-persic-unesco
 original_url: https://olivenetwork.org/Issue/open-science-is-an-accelerator-for-sdgs-ana-persic-unesco/25732
 images:
 - images/25732/01.jpg
+videos: []
 ---
 
 ![](images/25732/01.jpg) The United Nations Educational Scientific and Cultural Organization logo is pictured on the entrance at UNESCO's headquarters in Paris, October 2016. (AP Photo/Francois Mori)

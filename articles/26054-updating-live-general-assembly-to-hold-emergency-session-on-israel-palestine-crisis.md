@@ -10,6 +10,8 @@ original_slug: updating-live-general-assembly-to-hold-emergency-session-on-israe
 original_url: https://olivenetwork.org/Issue/updating-live-general-assembly-to-hold-emergency-session-on-israel-palestine-crisis/26054
 images:
 - images/26054/01.jpg
+videos:
+- https://cdnapisec.kaltura.com//p/2503451/embedPlaykitJs/uiconf_id/47917953?iframeembed=true&entry_id=1_z4l92746
 ---
 
 # 
@@ -23,6 +25,8 @@ ON SOURCE: [UN NEWS](https://news.un.org/en/story/2024/05/1149596)
 ### 
 
 ### **The UN General Assembly is set to convene again at 10:00 AM New York time for an emergency special session on the Gaza crisis with the fate hundreds of thousands of civilians in Rafah hanging in the balance as Israeli forces continue their advance on the southern city.**
+
+[[Video: https://cdnapisec.kaltura.com//p/2503451/embedPlaykitJs/uiconf\_id/47917953?iframeembed=true&entry\_id=1\_z4l92746]](https://cdnapisec.kaltura.com//p/2503451/embedPlaykitJs/uiconf_id/47917953?iframeembed=true&entry_id=1_z4l92746)
 
 **10:17 AM**
 

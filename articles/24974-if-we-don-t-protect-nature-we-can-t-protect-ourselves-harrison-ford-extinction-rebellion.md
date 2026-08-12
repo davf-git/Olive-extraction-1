@@ -9,7 +9,11 @@ original_id: 24974
 original_slug: if-we-don-t-protect-nature-we-can-t-protect-ourselves-harrison-ford-extinction-rebellion
 original_url: https://olivenetwork.org/Issue/if-we-don-t-protect-nature-we-can-t-protect-ourselves-harrison-ford-extinction-rebellion/24974
 images: []
+videos:
+- https://www.youtube.com/watch?v=WdSmnlVC_yk
 ---
+
+[[Video: https://www.youtube.com/watch?v=WdSmnlVC\_yk]](https://www.youtube.com/watch?v=WdSmnlVC_yk)
 
 [Extinction Rebellion](https://www.youtube.com/channel/UCYThdLKE6TDwBJh-qDC6ICA)
 

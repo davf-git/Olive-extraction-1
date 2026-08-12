@@ -10,6 +10,7 @@ original_slug: pedro-arrojo-agudo-water-should-be-a-blue-flag-for-peace-not-a-we
 original_url: https://olivenetwork.org/Issue/pedro-arrojo-agudo-water-should-be-a-blue-flag-for-peace-not-a-weapon-of-war/25979
 images:
 - images/25979/01.jpg
+videos: []
 ---
 
 ![](images/25979/01.jpg)UN Special rapporteur Pedro Arrojo Agudo, speaking at an event during Geneva Peace Week on 31 October 2023, said water should be used as a tool for peace not war. (Geneva Solutions/Michelle Langrand)

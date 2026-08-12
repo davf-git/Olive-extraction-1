@@ -11,6 +11,8 @@ original_url: https://olivenetwork.org/Issue/art-can-impact-society-watch-how-ar
 images:
 - images/25936/01.jpg
 - images/25936/02.jpg
+videos:
+- https://www.youtube.com/watch?v=cKGcNIy10fI
 ---
 
 ![](images/25936/01.jpg)Production still from the 'Art in the Twenty-First Century' Season 8 episode, 'Mexico City,' 2016. © Art21, Inc. 2016.
@@ -40,6 +42,8 @@ For the project *Del Montte—Bananeras* (2003/10), the artist intentionally ch
 “Art is totally connected to social change,” the artist said. “We don’t have a way to measure how art can impact society, and that’s good because that’s part of the freedom to do.”
 
 *Watch the video, which originally appeared as part of Art21’s series* Art in the Twenty-First Century, *below. “Minerva Cuevas – in gods we trust” is on view at Kurimanzutto in New York through April 15, 2023.*
+
+*[[Video: https://www.youtube.com/watch?v=cKGcNIy10fI]](https://www.youtube.com/watch?v=cKGcNIy10fI)*
 
 *This is an installment of “Art on Video,” a collaboration between Artnet News and Art21 that brings you clips of news-making artists. A new season of the nonprofit Art21’s flagship series Art in the Twenty-First Century is available now on PBS. Catch all episodes of other series, like New York Close Up and Extended Play, and learn about the organization’s educational programs at [Art21.org](https://art21.org/).*
 

@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/the-performers-bringing-joy-to-chil
 images:
 - images/24679/01.jpg
 - images/24679/02.jpg
+videos:
+- https://www.youtube.com/watch?v=mYBhgUnpQmE
 ---
 
 ![](images/24679/01.jpg)
@@ -17,6 +19,8 @@ images:
 SOURCE: [BBC AMAZING HUMANS](http://www.bbc.co.uk/bbcthree/item/aa136d82-8b55-4abb-9848-9b5ab7e36763)
 
 Ash and his team of clowns, musicians and dancers are 'play specialists' who work with children in refugee camps across Europe. The aim is to allow the kids 'to feel good, feel daft, and feel playful'.
+
+[[Video: https://www.youtube.com/watch?v=mYBhgUnpQmE]](https://www.youtube.com/watch?v=mYBhgUnpQmE)
 
 ![](images/24679/02.jpg)
 

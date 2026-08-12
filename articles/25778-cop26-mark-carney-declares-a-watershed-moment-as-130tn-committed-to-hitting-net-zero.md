@@ -10,6 +10,7 @@ original_slug: cop26-mark-carney-declares-a-watershed-moment-as-130tn-committed-
 original_url: https://olivenetwork.org/Issue/cop26-mark-carney-declares-a-watershed-moment-as-130tn-committed-to-hitting-net-zero/25778
 images:
 - images/25778/01.jpg
+videos: []
 ---
 
 ![](images/25778/01.jpg)

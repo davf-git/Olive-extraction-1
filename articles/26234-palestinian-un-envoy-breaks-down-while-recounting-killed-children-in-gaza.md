@@ -8,7 +8,11 @@ original_id: 26234
 original_slug: palestinian-un-envoy-breaks-down-while-recounting-killed-children-in-gaza
 original_url: https://olivenetwork.org/Issue/palestinian-un-envoy-breaks-down-while-recounting-killed-children-in-gaza/26234
 images: []
+videos:
+- https://vimeo.com/1101244357
 ---
+
+[[Video: https://vimeo.com/1101244357]](https://vimeo.com/1101244357)
 
 # Palestinian UN envoy breaks down while recounting killed children in Gaza
 

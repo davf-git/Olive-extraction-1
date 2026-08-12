@@ -15,6 +15,8 @@ images:
 - images/25676/05.jpg
 - images/25676/06.jpg
 - images/25676/07.jpg
+videos:
+- https://www.youtube.com/watch?v=jCgarW0U6Mk
 ---
 
 # 
@@ -77,6 +79,8 @@ They have since created more [Microlibraries](https://www.miclib.com/built-plan
 When designing a [Film Park in Bandung](http://shau.nl/en/project/63) with terraced seating for watching movies, the couple discovered that the most important part of the park was the artificial lawn in front of the screen, especially when nothing is being shown. “People start behaving as if they are at home. They don’t litter, they take of their shoes, kids play and roll around. You start to understand that you not only created a film park, but positive behaviour – an urban, communal living room.”
 
 While SHAU’s mission is to rekindle interest in culture, the team has witnessed how urban spaces have the power to enhance or deny interaction among people. And there’s nothing vanilla about that.
+
+[[Video: https://www.youtube.com/watch?v=jCgarW0U6Mk]](https://www.youtube.com/watch?v=jCgarW0U6Mk)
 
 **AtlasAction:** SHAU would like to create an organisation to support development and outreach for Microlibraries. Get in touch [here](http://www.shau.nl/index.php?lang=en).
 

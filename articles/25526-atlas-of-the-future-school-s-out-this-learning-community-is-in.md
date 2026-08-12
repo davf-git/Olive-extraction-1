@@ -13,6 +13,8 @@ images:
 - images/25526/03.jpg
 - images/25526/04.jpg
 - images/25526/05.jpg
+videos:
+- https://www.youtube.com/watch?v=TPkoq51i-vo
 ---
 
 ![](images/25526/01.jpg)
@@ -58,6 +60,8 @@ There are now three physical Hubs in action – the [Urban Hub](https://learnlif
 “The purpose of the project is to create a learning community where all members, whether they be young or older lifelong learners, experience a joy in learning that will endure into their futures. It is about igniting curiosity for everything positive that the world offers and preparing collaborative teams to tackle the world’s big problems. It is a joy working alongside so many like-minded and passionate people in the project – and that they come from all corners of the globe.”
 
 Learnlife’s ambition is to empower 100,000,000 learners, 5,000,000 educators, 100,000 schools and 2,000 learning hubs by 2030. The days of tinkering around the edges of schooling systems is over.
+
+[[Video: https://www.youtube.com/watch?v=TPkoq51i-vo]](https://www.youtube.com/watch?v=TPkoq51i-vo)
 
 AtlasAction: Create your own version of a hub anywhere in the world, join the [Alliance](https://learnlife.com/alliance) to become the change leaders within your own communities and registre for the [[RE]LEARN](https://learnlife.com/l/relearn-festival-2020-register) online festival and events.
 

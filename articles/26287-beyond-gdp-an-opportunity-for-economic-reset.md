@@ -9,6 +9,7 @@ original_slug: beyond-gdp-an-opportunity-for-economic-reset
 original_url: https://olivenetwork.org/Issue/beyond-gdp-an-opportunity-for-economic-reset/26287
 images:
 - images/26287/01.jpg
+videos: []
 ---
 
 ![](images/26287/01.jpg)

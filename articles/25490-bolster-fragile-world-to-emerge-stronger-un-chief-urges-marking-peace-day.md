@@ -9,6 +9,7 @@ original_slug: bolster-fragile-world-to-emerge-stronger-un-chief-urges-marking-p
 original_url: https://olivenetwork.org/Issue/bolster-fragile-world-to-emerge-stronger-un-chief-urges-marking-peace-day/25490
 images:
 - images/25490/01.jpg
+videos: []
 ---
 
 ![](images/25490/01.jpg)UN Photo/Mark Garten - UN Secretary-General António Guterres rings the peace bell at UN Headquarters in New York.

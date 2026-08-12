@@ -12,6 +12,8 @@ images:
 - images/26045/01.jpg
 - images/26045/02.jpg
 - images/26045/03.jpg
+videos:
+- https://www.youtube.com/watch?v=XhcxKhu_aT0
 ---
 
 ![](images/26045/01.jpg)COP28/Mahmoud Khaled - Women from the Brazilian delegation attend an indigenous event during the COP28 UN Climate Change Conference in Dubai, United Arab Emirates, in December 2023.
@@ -33,6 +35,8 @@ SOURCE: [UN NEWS - GLOBAL PERSPECTIVE HUMAN STORIES](https://news.un.org/en/stor
 Member States convened to commemorate the 10th anniversary of the [World Conference on Indigenous Peoples](https://www.un.org/en/ga/69/meetings/indigenous/#&panel1-1), where countries reaffirmed their commitment to promoting and protecting the rights of Indigenous peoples.
 
 The outcome document voiced support for implementing the landmark [UN Declaration on the Rights of Indigenous Peoples](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf), adopted in 2007, which prescribed minimum standards for the recognition, protection and promotion of these rights.
+
+[[Video: https://www.youtube.com/watch?v=XhcxKhu\_aT0]](https://www.youtube.com/watch?v=XhcxKhu_aT0)
 
 ### 
 

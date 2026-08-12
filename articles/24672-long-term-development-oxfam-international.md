@@ -12,6 +12,7 @@ images:
 - images/24672/02.jpg
 - images/24672/03.jpg
 - images/24672/04.jpg
+videos: []
 ---
 
 ![](images/24672/01.jpg)Around the globe, we work to find practical, innovative ways for people to lift themselves out of poverty and thrive. By supporting schools, to helping farmers sell their crops for a fair price, to improving access to people with HIV/AIDS to health care - our long-term development projects are transforming lives.

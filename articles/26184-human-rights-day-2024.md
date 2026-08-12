@@ -9,6 +9,8 @@ original_slug: human-rights-day-2024
 original_url: https://olivenetwork.org/Issue/human-rights-day-2024/26184
 images:
 - images/26184/01.jpg
+videos:
+- https://www.youtube.com/watch?v=iB_e2y2dEDU
 ---
 
 ![](images/26184/01.jpg)
@@ -40,5 +42,7 @@ To download campaign visuals and logos, visit our [Trello board](https://trello
 ### **Video message for Human Rights Day**
 
 #### UN High Commissioner for Human Rights, Volker Türk
+
+[[Video: https://www.youtube.com/watch?v=iB\_e2y2dEDU]](https://www.youtube.com/watch?v=iB_e2y2dEDU)
 
 ON SOURCE: [UNITED NATIONS HUMAN RIGHTS](https://www.ohchr.org/en/get-involved/campaign/hrd2024)

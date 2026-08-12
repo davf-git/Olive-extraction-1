@@ -9,6 +9,8 @@ original_slug: united-nations-international-day-of-clean-air-for-blue-skies-7-se
 original_url: https://olivenetwork.org/Issue/united-nations-international-day-of-clean-air-for-blue-skies-7-september/25465
 images:
 - images/25465/01.jpg
+videos:
+- https://www.youtube.com/watch?v=GVBeY1jSG9Y
 ---
 
 ![](images/25465/01.jpg)Photo:WMO Photostream/Anna Zuidema - Frosty morning in Pingjum Friesland, The Netherlands. © Anna Zuidema/[WMO 2020 Calendar — 75 selected entries](https://www.flickr.com/photos/worldmeteorologicalorganization/albums/72157711172879971)
@@ -47,6 +49,6 @@ Encouraged by the increasing interest of the international community in clean ai
 
 In the outcome document of the United Nations Conference on Sustainable Development, entitled '[The future we want,](https://undocs.org/A/RES/66/288)' countries committed to promoting sustainable development policies that support healthy air quality in the context of sustainable cities and human settlements. Also, the [2030 Agenda for Sustainable Development](https://undocs.org/A/RES/70/1), which outlines a road map to achieving sustainable development, environmental protection and prosperity for all, recognizes that air pollution abatement is important to the attainment of the Sustainable Development Goals.
 
-### 
+### [[Video: https://www.youtube.com/watch?v=GVBeY1jSG9Y]](https://www.youtube.com/watch?v=GVBeY1jSG9Y)
 
 SOURCE: [UNITED NATIONS](https://www.un.org/en/observances/clean-air-day)

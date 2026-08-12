@@ -10,6 +10,8 @@ original_slug: investing-in-health-workers-yields-triple-dividend-who-chief-says
 original_url: https://olivenetwork.org/Issue/investing-in-health-workers-yields-triple-dividend-who-chief-says-in-new-year-s-message/25145
 images:
 - images/25145/01.jpg
+videos:
+- https://www.youtube.com/watch?v=_lt8GbIR-2M
 ---
 
 ![](images/25145/01.jpg)
@@ -35,5 +37,7 @@ There are 22 million nurses and two million midwives worldwide, who prevent, dia
 He also observed that 70 per cent of the global health workforce is female, pointing out that “jobs for health workers are often jobs for women”.
 
 “Investing in health workers pays a triple dividend for health, economic growth and gender equality”, spelled out the WHO Director-General.
+
+[[Video: https://www.youtube.com/watch?v=\_lt8GbIR-2M]](https://www.youtube.com/watch?v=_lt8GbIR-2M)
 
 SOURCE: [UNITED NATIONS](https://news.un.org/en/story/2020/01/1054651)

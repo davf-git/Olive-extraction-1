@@ -9,6 +9,7 @@ original_slug: ideascity-new-museum
 original_url: https://olivenetwork.org/Issue/ideascity-new-museum/25750
 images:
 - images/25750/01.jpg
+videos: []
 ---
 
 ![](images/25750/01.jpg)Image: Artist Theaster Gates in conversation with IdeasCity Detroit Fellows during the IdeasCity Detroit public conference on April 30, 2016. Photo: Justin Milhouse

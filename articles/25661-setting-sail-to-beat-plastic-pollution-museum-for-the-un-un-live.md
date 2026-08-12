@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/setting-sail-to-beat-plastic-pollut
 images:
 - images/25661/01.jpg
 - images/25661/02.jpg
+videos:
+- https://www.youtube.com/watch?v=r97dCMm0M4A
 ---
 
 #### **The Flipflopi dhow navigates the Kenya coastline during its first expedition in 2019. **Photo:** Finnegan Flint**
@@ -31,6 +33,8 @@ In 2008 I was traveling on my way to work at Ilha de Moçambique – a UNESCO Wo
 On that day – and on many others since – I’ve witnessed first-hand how much pride and love there is in centuries-long traditional dhow building. In the years since, across the maritime communities of Eastern and Southern Africa and the Gulf, I’ve chatted with dhow builders as they hammer cording into their wooden vessels, watched as sailors depart for a day of fishing, listened as elders recount childhoods of pearling, and seen dhows claim centre stage in new national museums of the region. It is clear the dhow is an incredible example of how cultural heritage can spark immense pride. Given the connections the dhow made possible across the entire Indian Ocean, it is also an important symbol of just how interconnected we all are.
 
 My time in Eastern Africa and Mozambique in 2008 inspired a huge year for me, personally. I finally took a leap of faith and changed the course of my career on a hunch I had been toying with for years – that culture had a unique – and largely untapped – power to inspire people to think differently about the world, to connect people across geographies, to help us all imagine *and then build* a more sustainable and hopeful future for us all.
+
+[[Video: https://www.youtube.com/watch?v=r97dCMm0M4A]](https://www.youtube.com/watch?v=r97dCMm0M4A)
 
 We are thrilled to be partnering with The FlipFlopi Project as this unique dhow embarks on its second voyage. UN Live’s vision is to work with organisations just like FlipFlopi, the world over, to explore how we can invoke the power of culture and creativity to inspire mass action – of everyday people – in support of the Sustainable Development Goals.
 

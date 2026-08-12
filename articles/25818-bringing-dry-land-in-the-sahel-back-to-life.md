@@ -12,6 +12,8 @@ images:
 - images/25818/02.jpg
 - images/25818/03.jpg
 - images/25818/04.jpg
+videos:
+- https://www.youtube.com/watch?v=xpuklzyYHao
 ---
 
 ![](images/25818/01.jpg)
@@ -92,6 +94,8 @@ It is projected that degradation will continue to expand at 360 000 hectares per
 Africa is currently losing four million hectares of forest every year for this reason, yet has more than 700 million hectares of degraded land viable for restoration. By bringing degraded land back to life, farmers do not have to clear additional forest land to turn into cropland for Africa’s rising population and growing food demands.
 
 When Mr. Sacande talks about restoring land in Africa, the passion in his voice is evident. “Restoring degraded land back to productive good health is a huge opportunity for Africa. It brings big social and economic benefits to rural farming communities,” he says. “It’s a bulwark against climate change and it brings technology to enhance traditional knowledge.”
+
+[[Video: https://www.youtube.com/watch?v=xpuklzyYHao]](https://www.youtube.com/watch?v=xpuklzyYHao)
 
 Action Against Desertification – Delfino ploughs for land preparation and landscape restoration
 

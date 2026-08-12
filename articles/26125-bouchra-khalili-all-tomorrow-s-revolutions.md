@@ -17,6 +17,7 @@ images:
 - images/26125/07.jpg
 - images/26125/08.jpg
 - images/26125/09.jpg
+videos: []
 ---
 
 ![](images/26125/01.jpg)The Mapping Journey Project, 2008–11 (installation view, Foreigners Everywhere, 60th Venice Biennale, 2024). Photo: Marco Zorzanello. Courtesy La Biennale di Venezia

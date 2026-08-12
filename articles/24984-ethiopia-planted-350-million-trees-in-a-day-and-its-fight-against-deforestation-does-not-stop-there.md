@@ -13,6 +13,7 @@ images:
 - images/24984/02.jpg
 - images/24984/03.jpg
 - images/24984/04.jpg
+videos: []
 ---
 
 ![](images/24984/01.jpg)The efforts far surpassed the original target of planting 200 million seedlings in a day.  Image: REUTERS/Regis Duvignau

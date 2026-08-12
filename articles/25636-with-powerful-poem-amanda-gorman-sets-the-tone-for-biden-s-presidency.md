@@ -9,6 +9,8 @@ original_slug: with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presid
 original_url: https://olivenetwork.org/Issue/with-powerful-poem-amanda-gorman-sets-the-tone-for-biden-s-presidency/25636
 images:
 - images/25636/01.jpg
+videos:
+- https://www.youtube.com/watch?v=2mTmTdOgv0M
 ---
 
 ![](images/25636/01.jpg)Poet Amanda Gorman reads The Hill We Climb during Joseph Biden's Presidential Inauguration at the US Capitol in Washington, DC Photo: AP/Patrick Semansky, Pool
@@ -28,6 +30,8 @@ The 22-year-old Los Angeles poet [Amanda Gorman](https://www.theamandagorman.co
 The [tradition](https://lithub.com/read-every-presidential-inauguration-poem-ever-performed-there-are-fewer-than-you-think/) of having a poet recite their work during the inauguration ceremonies was started by President John F. Kennedy, who [personally invited Robert Frost](https://www.biography.com/news/john-f-kennedy-inauguration-robert-frost-poem) to his in 1961. But the practice was not picked up until Bill Clinton asked Maya Angelou to give a reading at his first inauguration in 1993—and Miller Williams at his second in 1997. Barack Obama followed up with Elizabeth Alexander and Richard Blanco. Biden is known as a long-time lover of verse, using the works of Irish poet W.B. Yeats to overcome a stutter in his youth, and [regularly quoting Seamus Heaney](https://www.washingtonpost.com/nation/2020/08/21/seamus-heaney-biden-dnc-speech/) and James Joyce at public events. Gorman herself struggled to pronounce certain sounds as a child—something that made her the focused and forceful performer she is today, she [recently told](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=a7e79529-6fcb-4007-91ca-922dfef768b3) *The Los Angeles Times*.
 
 You can hear and read her inauguration poem, to be [published in her first collected volume](https://www.penguinrandomhouse.com/books/688816/the-hill-we-climb-by-amanda-gorman/) this September, below:
+
+[[Video: https://www.youtube.com/watch?v=2mTmTdOgv0M]](https://www.youtube.com/watch?v=2mTmTdOgv0M)
 
 ### **The Hill We Climb**
 

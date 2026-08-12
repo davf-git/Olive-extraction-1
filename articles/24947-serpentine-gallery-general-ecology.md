@@ -19,11 +19,18 @@ images:
 - images/24947/09.jpg
 - images/24947/10.jpg
 - images/24947/11.jpg
+videos:
+- https://www.youtube.com/watch?v=cL2rA0Z0ZGs
+- https://www.youtube.com/watch?v=VXWLzhcvqxk
 ---
 
 ## 
 
 **General Ecology** is the Serpentine’s long-term and ongoing project researching complexity, posthumanism the environment and climate change. General Ecology manifests through publications, exhibitions, study programmes, radio, symposia and live events bringing together practitioners from the fields of art, design, science, literature and anthropology, among many others.
+
+[[Video: https://www.youtube.com/watch?v=cL2rA0Z0ZGs]](https://www.youtube.com/watch?v=cL2rA0Z0ZGs)
+
+[[Video: https://www.youtube.com/watch?v=VXWLzhcvqxk]](https://www.youtube.com/watch?v=VXWLzhcvqxk)
 
 In 2014, the Serpentine’s **[Extinction Marathon](https://www.serpentinegalleries.org/exhibitions-events/extinction-marathon)** was hailed by *The Guardian* as ‘The artworld’s bid to save the world’. Since this pivotal event, the Serpentine has continued its research around ecology, climate change, animality, human and artificial consciousness, wellbeing, extinction, technology and multi-scale complexity.
 

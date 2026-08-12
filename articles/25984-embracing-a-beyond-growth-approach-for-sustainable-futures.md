@@ -9,6 +9,7 @@ original_slug: embracing-a-beyond-growth-approach-for-sustainable-futures
 original_url: https://olivenetwork.org/Issue/embracing-a-beyond-growth-approach-for-sustainable-futures/25984
 images:
 - images/25984/01.jpg
+videos: []
 ---
 
 ![](images/25984/01.jpg)

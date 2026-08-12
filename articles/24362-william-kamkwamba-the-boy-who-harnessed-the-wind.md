@@ -9,6 +9,7 @@ original_slug: william-kamkwamba-the-boy-who-harnessed-the-wind
 original_url: https://olivenetwork.org/Issue/william-kamkwamba-the-boy-who-harnessed-the-wind/24362
 images:
 - images/24362/01.jpg
+videos: []
 ---
 
 #### **To power his family's home, young William Kamkwamba built an electricity-producing windmill from spare parts and scrap — starting him on a journey detailed in the book and film ['The Boy Who Harnessed the Wind.'](http://williamkamkwamba.typepad.com)**

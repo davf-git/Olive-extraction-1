@@ -11,6 +11,8 @@ images:
 - images/26172/01.jpg
 - images/26172/03.jpg
 - images/26172/04.jpg
+videos:
+- https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1827691359&visual=&auto_play=false&hide_related=true&show_artwork=true&show_playcount=false&show_comments=false&show_user=false&show_reposts=false&download=false&buying=false&sharing=false&show_teaser=false&single_active=true&color=%23ff5500
 ---
 
 ![](images/26172/01.jpg)
@@ -80,6 +82,8 @@ Colombia’s former environmental minister, Manuel Rodríguez Becerra, told *UN
 The 16th Conference of the Parties of the Convention on the Biological Diversity of the United Nations is considered the most important event that has occurred in Colombia in the last 50 years.
 
 ### **Doctor David Cooper, Acting Executive Chief of the Secretariat of the UN Convention on Biological Diversity**
+
+[[Video: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1827691359&visual=&auto\_play=false&hide\_related=true&show\_artwork=true&show\_playcount=false&show\_comments=false&show\_user=false&show\_reposts=false&download=false&buying=false&sharing=false&show\_teaser=false&single\_active=true&color=%23ff5500]](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1827691359&visual=&auto_play=false&hide_related=true&show_artwork=true&show_playcount=false&show_comments=false&show_user=false&show_reposts=false&download=false&buying=false&sharing=false&show_teaser=false&single_active=true&color=%23ff5500)
 
 ## **Learn more about biodiversity**
 

@@ -9,6 +9,7 @@ original_slug: cop26-platform
 original_url: https://olivenetwork.org/Issue/cop26-platform/25761
 images:
 - images/25761/01.jpg
+videos: []
 ---
 
 [![](images/25761/01.jpg)](/Group/5b20dc42-1603-4421-b784-fffc1a7a0eaf)

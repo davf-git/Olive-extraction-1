@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/mexican-shelter-welcomes-lgbti-refu
 images:
 - images/24681/01.jpg
 - images/24681/02.jpg
+videos:
+- https://www.youtube.com/watch?v=sIQ8yQRqt0k
 ---
 
 ![](images/24681/01.jpg)La 72, run by Franciscan Friar Tomás González Castillo near the Guatemalan border, is the first shelter in Mexico to cater to the needs of LGBTI refugees. © UNHCR/Sebastian Rich
@@ -27,6 +29,8 @@ The shelter, known as La 72, is run by Friar Tomás González Castillo, a member
 Every evening, Friar Tomás, addresses residents before lights out, welcoming any new arrivals, announcing forthcoming events and observing a minute’s silence for those suffering during their flight. Tonight he tells them: “Tomorrow the LGBTI collective will organize a party to celebrate pride and you are all invited.”
 
 Since Friar Tomás founded the shelter in Tenosique in 2011, it has provided protection and humanitarian assistance to more than 50,000 people fleeing violence, extortion, forced recruitment and human rights violations in Honduras, El Salvador and Guatemala.
+
+[[Video: https://www.youtube.com/watch?v=sIQ8yQRqt0k]](https://www.youtube.com/watch?v=sIQ8yQRqt0k)
 
 The Mexican Friar providing a safe haven for refugees
 

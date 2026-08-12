@@ -9,6 +9,7 @@ original_slug: hard-truths-to-face-tate-declares-climate-emergency
 original_url: https://olivenetwork.org/Issue/hard-truths-to-face-tate-declares-climate-emergency/24955
 images:
 - images/24955/01.jpg
+videos: []
 ---
 
 ![](images/24955/01.jpg) Olafur Eliasson, *The Weather Project*, Tate Modern, London, 2003. Courtesy: Getty Images, Photofusion/UIG

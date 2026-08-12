@@ -9,6 +9,7 @@ original_slug: photos-what-the-youth-climate-strike-looks-like-around-the-world
 original_url: https://olivenetwork.org/Issue/photos-what-the-youth-climate-strike-looks-like-around-the-world/25060
 images:
 - images/25060/01.jpg
+videos: []
 ---
 
 ![](images/25060/01.jpg)

@@ -12,6 +12,8 @@ images:
 - images/24931/02.jpg
 - images/24931/03.jpg
 - images/24931/04.jpg
+videos:
+- https://www.youtube.com/watch?v=PZgGb4p0xo0
 ---
 
 ![](images/24931/01.jpg)
@@ -21,6 +23,8 @@ In today’s society both young and old increasingly find themselves living in a
 Given this, the report that a [Dutch nursing home](http://www.citylab.com/housing/2015/10/the-nursing-home-thats-also-a-dorm/408424/) has established a programme providing free rent to university students in exchange for 30 hours a month of their time “acting as neighbours” with their aged residents is unusual.
 
 The programme has seen students in their early twenties sharing lives with residents in their eighties and nineties. As part of their volunteer agreement, the students also spend time teaching residents new skills – like how to email, use social media, Skype, and even graffiti art.
+
+[[Video: https://www.youtube.com/watch?v=PZgGb4p0xo0]](https://www.youtube.com/watch?v=PZgGb4p0xo0)
 
 ## **Reducing loneliness**
 

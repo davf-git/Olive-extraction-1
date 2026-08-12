@@ -10,6 +10,7 @@ original_slug: oxfam-the-10-richest-men-saw-their-net-worth-increase-by-540-bill
 original_url: https://olivenetwork.org/Issue/oxfam-the-10-richest-men-saw-their-net-worth-increase-by-540-billion-during-the-pandemic/25642
 images:
 - images/25642/01.jpg
+videos: []
 ---
 
 ## 

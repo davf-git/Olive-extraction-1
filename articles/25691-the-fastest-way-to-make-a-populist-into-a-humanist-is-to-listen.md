@@ -12,6 +12,7 @@ images:
 - images/25691/02.jpg
 - images/25691/03.jpg
 - images/25691/04.jpg
+videos: []
 ---
 
 ![](images/25691/01.jpg)Olafur Eliasson beside his art installation titled *Moss Wall* at Tate Modern in London on July 9, 2019. Photo Judith Burrows/Hulton Archive/Getty Images.

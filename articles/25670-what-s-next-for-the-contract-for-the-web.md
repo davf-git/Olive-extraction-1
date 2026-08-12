@@ -9,6 +9,7 @@ original_slug: what-s-next-for-the-contract-for-the-web
 original_url: https://olivenetwork.org/Issue/what-s-next-for-the-contract-for-the-web/25670
 images:
 - images/25670/01.jpg
+videos: []
 ---
 
 ![](images/25670/01.jpg)

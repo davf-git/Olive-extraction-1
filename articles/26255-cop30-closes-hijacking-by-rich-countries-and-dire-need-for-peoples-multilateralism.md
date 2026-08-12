@@ -9,6 +9,7 @@ original_slug: cop30-closes-hijacking-by-rich-countries-and-dire-need-for-people
 original_url: https://olivenetwork.org/Issue/cop30-closes-hijacking-by-rich-countries-and-dire-need-for-peoples-multilateralism/26255
 images:
 - images/26255/01.jpg
+videos: []
 ---
 
 ![](images/26255/01.jpg)

@@ -9,6 +9,7 @@ original_slug: un-launches-global-principles-for-information-integrity
 original_url: https://olivenetwork.org/Issue/un-launches-global-principles-for-information-integrity/26113
 images:
 - images/26113/01.jpg
+videos: []
 ---
 
 ![](images/26113/01.jpg)

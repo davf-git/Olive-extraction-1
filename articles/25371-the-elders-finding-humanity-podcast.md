@@ -10,6 +10,8 @@ original_url: https://olivenetwork.org/Issue/the-elders-finding-humanity-podcast
 images:
 - images/25371/01.jpg
 - images/25371/05.jpg
+videos:
+- https://anchor.fm/findinghumanity/embed/episodes/Global-Governance-Former-World-Leaders-on-Collective-Responsibility--The-Future-of-Multilateralism-and-The-United-Nations-efre25/a-a2hrhep
 ---
 
 ![](images/25371/01.jpg)Photo: The Elders / Ralph Alswang; Columbia University / Eileen Barroso)
@@ -35,6 +37,8 @@ In this episode:
 * **Hazami Barmada** Host & Executive Producer, Finding Humanity Podcast; Founder, Humanity Lab Foundation
 
 Key themes: International affairs, multilateralism, the United Nations, UN Security Council, COVID-19 global response, and how to curb existential threats including climate change and the threat of nuclear war.
+
+[[Video: https://anchor.fm/findinghumanity/embed/episodes/Global-Governance-Former-World-Leaders-on-Collective-Responsibility--The-Future-of-Multilateralism-and-The-United-Nations-efre25/a-a2hrhep]](https://anchor.fm/findinghumanity/embed/episodes/Global-Governance-Former-World-Leaders-on-Collective-Responsibility--The-Future-of-Multilateralism-and-The-United-Nations-efre25/a-a2hrhep)
 
 SOURCE: [THE ELDERS](https://www.theelders.org/news/finding-humanity-podcast-critical-conversations-elders)
 

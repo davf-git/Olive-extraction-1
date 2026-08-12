@@ -10,6 +10,8 @@ original_slug: let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-ch
 original_url: https://olivenetwork.org/Issue/let-a-billion-trees-bloom-can-a-great-green-wall-of-trees-stop-china-s-spreading-desert/24683
 images:
 - images/24683/01.jpg
+videos:
+- https://vimeo.com/9901381
 ---
 
 ![](images/24683/01.jpg)
@@ -27,6 +29,8 @@ He is leading a group of volunteers across 21 / 2 miles of desert to a “green 
 But now the Kubuqi Desert is sucking away life. Windstorms threaten the air 800 miles away in Beijing and send plumes all the way across the Pacific to the West Coast of the United States.
 
 Kwon founded [Future Forest](http://www.futureforest.org/eng/page/community/notice_list.asp?page=1&searchStr=&boardSeq=423), a nonprofit organization, to combat desertification in 2001. As ambassador to China from 1998 to 2001, he had experienced firsthand the sandstorms known as the Yellow Dragon, which thicken the skies over Beijing with dust and send people with asthmatic lungs and weak hearts to the hospital. He became convinced then that if action weren’t taken, the march of sand would threaten the viability of the Asian continent.
+
+[[Video: https://vimeo.com/9901381]](https://vimeo.com/9901381)
 
 A 'green wall' in the Kubuqi desert
 

@@ -16,9 +16,13 @@ images:
 - images/24462/06.jpg
 - images/24462/07.jpg
 - images/24462/08.jpg
+videos:
+- https://www.youtube.com/watch?v=z16jsfZZ69Q
 ---
 
 ![](images/24462/01.jpg)
+
+[[Video: https://www.youtube.com/watch?v=z16jsfZZ69Q]](https://www.youtube.com/watch?v=z16jsfZZ69Q)
 
 [Chandler Evans](https://www.buzzfeed.com/vayabobo?language=en)
 

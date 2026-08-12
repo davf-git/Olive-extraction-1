@@ -13,6 +13,8 @@ images:
 - images/25502/03.jpg
 - images/25502/04.jpg
 - images/25502/05.jpg
+videos:
+- https://www.youtube.com/watch?v=RERNwceuvh4
 ---
 
 ### 
@@ -49,6 +51,8 @@ Since its inception in 2016, ECW has reached an estimated 4.5 million children a
 
 Today’s event was also an opportunity for ECW to roll out a new donation feature through video communications platform Zoom in partnership with online fundraising platform Pledgeling. During the event, the audience was invited to make and view live donations to support Education Cannot Wait’s work for children and youth caught in conflict and crises across the globe, raising over $14,000 in just two hours. Donations can still be made at [www.pledgeling.com/ECW](http://www.pledgeling.com/ECW) or, in the US, by texting ‘ECW’ to 707070.
 
+[[Video: https://www.youtube.com/watch?v=RERNwceuvh4]](https://www.youtube.com/watch?v=RERNwceuvh4)
+
 Click [here](https://www.youtube.com/watch?v=RERNwceuvh4) to watch the full recording of the high-level event “The Future of Education is Here for Those Left Furthest Behind.”
 
 Learn more on the high-level event: [www.educationcannotwait.org/unga2020/](http://www.educationcannotwait.org/unga2020/)
@@ -76,6 +80,6 @@ To support our efforts and **donate to Education Cannot Wait**, text ‘ECW’ t
  Anouk Desgroseilliers, [[email protected]](/cdn-cgi/l/email-protection), +1-917-640-6820   
  Kent Page, [[email protected]](/cdn-cgi/l/email-protection), +1-917-302-1735
 
-**For other inquiries**: [[email protected]](/cdn-cgi/l/email-protection#7d14131b123d081350181e0a53120f1a)
+**For other inquiries**: [[email protected]](/cdn-cgi/l/email-protection#8be2e5ede4cbfee5a6eee8fca5e4f9ec)
 
 SOURCE: [EDUCATION CANNOT WAIT](https://www.educationcannotwait.org/education-cannot-wait-mobilizes-an-additional-us23-6-million-to-increase-support-for-vulnerable-children-and-youth-already-affected-by-armed-conflict-forced-displacement-and-protracted-cri/)

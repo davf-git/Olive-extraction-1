@@ -11,6 +11,7 @@ images:
 - images/26317/01.jpg
 - images/26317/02.jpg
 - images/26317/03.jpg
+videos: []
 ---
 
 ![](images/26317/01.jpg)UN Under-Secretary-General and UN Women Executive Director Sima Bahous delivers remarks to the Security Council open debate on women and peace and security, UN headquarters, 17 June 2026. Photo: UN Women/Ryan Brown.

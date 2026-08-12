@@ -9,6 +9,7 @@ original_slug: rsa-indigenous-knowledge-the-wisdom-of-deep-listening
 original_url: https://olivenetwork.org/Issue/rsa-indigenous-knowledge-the-wisdom-of-deep-listening/25771
 images:
 - images/25771/01.jpg
+videos: []
 ---
 
 ![](images/25771/01.jpg)

@@ -11,6 +11,8 @@ images:
 - images/25830/01.jpg
 - images/25830/02.jpg
 - images/25830/03.png
+videos:
+- https://www.youtube.com/watch?v=mQSIeD-x6dQ
 ---
 
 ![](images/25830/01.jpg)
@@ -26,6 +28,8 @@ images:
 # Violinists Across 29 Countries Play to Support Ukraine
 
 March 9, 2022, 11:46 AM · Violinists across the world have joined together to perform the Ukrainian folk song 'Verbovaya Doschechka' in support of Ukraine.
+
+[[Video: https://www.youtube.com/watch?v=mQSIeD-x6dQ]](https://www.youtube.com/watch?v=mQSIeD-x6dQ)
 
 It started with Illia Bondarenko, who filmed himself playing in a basement shelter in Kyiv, at the request of Kerenza Peacock, a British violinist who lives in Los Angeles. Then it grew to 94 violinist from 29 countries.
 

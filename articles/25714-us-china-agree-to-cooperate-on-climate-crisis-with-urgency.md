@@ -9,6 +9,7 @@ original_slug: us-china-agree-to-cooperate-on-climate-crisis-with-urgency
 original_url: https://olivenetwork.org/Issue/us-china-agree-to-cooperate-on-climate-crisis-with-urgency/25714
 images:
 - images/25714/01.jpg
+videos: []
 ---
 
 # 

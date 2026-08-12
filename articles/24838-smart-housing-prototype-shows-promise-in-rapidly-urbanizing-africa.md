@@ -13,6 +13,8 @@ images:
 - images/24838/03.jpg
 - images/24838/04.jpg
 - images/24838/05.jpg
+videos:
+- https://www.youtube.com/watch?v=hUBjnsPI2d4
 ---
 
 *![](images/24838/01.jpg)*
@@ -46,6 +48,8 @@ It is fitting that the pavilion is based in Kenya, as the government there has 
 To achieve the low-cost housing agenda, however, the industry needs to embrace technological changes that will result in the use of innovative sustainable construction, the aggregate effect of which would be to lower the embodied energy and average cost of manufacturing and housing. “Architecture must address the global housing challenge by integrating critically needed scientific and technical advances in energy, water, and material systems while remaining sensitive to the cultural and aesthetic aspirations of different regions,” said Deborah Berke, Dean of the Yale School of Architecture.
 
 
+
+[[Video: https://www.youtube.com/watch?v=hUBjnsPI2d4]](https://www.youtube.com/watch?v=hUBjnsPI2d4)
 
 The pavilion serves as a starting point for those in government and industry to think about what they can do better. It is part of a series of demonstration buildings, which started with a 22-square-meter “Ecological Living Module”, powered by renewable energy and designed to minimize the use of resources such as water. This module was displayed at the United Nations High-level Political Forum on Sustainable Development in 2018.
 

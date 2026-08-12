@@ -11,6 +11,8 @@ images:
 - images/26252/01.jpg
 - images/26252/02.jpg
 - images/26252/03.jpg
+videos:
+- https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2206331263&visual=&auto_play=false&hide_related=true&show_artwork=true&show_playcount=false&show_comments=false&show_user=false&show_reposts=false&download=false&buying=false&sharing=false&show_teaser=false&single_active=true&color=%23ff5500
 ---
 
 ##### © UNICEF/Nick Sells  Students learn digital literacy and life skills at a school in rural Cambodia.
@@ -76,6 +78,8 @@ Its policy brief proposes establishing “prosperity floors” – ensuring that
 According to the analysis, 411 million people could move from poverty into basic security by 2030 if countries pursue job-intensive growth, adaptable social protection, and policies that improve wages and working conditions.
 
 “With decisive, integrated action, **we can break the cycle of vulnerability and deliver lasting prosperity**. The past 30 years have shown that progress is possible,” said UNDP Acting Administrator Haoliang Xu, pointing back to the 1995 Copenhagen Declaration that first set global commitments on social development.
+
+[[Video: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2206331263&visual=&auto\_play=false&hide\_related=true&show\_artwork=true&show\_playcount=false&show\_comments=false&show\_user=false&show\_reposts=false&download=false&buying=false&sharing=false&show\_teaser=false&single\_active=true&color=%23ff5500]](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2206331263&visual=&auto_play=false&hide_related=true&show_artwork=true&show_playcount=false&show_comments=false&show_user=false&show_reposts=false&download=false&buying=false&sharing=false&show_teaser=false&single_active=true&color=%23ff5500)
 
 UNDP Acting Administrator Xu speaks with *UN News* at the Summit.
 

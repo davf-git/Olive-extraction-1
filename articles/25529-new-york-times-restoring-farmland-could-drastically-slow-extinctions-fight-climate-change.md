@@ -12,6 +12,7 @@ images:
 - images/25529/01.jpg
 - images/25529/02.png
 - images/25529/03.jpg
+videos: []
 ---
 
 ![](images/25529/01.jpg)A red-fronted brown lemur in the Kirindy forest reserve near Morondava, Madagascar. Scientists said that restoring a portion of agricultural land to a wild state would not only help reduce extinctions but aid in the fight against global warming. Credit...Baz Ratner/Reuters

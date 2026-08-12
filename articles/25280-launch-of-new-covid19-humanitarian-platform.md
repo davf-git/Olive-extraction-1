@@ -9,6 +9,7 @@ original_slug: launch-of-new-covid19-humanitarian-platform
 original_url: https://olivenetwork.org/Issue/launch-of-new-covid19-humanitarian-platform/25280
 images:
 - images/25280/01.jpg
+videos: []
 ---
 
 # 
@@ -42,7 +43,7 @@ The platform will offer:
 
 Please visit [**COVID-19 Humanitarian**](https://www.covid19humanitarian.com/) to contribute to and see our evolving network of participating organizations and context-specific resources. Guidance and submissions from humanitarian actors will be updated regularly.
 
-For more details or to organize media interviews with Prof. Blanchet email: [[email protected]](/cdn-cgi/l/email-protection#e380869182808c8e8e968d8a8082978a8c8da3968d8a8486cd808b).
+For more details or to organize media interviews with Prof. Blanchet email: [[email protected]](/cdn-cgi/l/email-protection#a2c1c7d0c3c1cdcfcfd7cccbc1c3d6cbcdcce2d7cccbc5c78cc1ca).
 
 Project website details: [www.covid19humanitarian.com](http://www.covid19humanitarian.com).
 

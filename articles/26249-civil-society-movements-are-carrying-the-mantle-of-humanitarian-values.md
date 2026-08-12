@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/civil-society-movements-are-carryin
 images:
 - images/26249/01.jpg
 - images/26249/02.jpg
+videos: []
 ---
 
 ![](images/26249/01.jpg)Boats, part of the Global Sumud Flotilla aiming to reach Gaza and break Israel's naval blockade, sail off Koufonisi islet, Greece, on 26 September 2025.

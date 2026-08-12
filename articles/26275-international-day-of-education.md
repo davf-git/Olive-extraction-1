@@ -13,6 +13,8 @@ images:
 - images/26275/03.jpg
 - images/26275/04.jpg
 - images/26275/05.jpg
+videos:
+- https://www.youtube.com/watch?v=B-pO1Oe8Jao
 ---
 
 ![](images/26275/01.jpg)Today, 250 million children and adolescents are out of school and 763 million adults are illiterate, according to UNESCO.
@@ -36,6 +38,8 @@ Find out more on [UNESCO's website](https://www.unesco.org/en/days/education).
 Leadership is essential for quality education, seen as the second most important factor influencing learning outcomes. Effective leadership occurs at various levels, including within schools and in government.
 
 The latest edition of the examines the [Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000391406) requirements for good educational leadership, highlighting how they differ across countries and change over time. It explores the visions driving leadership, practices that lead to improved education outcomes, and the impact of external social, cultural, and governance factors on effective leadership.
+
+[[Video: https://www.youtube.com/watch?v=B-pO1Oe8Jao]](https://www.youtube.com/watch?v=B-pO1Oe8Jao)
 
 ### **Background**
 

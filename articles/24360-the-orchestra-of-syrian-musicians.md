@@ -11,6 +11,8 @@ images:
 - images/24360/01.jpg
 - images/24360/02.jpg
 - images/24360/03.jpg
+videos:
+- https://www.youtube.com/watch?v=TUWXOM4Lz_w
 ---
 
 [![](images/24360/01.jpg)](https://www.theguardian.com/music/2016/jun/23/syrian-national-orchestra-daman-albarn-when-there-is-violence-you-have-to-make-music)
@@ -30,6 +32,8 @@ It’s an ambitious project, and when I arrive in Amsterdam to watch the first d
 His predicament typifies the logistical problems the organisers have faced. Trying to get visas for 50 Syrian musicians almost sunk the project before it began; just a week before rehearsals were due to start, it still wasn’t clear they could get the Schengen visas needed to book the performers’ flights. Africa Express co-founder [Ian Birrell](https://twitter.com/ianbirrell?lang=en-gb) tells me they have hired a Boeing 737 to transport all the musicians and I hear dark rumours about desperate calls to British officials.
 
 But Rafea’s absence also highlights the emotional temperature of the performances. The conductor’s brother is one of the orchestral musicians and his sisters sing in the choir; this was their first chance to see their sibling since he left [Syria](https://www.theguardian.com/world/syria) in 2013.
+
+[[Video: https://www.youtube.com/watch?v=TUWXOM4Lz\_w]](https://www.youtube.com/watch?v=TUWXOM4Lz_w)
 
 Albarn’s own relationship with Syria began eight years ago when he was introduced to Eslam Jawaad, a Syrian Lebanese rapper who had worked with Wu-Tang Clan. The pair hit it off: Jawaad performed for the track [Mr Whippy](https://www.youtube.com/watch?v=TUWXOM4Lz_w)on Albarn’s concept album the Good, the Bad and the Queen, then toured with Gorillaz – and finally took Albarn to visit Syria.
 

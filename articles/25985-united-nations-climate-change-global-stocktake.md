@@ -8,7 +8,11 @@ original_id: 25985
 original_slug: united-nations-climate-change-global-stocktake
 original_url: https://olivenetwork.org/Issue/united-nations-climate-change-global-stocktake/25985
 images: []
+videos:
+- https://www.youtube.com/watch?v=UTt_iW0h7LQ
 ---
+
+[[Video: https://www.youtube.com/watch?v=UTt\_iW0h7LQ]](https://www.youtube.com/watch?v=UTt_iW0h7LQ)
 
 ### **THE GLOBAL STOCKTAKE**
 

@@ -9,7 +9,11 @@ original_slug: global-sumud-flotilla-a-letter
 original_url: https://olivenetwork.org/Issue/global-sumud-flotilla-a-letter/26245
 images:
 - images/26245/01.jpg
+videos:
+- https://vimeo.com/1116387301
 ---
+
+[[Video: https://vimeo.com/1116387301]](https://vimeo.com/1116387301)
 
 ### GLOBAL SUMUD FLOTILLA - Misan Harriman reads a vital, salient letter in support of the flotilla
 

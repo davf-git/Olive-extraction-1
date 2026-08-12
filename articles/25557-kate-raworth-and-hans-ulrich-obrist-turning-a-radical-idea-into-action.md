@@ -9,7 +9,11 @@ original_slug: kate-raworth-and-hans-ulrich-obrist-turning-a-radical-idea-into-a
 original_url: https://olivenetwork.org/Issue/kate-raworth-and-hans-ulrich-obrist-turning-a-radical-idea-into-action/25557
 images:
 - images/25557/01.jpg
+videos:
+- https://www.youtube.com/watch?v=SxOj6ctxDR8
 ---
+
+[[Video: https://www.youtube.com/watch?v=SxOj6ctxDR8]](https://www.youtube.com/watch?v=SxOj6ctxDR8)
 
 [Panel Discussion](https://www.serpentinegalleries.org/whats-on/?type=panel-discussion) [Online Event](https://www.serpentinegalleries.org/whats-on/?type=online-event)
 

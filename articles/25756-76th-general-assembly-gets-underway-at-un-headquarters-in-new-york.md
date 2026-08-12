@@ -9,6 +9,9 @@ original_slug: 76th-general-assembly-gets-underway-at-un-headquarters-in-new-yor
 original_url: https://olivenetwork.org/Issue/76th-general-assembly-gets-underway-at-un-headquarters-in-new-york/25756
 images:
 - images/25756/01.jpg
+videos:
+- https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1437764066039140354&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F110250%2F76th-general-assembly&sessionId=b80817bd104f8fcf24b5d81da905e89ecd563e07&siteScreenName=devaidjobs&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px
+- https://www.youtube.com/watch?v=0-344dpYw3s
 ---
 
 # 
@@ -24,6 +27,8 @@ images:
 Passing on the gavel to the new Assembly president, António Guterres saluted his predecessor: “Throughout this difficult and historic moment, we have all been fortunate to rely on the leadership of His Excellency, President Volkan Bozkir”.
 
 The UN chief credited the outgoing Turkish diplomat and politician for prioritizing a sustainable recovery, rooted in the 2030 Agenda, and supporting countries and communities as they rebuild systems shattered by the pandemic.
+
+[[Video: https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1437764066039140354&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F110250%2F76th-general-assembly&sessionId=b80817bd104f8fcf24b5d81da905e89ecd563e07&siteScreenName=devaidjobs&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px]](https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdHdlZXRfZW1iZWRfOTU1NSI6eyJidWNrZXQiOiJodGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NwYWNlX2NhcmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&frame=false&hideCard=false&hideThread=false&id=1437764066039140354&lang=en&origin=https%3A%2F%2Fwww.developmentaid.org%2F%23!%2Fnews-stream%2Fpost%2F110250%2F76th-general-assembly&sessionId=b80817bd104f8fcf24b5d81da905e89ecd563e07&siteScreenName=devaidjobs&theme=light&widgetsVersion=1890d59c%3A1627936082797&width=550px)
 
 Mr. Guterres said that under Mr. Bozkir’s leadership, the Assembly had sought to “strengthen health systems, deliver COVID-19 testing, treatment, and equipment, and contribute to the most ambitious vaccination campaign in history”.
 
@@ -72,5 +77,7 @@ He underscored the need to speed up our response to COVID-19, with vaccines, tre
 Mr. Guterres also stressed the need to re-commit to the UN values of human rights, supporting the most vulnerable, peace through dialogue and solidarity.
 
 “Over the next year, every day, let us keep this better world in view. Let us live and breathe our values in this Assembly, and across our work”, he said, telling the new president: “The entire Secretariat is at your disposal”.
+
+[[Video: https://www.youtube.com/watch?v=0-344dpYw3s]](https://www.youtube.com/watch?v=0-344dpYw3s)
 
 SOURCE: [DEVELOPMENT AID](https://www.developmentaid.org/#!/news-stream/post/110250/76th-general-assembly?utm_source=Newsletter&utm_medium=Email&utm_campaign=NewsDigest&token=d2149963-06e8-11ea-8cc5-52540068df95)

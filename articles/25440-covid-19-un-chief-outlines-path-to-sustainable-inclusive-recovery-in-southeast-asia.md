@@ -11,6 +11,8 @@ original_url: https://olivenetwork.org/Issue/covid-19-un-chief-outlines-path-to-
 images:
 - images/25440/01.jpg
 - images/25440/02.jpg
+videos:
+- https://www.youtube.com/watch?v=dsSKhNcbTD4
 ---
 
 ![](images/25440/01.jpg)
@@ -24,6 +26,8 @@ UNICEF/Fauzan Ijazah A mother and her two-year old daughter at home in Central J
 ### 
 
 ### Tackling inequality, bridging the digital divide, greening the economy, and upholding human rights and good governance will be critical for Southeast Asia to recover from the COVID-19 pandemic, the UN Secretary-General said on Thursday.
+
+[[Video: https://www.youtube.com/watch?v=dsSKhNcbTD4]](https://www.youtube.com/watch?v=dsSKhNcbTD4)
 
 Antonio Guterres has released his [latest policy brief](https://www.un.org/sites/un2.un.org/files/sg_policy_brief_covid_south-east_asia_30_july_2020.pdf) on the crisis, which examines impacts on the 11 countries in the subregion and recommendations for the way forward that put gender equality at the centre of response efforts.
 

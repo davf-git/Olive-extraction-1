@@ -15,6 +15,7 @@ images:
 - images/25711/04.jpg
 - images/25711/05.jpg
 - images/25711/06.jpg
+videos: []
 ---
 
 ![](images/25711/01.jpg)‘It gave me hope in democracy’: how France is reviving people power Photograph: Franck Fife/AFP/Getty Images

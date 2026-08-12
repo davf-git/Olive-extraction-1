@@ -15,6 +15,8 @@ images:
 - images/25723/05.jpg
 - images/25723/06.jpg
 - images/25723/07.jpg
+videos:
+- https://www.youtube.com/watch?v=xW03ZVJZscI
 ---
 
 ![](images/25723/01.jpg)
@@ -30,6 +32,8 @@ images:
 #### As the climate and social crises we face intensify, the voices of young people are rightly getting louder.
 
 #### Forum for the Future and its Founder Director, environmentalist Jonathon Porritt, have partnered with UK-based NGO, Reboot the Future, to launch **‘How Will You Reboot the Future?’**, a multi-media campaign set to engage 14-19 year old students **to stimulate debate and action** as we approach the **26th** UN Climate Change Conference of the Parties (**COP26**) in Glasgow.
+
+[[Video: https://www.youtube.com/watch?v=xW03ZVJZscI]](https://www.youtube.com/watch?v=xW03ZVJZscI)
 
 #### 
 

@@ -19,6 +19,8 @@ images:
 - images/24688/09.jpg
 - images/24688/10.webp
 - images/24688/11.webp
+videos:
+- https://vimeo.com/232924010
 ---
 
 ![](images/24688/01.jpg)
@@ -32,6 +34,8 @@ and it is not dreamless. Does not your house dream?
 and dreaming, leave the city for grove or hill-top?
 
 — Khalil Gibran, 'On Houses'
+
+[[Video: https://vimeo.com/232924010]](https://vimeo.com/232924010)
 
 [**UNPACKED: Refugee Baggage**](https://www.unpackedrefugee.com/) seeks to humanize the word “refugee.” Created during the summer of 2017, this multi-media installation is the work of Syrian-born, New Haven CT artist and architect Mohamad Hafez and Iraqi-born writer and speaker Ahmed Badr.
 

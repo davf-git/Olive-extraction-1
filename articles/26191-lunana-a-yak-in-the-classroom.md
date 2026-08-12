@@ -11,6 +11,8 @@ images:
 - images/26191/01.jpg
 - images/26191/02.png
 - images/26191/03.jpg
+videos:
+- https://www.youtube.com/watch?v=m8YqhCwTf6o
 ---
 
 ![](images/26191/01.jpg)
@@ -44,6 +46,8 @@ Contrasts abound between the modern and the traditional. At first, Ugyen burns p
 Dorji’s unadorned, contemplative compositions and measured editing rhythms reflect an unhurried appreciation of the natural landscapes and Lunana’s acceptance of its place in an ever-changing world. The inevitable, movingly understated climax doesn’t judge Ugyen; yet the very first shot, long before Ugyen reaches Lunana, is of Saldon singing in the mountains. That’s where the film’s heart truly lies. If teachers, or anyone, can “touch the future”, Dorji quietly insists that we hold on to the past too.
 
 ► **Lunana: A Yak in the Classroom**
+
+[[Video: https://www.youtube.com/watch?v=m8YqhCwTf6o]](https://www.youtube.com/watch?v=m8YqhCwTf6o)
 
 ![](images/26191/03.jpg)
 

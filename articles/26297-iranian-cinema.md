@@ -10,6 +10,9 @@ original_url: https://olivenetwork.org/Issue/iranian-cinema/26297
 images:
 - images/26297/01.jpg
 - images/26297/02.jpg
+videos:
+- https://vimeo.com/1185221016
+- https://vimeo.com/1185222093
 ---
 
 ![](images/26297/01.jpg)
@@ -21,6 +24,8 @@ Posted to Instagram by The Good Films - @the\_goodfilms
 These films help you to understand the Iranian people, beyond the headlines, revealing stories of love, family,
 
 identity and resilience through deeply human and unforgettable moments.
+
+[[Video: https://vimeo.com/1185221016]](https://vimeo.com/1185221016)
 
 In the late 90’s I was in a band in Bristol called Drift... and that is what we did. One song we wrote was Hollywood Threat. The lyrics were mine. ON Ed
 
@@ -51,5 +56,7 @@ The counter reference in the song is The Runner, an Iranian film I had seen a fe
 SOURCE: [CRITERION COLLECTION](https://www.criterion.com/films/34099-the-runner)
 
 Childhood takes on mythic dimensions in one of the defining works of postrevolutionary Iranian cinema. Inspired by director Amir Naderi’s own boyhood, *The Runner* is lit from within by Madjid Niroumand’s electrifying performance as a young orphan fending for himself on the streets of a port city, determined to rise above his circumstances—working odd jobs, passing time with friends, learning to read—and running, always running, toward the future. Water, fire, the human body in motion: in hypnotic images of lyrical power, Naderi finds unexpected glory in the world of a boy suspended between modernity and elemental natural forces as he chases his own path forward.
+
+[[Video: https://vimeo.com/1185222093]](https://vimeo.com/1185222093)
 
 ![](images/26297/02.jpg)

@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/art-can-be-a-powerful-medicine-agai
 images:
 - images/24685/01.jpg
 - images/24685/02.jpg
+videos: []
 ---
 
 ![](images/24685/01.jpg)

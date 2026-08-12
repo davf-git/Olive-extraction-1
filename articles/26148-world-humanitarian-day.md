@@ -12,6 +12,8 @@ images:
 - images/26148/02.jpg
 - images/26148/03.png
 - images/26148/04.jpg
+videos:
+- https://www.youtube.com/watch?v=WuaTplJFnK8
 ---
 
 ## 
@@ -31,6 +33,8 @@ Despite universally accepted international laws to regulate the conduct of armed
 This failure of those in power cannot be allowed to continue. Attacks on humanitarian workers and humanitarian assets must stop. Attacks on civilians and civilian infrastructure must stop.
 
 This World Humanitarian Day, we demand an end to these violations and the impunity with which they are committed. It is time for those in power to end impunity and #ActForHumanity.
+
+[[Video: https://www.youtube.com/watch?v=WuaTplJFnK8]](https://www.youtube.com/watch?v=WuaTplJFnK8)
 
 This World Humanitarian Day, celebrating humanitarian workers is not enough. We need those in power to act now to ensure the protection of civilians, including humanitarians, in conflict zones. Share this video to help us pressure parties to conflict and world leaders to #ActForHumanity. (OCHA)
 

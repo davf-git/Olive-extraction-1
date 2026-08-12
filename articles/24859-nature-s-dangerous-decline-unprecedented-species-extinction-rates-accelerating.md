@@ -9,6 +9,7 @@ original_slug: nature-s-dangerous-decline-unprecedented-species-extinction-rates
 original_url: https://olivenetwork.org/Issue/nature-s-dangerous-decline-unprecedented-species-extinction-rates-accelerating/24859
 images:
 - images/24859/01.jpg
+videos: []
 ---
 
 ## 
@@ -129,7 +130,7 @@ Often described as the “IPCC for biodiversity”, IPBES is an independent inte
 * **IPBES Assessment of Scenarios and Models of Biodiversity** (2016): [www.youtube.com/watch?v=wZfcDmtGa9I](https://www.youtube.com/watch?v=wZfcDmtGa9I)
 
 **Follow IPBES on Social Media:**    
- [**twitter.com/@ipbes**](/cdn-cgi/l/email-protection#51252638252534237f323e3c7e113821333422)   
+ [**twitter.com/@ipbes**](/cdn-cgi/l/email-protection#6e1a19071a1a0b1c400d0103412e071e0c0b1d)   
  [linkedin.com/company/ipbes](http://www.linkedin.com/company/ipbes)   
  [youtube.com/ipbeschannel](https://youtube.com/ipbeschannel)    
  [facebook.com/ipbes](https://www.facebook.com/ipbes)    

@@ -12,6 +12,9 @@ images:
 - images/25802/02.jpg
 - images/25802/03.jpg
 - images/25802/04.jpg
+videos:
+- https://www.youtube.com/watch?v=3PUrN07Q50w
+- https://www.youtube.com/watch?v=hy72flVegxU
 ---
 
 ###### Photo by Yannis H on Unsplash
@@ -32,6 +35,8 @@ The recipe for success, it turns out, includes an algorithm, experts and transla
 
 Throughout 2021, GA put together the Core Assembly, a group of 100 people from around the world, to answer one question: **how can humanity address the climate and ecological crisis in a fair and effective way?** After learning, debating, and overcoming space, time, and power cuts together, the members presented their views to the policymakers who were calling the shots at COP26. As to say, [a declaration on the future of Planet Earth](https://globalassembly.org/declaration) signed by the humans who inhabit it.
 
+[[Video: https://www.youtube.com/watch?v=3PUrN07Q50w]](https://www.youtube.com/watch?v=3PUrN07Q50w)
+
 Presenting the declaration in Glasgow’s Green Zone, just across the river from government leaders, Susan said:
 
 > ### “Today’s a historic day. Today we hear what the voice of humanity has to say about the climate and ecological crisis for the first time. Today’s the day we begin to plug in the missing puzzle pieces of how we make decisions at the global level.”
@@ -45,6 +50,8 @@ The Core Assembly is as diverse as humanity is. An algorithm randomly selected 1
 Of course, not all everyday people are climate experts. That’s why **scientists and Indigenous knowledge keepers** from the GA’s Knowledge and Wisdom Committee, led by former IPCC and IPBES chair [Robert Watson](https://en.wikipedia.org/wiki/Robert_Watson_(chemist)), steer the creation of the learning material used by the assembly. Members learn about the climate crisis from the people at its forefront and those who dedicated their lives to studying it. The best part? The learning material can be downloaded by “anyone on earth.”
 
 Because the Core Assembly is only a part of the movement. To really ‘give everyone a seat at the table’, GA is turbo boosting **locally-run community assemblies** organised by people like you and me all over the world, providing the learning material and a community assembly toolkit. Local deliberations will feed back into the global processes. 50 countries have joined so far.
+
+[[Video: https://www.youtube.com/watch?v=hy72flVegxU]](https://www.youtube.com/watch?v=hy72flVegxU)
 
 Should we swap our government systems for an algorithm, then?
 

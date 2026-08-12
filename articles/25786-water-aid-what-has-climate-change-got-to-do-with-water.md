@@ -9,6 +9,8 @@ original_slug: water-aid-what-has-climate-change-got-to-do-with-water
 original_url: https://olivenetwork.org/Issue/water-aid-what-has-climate-change-got-to-do-with-water/25786
 images:
 - images/25786/01.jpg
+videos:
+- https://www.youtube.com/watch?v=ZTbBpjHTME0
 ---
 
 ![](images/25786/01.jpg)
@@ -16,6 +18,8 @@ images:
 ## What has climate change got to do with water?
 
 Our climate is changing at an alarming rate and it’s making it even harder for the world’s poorest people to get clean water. More frequent and extreme flooding is polluting fragile water sources; longer droughts are drying up springs. People need a reliable supply of water that keeps pumping through flood, drought and natural disaster. Because with clean water, they can stay disease free, go to school, earn a living and be better prepared for whatever the future brings.
+
+[[Video: https://www.youtube.com/watch?v=ZTbBpjHTME0]](https://www.youtube.com/watch?v=ZTbBpjHTME0)
 
 ### Why is COP26 important?
 

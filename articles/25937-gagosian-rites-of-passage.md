@@ -9,6 +9,7 @@ original_slug: gagosian-rites-of-passage
 original_url: https://olivenetwork.org/Issue/gagosian-rites-of-passage/25937
 images:
 - images/25937/01.jpg
+videos: []
 ---
 
 ![](images/25937/01.jpg)
@@ -39,7 +40,7 @@ SOURCE: [GAGOSIAN](https://gagosian.com/exhibitions/2023/rites-of-passage/?utm_s
 [View Map](https://goo.gl/maps/HX9dyw8gpSU2)
 
 [+44 20 7841 9960](tel:+44 20 7841 9960)   
- [[email protected]](/cdn-cgi/l/email-protection#096566676d6667496e686e667a606867276a6664)
+ [[email protected]](/cdn-cgi/l/email-protection#016d6e6f656e6f416660666e7268606f2f626e6c)
 
 Hours: Monday–Friday 10–6
 
@@ -64,25 +65,25 @@ Tunji Adeniyi-Jones
 
 #### Contact
 
-[[email protected]](/cdn-cgi/l/email-protection#fe9d9192929b9d8a979099be999f99918d979f90d09d9193c18d8b9c949b9d8ac3b99f99918d979f90dbcccedbc9bddbccceac978a9b8ddbccce9198dbccceae9f8d8d9f999bdbccbddbcccebc8c978a9f9090979fdbcccead8a8c9b9b8adbccbddbccceb291909a9190dbccbddbccceb39f8c9d96dbcccecfc8dbbbccdbc6cedbc7cdbf8e8c9792dbccceccc7dbccbddbcccecccecccdd89f938ec59c919a87c3968a8a8e8ddbcdbfd1d1999f99918d979f90d09d9193d19b8696979c978a9791908dd1cccecccdd18c978a9b8dd39198d38e9f8d8d9f999bd1dbcdb88b8a93a18d918b8c9d9bdbcdbab99f99918d979f90dbccc88b8a93a19d9f938e9f979990dbcdbacac6c8cec7c79f9bccced3899b9b959287d3939f8c9d96d3cfcdd3cfc7d3cccecccddbccc88b8a93a1939b9a978b93dbcdba9b939f9792dbccc88b8a93a18a9b8c93dbcdbacea1d3cac6c8cec7c79f9bccced3dbcccbcbbcb2b7adaaa1bbb3bfb7b2a1b7badbcccbcbba)   
- [[email protected]](/cdn-cgi/l/email-protection#ec9c9e899f9fac8b8d8b839f858d82c28f8381)
+[[email protected]](/cdn-cgi/l/email-protection#385b5754545d5b4c51565f785f595f574b515956165b5755074b4d5a525d5b4c057f595f574b5159561d0a081d0f7b1d0a086a514c5d4b1d0a08575e1d0a0868594b4b595f5d1d0a7b1d0a087a4a514c59565651591d0a086b4c4a5d5d4c1d0a7b1d0a087457565c57561d0a7b1d0a0875594a5b501d0a08090e1d7d0a1d00081d010b79484a51541d0a080a011d0a7b1d0a080a080a0b1e595548035a575c4105504c4c484b1d0b7917175f595f574b515956165b5755175d4050515a514c5157564b170a080a0b174a514c5d4b15575e1548594b4b595f5d171d0b7e4d4c55674b574d4a5b5d1d0b7c7f595f574b5159561d0a0e4d4c55675b59554859515f561d0b7c0c000e080101595d0a08154f5d5d5354411555594a5b5015090b150901150a080a0b1d0a0e4d4c5567555d5c514d551d0b7c5d555951541d0a0e4d4c55674c5d4a551d0b7c0867150c000e080101595d0a08151d0a0d0d7a74716b6c677d7579717467717c1d0a0d0d7c)   
+ [[email protected]](/cdn-cgi/l/email-protection#0e7e7c6b7d7d4e696f69617d676f60206d6163)
 
 #### Press
 
 **Gagosian**   
- [[email protected]](/cdn-cgi/l/email-protection#5f2f2d3a2c2c1f383e38302c363e31713c3032)
+ [[email protected]](/cdn-cgi/l/email-protection#7707051204043710161018041e16195914181a)
 
 +44 20 7495 1500   
  Toby Kidd   
- [[email protected]](/cdn-cgi/l/email-protection#a9ddc2c0cdcde9cec8cec6dac0c8c787cac6c4)
+ [[email protected]](/cdn-cgi/l/email-protection#41352a282525012620262e3228202f6f222e2c)
 
 Ashleigh Barice   
- [[email protected]](/cdn-cgi/l/email-protection#a2c3c0c3d0cbc1c7e2c5c3c5cdd1cbc3cc8cc1cdcf)
+ [[email protected]](/cdn-cgi/l/email-protection#49282b283b202a2c092e282e263a202827672a2624)
 
 **Bolton & Quinn**   
  +44 20 7221 5000   
  Erica Bolton   
- [[email protected]](/cdn-cgi/l/email-protection#97f2e5fef4f6d7f5f8fbe3f8f9e6e2fef9f9b9f4f8fa)
+ [[email protected]](/cdn-cgi/l/email-protection#aecbdcc7cdcfeeccc1c2dac1c0dfdbc7c0c080cdc1c3)
 
 Daisy Taylor   
- [[email protected]](/cdn-cgi/l/email-protection#680c09011b11280a07041c0706191d010606460b0705)
+ [[email protected]](/cdn-cgi/l/email-protection#ddb9bcb4aea49dbfb2b1a9b2b3aca8b4b3b3f3beb2b0)

@@ -12,6 +12,7 @@ images:
 - images/25607/02.jpg
 - images/25607/03.jpg
 - images/25607/04.jpg
+videos: []
 ---
 
 ![](images/25607/01.jpg)Tim Berners-Lee, at home in Oxfordshire, England, envisions a framework in which personal online data could be stored in a “pod” that the person controlled. Credit...Lola and Pani for The New York Times

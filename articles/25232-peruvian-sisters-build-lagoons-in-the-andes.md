@@ -19,6 +19,8 @@ images:
 - images/25232/09.jpg
 - images/25232/10.jpg
 - images/25232/11.jpg
+videos:
+- https://www.youtube.com/watch?v=oRu2t0H0NbY
 ---
 
 ![](images/25232/01.jpg)
@@ -74,6 +76,8 @@ images:
 > “In this region, rains will reduce and temperatures will go up,”Gustavo  explains. “For these communities, there is no option but to adapt. If they don’t, they will be risking their own lives.”
 >
 > ► Meet Magdalena Machaca:
+>
+> [[Video: https://www.youtube.com/watch?v=oRu2t0H0NbY]](https://www.youtube.com/watch?v=oRu2t0H0NbY)
 >
 > AtlasAction: Learn more about the sisters’ work with ABA [here](http://www.abaayacucho.org.pe/).
 >

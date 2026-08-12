@@ -9,6 +9,7 @@ original_slug: war-mining-and-disinformation-threaten-fundamental-right-to-healt
 original_url: https://olivenetwork.org/Issue/war-mining-and-disinformation-threaten-fundamental-right-to-healthy-environment/26290
 images:
 - images/26290/01.jpg
+videos: []
 ---
 
 ![](images/26290/01.jpg)

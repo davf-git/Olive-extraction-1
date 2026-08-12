@@ -9,6 +9,9 @@ original_slug: sphinx-president-responds-to-national-crisis
 original_url: https://olivenetwork.org/Issue/sphinx-president-responds-to-national-crisis/25369
 images:
 - images/25369/01.jpg
+videos:
+- https://www.youtube.com/watch?v=ULncG3sZ0XI
+- https://www.youtube.com/watch?v=C-Sp3Zr5j6U
 ---
 
 **![](images/25369/01.jpg)**
@@ -17,11 +20,13 @@ images:
 
 **A 3 minute video overview of the Sphinx Organization**
 
-### 
+### [[Video: https://www.youtube.com/watch?v=ULncG3sZ0XI]](https://www.youtube.com/watch?v=ULncG3sZ0XI)
 
 ### 
 
 ### **Sphinx President Responds to National Crisis**
+
+[[Video: https://www.youtube.com/watch?v=C-Sp3Zr5j6U]](https://www.youtube.com/watch?v=C-Sp3Zr5j6U)
 
 “Long before the modern essayists and scholars wrote of racial identity as a problem for a multiracial world, musicians were returning to their roots to affirm that which was stirring within their souls. Much of the power of our Freedom Movement in the United States has come from music. It has strengthened us with its sweet rhythms when courage began to fail. It has calmed us with its rich harmonies when spirits were down.”
 

@@ -9,6 +9,7 @@ original_slug: in-new-strategy-wellcome-trust-will-take-on-global-health-challen
 original_url: https://olivenetwork.org/Issue/in-new-strategy-wellcome-trust-will-take-on-global-health-challenges/25538
 images:
 - images/25538/01.jpg
+videos: []
 ---
 
 ![](images/25538/01.jpg)With an endowment worth £28 billion, the Wellcome Trust is taking on goal-oriented global health challenges. ARCAID IMAGES/ALAMY STOCK PHOTO

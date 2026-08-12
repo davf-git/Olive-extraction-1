@@ -13,6 +13,7 @@ images:
 - images/24588/03.jpg
 - images/24588/04.jpg
 - images/24588/05.jpg
+videos: []
 ---
 
 # Diverse candidates make history in US midterm elections

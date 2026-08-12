@@ -10,6 +10,7 @@ original_slug: united-nations-to-shape-a-strong-recovery-and-scale-up-efforts-fo
 original_url: https://olivenetwork.org/Issue/united-nations-to-shape-a-strong-recovery-and-scale-up-efforts-for-the-global-goals/25823
 images:
 - images/25823/01.jpg
+videos: []
 ---
 
 ![](images/25823/01.jpg)

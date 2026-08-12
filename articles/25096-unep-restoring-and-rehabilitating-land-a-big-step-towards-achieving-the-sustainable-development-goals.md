@@ -10,6 +10,8 @@ original_slug: unep-restoring-and-rehabilitating-land-a-big-step-towards-achievi
 original_url: https://olivenetwork.org/Issue/unep-restoring-and-rehabilitating-land-a-big-step-towards-achieving-the-sustainable-development-goals/25096
 images:
 - images/25096/01.jpg
+videos:
+- https://www.youtube.com/watch?v=GNpm7WzqxOo
 ---
 
 # 
@@ -17,6 +19,8 @@ images:
 # Restoring and rehabilitating land a big step towards achieving the Sustainable Development Goals
 
 With just 10 years remaining before the world’s nations are due to realize the Sustainable Development Goals in 2030, we still have a long way to go for countries to deliver on their targets and reverse the climate, species and resource consumption crises.
+
+[[Video: https://www.youtube.com/watch?v=GNpm7WzqxOo]](https://www.youtube.com/watch?v=GNpm7WzqxOo)
 
 With just 10 years remaining before the world’s nations are due to realize the Sustainable Development Goals in 2030, we still have a long way to go for countries to deliver on their targets and reverse the climate, species and resource consumption crises.
 

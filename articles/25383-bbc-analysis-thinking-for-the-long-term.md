@@ -8,7 +8,11 @@ original_id: 25383
 original_slug: bbc-analysis-thinking-for-the-long-term
 original_url: https://olivenetwork.org/Issue/bbc-analysis-thinking-for-the-long-term/25383
 images: []
+videos:
+- https://vimeo.com/436115773
 ---
+
+[[Video: https://vimeo.com/436115773]](https://vimeo.com/436115773)
 
 Released On: 06 Jul 2020
 

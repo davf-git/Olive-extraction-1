@@ -8,7 +8,12 @@ original_id: 26226
 original_slug: arundhati-roy-on
 original_url: https://olivenetwork.org/Issue/arundhati-roy-on/26226
 images: []
+videos:
+- https://vimeo.com/1092483308
+- https://www.youtube.com/watch?v=v-SVAFgEd5g
 ---
+
+[[Video: https://vimeo.com/1092483308]](https://vimeo.com/1092483308)
 
 ON SOURCE: [SLU LIBRARIES YOUTUBE](https://www.youtube.com/watch?v=v-SVAFgEd5g)
 
@@ -23,6 +28,8 @@ ON SOURCE: [SLU LIBRARIES YOUTUBE](https://www.youtube.com/watch?v=v-SVAFgEd5g)
 The award ceremony, moderated by Dr. Amber Johnson, was held Thursday, April 28, 2022, at 7:00 p.m. at the Sheldon Concert Hall. Saint Louis University Library Associates honored award-winning writer, Arundhati Roy. Roy is the author of the novel 'The God of Small Things,' which received the 1997 Booker Prize and was listed as a New York Times notable book of the year. Roy’s second novel 'The Ministry of Utmost Happiness' was named to the Man Booker long list in 2017 and was named a finalist for the National Book Critics Circle Award. Roy has been honored with Lannan Foundation’s Prize for Cultural Freedom (2002); the Sydney Peace Prize (2004); the George Orwell Award from the National Council of Teachers of English (2004); and the Norman Mailer Prize for Distinguished Writing (2011).
 
 Watch the entire presentation on the SLU LIBRARIES YouTube
+
+[[Video: https://www.youtube.com/watch?v=v-SVAFgEd5g]](https://www.youtube.com/watch?v=v-SVAFgEd5g)
 
 # 
 

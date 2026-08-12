@@ -10,6 +10,8 @@ original_slug: world-health-organization-joins-art-world-to-launch-global-campai
 original_url: https://olivenetwork.org/Issue/world-health-organization-joins-art-world-to-launch-global-campaign-confronting-mental-health-toll-of-pandemic/25689
 images:
 - images/25689/01.jpg
+videos:
+- https://www.youtube.com/watch?v=btNsLp1CQ-8
 ---
 
 ![](images/25689/01.jpg)
@@ -35,6 +37,8 @@ Known as Healing Arts 2021, the global campaign kicks off with a week of virtual
 The online events series, hosted on *The Art Newspaper*'s YouTube channel, heralds Christie’s post-war and contemporary art day sale on 25 March, including works donated by the artists Martin Creed, Antony Gormley, William Kentridge, Ragnar Kjartansson and Yoshitomo Nara to benefit the Healing Arts initiative. The lots include Nara’s 2020 oilstick envelope drawing *Empty Handed*, estimated at £70,000 to £100,000 and a 24-hour video from Kjartansson’s 2018 cycle *Figures in a Landscape (Friday)*, with an estimate of £18,000 to £22,000.
 
 Christie’s will continue to offer contemporary works in aid of the campaign at auctions throughout 2021. The funds raised will go towards the WHO Foundation’s grant-making efforts for mental health treatment and recovery, including the applied use of the arts, as well as The Future Is Unwritten artist response fund, which will commission socially engaged art projects that facilitate community wellbeing and healthcare messaging.
+
+[[Video: https://www.youtube.com/watch?v=btNsLp1CQ-8]](https://www.youtube.com/watch?v=btNsLp1CQ-8)
 
 On 22 March, the actor and mental health advocate Gillian Anderson will share her own experiences of art’s healing role in conversation with the WHO’s arts and health lead, Christopher Bailey, himself a former actor and theatre director. The WHO’s director-general, Tedros Adhanom Ghebreyesus—who has described mental health as a “core element of our response to, and recovery from, the Covid-19 pandemic”—is due to make a guest appearance.
 

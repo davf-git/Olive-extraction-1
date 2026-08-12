@@ -26,7 +26,11 @@ images:
 - images/25135/16.jpg
 - images/25135/17.jpg
 - images/25135/18.jpg
+videos:
+- https://www.youtube.com/watch?v=VXkMsTMuUnU
 ---
+
+[[Video: https://www.youtube.com/watch?v=VXkMsTMuUnU]](https://www.youtube.com/watch?v=VXkMsTMuUnU)
 
 [![](images/25135/01.jpg)](https://www.youtube.com/user/ILOTV)
 

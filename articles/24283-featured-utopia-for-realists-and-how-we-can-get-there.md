@@ -9,6 +9,7 @@ original_slug: featured-utopia-for-realists-and-how-we-can-get-there
 original_url: https://olivenetwork.org/Issue/featured-utopia-for-realists-and-how-we-can-get-there/24283
 images:
 - images/24283/01.jpg
+videos: []
 ---
 
 ![](images/24283/01.jpg)

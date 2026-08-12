@@ -10,6 +10,7 @@ original_slug: positive-tech-solutions-will-forge-the-recovery-global-technology
 original_url: https://olivenetwork.org/Issue/positive-tech-solutions-will-forge-the-recovery-global-technology-governance-summit-concludes/25708
 images:
 - images/25708/01.jpg
+videos: []
 ---
 
 ![](images/25708/01.jpg)
@@ -24,7 +25,7 @@ Published
 
 [日本語](https://jp.weforum.org/press/2021/04/jp-gtgs21-closing-press-release)
 
-Alem Tedeneke, Media Lead, World Economic Forum: Tel.: +646 204 9191; Email: [[email protected]](/cdn-cgi/l/email-protection#91f0e5f4f5d1e6f4f7fee3e4fcbffee3f6)
+Alem Tedeneke, Media Lead, World Economic Forum: Tel.: +646 204 9191; Email: [[email protected]](/cdn-cgi/l/email-protection#81e0f5e4e5c1f6e4e7eef3f4ecafeef3e6)
 
 * More than 2,000 leaders from 125 countries gathered to shape the trajectory of the Fourth Industrial Revolution
 

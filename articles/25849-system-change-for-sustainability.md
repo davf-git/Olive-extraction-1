@@ -9,6 +9,7 @@ original_slug: system-change-for-sustainability
 original_url: https://olivenetwork.org/Issue/system-change-for-sustainability/25849
 images:
 - images/25849/01.jpg
+videos: []
 ---
 
 ### 

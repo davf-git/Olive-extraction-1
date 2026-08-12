@@ -9,6 +9,7 @@ original_slug: just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transitio
 original_url: https://olivenetwork.org/Issue/just-10-of-fossil-fuel-subsidy-cash-could-pay-for-green-transition/24983
 images:
 - images/24983/01.jpg
+videos: []
 ---
 
 ![](images/24983/01.jpg)Extinction Rebellion environmental activists in Leeds last month. Ending fossil fuel subsidies has long been seen as vital in tackling the climate emergency. Photograph: Ian Forsyth/Getty Images

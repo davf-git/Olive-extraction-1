@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/david-spero-settlements-at-kestle-b
 images:
 - images/24936/01.jpg
 - images/24936/02.jpg
+videos: []
 ---
 
 **![](images/24936/01.jpg)**Above image by David Spero:

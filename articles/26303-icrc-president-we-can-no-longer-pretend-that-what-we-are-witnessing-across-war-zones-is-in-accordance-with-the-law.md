@@ -11,6 +11,8 @@ original_url: https://olivenetwork.org/Issue/icrc-president-we-can-no-longer-pre
 images:
 - images/26303/01.jpg
 - images/26303/02.jpg
+videos:
+- https://www.youtube.com/watch?v=J72-Wevk9oo
 ---
 
 ![](images/26303/01.jpg)
@@ -93,6 +95,8 @@ We cannot succumb to a political culture that erases the lessons born out of wor
 It is up to you, as members of the Security Council, as members of the United Nations General Assembly and as State Parties to the Geneva Conventions, to change course.
 
 Thank you.
+
+[[Video: https://www.youtube.com/watch?v=J72-Wevk9oo]](https://www.youtube.com/watch?v=J72-Wevk9oo)
 
 ![](images/26303/02.jpg)
 

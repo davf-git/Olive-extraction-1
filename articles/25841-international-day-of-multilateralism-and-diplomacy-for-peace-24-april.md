@@ -9,6 +9,7 @@ original_slug: international-day-of-multilateralism-and-diplomacy-for-peace-24-a
 original_url: https://olivenetwork.org/Issue/international-day-of-multilateralism-and-diplomacy-for-peace-24-april/25841
 images:
 - images/25841/01.jpg
+videos: []
 ---
 
 ![](images/25841/01.jpg)

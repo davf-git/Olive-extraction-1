@@ -10,6 +10,8 @@ original_slug: uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-
 original_url: https://olivenetwork.org/Issue/uk-must-impose-sanctions-on-israel-to-meet-legal-obligations-say-more-than-800-lawyers/26221
 images:
 - images/26221/01.jpg
+videos:
+- https://www.youtube.com/watch?v=8BPMk_eZsH4
 ---
 
 ![](images/26221/01.jpg)
@@ -57,6 +59,8 @@ Prof Guy Goodwin-Gill, a signatory and emeritus fellow of All Souls College, Uni
 Lammy’s strongest intervention on Israel to date came amid anger at Israel’s refusal to allow thousands of aid trucks access to [starving Palestinians](https://www.theguardian.com/world/2025/may/22/children-elderly-dying-starvation-gaza-health-minister). While an 11-week blockade has officially been lifted, the letter says that the limited aid allowed in “remains gravely insufficient to address the unfolding humanitarian catastrophe”.
 
 More than [53,000 Palestinians have been killed](https://www.ochaopt.org/content/reported-impact-snapshot-gaza-strip-21-may-2025) by the Israeli offensive in Gaza since 7 October 2023 when a Hamas attack on southern Israel killed 1,200 people. An Israeli strike early on Monday on a school turned shelter, while people inside were sleeping, killed 36, according to health officials.
+
+[[Video: https://www.youtube.com/watch?v=8BPMk\_eZsH4]](https://www.youtube.com/watch?v=8BPMk_eZsH4)
 
 Dozens killed after Israeli attack on school used as shelter in Gaza – video report
 

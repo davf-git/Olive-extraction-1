@@ -9,6 +9,13 @@ original_slug: art-2032-the-hope-forum
 original_url: https://olivenetwork.org/Issue/art-2032-the-hope-forum/26042
 images:
 - images/26042/01.jpg
+videos:
+- https://www.youtube.com/watch?v=ikb0_KvqlSQ
+- https://www.youtube.com/watch?v=dvN8ohgi_o4
+- https://www.youtube.com/watch?v=UOJoqoTKFSg
+- https://www.youtube.com/watch?v=46gxR0b6Q1E
+- https://www.youtube.com/watch?v=2EZjWnoQ6Mw
+- https://www.youtube.com/watch?v=5O2xwXZUqJ4
 ---
 
 ![](images/26042/01.jpg)
@@ -47,11 +54,19 @@ Held during the opening of the 59th Venice Biennale, The Hope Forum invited trai
 
 We proudly present videos of the Opening Statements from The Hope Forum.
 
+[[Video: https://www.youtube.com/watch?v=ikb0\_KvqlSQ]](https://www.youtube.com/watch?v=ikb0_KvqlSQ)
+
 **H.E. Mr. Abdulla Shahid** President of the United Nations 76th General Assembly
+
+[[Video: https://www.youtube.com/watch?v=dvN8ohgi\_o4]](https://www.youtube.com/watch?v=dvN8ohgi_o4)
 
 **Ms. Ana Luiza Massot Thompson-Flores** Regional Director of the UNESCO Bureau for Science and Culture in Europe
 
+[[Video: https://www.youtube.com/watch?v=UOJoqoTKFSg]](https://www.youtube.com/watch?v=UOJoqoTKFSg)
+
 **Mr. Ovais Sarmad** Deputy Executive Secretary, UNFCCC – UN Climate Change
+
+[[Video: https://www.youtube.com/watch?v=46gxR0b6Q1E]](https://www.youtube.com/watch?v=46gxR0b6Q1E)
 
 **Hans Ulrich Obrist** Artistic Director, Serpentine Galleries
 
@@ -63,6 +78,8 @@ We proudly present videos of the Opening Statements from The Hope Forum.
 
 ### From artistic explorations and industry alliances to new institutional practices, this panel looks at how different layers of the art sector are activating partnerships and inspiring climate actions for our shared future.
 
+[[Video: https://www.youtube.com/watch?v=2EZjWnoQ6Mw]](https://www.youtube.com/watch?v=2EZjWnoQ6Mw)
+
 **Tino Sehgal** Artist
 
 **Danh Vo** Artist
@@ -72,6 +89,8 @@ We proudly present videos of the Opening Statements from The Hope Forum.
 **Heath Lowndes** Managing Director of Gallery Climate Coalition
 
 **Johanna Burton** The Maurice Marciano Director of The Museum of Contemporary Art, Los Angeles (moderator)
+
+[[Video: https://www.youtube.com/watch?v=5O2xwXZUqJ4]](https://www.youtube.com/watch?v=5O2xwXZUqJ4)
 
 Watch The Hope Forum highlights
 

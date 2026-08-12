@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/climate-change-us-and-china-take-sm
 images:
 - images/25983/01.jpg
 - images/25983/02.jpg
+videos: []
 ---
 
 ![](images/25983/01.jpg)

@@ -9,6 +9,7 @@ original_slug: mark-carney-tells-global-banks-they-cannot-ignore-climate-change-
 original_url: https://olivenetwork.org/Issue/mark-carney-tells-global-banks-they-cannot-ignore-climate-change-dangers/24836
 images:
 - images/24836/01.jpg
+videos: []
 ---
 
 ![](images/24836/01.jpg)

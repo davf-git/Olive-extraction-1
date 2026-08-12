@@ -9,6 +9,7 @@ original_slug: krisis-a-manifesto-for-the-future
 original_url: https://olivenetwork.org/Issue/krisis-a-manifesto-for-the-future/25323
 images:
 - images/25323/01.jpg
+videos: []
 ---
 
 ###### (Illustration: *La Liberte guidant le peuple*, E.Delacroix (1830), Musee du Louvre.)

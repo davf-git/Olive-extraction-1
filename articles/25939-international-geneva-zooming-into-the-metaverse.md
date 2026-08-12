@@ -9,6 +9,7 @@ original_slug: international-geneva-zooming-into-the-metaverse
 original_url: https://olivenetwork.org/Issue/international-geneva-zooming-into-the-metaverse/25939
 images:
 - images/25939/01.jpg
+videos: []
 ---
 
 ![](images/25939/01.jpg)

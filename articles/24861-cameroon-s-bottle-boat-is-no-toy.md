@@ -12,6 +12,9 @@ images:
 - images/24861/02.jpg
 - images/24861/03.jpg
 - images/24861/04.jpg
+videos:
+- https://www.youtube.com/watch?v=rRQaCaGGqVc
+- https://www.youtube.com/watch?v=PD34UfysAhA
 ---
 
 ###### 
@@ -23,6 +26,8 @@ The charismatic Ismaël Essome Ebone is the young entrepreneur behind [Madiba &
 The idea of ​​designing a boat made from recovered and recycled plastic bottles came to him 2011, when the student had to take shelter from heavy rain and observed plastic bottles flowing past. It only took a few minutes of downpour before his neighbourhood was flooded.
 
 Fishermen laughed when he first ventured out in his ‘ecoboat’, heckling him from the shore. “Where are you going with your toy? It will tear itself in the water!” But he braved the strong waves and currents without a lifejacket. And that shut them up. A wooden boat would have tipped, but not Ismaël’s raft of bottles.
+
+[[Video: https://www.youtube.com/watch?v=rRQaCaGGqVc]](https://www.youtube.com/watch?v=rRQaCaGGqVc)
 
 Ismaël’s actions are based on the [circular economy](https://atlasofthefuture.org/?sfid=15356&s=circular+economy), with the aim of reusing and recycling all the [waste](https://atlasofthefuture.org/?sfid=15356&s=waste) that pollutes the towns and cities in Cameroon, in order to ensure the conservation of nature and its biodiversity.
 
@@ -37,6 +42,8 @@ Madiba & Nature also plans to develop other kinds of tourism based on ecological
 Recycling is a new sector in Cameroon. Although there is regulation for sustainable management and recycling of waste by enterprises, very few of them respect this rule. There is also a lack of knowledge and technology when it comes to recycling plastic: “I come from a coastal region where communities live by fishing, farming and tourism,” he tells us, “and I have seen growing businesses collapse due to plastic waste pollution and people dying of poverty.”
 
 In times of climate change and deforestation, Ismaël recognises the importance of drawing on reserves for our development, such as reusing plastic, rather than constructing with wood. He has also started a programme in schools and for engineers to learn more about green business, and has developed an environmental awareness and education program: “We want to help change people’s attitudes and bad habits on the management of plastic waste that degrades sensitive ecosystems.”
+
+[[Video: https://www.youtube.com/watch?v=PD34UfysAhA]](https://www.youtube.com/watch?v=PD34UfysAhA)
 
 AtlasAction: Madiba & Nature wants to offer hope and develop ecotourism for the Londji fishing community village. Contact Ismaël to donate through the [Madiba & Nature](http://www.madibanature.com/en/) website.
 

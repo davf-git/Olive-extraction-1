@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/contribuez-la-consultation-du-colle
 images:
 - images/25309/01.jpg
 - images/25309/02.jpg
+videos: []
 ---
 
 **![](images/25309/01.jpg)**

@@ -9,6 +9,7 @@ original_slug: voltaire-and-technology-s-liberating-power
 original_url: https://olivenetwork.org/Issue/voltaire-and-technology-s-liberating-power/26153
 images:
 - images/26153/01.jpg
+videos: []
 ---
 
 ![](images/26153/01.jpg)

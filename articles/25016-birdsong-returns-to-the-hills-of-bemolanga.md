@@ -12,6 +12,7 @@ images:
 - images/25016/02.jpg
 - images/25016/03.jpg
 - images/25016/04.jpg
+videos: []
 ---
 
 ![](images/25016/01.jpg)
@@ -58,6 +59,6 @@ On the surrounding slopes, the new growth echoes the change in the community’s
 
 **Participatory Sustainable Land Management in the Grassland Plateaus of Western Madagascar is just one of more than 80 projects the UN Environment Programme has implemented with the backing of the Global Environment Facility in support of the [UN Convention to Combat Degradation and Desertification](https://www.unccd.int/) and other efforts to bring a halt to the threat of land degradation globally. Focusing on the theme “Investing in Land, Unlocking Opportunities”, the [14thConference of the Parties to the UN Convention to Combat Degradation and Desertification](https://www.unccd.int/conventionconference-parties-cop/cop14-2-13-september-new-delhi-india) is taking place in Delhi, India from 2 to 14 September 2019.**
 
-*For more information on Participatory Sustainable Land Management in the Grassland Plateaus of Western Madagascar and the UN Environment Programme’s work in Land Degradation, contact*[*[email protected]*](/cdn-cgi/l/email-protection#81ebeee9e0efaff3eee3e8eff2eeefc1f4efafeef3e6)*.*
+*For more information on Participatory Sustainable Land Management in the Grassland Plateaus of Western Madagascar and the UN Environment Programme’s work in Land Degradation, contact*[*[email protected]*](/cdn-cgi/l/email-protection#0b6164636a652579646962657864654b7e652564796c)*.*
 
 ON SOURCE: [UNEP](https://www.unenvironment.org/news-and-stories/story/birdsong-returns-hills-bemolanga)

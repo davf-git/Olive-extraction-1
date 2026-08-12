@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/we-can-move-beyond-the-capitalist-m
 images:
 - images/26282/01.jpg
 - images/26282/02.jpg
+videos: []
 ---
 
 ##### ‘Capitalism cares about our species’ prospects as much as a wolf cares about the lamb’s.’ Photograph: Minerva Studio/Alamy

@@ -9,6 +9,7 @@ original_slug: statement-by-the-secretary-general-at-the-conclusion-of-cop27-in-
 original_url: https://olivenetwork.org/Issue/statement-by-the-secretary-general-at-the-conclusion-of-cop27-in-sharm-el-sheikh/25905
 images:
 - images/25905/01.jpg
+videos: []
 ---
 
 ![](images/25905/01.jpg)

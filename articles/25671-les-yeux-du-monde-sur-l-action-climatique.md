@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/les-yeux-du-monde-sur-l-action-clim
 images:
 - images/25671/01.jpg
 - images/25671/02.jpg
+videos: []
 ---
 
 ![](images/25671/01.jpg)

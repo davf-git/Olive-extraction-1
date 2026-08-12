@@ -9,6 +9,7 @@ original_slug: gallery-climate-coalition-christie-s-and-clientearth-launch-artis
 original_url: https://olivenetwork.org/Issue/gallery-climate-coalition-christie-s-and-clientearth-launch-artists-for-clientearth/25805
 images:
 - images/25805/01.jpg
+videos: []
 ---
 
 ![](images/25805/01.jpg)

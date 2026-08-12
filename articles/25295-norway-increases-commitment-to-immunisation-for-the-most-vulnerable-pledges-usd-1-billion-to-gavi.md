@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/norway-increases-commitment-to-immu
 images:
 - images/25295/01.jpg
 - images/25295/02.jpg
+videos: []
 ---
 
 **![](images/25295/01.jpg)**

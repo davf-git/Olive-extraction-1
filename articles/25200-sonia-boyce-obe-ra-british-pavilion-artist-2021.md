@@ -9,6 +9,7 @@ original_slug: sonia-boyce-obe-ra-british-pavilion-artist-2021
 original_url: https://olivenetwork.org/Issue/sonia-boyce-obe-ra-british-pavilion-artist-2021/25200
 images:
 - images/25200/01.jpg
+videos: []
 ---
 
 ![](images/25200/01.jpg)

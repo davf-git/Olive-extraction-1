@@ -9,6 +9,7 @@ original_slug: banks-urged-to-think-green-or-face-extinction
 original_url: https://olivenetwork.org/Issue/banks-urged-to-think-green-or-face-extinction/25740
 images:
 - images/25740/01.jpg
+videos: []
 ---
 
 ![](images/25740/01.jpg)Financial institutions must be wary of being consumed by the consequences of careless environmental or social decisions. Keystone / Rank Augstein

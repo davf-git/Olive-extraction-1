@@ -9,6 +9,7 @@ original_slug: the-hope-forum
 original_url: https://olivenetwork.org/Issue/the-hope-forum/25838
 images:
 - images/25838/01.jpg
+videos: []
 ---
 
 # 

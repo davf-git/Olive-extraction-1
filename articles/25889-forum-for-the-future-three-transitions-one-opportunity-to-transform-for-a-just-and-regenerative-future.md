@@ -11,6 +11,8 @@ original_url: https://olivenetwork.org/Issue/forum-for-the-future-three-transiti
 images:
 - images/25889/01.jpg
 - images/25889/02.png
+videos:
+- https://www.youtube.com/watch?v=v30gqFYDygs
 ---
 
 ## 
@@ -38,6 +40,8 @@ We’re collaborating with ambitious and diverse change-makers working in our en
 ### 
 
 ### **The main elements of our strategy**
+
+[[Video: https://www.youtube.com/watch?v=v30gqFYDygs]](https://www.youtube.com/watch?v=v30gqFYDygs)
 
 ### 
 

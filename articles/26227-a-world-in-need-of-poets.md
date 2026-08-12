@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/a-world-in-need-of-poets/26227
 images:
 - images/26227/01.jpg
 - images/26227/02.jpg
+videos: []
 ---
 
 ![](images/26227/01.jpg)

@@ -11,6 +11,7 @@ original_url: https://olivenetwork.org/Issue/meg-exhibition-on-indigenous-rights
 images:
 - images/25814/01.jpg
 - images/25814/02.jpg
+videos: []
 ---
 
 #### Anishinaabeg researcher and artist, Elizabeth LaPensée, created an iPad game inspired from healing songs from her indigenous community. (Credit: MEG)

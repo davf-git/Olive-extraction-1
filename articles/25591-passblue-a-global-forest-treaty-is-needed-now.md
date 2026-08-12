@@ -9,9 +9,13 @@ original_slug: passblue-a-global-forest-treaty-is-needed-now
 original_url: https://olivenetwork.org/Issue/passblue-a-global-forest-treaty-is-needed-now/25591
 images:
 - images/25591/01.jpg
+- images/25591/02.png
+videos: []
 ---
 
 #### *Coffee growers exchange sustainable environmental practices, Veracruz, Mexico, as part of a strategy program with USAID. The author of the essay says the time is ripe for the world to create a sophisticated binding treaty to protect forests. RAINFOREST ALLIANCE*
+
+*[![PassBlue - Covering the UN](images/25591/02.png)](https://www.passblue.com/)*
 
 [WORLDVIEWS](http://passblue.com/category/worldviews/ "View all posts in WORLDVIEWS")
 

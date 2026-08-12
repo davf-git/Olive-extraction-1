@@ -10,6 +10,7 @@ original_url: https://olivenetwork.org/Issue/a-personal-and-professional-perspec
 images:
 - images/24738/01.jpg
 - images/24738/02.jpg
+videos: []
 ---
 
 ![](images/24738/01.jpg)

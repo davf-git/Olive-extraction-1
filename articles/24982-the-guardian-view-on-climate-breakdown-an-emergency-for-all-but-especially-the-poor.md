@@ -10,6 +10,7 @@ original_slug: the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-e
 original_url: https://olivenetwork.org/Issue/the-guardian-view-on-climate-breakdown-an-emergency-for-all-but-especially-the-poor/24982
 images:
 - images/24982/01.jpg
+videos: []
 ---
 
 ![](images/24982/01.jpg)A flood-affected family in Kurigram, Bangladesh on 26 July 2019. ‘Poorer countries, which broadly speaking are the least to blame for the climate crisis, will suffer most.’ Photograph: Suman Paul/AFP/Getty Images

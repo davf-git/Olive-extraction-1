@@ -9,6 +9,7 @@ original_slug: masai-women-are-leading-a-solar-revolution-with-help-from-their-d
 original_url: https://olivenetwork.org/Issue/masai-women-are-leading-a-solar-revolution-with-help-from-their-donkeys/24625
 images:
 - images/24625/01.jpg
+videos: []
 ---
 
 ![](images/24625/01.jpg)

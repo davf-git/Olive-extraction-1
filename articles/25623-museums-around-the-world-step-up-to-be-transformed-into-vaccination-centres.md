@@ -9,6 +9,7 @@ original_slug: museums-around-the-world-step-up-to-be-transformed-into-vaccinati
 original_url: https://olivenetwork.org/Issue/museums-around-the-world-step-up-to-be-transformed-into-vaccination-centres/25623
 images:
 - images/25623/01.jpg
+videos: []
 ---
 
 #### London's Science Museum and Turin's Castello di Rivoli are just some of the museums that will be used as vaccine hubs

@@ -14,6 +14,9 @@ images:
 - images/25553/04.jpg
 - images/25553/05.jpg
 - images/25553/06.jpg
+videos:
+- https://vimeo.com/138391306
+- https://www.youtube.com/watch?v=7RQn2moIGLk
 ---
 
 ![](images/25553/01.jpg)
@@ -38,9 +41,13 @@ All students need to enrol is refugee status proof from the [UNHCR](https://www.
 
 Partnered with accredited universities worldwide that include Yale, Harvard and MIT, students have the opportunity to finish their program with a regular bachelor’s degree.
 
+[[Video: https://vimeo.com/138391306]](https://vimeo.com/138391306)
+
 Since the coronavirus pandemic paralysed many educational options, degrees have increased again and today, Kiron has 11,000 students from Syria, Jordan, Lebanon and Germany residents.
 
 A real problem they have faced is the lack of Internet connectivity among refugees. That’s why Kiron has partnered with [Libraries Without Borders](https://www.librarieswithoutborders.org) to create [The Future is Offline](https://solve.mit.edu/challenges/community-driven-innovation/solutions/10676), a program that will provide offline access to those digital learning resources with the aim at fostering integration in host countries and creating long-term perspectives for displaced people.
+
+[[Video: https://www.youtube.com/watch?v=7RQn2moIGLk]](https://www.youtube.com/watch?v=7RQn2moIGLk)
 
 AtlasAction: [Support Kiron Open Higher Education here.](https://kiron.ngo/en/support-our-mission/)
 

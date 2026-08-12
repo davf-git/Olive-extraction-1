@@ -11,11 +11,15 @@ images:
 - images/26272/01.jpg
 - images/26272/02.jpg
 - images/26272/03.jpg
+videos:
+- https://vimeo.com/1156141362
 ---
 
 [![](images/26272/01.jpg)](https://www.toritsui.com/)
 
 ON SOURCE: [TORI TSUI](https://www.toritsui.com/)
+
+[[Video: https://vimeo.com/1156141362]](https://vimeo.com/1156141362)
 
 ![tori tsui_edited.jpg](images/26272/02.jpg)
 

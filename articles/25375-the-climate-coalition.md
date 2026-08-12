@@ -9,6 +9,7 @@ original_slug: the-climate-coalition
 original_url: https://olivenetwork.org/Issue/the-climate-coalition/25375
 images:
 - images/25375/01.jpg
+videos: []
 ---
 
 ### 
